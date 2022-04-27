@@ -1,0 +1,19 @@
+{
+	"ID": "20210828175533-sql2cmf",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210828175533-sql2cmf",
+		"title": "因材施教",
+		"updated": "20210828175533"
+	},
+	"Children": [
+		{
+			"ID": "20210828175533-qnkfdae",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210828175533-qnkfdae",
+				"updated": "20210828175533"
+			}
+		}
+	]
+}

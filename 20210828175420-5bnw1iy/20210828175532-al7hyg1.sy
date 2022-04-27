@@ -1,0 +1,19 @@
+{
+	"ID": "20210828175532-al7hyg1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210828175532-al7hyg1",
+		"title": "党支部组织生活",
+		"updated": "20210828175532"
+	},
+	"Children": [
+		{
+			"ID": "20210828175532-ncmkb4w",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210828175532-ncmkb4w",
+				"updated": "20210828175532"
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"ID": "20210828175532-w2ps0hf",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210828175532-w2ps0hf",
+		"title": "人工智能与工程应用",
+		"updated": "20210828175532"
+	},
+	"Children": [
+		{
+			"ID": "20210828175532-is0d9a7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210828175532-is0d9a7",
+				"updated": "20210828175532"
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"ID": "20210828175533-f5vvg7o",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210828175533-f5vvg7o",
+		"title": "建筑施工技术",
+		"updated": "20210828175533"
+	},
+	"Children": [
+		{
+			"ID": "20210828175533-zps1k9v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210828175533-zps1k9v",
+				"updated": "20210828175533"
+			}
+		}
+	]
+}
