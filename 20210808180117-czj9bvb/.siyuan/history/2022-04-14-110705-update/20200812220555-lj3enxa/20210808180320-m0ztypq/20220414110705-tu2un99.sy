@@ -1,0 +1,19 @@
+{
+	"ID": "20220414110705-tu2un99",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220414110705-tu2un99",
+		"title": "新文档",
+		"updated": "20220414110705"
+	},
+	"Children": [
+		{
+			"ID": "20220414110705-cg2oq08",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220414110705-cg2oq08",
+				"updated": "20220414110705"
+			}
+		}
+	]
+}

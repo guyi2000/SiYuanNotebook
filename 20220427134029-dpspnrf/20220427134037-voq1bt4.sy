@@ -1,0 +1,19 @@
+{
+	"ID": "20220427134037-voq1bt4",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220427134037-voq1bt4",
+		"title": "地震工程和动力学基础",
+		"updated": "20220427134037"
+	},
+	"Children": [
+		{
+			"ID": "20220427134037-2fod64q",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427134037-2fod64q",
+				"updated": "20220427134037"
+			}
+		}
+	]
+}

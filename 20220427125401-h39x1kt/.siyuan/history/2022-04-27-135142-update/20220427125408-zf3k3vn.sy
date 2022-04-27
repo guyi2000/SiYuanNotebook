@@ -1,0 +1,193 @@
+{
+	"ID": "20220427125408-zf3k3vn",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f531",
+		"id": "20220427125408-zf3k3vn",
+		"title": "CIRCLE论坛",
+		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
+		"updated": "20220427135110"
+	},
+	"Children": [
+		{
+			"ID": "20220427125408-yhg47p4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220427125408-yhg47p4",
+				"updated": "20220427125629"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "4.27 会议"
+				}
+			]
+		},
+		{
+			"ID": "20220427130123-51dgs5n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130123-51dgs5n",
+				"updated": "20220427130954"
+			},
+			"Children": [
+				{
+					"Type": "NodeStrong",
+					"Data": "strong",
+					"Children": [
+						{
+							"Type": "NodeStrongA6kOpenMarker",
+							"Data": "**"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "ES 汇报"
+						},
+						{
+							"Type": "NodeStrongA6kCloseMarker",
+							"Data": "**"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "——"
+				},
+				{
+					"Type": "NodeStrong",
+					"Data": "strong",
+					"Children": [
+						{
+							"Type": "NodeStrongA6kOpenMarker",
+							"Data": "**"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "建筑抗震弹塑性分析"
+						},
+						{
+							"Type": "NodeStrongA6kCloseMarker",
+							"Data": "**"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "、Sim多灾害模拟"
+				}
+			]
+		},
+		{
+			"ID": "20220427130440-ut70gj6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130440-ut70gj6",
+				"updated": "20220427130515"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "NLTHA、2020QR2MSE——抗震方面的内容，非线性时程分析的方法，旧的模版和表达方式"
+				}
+			]
+		},
+		{
+			"ID": "20220427130502-l387whp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130502-l387whp",
+				"updated": "20220427134921"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Michigan、韧性城市论坛——比较新"
+				}
+			]
+		},
+		{
+			"ID": "20220427130531-msx866p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130531-msx866p",
+				"updated": "20220427130531"
+			}
+		},
+		{
+			"ID": "20220427130531-6berkki",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130531-6berkki",
+				"updated": "20220427130546"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "城市尺度的韧性模拟，物理方法到AI方法"
+				}
+			]
+		},
+		{
+			"ID": "20220427130619-u0woaf7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130619-u0woaf7",
+				"updated": "20220427130705"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "71页PPT很相近，不要超过120页，最基本的木板参考，"
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "韧性城市论坛-合并V0.5"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220427130705-f98x7q4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130705-f98x7q4",
+				"updated": "20220427131212"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建筑抗震弹塑性分析的内容插入到韧性城市论坛-合并V0.5"
+				}
+			]
+		},
+		{
+			"ID": "20220427134321-qtg21b8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427134321-qtg21b8",
+				"updated": "20220427134321"
+			}
+		},
+		{
+			"ID": "20220427135107-ks8otsz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220427135107-ks8otsz",
+				"updated": "20220427135110"
+			}
+		}
+	]
+}

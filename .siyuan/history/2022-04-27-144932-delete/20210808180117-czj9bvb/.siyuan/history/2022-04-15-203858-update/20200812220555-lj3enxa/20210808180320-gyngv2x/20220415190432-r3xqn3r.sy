@@ -1,0 +1,1202 @@
+{
+	"ID": "20220415190432-r3xqn3r",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220415190432-r3xqn3r",
+		"title": "查询语法",
+		"updated": "20220415203855"
+	},
+	"Children": [
+		{
+			"ID": "20220415192036-99dwwdh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220415192036-99dwwdh",
+				"updated": "20220415201012"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "概述"
+				}
+			]
+		},
+		{
+			"ID": "20220415190432-6g68nr6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415190432-6g68nr6",
+				"updated": "20220415193349"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": " "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Ctrl+P"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 全局搜索支持通过查询语法（Query Syntax）进行高级搜索，以便实现一些逻辑操作，比如包含关键字 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "foo"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 并且不包含关键字 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "bar"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的查询语法为 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "foo NOT bar"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20220415192336-wmv15ws",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415192336-wmv15ws",
+				"updated": "20220415193228"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在使用查询语法之前，我们先大致了解一下该语法的构成："
+				}
+			]
+		},
+		{
+			"ID": "20220415192647-hkh18bj",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220415192647-hkh18bj",
+				"updated": "20220415203608"
+			},
+			"Children": [
+				{
+					"ID": "20220415192835-v9z0h2o",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220415192835-v9z0h2o",
+						"updated": "20220415193354"
+					},
+					"Children": [
+						{
+							"ID": "20220415192835-3x0xhs3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220415192835-3x0xhs3",
+								"updated": "20220415193354"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "字符串（String）：由字母、数字等构成"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220415192649-4tbip4m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220415192649-4tbip4m",
+						"updated": "20220415203608"
+					},
+					"Children": [
+						{
+							"ID": "20220415192649-vwqnvuj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220415192649-vwqnvuj",
+								"updated": "20220415203608"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "短语（Phrase）：由字符串构成"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220415192752-qzh0tjm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220415192752-qzh0tjm",
+						"updated": "20220415193404"
+					},
+					"Children": [
+						{
+							"ID": "20220415192752-tqimcdr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220415192752-tqimcdr",
+								"updated": "20220415193404"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "查询（Query）：由短语构成，多个查询可通过 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "AND"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "、"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "OR"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 和 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "NOT"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 组合为新的查询"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220415192934-mlqzc8m",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415192934-mlqzc8m",
+				"updated": "20220415192951"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "下面我们分别介绍它们的细节。"
+				}
+			]
+		},
+		{
+			"ID": "20220415194256-qagtnkz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220415194256-qagtnkz",
+				"updated": "20220415194259"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "字符串"
+				}
+			]
+		},
+		{
+			"ID": "20220415194259-bvrexhp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415194259-bvrexhp",
+				"updated": "20220415194339"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "字符串可由两种方式指定："
+				}
+			]
+		},
+		{
+			"ID": "20220415194339-m0g962e",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220415194339-m0g962e",
+				"updated": "20220415202647"
+			},
+			"Children": [
+				{
+					"ID": "20220415194342-0tzonkx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220415194342-0tzonkx",
+						"updated": "20220415202647"
+					},
+					"Children": [
+						{
+							"ID": "20220415194342-etshgq1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220415194342-etshgq1",
+								"updated": "20220415202647"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通过英文双引号 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "\""
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 包裹起来的字符。其中如果需要使用 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "\""
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 本身，则可通过 SQL 风格转义（再加一个"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "\""
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "），例如 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "\"foo\"\"bar\"\"\""
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 将搜索命中 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "foo\"bar\""
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220415194739-jngjmqt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220415194739-jngjmqt"
+					},
+					"Children": [
+						{
+							"ID": "20220415194739-bupb792",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220415194739-bupb792",
+								"updated": "20220415195312"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "由非 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "AND"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "、"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "OR"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 和 "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "NOT"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 字符组成，并且这些字符必须是"
+								}
+							]
+						},
+						{
+							"ID": "20220415195209-5yhjye3",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220415195209-5yhjye3"
+							},
+							"Children": [
+								{
+									"ID": "20220415195209-k7w0u65",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220415195209-k7w0u65"
+									},
+									"Children": [
+										{
+											"ID": "20220415195209-uselyqc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220415195209-uselyqc",
+												"updated": "20220415195300"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "所有非 ASCII 字符，或者"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220415195315-pabtfkj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220415195315-pabtfkj"
+									},
+									"Children": [
+										{
+											"ID": "20220415195315-8xo8n7w",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220415195315-8xo8n7w",
+												"updated": "20220415195527"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "属于 52 个大小写英文字符（"
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "A-Za-z"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "），或者"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220415195343-32719dk",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220415195343-32719dk"
+									},
+									"Children": [
+										{
+											"ID": "20220415195343-813xgm5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220415195343-813xgm5",
+												"updated": "20220415195537"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "属于 10 个 ASCII 数字字符（"
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "0-9"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "），或者"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220415195453-3jooj2k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220415195453-3jooj2k"
+									},
+									"Children": [
+										{
+											"ID": "20220415195453-xcob0p8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220415195453-xcob0p8",
+												"updated": "20220415195503"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "是下划线 "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "_"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "，或者"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220415195546-k0kd2dp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220415195546-k0kd2dp"
+									},
+									"Children": [
+										{
+											"ID": "20220415195546-ovm4ei3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220415195546-ovm4ei3",
+												"updated": "20220415195626"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "是替换符（ASCII 26）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220415202537-i16tvjh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415202537-i16tvjh",
+				"updated": "20220415202830"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "对于非上述的其他字符构成的字符串，必须使用 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\""
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 包裹起来，比如包含了 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "-"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "、"
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "*"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 等符号的字符串。"
+				}
+			]
+		},
+		{
+			"ID": "20220415192040-apqa2u0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220415192040-apqa2u0",
+				"updated": "20220415192043"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "短语"
+				}
+			]
+		},
+		{
+			"ID": "20220415192311-5fv8kjl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415192311-5fv8kjl",
+				"updated": "20220415203855"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "短语由字符串构成，可由 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "+"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 进行连接。一个短语是由一些记号（Token）组成，"
+				}
+			]
+		},
+		{
+			"ID": "20220415192044-9d8ou1j",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220415192044-9d8ou1j",
+				"updated": "20220415192101"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "查询"
+				}
+			]
+		},
+		{
+			"ID": "20220415192101-lezi6pd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415192101-lezi6pd",
+				"updated": "20220415193323"
+			}
+		},
+		{
+			"ID": "20220415195733-gb4mj1a",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220415195733-gb4mj1a",
+				"updated": "20220415195835"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "实现原理"
+				}
+			]
+		},
+		{
+			"ID": "20220415195737-mo3ya7g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415195737-mo3ya7g",
+				"updated": "20220415202423"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "我们通过 "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "SQLite FTS5"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://www.sqlite.org/fts5.html"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 实现了全局搜索，虚拟表为 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "blocks_fts"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20220415200915-g1un9h6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415200915-g1un9h6",
+				"updated": "20220415200915"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "系统生成的查询语句关键部分大致是 "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "MATCH '{content name alias memo}:\" + query"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，"
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "query"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 即用户输入部分，对于"
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "列过滤器"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://www.sqlite.org/fts5.html#fts5_column_filters"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "{content name alias memo}:"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 是通过 "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "设置"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " -"
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 搜索"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " - "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "属性"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 生成的。"
+				}
+			]
+		},
+		{
+			"ID": "20220415200742-2l1tkjr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415200742-2l1tkjr",
+				"updated": "20220415202247"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "了解到这些以后，我们就可以通过查询语法来实现查询嵌入块，这样查询性能会更好："
+				}
+			]
+		},
+		{
+			"ID": "20220415200953-ftnqiic",
+			"Type": "NodeBlockQueryEmbed",
+			"Properties": {
+				"id": "20220415200953-ftnqiic",
+				"updated": "20220415203038"
+			},
+			"Children": [
+				{
+					"Type": "NodeOpenBrace"
+				},
+				{
+					"Type": "NodeOpenBrace"
+				},
+				{
+					"Type": "NodeBlockQueryEmbedScript",
+					"Data": "SELECT * FROM blocks_fts WHERE blocks_fts MATCH 'content:Query Syntax' LIMIT 3"
+				},
+				{
+					"Type": "NodeCloseBrace"
+				},
+				{
+					"Type": "NodeCloseBrace"
+				}
+			]
+		},
+		{
+			"ID": "20220415202144-mc7e5xh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220415202144-mc7e5xh",
+				"updated": "20220415202331"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "除此以外，API 也支持使用 FTS 查询。"
+				}
+			]
+		}
+	]
+}

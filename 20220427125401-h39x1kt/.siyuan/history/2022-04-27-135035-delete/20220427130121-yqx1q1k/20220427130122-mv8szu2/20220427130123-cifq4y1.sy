@@ -1,0 +1,19 @@
+{
+	"ID": "20220427130123-cifq4y1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220427130123-cifq4y1",
+		"title": "04",
+		"updated": "20220427130123"
+	},
+	"Children": [
+		{
+			"ID": "20220427130123-2wkn921",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427130123-2wkn921",
+				"updated": "20220427130123"
+			}
+		}
+	]
+}

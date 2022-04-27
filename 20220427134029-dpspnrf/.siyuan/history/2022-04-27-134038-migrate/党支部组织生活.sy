@@ -1,0 +1,19 @@
+{
+	"ID": "20220427134036-rymyzei",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220427134036-rymyzei",
+		"title": "党支部组织生活",
+		"updated": "20220427134036"
+	},
+	"Children": [
+		{
+			"ID": "20220427134036-8kn45mo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220427134036-8kn45mo",
+				"updated": "20220427134036"
+			}
+		}
+	]
+}
