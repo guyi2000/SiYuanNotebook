@@ -1,0 +1,256 @@
+{
+	"ID": "20210930174722-yqi7erf",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210930174722-yqi7erf",
+		"title": "2021-09-30-党课组长第一次例会",
+		"title-img": "background-color: #026873;background-image: linear-gradient(90deg, rgba(255,255,255,.07) 50%, transparent 50%),linear-gradient(90deg, rgba(255,255,255,.13) 50%, transparent 50%),linear-gradient(90deg, transparent 50%, rgba(255,255,255,.17) 50%),linear-gradient(90deg, transparent 50%, rgba(255,255,255,.19) 50%);background-size: 13px, 29px, 37px, 53px;",
+		"updated": "20210930221014"
+	},
+	"Children": [
+		{
+			"ID": "20210930174732-2iqsvu3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210930174732-2iqsvu3",
+				"updated": "20210930174743"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "固本计划"
+				}
+			]
+		},
+		{
+			"ID": "20210930174837-s32tpu7",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210930174837-s32tpu7",
+				"updated": "20210930175338"
+			},
+			"Children": [
+				{
+					"ID": "20210930175108-g8e7gt2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930175108-g8e7gt2"
+					},
+					"Children": [
+						{
+							"ID": "20210930175108-8vfj5rs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930175108-8vfj5rs",
+								"updated": "20210930175129"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "院系同读一本书，读党史学习教育相关书籍"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210930175134-6t2dy1t",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930175134-6t2dy1t"
+					},
+					"Children": [
+						{
+							"ID": "20210930175134-1ztopyn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930175134-1ztopyn",
+								"updated": "20210930175200"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "今年书单：党史通史、人物传记"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210930174838-m7bv5qe",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930174838-m7bv5qe",
+						"updated": "20210930175338"
+					},
+					"Children": [
+						{
+							"ID": "20210930174838-fydrm7v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930174838-fydrm7v",
+								"updated": "20210930175338"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "今天 22:00 下发问卷，阅读书目选定"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210930174744-b0hf38w",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210930174744-b0hf38w",
+				"updated": "20210930174803"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "理论 1+1"
+				}
+			]
+		},
+		{
+			"ID": "20210930174831-y9o5jgf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210930174831-y9o5jgf",
+				"updated": "20210930175735"
+			},
+			"Children": [
+				{
+					"ID": "20210930175700-rjggwe3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930175700-rjggwe3"
+					},
+					"Children": [
+						{
+							"ID": "20210930175700-1a21l9x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930175700-1a21l9x",
+								"updated": "20210930175718"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "可以与团支部合办（主题团日）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210930175720-3gjhkhr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930175720-3gjhkhr",
+						"updated": "20210930175735"
+					},
+					"Children": [
+						{
+							"ID": "20210930175720-eggzi07",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930175720-eggzi07",
+								"updated": "20210930175735"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第四周下发相关材料，第五周递交策划"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210930174803-bnrf827",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210930174803-bnrf827",
+				"updated": "20210930174811"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "求索杯"
+				}
+			]
+		},
+		{
+			"ID": "20210930174833-j1w0p0t",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210930174833-j1w0p0t",
+				"updated": "20210930175941"
+			},
+			"Children": [
+				{
+					"ID": "20210930175755-68v6z85",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930175755-68v6z85",
+						"updated": "20210930175941"
+					},
+					"Children": [
+						{
+							"ID": "20210930175755-2p3vviw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930175755-2p3vviw",
+								"updated": "20210930175941"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "预计在第六周举办，要求每两个出一个队（？）每队三名同学"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

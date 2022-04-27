@@ -1,0 +1,889 @@
+{
+	"ID": "20211011095152-w8fqjrc",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211011095152-w8fqjrc",
+		"title": "【6】混凝土框架结构设计",
+		"updated": "20211011105632"
+	},
+	"Children": [
+		{
+			"ID": "20211011095152-e4orj5s",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095152-e4orj5s",
+				"updated": "20211011095211"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "延性框架概述"
+				}
+			]
+		},
+		{
+			"ID": "20211011095252-xsrvksw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011095252-xsrvksw",
+				"updated": "20211011095504"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "非抗震结构：在外荷载作用下处于弹性状态"
+				}
+			]
+		},
+		{
+			"ID": "20211011095504-ift8my8",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011095504-ift8my8",
+				"updated": "20211011095515"
+			},
+			"Children": [
+				{
+					"ID": "20211011095515-73jcqln",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011095515-73jcqln"
+					},
+					"Children": [
+						{
+							"ID": "20211011095515-d6fbkcn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011095515-d6fbkcn",
+								"updated": "20211011095616"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "风 + 竖向静力计算 --\u003e 荷载组合 --\u003e 构件设计、配筋"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011095616-f74lpvb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011095616-f74lpvb",
+				"updated": "20211011095648"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "抗震设计：在设防地震作用下，部分构件进入塑性状态"
+				}
+			]
+		},
+		{
+			"ID": "20211011095718-3t2lso2",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011095718-3t2lso2",
+				"updated": "20211011095718"
+			},
+			"Children": [
+				{
+					"ID": "20211011095718-gq6uijo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011095718-gq6uijo"
+					},
+					"Children": [
+						{
+							"ID": "20211011095718-4nwaahe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011095718-4nwaahe",
+								"updated": "20211011095728"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "按抗震要求截面设计、构造措施"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011100146-x6baa5g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011100146-x6baa5g",
+				"updated": "20211011100207"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三水准设防目标：小震不坏、中震可修、大震不倒"
+				}
+			]
+		},
+		{
+			"ID": "20211011100207-dntb9bu",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011100207-dntb9bu",
+				"updated": "20211011100208"
+			},
+			"Children": [
+				{
+					"ID": "20211011100208-wezhx4h",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011100208-wezhx4h"
+					},
+					"Children": [
+						{
+							"ID": "20211011100208-38zcxsr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011100208-38zcxsr",
+								"updated": "20211011100224"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小震：50 年内超越概率 63.2%"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011100224-wjpc7ln",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011100224-wjpc7ln"
+					},
+					"Children": [
+						{
+							"ID": "20211011100224-vq8uysn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011100224-vq8uysn",
+								"updated": "20211011100309"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中震：50 年内超越概率 10% ~ 14%"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011100244-93ivvqv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011100244-93ivvqv"
+					},
+					"Children": [
+						{
+							"ID": "20211011100244-k1rt5i2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011100244-k1rt5i2",
+								"updated": "20211011100311"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "大震：50 年内超越概率 2% ~ 3%"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011100541-pjiuqbb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011100541-pjiuqbb",
+				"updated": "20211011100548"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "两阶段抗震设计"
+				}
+			]
+		},
+		{
+			"ID": "20211011100549-h0y1fz8",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011100549-h0y1fz8",
+				"updated": "20211011100550"
+			},
+			"Children": [
+				{
+					"ID": "20211011100550-eulufgs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011100550-eulufgs"
+					},
+					"Children": [
+						{
+							"ID": "20211011100550-7dkc14n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011100550-7dkc14n",
+								"updated": "20211011100553"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第一阶段"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011100553-49nseos",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011100553-49nseos"
+					},
+					"Children": [
+						{
+							"ID": "20211011100553-u9sp1op",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011100553-u9sp1op",
+								"updated": "20211011100555"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第二阶段"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011100911-c6yrty5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011100911-c6yrty5",
+				"updated": "20211011100918"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "设计延性框架的意义"
+				}
+			]
+		},
+		{
+			"ID": "20211011100918-c2rv0iv",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011100918-c2rv0iv",
+				"updated": "20211011100919"
+			},
+			"Children": [
+				{
+					"ID": "20211011100919-vm8gaof",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011100919-vm8gaof"
+					},
+					"Children": [
+						{
+							"ID": "20211011100919-375qa7o",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011100919-375qa7o",
+								"updated": "20211011101027"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "变形能力大，破坏前有明显征兆，可采用较小的安全系数"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011101031-tr4kw6b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011101031-tr4kw6b"
+					},
+					"Children": [
+						{
+							"ID": "20211011101031-o3y8l92",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011101031-o3y8l92",
+								"updated": "20211011101054"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "超载、动载、强迫变形等情况下，有较强的承载能力和适应性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011101054-jd43u6o",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011101054-jd43u6o"
+					},
+					"Children": [
+						{
+							"ID": "20211011101054-ymktf27",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011101054-ymktf27",
+								"updated": "20211011101105"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "有利于实现超静定结构的内力重分布"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011101105-k8joupw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011101105-k8joupw"
+					},
+					"Children": [
+						{
+							"ID": "20211011101105-whrq29c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011101105-whrq29c",
+								"updated": "20211011101124"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "减少地震、冲击等作用下的惯性力，消耗更多能量并保护承重构件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011101124-wjmicxb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011101124-wjmicxb"
+					},
+					"Children": [
+						{
+							"ID": "20211011101124-xmybp2p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011101124-xmybp2p",
+								"updated": "20211011101142"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "延性结构的后期变形能力，可作为以外工况下的安全储备 "
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011101149-8nyr6wl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011101149-8nyr6wl",
+				"updated": "20211011101206"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "延性比指极限变形与屈服变形的比值"
+				}
+			]
+		},
+		{
+			"ID": "20211011101650-ugt537r",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011101650-ugt537r",
+				"updated": "20211011101733"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "延性能力和延性要求难以量化，设计师采用区分抗震等级的方法；抗震等级高的结构，抗震措施和构造要求更严格；抗震等级的差别就是对延性要求的差别"
+				}
+			]
+		},
+		{
+			"ID": "20211011101734-0mzewj6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011101734-0mzewj6",
+				"updated": "20211011101809"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "抗震等级根据地震设防烈度、结构抗震类别、场地类别、结构体系类别、结构高度等确定"
+				}
+			]
+		},
+		{
+			"ID": "20211011102209-uygh1hq",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011102209-uygh1hq",
+				"updated": "20211011102223"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "实现延性结构的途径和影响因素"
+				}
+			]
+		},
+		{
+			"ID": "20211011102224-k6esylq",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011102224-k6esylq",
+				"updated": "20211011102351"
+			},
+			"Children": [
+				{
+					"ID": "20211011102226-t6l201w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011102226-t6l201w",
+						"updated": "20211011102351"
+					},
+					"Children": [
+						{
+							"ID": "20211011102226-ukosrkr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011102226-ukosrkr",
+								"updated": "20211011102232"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "材料性能"
+								}
+							]
+						},
+						{
+							"ID": "20211011102253-cci9vuw",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211011102253-cci9vuw",
+								"updated": "20211011102351"
+							},
+							"Children": [
+								{
+									"ID": "20211011102253-xds9hks",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211011102253-xds9hks",
+										"updated": "20211011102351"
+									},
+									"Children": [
+										{
+											"ID": "20211011102253-91k5jlr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211011102253-91k5jlr",
+												"updated": "20211011102351"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "钢结构的延性 \u003e 混凝土结构的延性 \u003e 砌体结构的延性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011102232-q2dgdoe",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011102232-q2dgdoe"
+					},
+					"Children": [
+						{
+							"ID": "20211011102232-6vn3dq2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011102232-6vn3dq2",
+								"updated": "20211011102235"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构体系"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011102235-kv6aotj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011102235-kv6aotj"
+					},
+					"Children": [
+						{
+							"ID": "20211011102235-aib2pj9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011102235-aib2pj9",
+								"updated": "20211011102241"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "构件及受力特征"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011102241-uf2qhsv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011102241-uf2qhsv"
+					},
+					"Children": [
+						{
+							"ID": "20211011102241-0xfraud",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011102241-0xfraud",
+								"updated": "20211011102243"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "构造形式"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011095211-esvjpqi",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095211-esvjpqi",
+				"updated": "20211011095215"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "框架梁设计"
+				}
+			]
+		},
+		{
+			"ID": "20211011105605-d181cgw",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211011105605-d181cgw",
+				"updated": "20211011105632"
+			},
+			"Children": [
+				{
+					"ID": "20211011105633-7pq84ww",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011105633-7pq84ww"
+					},
+					"Children": [
+						{
+							"ID": "20211011105633-gosoyhy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011105633-gosoyhy",
+								"updated": "20211011105659"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\gamma_{RE}"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 抗弯破坏时较小，抗剪破坏时较大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011112222-c8wkiuk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011112222-c8wkiuk"
+					},
+					"Children": [
+						{
+							"ID": "20211011112222-m3mkn5z",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011112222-m3mkn5z",
+								"updated": "20211011112229"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "面积配筋用于截面"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211011112230-6jhlr9b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211011112230-6jhlr9b"
+					},
+					"Children": [
+						{
+							"ID": "20211011112230-yvlxyzy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211011112230-yvlxyzy"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211011095215-p2wrnqo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095215-p2wrnqo",
+				"updated": "20211011095220"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "框架柱设计"
+				}
+			]
+		},
+		{
+			"ID": "20211011095220-24xayum",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095220-24xayum",
+				"updated": "20211011095223"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "节点设计"
+				}
+			]
+		},
+		{
+			"ID": "20211011095223-2picj4r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095223-2picj4r",
+				"updated": "20211011095228"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "钢筋连接及锚固"
+				}
+			]
+		},
+		{
+			"ID": "20211011095228-9p69t1k",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095228-9p69t1k",
+				"updated": "20211011095234"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "设计规范介绍"
+				}
+			]
+		},
+		{
+			"ID": "20211011095234-005ca1b",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211011095234-005ca1b",
+				"updated": "20211011095240"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "框架施工图表示"
+				}
+			]
+		},
+		{
+			"ID": "20211011095326-jpuq69y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211011095326-jpuq69y",
+				"updated": "20211011095326"
+			}
+		}
+	]
+}

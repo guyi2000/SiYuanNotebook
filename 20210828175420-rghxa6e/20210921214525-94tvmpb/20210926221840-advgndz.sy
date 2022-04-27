@@ -1,0 +1,1091 @@
+{
+	"ID": "20210926221840-advgndz",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f6a9",
+		"id": "20210926221840-advgndz",
+		"title": "中国革命战争的战略问题",
+		"title-img": "background-color: hsl(2, 57%, 40%);background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);",
+		"updated": "20210926225234"
+	},
+	"Children": [
+		{
+			"ID": "20210926222850-w6swdwj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926222850-w6swdwj",
+				"updated": "20210926222855"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第一章"
+				}
+			]
+		},
+		{
+			"ID": "20210926221840-n9emzlm",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926221840-n9emzlm",
+				"updated": "20210926221956"
+			},
+			"Children": [
+				{
+					"ID": "20210926221956-o82t18c",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926221956-o82t18c"
+					},
+					"Children": [
+						{
+							"ID": "20210926221956-7omv18w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926221956-7omv18w",
+								"updated": "20210926222501"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "解放全国（全局）——锦州战役（局部战役）——塔山阻击战（局部战斗）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926222206-jqyklvs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926222206-jqyklvs"
+					},
+					"Children": [
+						{
+							"ID": "20210926222206-3hwpctv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926222206-3hwpctv",
+								"updated": "20210926222211"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "营口阻击战"
+								}
+							]
+						},
+						{
+							"ID": "20210926222247-jxlnvvq",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926222247-jxlnvvq"
+							},
+							"Children": [
+								{
+									"ID": "20210926222247-5biuu8p",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926222247-5biuu8p"
+									},
+									"Children": [
+										{
+											"ID": "20210926222247-zg61w44",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926222247-zg61w44",
+												"updated": "20210926222258"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "苏静 东野作战处处长"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210926222259-g2li8z7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926222259-g2li8z7"
+									},
+									"Children": [
+										{
+											"ID": "20210926222259-v8q8gck",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926222259-v8q8gck",
+												"updated": "20210926222349"
+											},
+											"Children": [
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "独立"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " 2 师 7000 余人"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210926222309-7098frq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926222309-7098frq"
+									},
+									"Children": [
+										{
+											"ID": "20210926222309-w3xln80",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926222309-w3xln80",
+												"updated": "20210926222333"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "廖耀湘兵团 12 万国军精锐"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926222543-9aq4bdt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926222543-9aq4bdt"
+					},
+					"Children": [
+						{
+							"ID": "20210926222543-kkk2cfr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926222543-kkk2cfr",
+								"updated": "20210926222624"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "重要的问题在善于学习"
+								}
+							]
+						},
+						{
+							"ID": "20210926222625-2isl3hk",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926222625-2isl3hk"
+							},
+							"Children": [
+								{
+									"ID": "20210926222625-q72x0an",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926222625-q72x0an"
+									},
+									"Children": [
+										{
+											"ID": "20210926222625-nloofng",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926222625-nloofng",
+												"updated": "20210926222643"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "读书是学习，使用也是学习，而且是更重要的学习"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926222754-gqxlpmi",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926222754-gqxlpmi",
+				"updated": "20210926222910"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第二章 中国共产党和中国革命战争"
+				}
+			]
+		},
+		{
+			"ID": "20210926222910-bfn3343",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926222910-bfn3343",
+				"updated": "20210926222943"
+			},
+			"Children": [
+				{
+					"ID": "20210926222912-s96e7mg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926222912-s96e7mg"
+					},
+					"Children": [
+						{
+							"ID": "20210926222912-pljfva9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926222912-pljfva9",
+								"updated": "20210926222924"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中国资产阶级的动摇性和不彻底性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926222928-gn1zy2u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926222928-gn1zy2u",
+						"updated": "20210926222943"
+					},
+					"Children": [
+						{
+							"ID": "20210926222928-9pa76wi",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926222928-9pa76wi",
+								"updated": "20210926222943"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中国农民群众和城市小资产阶级群众"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926223211-60gwluh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926223211-60gwluh",
+				"updated": "20210926223221"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第三章 中国革命战争的特点"
+				}
+			]
+		},
+		{
+			"ID": "20210926223221-maj8eb0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926223221-maj8eb0",
+				"updated": "20210926223227"
+			},
+			"Children": [
+				{
+					"ID": "20210926223227-t99dvqd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223227-t99dvqd"
+					},
+					"Children": [
+						{
+							"ID": "20210926223227-k9yru4p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223227-k9yru4p",
+								"updated": "20210926223232"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "这个问题的重要性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223232-lrj34os",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223232-lrj34os"
+					},
+					"Children": [
+						{
+							"ID": "20210926223232-5dkt4hc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223232-5dkt4hc",
+								"updated": "20210926223239"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中国革命战争的特点是什么"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223239-f9u7r89",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223239-f9u7r89"
+					},
+					"Children": [
+						{
+							"ID": "20210926223239-r6b452z",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223239-r6b452z",
+								"updated": "20210926223246"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "由此产生我们的战略战术"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926223246-2m1fom1",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210926223246-2m1fom1",
+				"updated": "20210926223252"
+			},
+			"Children": [
+				{
+					"ID": "20210926223252-lpe774w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210926223252-lpe774w"
+					},
+					"Children": [
+						{
+							"ID": "20210926223252-l03ajf8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223252-l03ajf8",
+								"updated": "20210926223319"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "政治经济发展不平衡的半殖民地大国，而又经过了 1924-1927 年的革命"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223319-wwigjit",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210926223319-wwigjit"
+					},
+					"Children": [
+						{
+							"ID": "20210926223319-1ygvc2e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223319-1ygvc2e",
+								"updated": "20210926223323"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "敌人的强大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223323-zq773px",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210926223323-zq773px"
+					},
+					"Children": [
+						{
+							"ID": "20210926223323-gun22kd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223323-gun22kd",
+								"updated": "20210926223327"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "红军的弱小"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223327-51leden",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210926223327-51leden"
+					},
+					"Children": [
+						{
+							"ID": "20210926223327-oil73uv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223327-oil73uv",
+								"updated": "20210926223335"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "共产党的领导和土地革命"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926223339-1qnr5qa",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210926223339-1qnr5qa",
+				"updated": "20210926223519"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210926223340-4ihhv3j",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210926223340-4ihhv3j",
+						"updated": "20210926223519"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "谁要是睁眼看不到这些根本性质的规律，谁就不能指导中国的革命战争，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Data": "strong",
+							"Properties": {
+								"style": "text-shadow: 1px 1px var(--b3-border-color), 2px 2px var(--b3-border-color), 3px 3px var(--b3-border-color), 4px 4px var(--b3-border-color);"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "谁就不能使红军打胜仗（伟大的“阳谋”）"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeKramdownSpanIAL",
+							"Data": "{: style=\"text-shadow: 1px 1px var(--b3-border-color), 2px 2px var(--b3-border-color), 3px 3px var(--b3-border-color), 4px 4px var(--b3-border-color);\"}"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926223441-3kuex0b",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926223441-3kuex0b",
+				"updated": "20210926223601"
+			},
+			"Children": [
+				{
+					"ID": "20210926223601-znvfpzb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223601-znvfpzb"
+					},
+					"Children": [
+						{
+							"ID": "20210926223601-ikyzax3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223601-ikyzax3",
+								"updated": "20210926223613"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "反对战略方向的两个拳头主义"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223634-khgn6h4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223634-khgn6h4"
+					},
+					"Children": [
+						{
+							"ID": "20210926223634-zei1jkk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223634-zei1jkk",
+								"updated": "20210926223654"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "反对大后方，承认大后方制度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223654-1kbfbql",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223654-1kbfbql"
+					},
+					"Children": [
+						{
+							"ID": "20210926223654-vecyfmd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223654-vecyfmd",
+								"updated": "20210926223711"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "反对绝对的集中指挥，承认相对的集中指挥"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223713-uqjdbcz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223713-uqjdbcz"
+					},
+					"Children": [
+						{
+							"ID": "20210926223713-i2dmosn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223713-i2dmosn",
+								"updated": "20210926223751"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Properties": {
+										"style": "text-shadow: 1px 1px var(--b3-border-color), 2px 2px var(--b3-border-color), 3px 3px var(--b3-border-color), 4px 4px var(--b3-border-color);"
+									},
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "反对单纯军事观点和流寇主义，承认红军是中国革命的宣传者和组织者"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeKramdownSpanIAL",
+									"Data": "{: style=\"text-shadow: 1px 1px var(--b3-border-color), 2px 2px var(--b3-border-color), 3px 3px var(--b3-border-color), 4px 4px var(--b3-border-color);\"}"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926223755-goqtzu8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926223755-goqtzu8",
+				"updated": "20210926223819"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第四章 “围剿”和反“围剿”——中国内战的主要形式"
+				}
+			]
+		},
+		{
+			"ID": "20210926223819-xdtmp67",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926223819-xdtmp67",
+				"updated": "20210926223826"
+			},
+			"Children": [
+				{
+					"ID": "20210926223826-lybnh06",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223826-lybnh06"
+					},
+					"Children": [
+						{
+							"ID": "20210926223826-sn6cj9t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223826-sn6cj9t",
+								"updated": "20210926223849"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中国内战的特点，在于二者的"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "长期的反复"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926223851-5l99ibw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926223851-5l99ibw"
+					},
+					"Children": [
+						{
+							"ID": "20210926223851-wqbp060",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926223851-wqbp060",
+								"updated": "20210926223949"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "长期反复，是说战争和战斗形式的反复"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "。这是事实，任何人一看就知的"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926223952-hx3w15v",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926223952-hx3w15v",
+				"updated": "20210926224120"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第五章 战略防御"
+				}
+			]
+		},
+		{
+			"ID": "20210926224120-2fxsriz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210926224120-2fxsriz",
+				"updated": "20210926224131"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "战略退却"
+				}
+			]
+		},
+		{
+			"ID": "20210926224131-fp1pon3",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926224131-fp1pon3",
+				"updated": "20210926224200"
+			},
+			"Children": [
+				{
+					"ID": "20210926224200-2fnm74y",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926224200-2fnm74y"
+					},
+					"Children": [
+						{
+							"ID": "20210926224200-tdmetrb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926224200-tdmetrb",
+								"updated": "20210926224206"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "《曹刿论战》"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926224207-sddhboc",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926224207-sddhboc"
+					},
+					"Children": [
+						{
+							"ID": "20210926224207-aof4uz0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926224207-aof4uz0",
+								"updated": "20210926224220"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "战前的政治准备——取信于民"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926224221-e4s9dms",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926224221-e4s9dms"
+					},
+					"Children": [
+						{
+							"ID": "20210926224221-8qsphkz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926224221-8qsphkz",
+								"updated": "20210926224237"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "利于转入反攻的阵地——长勺"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926224237-ozj64wu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926224237-ozj64wu"
+					},
+					"Children": [
+						{
+							"ID": "20210926224237-auodsm5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926224237-auodsm5",
+								"updated": "20210926224300"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "利于开始反攻的时机——彼竭我盈"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926224300-6s96t5d",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926224300-6s96t5d"
+					},
+					"Children": [
+						{
+							"ID": "20210926224300-f1c00n2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926224300-f1c00n2",
+								"updated": "20210926224312"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "追击开始的时机——辙乱旗靡"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926225226-70lbo13",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926225226-70lbo13",
+				"updated": "20210926225234"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "值得反复的句子"
+				}
+			]
+		},
+		{
+			"ID": "20210926225234-oh8sxu3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210926225234-oh8sxu3",
+				"updated": "20210926225234"
+			}
+		}
+	]
+}

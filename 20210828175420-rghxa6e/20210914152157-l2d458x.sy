@@ -1,0 +1,20 @@
+{
+	"ID": "20210914152157-l2d458x",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "23cf",
+		"id": "20210914152157-l2d458x",
+		"title": "弹性力学及有限元基础",
+		"updated": "20210914152220"
+	},
+	"Children": [
+		{
+			"ID": "20210914152157-w0tocp4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210914152157-w0tocp4",
+				"updated": "20210914152157"
+			}
+		}
+	]
+}

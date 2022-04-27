@@ -1,0 +1,1405 @@
+{
+	"ID": "20210921214533-icxjcyr",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210921214533-icxjcyr",
+		"title": "2021-09-21-TMS总会会议-顾燚记",
+		"title-img": "background-image:linear-gradient(to top, #e14fad 0%, #f9d423 100%)",
+		"updated": "20210921222201"
+	},
+	"Children": [
+		{
+			"ID": "20210921214533-eq1w97e",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210921214533-eq1w97e",
+				"updated": "20210921220248"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "见面"
+				}
+			]
+		},
+		{
+			"ID": "20210921220332-75d2flt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210921220332-75d2flt",
+				"updated": "20210921221433"
+			},
+			"Children": [
+				{
+					"ID": "20210921220547-vmml2r2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921220547-vmml2r2"
+					},
+					"Children": [
+						{
+							"ID": "20210921220547-3x9srby",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220547-3x9srby",
+								"updated": "20210921220601"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "实践部部长（9 字班）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921220601-f4angvq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921220601-f4angvq",
+						"updated": "20210921221427"
+					},
+					"Children": [
+						{
+							"ID": "20210921220601-7mpcqbg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220601-7mpcqbg",
+								"updated": "20210921221427"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "实践部第二位部长"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921220628-l526xsq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921220628-l526xsq"
+					},
+					"Children": [
+						{
+							"ID": "20210921220628-4usfhx5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220628-4usfhx5",
+								"updated": "20210921220641"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "理论部部长（7 字班）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921220645-98s9k04",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921220645-98s9k04",
+						"updated": "20210921221433"
+					},
+					"Children": [
+						{
+							"ID": "20210921220645-yctqy6f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220645-yctqy6f",
+								"updated": "20210921221433"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "项目部部长（8 字班)"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210921220249-7beqh94",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210921220249-7beqh94",
+				"updated": "20210921220750"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "评优计划介绍（各类活动与征求意见等）"
+				}
+			]
+		},
+		{
+			"ID": "20210921220728-e60tcsu",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210921220728-e60tcsu",
+				"updated": "20210921221322"
+			},
+			"Children": [
+				{
+					"ID": "20210921220742-6yszr16",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210921220742-6yszr16"
+					},
+					"Children": [
+						{
+							"ID": "20210921220742-kgr0qb3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220742-kgr0qb3",
+								"updated": "20210921220806"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "求索杯"
+								}
+							]
+						},
+						{
+							"ID": "20210921220806-regao94",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921220806-regao94",
+								"updated": "20210921220811"
+							},
+							"Children": [
+								{
+									"ID": "20210921220811-z6bdhnm",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220811-z6bdhnm"
+									},
+									"Children": [
+										{
+											"ID": "20210921220811-lvti83t",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220811-lvti83t",
+												"updated": "20210921220826"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "赛制大致未变化"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921220826-w39p205",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220826-w39p205"
+									},
+									"Children": [
+										{
+											"ID": "20210921220826-nohjp0x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220826-nohjp0x",
+												"updated": "20210921220859"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "不在支持计划内"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921220832-sr4s3d6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210921220832-sr4s3d6"
+					},
+					"Children": [
+						{
+							"ID": "20210921220832-wwymr7g",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220832-wwymr7g",
+								"updated": "20210921220835"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "固本计划"
+								}
+							]
+						},
+						{
+							"ID": "20210921220835-3efygbl",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921220835-3efygbl",
+								"updated": "20210921220837"
+							},
+							"Children": [
+								{
+									"ID": "20210921220837-xe9w86v",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220837-xe9w86v"
+									},
+									"Children": [
+										{
+											"ID": "20210921220837-bzqqhbw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220837-bzqqhbw",
+												"updated": "20210921220844"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "额度匹配接近往年"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921220845-ilb1ys3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220845-ilb1ys3"
+									},
+									"Children": [
+										{
+											"ID": "20210921220845-j2xny7u",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220845-j2xny7u",
+												"updated": "20210921220854"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "人均 50 元金额支持"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921220854-rkxf2o0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220854-rkxf2o0"
+									},
+									"Children": [
+										{
+											"ID": "20210921220854-t9w3pvl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220854-t9w3pvl",
+												"updated": "20210921220907"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "收总结审核材料"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921220908-p3j9xep",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210921220908-p3j9xep"
+					},
+					"Children": [
+						{
+							"ID": "20210921220908-9afrg65",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921220908-9afrg65",
+								"updated": "20210921220912"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "深根计划"
+								}
+							]
+						},
+						{
+							"ID": "20210921220912-3u7eep9",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921220912-3u7eep9",
+								"updated": "20210921220913"
+							},
+							"Children": [
+								{
+									"ID": "20210921220913-u13hqmp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220913-u13hqmp"
+									},
+									"Children": [
+										{
+											"ID": "20210921220913-ttruljn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220913-ttruljn",
+												"updated": "20210921220920"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "与往年有差别"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921220916-j79oi9f",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220916-j79oi9f"
+									},
+									"Children": [
+										{
+											"ID": "20210921220916-vek6x2i",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220916-vek6x2i",
+												"updated": "20210921221018"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "今年学期中实践，在总会支持，不再与校团委实践部联系，TMS 内部实践部"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921220955-gfqimwl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921220955-gfqimwl"
+									},
+									"Children": [
+										{
+											"ID": "20210921220955-86yr5co",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921220955-86yr5co",
+												"updated": "20210921221031"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "支持方法与往年不同，先上报实践主题，然后 TMS 实践部进行分级，然后匹配支持额度"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921221037-m0icpil",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221037-m0icpil"
+									},
+									"Children": [
+										{
+											"ID": "20210921221037-epnunlp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221037-epnunlp",
+												"updated": "20210921221102"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "假期中实践支持参见群文件"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921221103-pjywfs1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210921221103-pjywfs1"
+					},
+					"Children": [
+						{
+							"ID": "20210921221103-87eti03",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921221103-87eti03",
+								"updated": "20210921221106"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "理论 1+1"
+								}
+							]
+						},
+						{
+							"ID": "20210921221106-u4u5cke",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921221106-u4u5cke",
+								"updated": "20210921221107"
+							},
+							"Children": [
+								{
+									"ID": "20210921221107-gho2qcc",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221107-gho2qcc"
+									},
+									"Children": [
+										{
+											"ID": "20210921221107-voplzdw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221107-voplzdw",
+												"updated": "20210921221126"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "去年与团委组织部合作，因此今年 TMS 自己举办"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921221128-4oabc1g",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221128-4oabc1g"
+									},
+									"Children": [
+										{
+											"ID": "20210921221128-ehxd782",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221128-ehxd782",
+												"updated": "20210921221140"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "与 2019 年一致，党课小组牵头"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921221146-9baq43i",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221146-9baq43i"
+									},
+									"Children": [
+										{
+											"ID": "20210921221146-chba18y",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221146-chba18y",
+												"updated": "20210921221154"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "方向还是党史学习教育"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921221156-s2ffge8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221156-s2ffge8"
+									},
+									"Children": [
+										{
+											"ID": "20210921221156-4o55gjw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221156-4o55gjw",
+												"updated": "20210921221215"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "后续会发放相关的材料"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921221301-hmygezv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221301-hmygezv"
+									},
+									"Children": [
+										{
+											"ID": "20210921221301-xn23w4l",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221301-xn23w4l",
+												"updated": "20210921221305"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可以后续补充"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921221306-50yhd3w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210921221306-50yhd3w",
+						"updated": "20210921221322"
+					},
+					"Children": [
+						{
+							"ID": "20210921221306-497hmkf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921221306-497hmkf",
+								"updated": "20210921221317"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "支持计划"
+								}
+							]
+						},
+						{
+							"ID": "20210921221317-umg8pmf",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921221317-umg8pmf",
+								"updated": "20210921221322"
+							},
+							"Children": [
+								{
+									"ID": "20210921221318-gx937jp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221318-gx937jp",
+										"updated": "20210921221322"
+									},
+									"Children": [
+										{
+											"ID": "20210921221318-slxgd85",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221318-slxgd85",
+												"updated": "20210921221322"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "参见云盘链接"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210921220254-npzwhma",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210921220254-npzwhma",
+				"updated": "20210921220330"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "其余工作"
+				}
+			]
+		},
+		{
+			"ID": "20210921221437-cyjcffo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210921221437-cyjcffo",
+				"updated": "20210921221920"
+			},
+			"Children": [
+				{
+					"ID": "20210921221438-s7mhspy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921221438-s7mhspy"
+					},
+					"Children": [
+						{
+							"ID": "20210921221438-s2noy3x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921221438-s2noy3x",
+								"updated": "20210921221455"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "上学期固本计划报销已经打到院系，在党课老师"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921221456-odlw40p",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921221456-odlw40p"
+					},
+					"Children": [
+						{
+							"ID": "20210921221456-ii4t1yp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921221456-ii4t1yp",
+								"updated": "20210921221526"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "深根计划报销较乱（因为与实践部合报）"
+								}
+							]
+						},
+						{
+							"ID": "20210921221527-j088m69",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921221527-j088m69"
+							},
+							"Children": [
+								{
+									"ID": "20210921221527-ylrjjcp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221527-ylrjjcp"
+									},
+									"Children": [
+										{
+											"ID": "20210921221527-gsdv5zq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221527-gsdv5zq",
+												"updated": "20210921221607"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "第一条途径：只从 TMS 这里支持：提交 TMS 的总结等"
+												}
+											]
+										},
+										{
+											"ID": "20210921221618-4qm3nig",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210921221618-4qm3nig"
+											},
+											"Children": [
+												{
+													"ID": "20210921221618-n2gxa7i",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210921221618-n2gxa7i"
+													},
+													"Children": [
+														{
+															"ID": "20210921221618-wczwd3s",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210921221618-wczwd3s",
+																"updated": "20210921221649"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "实际出行人数人均 40 元（"
+																},
+																{
+																	"Type": "NodeMark",
+																	"Data": "mark",
+																	"Children": [
+																		{
+																			"Type": "NodeMark2OpenMarker"
+																		},
+																		{
+																			"Type": "NodeText",
+																			"Data": "重点询问"
+																		},
+																		{
+																			"Type": "NodeMark2CloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "）"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210921221654-y1wp89e",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210921221654-y1wp89e"
+													},
+													"Children": [
+														{
+															"ID": "20210921221654-3yw9scr",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210921221654-3yw9scr",
+																"updated": "20210921221714"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "如有未报销，需要尽快报完（"
+																},
+																{
+																	"Type": "NodeMark",
+																	"Data": "mark",
+																	"Children": [
+																		{
+																			"Type": "NodeMark2OpenMarker"
+																		},
+																		{
+																			"Type": "NodeText",
+																			"Data": "即将封账"
+																		},
+																		{
+																			"Type": "NodeMark2CloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "）"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210921221721-hbt77zk",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210921221721-hbt77zk"
+													},
+													"Children": [
+														{
+															"ID": "20210921221721-in22nyw",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210921221721-in22nyw",
+																"updated": "20210921221828"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "如果按原有情况报销能报销，但按新规不能报销很多的，需要"
+																},
+																{
+																	"Type": "NodeMark",
+																	"Data": "mark",
+																	"Children": [
+																		{
+																			"Type": "NodeMark2OpenMarker"
+																		},
+																		{
+																			"Type": "NodeText",
+																			"Data": "立刻联系"
+																		},
+																		{
+																			"Type": "NodeMark2CloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "（一事一议）"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921221535-evxsq0k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921221535-evxsq0k"
+									},
+									"Children": [
+										{
+											"ID": "20210921221535-wkm39g0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921221535-wkm39g0",
+												"updated": "20210921221612"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "第二条途径：额外使用实践部支持：提交复杂总结 + 答辩"
+												}
+											]
+										},
+										{
+											"ID": "20210921221804-zv8gfbb",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210921221804-zv8gfbb"
+											},
+											"Children": [
+												{
+													"ID": "20210921221803-0zbqoi7",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210921221803-0zbqoi7"
+													},
+													"Children": [
+														{
+															"ID": "20210921221803-7jsuqyj",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210921221803-7jsuqyj",
+																"updated": "20210921221817"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "有个表，自己核对（应该会发给你）"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921221905-g6r23tq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921221905-g6r23tq",
+						"updated": "20210921221920"
+					},
+					"Children": [
+						{
+							"ID": "20210921221905-megjzan",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921221905-megjzan",
+								"updated": "20210921221920"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "这些情况请询问党课小组长和上一届分会长"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210921221829-ngs8sbv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210921221829-ngs8sbv",
+				"updated": "20210921221946"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "预告"
+				}
+			]
+		},
+		{
+			"ID": "20210921221946-8mm8ti0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210921221946-8mm8ti0",
+				"updated": "20210921222201"
+			},
+			"Children": [
+				{
+					"ID": "20210921221947-7ea0ccy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921221947-7ea0ccy"
+					},
+					"Children": [
+						{
+							"ID": "20210921221947-1xmt2vh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921221947-1xmt2vh",
+								"updated": "20210921222016"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "周四周五百团大战 - TMS 招新（紫荆 4 号楼前）"
+								}
+							]
+						},
+						{
+							"ID": "20210921222006-huns4ui",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921222006-huns4ui"
+							},
+							"Children": [
+								{
+									"ID": "20210921222006-3sj8tc7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921222006-3sj8tc7"
+									},
+									"Children": [
+										{
+											"ID": "20210921222006-xnlbtl9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921222006-xnlbtl9",
+												"updated": "20210921222010"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可以领取纪念品"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921222010-ocxvlqd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921222010-ocxvlqd",
+						"updated": "20210921222139"
+					},
+					"Children": [
+						{
+							"ID": "20210921222010-7s6aem0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921222010-7s6aem0",
+								"updated": "20210921222112"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "本学年理论学习工作将在更大范围开展"
+								}
+							]
+						},
+						{
+							"ID": "20210921222112-ob46n3e",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210921222112-ob46n3e",
+								"updated": "20210921222139"
+							},
+							"Children": [
+								{
+									"ID": "20210921222112-ygq8j9u",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921222112-ygq8j9u",
+										"updated": "20210921222139"
+									},
+									"Children": [
+										{
+											"ID": "20210921222112-hjmyjou",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921222112-hjmyjou",
+												"updated": "20210921222139"
+											},
+											"Children": [
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "维真读书会"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921222121-aq2fv9q",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921222121-aq2fv9q"
+									},
+									"Children": [
+										{
+											"ID": "20210921222121-yjtd8dw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921222121-yjtd8dw",
+												"updated": "20210921222129"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "面向分会长作非强制报名"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210921222131-gks3ay8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210921222131-gks3ay8"
+									},
+									"Children": [
+										{
+											"ID": "20210921222131-yozhw9s",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210921222131-yozhw9s",
+												"updated": "20210921222134"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "欢迎大家报名"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210921222135-mcn4eot",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210921222135-mcn4eot",
+						"updated": "20210921222201"
+					},
+					"Children": [
+						{
+							"ID": "20210921222135-xayxg6p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210921222135-xayxg6p",
+								"updated": "20210921222201"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "党建骨干培训将以比较规范的形式开展"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210921222028-ravyw5u",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210921222028-ravyw5u",
+				"updated": "20210921222028"
+			}
+		}
+	]
+}

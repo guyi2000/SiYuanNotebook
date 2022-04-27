@@ -1,0 +1,3687 @@
+{
+	"ID": "20210926152123-nixwhgo",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "32-20e3",
+		"id": "20210926152123-nixwhgo",
+		"title": "【2】平面问题的基本理论",
+		"title-img": "background-image:linear-gradient(to top, #96fbc4 0%, #f9f586 100%)",
+		"updated": "20211012154804"
+	},
+	"Children": [
+		{
+			"ID": "20210926152123-wa0y7t1",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926152123-wa0y7t1",
+				"updated": "20210926152903"
+			},
+			"Children": [
+				{
+					"ID": "20210926152332-dndgybx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926152332-dndgybx"
+					},
+					"Children": [
+						{
+							"ID": "20210926152332-ou1ppx4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926152332-ou1ppx4",
+								"updated": "20210926152334"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "位移"
+								}
+							]
+						},
+						{
+							"ID": "20210926152502-0jaw6ew",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926152502-0jaw6ew"
+							},
+							"Children": [
+								{
+									"ID": "20210926152451-93oz8o5",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926152451-93oz8o5"
+									},
+									"Children": [
+										{
+											"ID": "20210926152451-8w6ffxe",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926152451-8w6ffxe",
+												"updated": "20210926152508"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "符号记法：(u, v, w)"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926152510-adsiidw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926152510-adsiidw",
+						"updated": "20210926152903"
+					},
+					"Children": [
+						{
+							"ID": "20210926152510-8odh92a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926152510-8odh92a",
+								"updated": "20210926152512"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "应变"
+								}
+							]
+						},
+						{
+							"ID": "20210926152522-9rx8rjq",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926152522-9rx8rjq",
+								"updated": "20210926152903"
+							},
+							"Children": [
+								{
+									"ID": "20210926152522-6cut9iv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926152522-6cut9iv",
+										"updated": "20210926152839"
+									},
+									"Children": [
+										{
+											"ID": "20210926152522-x5z00dp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926152522-x5z00dp",
+												"updated": "20210926152821"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "线应变"
+												}
+											]
+										},
+										{
+											"ID": "20210926152823-wduumic",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210926152823-wduumic",
+												"updated": "20210926152839"
+											},
+											"Children": [
+												{
+													"ID": "20210926152836-bpa92t5",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210926152836-bpa92t5",
+														"updated": "20210926152839"
+													},
+													"Children": [
+														{
+															"ID": "20210926152836-bn2jx5h",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210926152836-bn2jx5h",
+																"updated": "20210926152839"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "长度的改变"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210926152619-wrki47w",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210926152619-wrki47w"
+													},
+													"Children": [
+														{
+															"ID": "20210926152619-qvtobs6",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210926152619-qvtobs6",
+																"updated": "20210926152629"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "PA = dx, PB = dy"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210926152632-x64p4qf",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210926152632-x64p4qf"
+													},
+													"Children": [
+														{
+															"ID": "20210926152632-qdxy1ao",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210926152632-qdxy1ao",
+																"updated": "20210926152803"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\varepsilon_x, \\varepsilon_y, \\varepsilon_z"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 微线段的伸长量"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210926152819-cbpk2jw",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926152819-cbpk2jw",
+										"updated": "20210926152903"
+									},
+									"Children": [
+										{
+											"ID": "20210926152819-m0clv2x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926152819-m0clv2x",
+												"updated": "20210926152828"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "切应变"
+												}
+											]
+										},
+										{
+											"ID": "20210926152829-lq3a5sl",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210926152829-lq3a5sl",
+												"updated": "20210926152903"
+											},
+											"Children": [
+												{
+													"ID": "20210926152829-rza2ntz",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210926152829-rza2ntz"
+													},
+													"Children": [
+														{
+															"ID": "20210926152829-azfkvw6",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210926152829-azfkvw6",
+																"updated": "20210926152835"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "角度的改变"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210926152841-emzf5ef",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210926152841-emzf5ef",
+														"updated": "20210926152903"
+													},
+													"Children": [
+														{
+															"ID": "20210926152841-67dcywq",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210926152841-67dcywq",
+																"updated": "20210926152903"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\gamma_{xy}, \\gamma_{yz}, \\gamma_{zx}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926152931-b6mz0za",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926152931-b6mz0za",
+				"updated": "20210926153136"
+			},
+			"Children": [
+				{
+					"ID": "20210926152935-uedg4sw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926152935-uedg4sw"
+					},
+					"Children": [
+						{
+							"ID": "20210926152935-otqeds5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926152935-otqeds5",
+								"updated": "20210926152939"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "应力"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926153114-7lkbgoj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926153114-7lkbgoj",
+						"updated": "20210926153136"
+					},
+					"Children": [
+						{
+							"ID": "20210926153114-g3x6ftg",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210926153114-g3x6ftg",
+								"updated": "20210926153136"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "\\bar{p}=\\frac{\\Delta F}{\\Delta A}"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926152941-961b03q",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926152941-961b03q"
+					},
+					"Children": [
+						{
+							"ID": "20210926152941-h4i9ufr",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210926152941-h4i9ufr",
+								"updated": "20210926153051"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "p=\\lim_{\\Delta A \\rightarrow 0}\\frac{\\Delta F}{\\Delta A}"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926153052-jax9c7d",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926153052-jax9c7d",
+				"updated": "20210926153907"
+			},
+			"Children": [
+				{
+					"ID": "20210926153907-wwyslkb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926153907-wwyslkb"
+					},
+					"Children": [
+						{
+							"ID": "20210926153907-2ntmuv6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926153907-2ntmuv6",
+								"updated": "20210926153937"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "坐标正面上的应力，沿坐标"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "正"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "向为正"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926153921-pd3ngia",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926153921-pd3ngia"
+					},
+					"Children": [
+						{
+							"ID": "20210926153921-v61m1du",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926153921-v61m1du",
+								"updated": "20210926153938"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "坐标负面上的应力，沿坐标"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "负"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "向为正"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926154323-otyxvut",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926154323-otyxvut",
+				"updated": "20210926154336"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面应力问题和平面应变问题"
+				}
+			]
+		},
+		{
+			"ID": "20210926154338-cwac0mj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210926154338-cwac0mj",
+				"updated": "20210926154344"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面应力问题"
+				}
+			]
+		},
+		{
+			"ID": "20210926154344-yvp8eah",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926154344-yvp8eah",
+				"updated": "20210926155119"
+			},
+			"Children": [
+				{
+					"ID": "20210926154408-h6norzp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154408-h6norzp"
+					},
+					"Children": [
+						{
+							"ID": "20210926154408-lxeoccg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154408-lxeoccg",
+								"updated": "20210926154417"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "等厚薄板 t 很小"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926154346-o8lkxp8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154346-o8lkxp8"
+					},
+					"Children": [
+						{
+							"ID": "20210926154346-psckwtl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154346-psckwtl",
+								"updated": "20210926154402"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "受力：平行于板面，沿厚度均匀分布"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926154406-fqm186v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154406-fqm186v",
+						"updated": "20210926155119"
+					},
+					"Children": [
+						{
+							"ID": "20210926154406-z9obi33",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154406-z9obi33",
+								"updated": "20210926155119"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特点：边界 "
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "z=\\pm t/2"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "（自由面）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926154533-cnfzbul",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154533-cnfzbul"
+					},
+					"Children": [
+						{
+							"ID": "20210926154533-7mkcjle",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154533-7mkcjle",
+								"updated": "20210926154616"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "平面应力问题待求量"
+								}
+							]
+						},
+						{
+							"ID": "20210926154617-elqyn0l",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926154617-elqyn0l"
+							},
+							"Children": [
+								{
+									"ID": "20210926154617-d2p8jit",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926154617-d2p8jit"
+									},
+									"Children": [
+										{
+											"ID": "20210926154617-5tmof6u",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926154617-5tmof6u",
+												"updated": "20210926154656"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926154658-xg1lcw1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210926154658-xg1lcw1",
+				"updated": "20210926154708"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面应变问题"
+				}
+			]
+		},
+		{
+			"ID": "20210926154708-k848fuv",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926154708-k848fuv",
+				"updated": "20210926154801"
+			},
+			"Children": [
+				{
+					"ID": "20210926154801-i8gdj37",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154801-i8gdj37"
+					},
+					"Children": [
+						{
+							"ID": "20210926154801-uej3y76",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154801-uej3y76",
+								"updated": "20210926154816"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "受力：与横截面平行，沿长度（OZ 轴）不变"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926154830-k4bpwyl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154830-k4bpwyl"
+					},
+					"Children": [
+						{
+							"ID": "20210926154830-97ps2i1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154830-97ps2i1",
+								"updated": "20210926154912"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特点：w = 0, 只有沿 x, y 方向有位移（与 z 无关）"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\gamma_{zx}=\\gamma_{zy}=0"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926154912-ymk3aqc",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154912-ymk3aqc"
+					},
+					"Children": [
+						{
+							"ID": "20210926154912-mmqzu33",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154912-mmqzu33",
+								"updated": "20210926154937"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\tau_{zx}=\\tau_{zy}=0"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "\n"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926154950-y8bqdgm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926154950-y8bqdgm"
+					},
+					"Children": [
+						{
+							"ID": "20210926154950-sq9t0vp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926154950-sq9t0vp",
+								"updated": "20210926154957"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "平面应变问题待求量"
+								}
+							]
+						},
+						{
+							"ID": "20210926155005-m5lxbzu",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926155005-m5lxbzu"
+							},
+							"Children": [
+								{
+									"ID": "20210926154959-xjalfd7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926154959-xjalfd7"
+									},
+									"Children": [
+										{
+											"ID": "20210926154959-h7a16xp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926154959-h7a16xp",
+												"updated": "20210926155009"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210926155013-1l423gl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926155013-1l423gl"
+									},
+									"Children": [
+										{
+											"ID": "20210926155013-jbdwci1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926155013-jbdwci1",
+												"updated": "20210926155042"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma_z\\neq 0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "，但不作为基本未知量，可通过物理方程求出"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926155134-npt5rkk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926155134-npt5rkk",
+				"updated": "20210926155146"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平衡微分方程"
+				}
+			]
+		},
+		{
+			"ID": "20210926155045-dn0g7j0",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210926155045-dn0g7j0",
+				"updated": "20210926155215"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210926155156-1yd3im2",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210926155156-1yd3im2",
+						"updated": "20210926155209"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "讨论：平面问题应力分量和体力分量之间的平衡关系"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926155210-d5qhsei",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926155210-d5qhsei",
+				"updated": "20210926160349"
+			},
+			"Children": [
+				{
+					"ID": "20210926155330-0vr8mh4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926155330-0vr8mh4"
+					},
+					"Children": [
+						{
+							"ID": "20210926155330-8351wtn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926155330-8351wtn",
+								"updated": "20210926155342"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "取单位厚度微元体"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926155514-wlvt3yk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926155514-wlvt3yk"
+					},
+					"Children": [
+						{
+							"ID": "20210926155514-r7r8zrj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926155514-r7r8zrj",
+								"updated": "20210926155530"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "考虑应力 "
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\sigma_x"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 由于坐标改变 dx"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926160017-i3m1adz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926160017-i3m1adz",
+						"updated": "20210926160349"
+					},
+					"Children": [
+						{
+							"ID": "20210926160017-he3ydd7",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210926160017-he3ydd7",
+								"updated": "20210926160349"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "\\sigma_x(x+dx, y)=\\sigma_x(x,y)+\\frac{\\partial \\sigma_x}{\\partial x}dx+\\frac{1}{2!}\\frac{\\partial^2\\sigma_x}{\\partial^2 x}dx^2+\\cdots\n\\approx\\sigma_x(x,y)+\\frac{\\partial \\sigma_x}{\\partial x}dx"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926160352-h9b0o8t",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926160352-h9b0o8t",
+				"updated": "20210926160421"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\sigma_D=\\sigma_C+\\frac{\\partial \\sigma_x}{\\partial x}dx"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926160412-m3e330u",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926160412-m3e330u",
+				"updated": "20210926160448"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\sigma_A=\\sigma_D+\\frac{\\partial \\sigma_x}{\\partial y}dy"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926160448-cucav21",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210926160448-cucav21",
+				"updated": "20210926161922"
+			},
+			"Children": [
+				{
+					"ID": "20210926161313-fpff5mo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926161313-fpff5mo"
+					},
+					"Children": [
+						{
+							"ID": "20210926161313-wfm5mkf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926161313-wfm5mkf",
+								"updated": "20210926161351"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用微元体力矩平衡——可以得到剪应力互等定理"
+								}
+							]
+						},
+						{
+							"ID": "20210926161356-i9xo239",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210926161356-i9xo239"
+							},
+							"Children": [
+								{
+									"ID": "20210926161356-xjjt9pr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210926161356-xjjt9pr"
+									},
+									"Children": [
+										{
+											"ID": "20210926161356-yqrl2qr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210926161356-yqrl2qr",
+												"updated": "20210926161359"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "代数方程"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926161400-j9ll6ig",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926161400-j9ll6ig"
+					},
+					"Children": [
+						{
+							"ID": "20210926161400-yb5d687",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926161400-yb5d687",
+								"updated": "20210926161910"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用微元体力的平衡方程，导出"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210926161910-4bil23n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210926161910-4bil23n",
+						"updated": "20210926161922"
+					},
+					"Children": [
+						{
+							"ID": "20210926161910-hr3qpsv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210926161910-hr3qpsv",
+								"updated": "20210926161922"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "平面问题中的平衡微分方程"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926161702-32v064z",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926161702-32v064z",
+				"updated": "20210926161756"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\frac{\\partial\\sigma_x}{\\partial x}+\\frac{\\partial \\tau_{yx}}{\\partial y}+X=0"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926161756-vwubd1c",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926161756-vwubd1c",
+				"updated": "20210926161817"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\frac{\\partial\\sigma_y}{\\partial y}+\\frac{\\partial \\tau_{xy}}{\\partial x}+Y=0"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926161817-alm3beb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926161817-alm3beb",
+				"updated": "20210926161858"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面问题中一点的应力状态"
+				}
+			]
+		},
+		{
+			"ID": "20210926161858-7cn9hok",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210926161858-7cn9hok",
+				"updated": "20210926162103"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210926162014-tyqeozk",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210926162014-tyqeozk",
+						"updated": "20210926162103"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "已知一点 P 的 "
+						},
+						{
+							"Type": "NodeInlineMath",
+							"Data": "span",
+							"Children": [
+								{
+									"Type": "NodeInlineMathOpenMarker"
+								},
+								{
+									"Type": "NodeInlineMathContent",
+									"Data": "\\sigma_x, \\sigma_y, \\tau_{xy}"
+								},
+								{
+									"Type": "NodeInlineMathCloseMarker"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，求过 P 点任一斜面的应力"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210926162105-fln7n0x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210926162105-fln7n0x",
+				"updated": "20210926162128"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "几何描述：（方向余弦）"
+				}
+			]
+		},
+		{
+			"ID": "20210926162128-3hticb3",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926162128-3hticb3",
+				"updated": "20210926162502"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "cos(N,x)=l\\qquad cos(N,y)=m \\\\\nAB=ds\\qquad PB=lds\\qquad PA=mds \\\\\n\\Delta PAB = lds ·mds/2"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926162158-tqt71se",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926162158-tqt71se",
+				"updated": "20210926162540"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "X_N=l\\sigma_x+m\\tau_{xy} \\\\\nY_N=m\\sigma_y+l\\tau_{xy}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926162540-v8t1fbt",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926162540-v8t1fbt",
+				"updated": "20210926162706"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\sigma_N = lX_N+mY_N \\\\\n=l^2\\sigma_x+m^2\\sigma_y+2lm\\tau_{xy}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926162706-nboc7wq",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210926162706-nboc7wq",
+				"updated": "20210926162935"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\tau_N=lY_N-mX_N\n=lm(\\sigma_y-\\sigma_x)+(l^2-m^2)\\tau_{xy}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210926162935-pe65oke",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210926162935-pe65oke",
+				"updated": "20211005152137"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "物理方程"
+				}
+			]
+		},
+		{
+			"ID": "20211005152206-ioct4hi",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005152206-ioct4hi",
+				"updated": "20211005154219"
+			},
+			"Children": [
+				{
+					"ID": "20211005152729-eve5ihs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005152729-eve5ihs"
+					},
+					"Children": [
+						{
+							"ID": "20211005152729-q3wldyl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005152729-q3wldyl"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "泊松比"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005152815-kxcw0w9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005152815-kxcw0w9"
+					},
+					"Children": [
+						{
+							"ID": "20211005152815-npib3es",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005152815-npib3es",
+								"updated": "20211005152858"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "广义胡克定律"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005154146-nuu4li6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005154146-nuu4li6",
+						"updated": "20211005154148"
+					},
+					"Children": [
+						{
+							"ID": "20211005154146-zi1h4nz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005154146-zi1h4nz",
+								"updated": "20211005154148"
+							},
+							"Children": [
+								{
+									"Type": "NodeImage",
+									"Data": "span",
+									"Properties": {
+										"parent-style": "max-width: 365px; display: block;",
+										"style": "width: 355px;"
+									},
+									"Children": [
+										{
+											"Type": "NodeBang"
+										},
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "image.png"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "assets/image-20211005154147-ybtmajq.png"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeKramdownSpanIAL",
+									"Data": "{: style=\"width: 355px;\" parent-style=\"max-width: 365px; display: block;\"}"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005153211-7b3j2f7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005153211-7b3j2f7"
+					},
+					"Children": [
+						{
+							"ID": "20211005153211-dimb6ng",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005153211-dimb6ng",
+								"updated": "20211005153214"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "体积应变"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005154158-r0wnkpp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005154158-r0wnkpp",
+						"updated": "20211005154219"
+					},
+					"Children": [
+						{
+							"ID": "20211005154158-ojtijob",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005154158-ojtijob",
+								"updated": "20211005154219"
+							},
+							"Children": [
+								{
+									"Type": "NodeImage",
+									"Data": "span",
+									"Properties": {
+										"parent-style": "max-width: 363px; display: block;",
+										"style": "width: 353px;"
+									},
+									"Children": [
+										{
+											"Type": "NodeBang"
+										},
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "image.png"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "assets/image-20211005154219-dt7o08w.png"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeKramdownSpanIAL",
+									"Data": "{: style=\"width: 353px;\" parent-style=\"max-width: 363px; display: block;\"}"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005153611-l3a9mwe",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005153611-l3a9mwe"
+					},
+					"Children": [
+						{
+							"ID": "20211005153611-5wcopsc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005153611-5wcopsc",
+								"updated": "20211005153616"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "体积弹性模量"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005153616-lxtabp4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005153616-lxtabp4"
+					},
+					"Children": [
+						{
+							"ID": "20211005153616-giu71mc",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20211005153616-giu71mc",
+								"updated": "20211005153639"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "\\frac{E}{1-2\\mu}"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005153647-pv1xc6v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005153647-pv1xc6v",
+				"updated": "20211005153925"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面应力问题，"
+				},
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\sigma_z=0"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "\n"
+				}
+			]
+		},
+		{
+			"ID": "20211005154310-igkcsu8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005154310-igkcsu8",
+				"updated": "20211005154321"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "max-width: 387px; display: block;",
+						"style": "width: 377px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211005154321-1gcembn.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 377px;\" parent-style=\"max-width: 387px; display: block;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211005153926-x7n1wv4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005153926-x7n1wv4",
+				"updated": "20211005153943"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面应变问题，"
+				},
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\varepsilon_z=0"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "\n"
+				}
+			]
+		},
+		{
+			"ID": "20211005154326-j4qnyjk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005154326-j4qnyjk",
+				"updated": "20211005154339"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "max-width: 459px; display: block;",
+						"style": "width: 449px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211005154338-689ozgt.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 449px;\" parent-style=\"max-width: 459px; display: block;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211005152139-zg75nr2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211005152139-zg75nr2",
+				"updated": "20211005152151"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "几何方程"
+				}
+			]
+		},
+		{
+			"ID": "20211005154040-e7qddiv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005154040-e7qddiv",
+				"updated": "20211005154104"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "平面直角坐标系下，应变关系进行推导"
+				}
+			]
+		},
+		{
+			"ID": "20211005154104-eke4hct",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211005154104-eke4hct",
+				"updated": "20211005154647"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\varepsilon_x=\\frac{dx+u+\\frac{\\partial u}{\\partial x}dx-u-dx}{dx} \\\\\n\\quad \\\\\n\\varepsilon_x=\\frac{\\partial u}{\\partial x}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211005154651-4ta66wu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005154651-4ta66wu",
+				"updated": "20211005154718"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "因此可以得到"
+				}
+			]
+		},
+		{
+			"ID": "20211005154719-dtvootm",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211005154719-dtvootm",
+				"updated": "20211005154739"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\varepsilon_y=\\frac{\\partial v}{\\partial y}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211005154743-0v2d1u7",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211005154743-0v2d1u7",
+				"updated": "20211005154821"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\gamma_{xy}=\\alpha+\\beta=\\frac{\\partial v}{\\partial x}+\\frac{\\partial u}{\\partial y}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211005154809-48molij",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005154809-48molij",
+				"updated": "20211005155245"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "表明了位移和应变之间的关系"
+				}
+			]
+		},
+		{
+			"ID": "20211005155629-q8vbyh9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211005155629-q8vbyh9",
+				"updated": "20211005155634"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "相容方程"
+				}
+			]
+		},
+		{
+			"ID": "20211005155634-njvi96t",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211005155634-njvi96t",
+				"updated": "20211005155733"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\frac{\\partial^2\\varepsilon_x}{\\partial y^2}+\\frac{\\partial^2\\varepsilon_y}{\\partial x^2}=\\frac{\\partial^2\\gamma_{xy}}{\\partial x\\partial y}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211005155754-smzmlaw",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005155754-smzmlaw",
+				"updated": "20211005155757"
+			},
+			"Children": [
+				{
+					"ID": "20211005155757-9arnvz6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005155757-9arnvz6"
+					},
+					"Children": [
+						{
+							"ID": "20211005155757-hgznxby",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005155757-hgznxby",
+								"updated": "20211005155810"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "应变之间满足的关系，使 u, v 连续"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005155907-827rwcx",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211005155907-827rwcx",
+				"updated": "20211005160059"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\left(\\frac{\\partial^2}{\\partial x^2}+\\frac{\\partial^2}{\\partial y^2}\\right)(\\sigma_x+\\sigma_y)=-(1+\\mu)\\left(\\frac{\\partial X}{\\partial x}+\\frac{\\partial Y}{\\partial y}\\right)"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211005160100-uo2x1r1",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005160100-uo2x1r1",
+				"updated": "20211005160417"
+			},
+			"Children": [
+				{
+					"ID": "20211005160102-b0502r8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005160102-b0502r8",
+						"updated": "20211005160417"
+					},
+					"Children": [
+						{
+							"ID": "20211005160102-70sx2fz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005160102-70sx2fz",
+								"updated": "20211005160417"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用应力表示的相容方程，需要用到平衡方程"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005152152-krgnuip",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211005152152-krgnuip",
+				"updated": "20211005152157"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "边界条件和圣维南原理"
+				}
+			]
+		},
+		{
+			"ID": "20211005161011-lqy96kc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211005161011-lqy96kc",
+				"updated": "20211005161118"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "位移边界条件"
+				}
+			]
+		},
+		{
+			"ID": "20211005161118-6mawezj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005161118-6mawezj",
+				"updated": "20211005161152"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "u_s=\\bar u, v_s=\\bar v"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "\n"
+				}
+			]
+		},
+		{
+			"ID": "20211005161154-rdpuiim",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005161154-rdpuiim",
+				"updated": "20211005161232"
+			},
+			"Children": [
+				{
+					"ID": "20211005161232-2dou00x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005161232-2dou00x"
+					},
+					"Children": [
+						{
+							"ID": "20211005161232-juw4qxs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005161232-juw4qxs",
+								"updated": "20211005161312"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "u_s, v_s"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 位移的边界值；"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\bar u, \\bar v"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 已知函数"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005161312-km587xk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211005161312-km587xk",
+				"updated": "20211005161327"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "应力边界条件"
+				}
+			]
+		},
+		{
+			"ID": "20211005161327-peoo2mo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005161327-peoo2mo",
+				"updated": "20211005161413"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "display: block; max-width: 534px;",
+						"style": "width: 524px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211005161413-pimasxe.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 524px;\" parent-style=\"display: block; max-width: 534px;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211005161417-iexq6fi",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211005161417-iexq6fi",
+				"updated": "20211005161612"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "l(\\sigma_x)_s+m(\\tau_{yx})_s=\\bar X \\\\\nm(\\sigma_y)_s+l(\\tau_{xy})_s=\\bar Y"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211005161615-fbtugl5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005161615-fbtugl5",
+				"updated": "20211005161616"
+			},
+			"Children": [
+				{
+					"ID": "20211005161616-govntl1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005161616-govntl1"
+					},
+					"Children": [
+						{
+							"ID": "20211005161616-b0rrgc2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005161616-b0rrgc2",
+								"updated": "20211005161621"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "内力和外力的平衡"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005161625-u6br00f",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211005161625-u6br00f",
+				"updated": "20211005161634"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "混合边界条件"
+				}
+			]
+		},
+		{
+			"ID": "20211005161636-8oeijpf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005161636-8oeijpf",
+				"updated": "20211005161654"
+			},
+			"Children": [
+				{
+					"ID": "20211005161654-uk4e7ff",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005161654-uk4e7ff"
+					},
+					"Children": [
+						{
+							"ID": "20211005161654-2dfdifh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005161654-2dfdifh",
+								"updated": "20211005161707"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "有应力及应变边界条件"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005163110-8dgqxni",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211005163110-8dgqxni",
+				"updated": "20211005163111"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "display: block;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211005163111-iq25bo5.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: parent-style=\"display: block;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211005163136-f154rvr",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005163136-f154rvr",
+				"updated": "20211005163141"
+			},
+			"Children": [
+				{
+					"ID": "20211005163221-pdb8tub",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005163221-pdb8tub"
+					},
+					"Children": [
+						{
+							"ID": "20211005163221-zlxewj7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005163221-zlxewj7",
+								"updated": "20211005163230"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "x=0"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20211005163231-kkacukz",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211005163231-kkacukz"
+							},
+							"Children": [
+								{
+									"ID": "20211005163230-qzsvrlu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211005163230-qzsvrlu"
+									},
+									"Children": [
+										{
+											"ID": "20211005163230-x3l7rff",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211005163230-x3l7rff",
+												"updated": "20211005163239"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "u=0, v=0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												},
+												{
+													"Type": "NodeBr",
+													"Data": "br"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005163141-rzk896u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005163141-rzk896u"
+					},
+					"Children": [
+						{
+							"ID": "20211005163141-38zs91x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005163141-38zs91x",
+								"updated": "20211005163205"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\displaystyle y=\\frac{h}{2}"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "\n"
+								}
+							]
+						},
+						{
+							"ID": "20211005163154-90d7o5x",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211005163154-90d7o5x"
+							},
+							"Children": [
+								{
+									"ID": "20211005163154-jxt25wy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211005163154-jxt25wy"
+									},
+									"Children": [
+										{
+											"ID": "20211005163154-nfznuzy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211005163154-nfznuzy",
+												"updated": "20211005163309"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma_y=0, \\tau_{yx}=0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005163312-5kteuhl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005163312-5kteuhl"
+					},
+					"Children": [
+						{
+							"ID": "20211005163312-mybn1gz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005163312-mybn1gz",
+								"updated": "20211005163400"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\displaystyle y=-\\frac{h}{2}"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "\n"
+								}
+							]
+						},
+						{
+							"ID": "20211005163324-kdk3qlg",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211005163324-kdk3qlg"
+							},
+							"Children": [
+								{
+									"ID": "20211005163324-c0r9l5a",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211005163324-c0r9l5a"
+									},
+									"Children": [
+										{
+											"ID": "20211005163324-l0oh738",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211005163324-l0oh738",
+												"updated": "20211005163342"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma_y=-q, \\tau_{yx}=0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211005163401-6b97tso",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005163401-6b97tso"
+					},
+					"Children": [
+						{
+							"ID": "20211005163401-g4qcb6e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005163401-g4qcb6e",
+								"updated": "20211005163433"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "x=l"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20211005163434-n2by2r7",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211005163434-n2by2r7"
+							},
+							"Children": [
+								{
+									"ID": "20211005163434-tzpo7rj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211005163434-tzpo7rj"
+									},
+									"Children": [
+										{
+											"ID": "20211005163434-y4lnbxh",
+											"Type": "NodeMathBlock",
+											"Properties": {
+												"id": "20211005163434-y4lnbxh",
+												"updated": "20211005164052"
+											},
+											"Children": [
+												{
+													"Type": "NodeMathBlockOpenMarker"
+												},
+												{
+													"Type": "NodeMathBlockContent",
+													"Data": "\\int^{h/2}_{-h/2}\\sigma_xdy=0, \\int^{h/2}_{-h/2}\\tau_{xy}dy=0 \\\\\n\\int^{h/2}_{-h/2}\\sigma_xydy  = M"
+												},
+												{
+													"Type": "NodeMathBlockCloseMarker"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005164201-dfu3sil",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211005164201-dfu3sil",
+				"updated": "20211005164221"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "圣维南原理"
+				}
+			]
+		},
+		{
+			"ID": "20211005164221-43q0crm",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005164221-43q0crm",
+				"updated": "20211005164223"
+			},
+			"Children": [
+				{
+					"ID": "20211005164223-fu3omci",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005164223-fu3omci"
+					},
+					"Children": [
+						{
+							"ID": "20211005164223-chw03gx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005164223-chw03gx",
+								"updated": "20211005164257"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "只知合力而不知其分布，分布不同、解也会有所不同"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005164326-d3n4lyq",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20211005164326-d3n4lyq",
+				"updated": "20211005164510"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20211005164327-1mibqyw",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20211005164327-1mibqyw",
+						"updated": "20211005164510"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "如果把物体的一小部分上的面力，变换为分布不同但静力等效的面力（主向量相同，对同一点的主矩也相同），那么"
+						},
+						{
+							"Type": "NodeStrong",
+							"Data": "strong",
+							"Properties": {
+								"style": "text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "近处的应力分布将有显著的改变，但远处所受到的影响可以不计"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeKramdownSpanIAL",
+							"Data": "{: style=\"text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;\"}"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005164359-5qc10qu",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20211005164359-5qc10qu",
+				"updated": "20211005164558"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20211005164435-tk88cw9",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20211005164435-tk88cw9",
+						"updated": "20211005164441"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "如果物体一小部分边界上的面力是一个平衡力系（主向量和主矩都等于零），那么，这个面力就只会使近处产生显著应力，而远处的应力可以不计。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005164558-b24vh68",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211005164558-b24vh68",
+				"updated": "20211005164607"
+			},
+			"Children": [
+				{
+					"ID": "20211005164559-9pjjoqq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211005164559-9pjjoqq",
+						"updated": "20211005164607"
+					},
+					"Children": [
+						{
+							"ID": "20211005164559-v2hekba",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211005164559-v2hekba",
+								"updated": "20211005164607"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "圣维南原理放宽了边界条件，扩大弹性力学的求解范围。至今无法从理论上证明，却为无数算例和实验证实。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211005152158-dr8l3ho",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211005152158-dr8l3ho",
+				"updated": "20211005152204"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "求解弹性力学平面问题的方法"
+				}
+			]
+		},
+		{
+			"ID": "20211012152113-sz3grgm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012152113-sz3grgm",
+				"updated": "20211012152159"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "方法："
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "位移求解（位移法）"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "、"
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "应力求解（力法）"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211012152136-h4rcr20",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012152136-h4rcr20",
+				"updated": "20211012152150"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "选用不同的未知量，故有不同的求解方法"
+				}
+			]
+		},
+		{
+			"ID": "20211012152253-i364mjb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211012152253-i364mjb",
+				"updated": "20211012152316"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "按位移求解"
+				}
+			]
+		},
+		{
+			"ID": "20211012152316-7e3j4wz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012152316-7e3j4wz",
+				"updated": "20211012152339"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "思路：在方程中设法消去应力求出位移"
+				}
+			]
+		},
+		{
+			"ID": "20211012152339-imbgoe5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211012152339-imbgoe5",
+				"updated": "20211012152342"
+			},
+			"Children": [
+				{
+					"ID": "20211012152342-3auxdfz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211012152342-3auxdfz"
+					},
+					"Children": [
+						{
+							"ID": "20211012152342-125rk4c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211012152342-125rk4c",
+								"updated": "20211012152414"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "（几何方程 --\u003e 物理方程 --\u003e 平衡方程）+ 边界条件"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211012152414-ue51rfw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012152414-ue51rfw",
+				"updated": "20211012153519"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "display: block; max-width: 442px;",
+						"style": "width: 432px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211012153518-q84grst.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 432px;\" parent-style=\"display: block; max-width: 442px;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211012153505-zqplbbj",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211012153505-zqplbbj",
+				"updated": "20211012153539"
+			},
+			"Children": [
+				{
+					"ID": "20211012153539-am52z14",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211012153539-am52z14"
+					},
+					"Children": [
+						{
+							"ID": "20211012153539-4fqgdo1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211012153539-4fqgdo1",
+								"updated": "20211012153541"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "暂存"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211012153541-pekr4p0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211012153541-pekr4p0",
+				"updated": "20211012153549"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "按应力求解"
+				}
+			]
+		},
+		{
+			"ID": "20211012153549-9nbex3r",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012153549-9nbex3r",
+				"updated": "20211012153751"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211012153750-ft6puu2.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211012153752-84wczbd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012153752-84wczbd",
+				"updated": "20211012154252"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "利用函数，消元表达平衡方程："
+				}
+			]
+		},
+		{
+			"ID": "20211012154252-298qema",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012154252-298qema",
+				"updated": "20211012154302"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "display: block;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211012154302-7881w76.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: parent-style=\"display: block;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211012154303-slop5r9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012154303-slop5r9",
+				"updated": "20211012154338"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "代入相容方程，得到重调和方程。"
+				}
+			]
+		},
+		{
+			"ID": "20211012154339-fpsmdep",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012154339-fpsmdep",
+				"updated": "20211012154353"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "display: block; max-width: 426px;",
+						"style": "width: 416px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20211012154353-6lmrgd7.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 416px;\" parent-style=\"display: block; max-width: 426px;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20211012154314-zuwp6c5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211012154314-zuwp6c5",
+				"updated": "20211012154434"
+			},
+			"Children": [
+				{
+					"ID": "20211012154405-9ioc9kf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211012154405-9ioc9kf",
+						"updated": "20211012154434"
+					},
+					"Children": [
+						{
+							"ID": "20211012154405-v3mljur",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211012154405-v3mljur",
+								"updated": "20211012154434"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\phi(x, y)"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " Airy 应力函数"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211012154804-rc9lqco",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211012154804-rc9lqco",
+				"updated": "20211012154804"
+			}
+		}
+	]
+}

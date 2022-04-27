@@ -1,0 +1,1395 @@
+{
+	"ID": "20210915152632-9vsbcie",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210915152632-9vsbcie",
+		"title": "2021-09-15",
+		"title-img": "background:linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px, linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px),linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);background-color:#e1ebbd;background-size: 128px 128px;",
+		"updated": "20210917094013"
+	},
+	"Children": [
+		{
+			"ID": "20210915152632-xjzhqyy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210915152632-xjzhqyy",
+				"updated": "20210915152822"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "赵鹏举"
+				}
+			]
+		},
+		{
+			"ID": "20210915152823-ei29nzr",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210915152823-ei29nzr",
+				"updated": "20210915153346"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210915152824-vuvfyfq",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210915152824-vuvfyfq",
+						"updated": "20210915153346"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "基于……的生成式对抗网络的生成式设计"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915152919-5ihc9b1",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915152919-5ihc9b1",
+				"updated": "20210915152920"
+			},
+			"Children": [
+				{
+					"ID": "20210915152920-x5d6f95",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915152920-x5d6f95"
+					},
+					"Children": [
+						{
+							"ID": "20210915152920-7ogs8pd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915152920-7ogs8pd",
+								"updated": "20210915153036"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基于 CNN 的识别"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915153036-xbhsens",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915153036-xbhsens",
+				"updated": "20210915153052"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "基于深度学习的布置结果"
+				}
+			]
+		},
+		{
+			"ID": "20210915153052-ojqyzpk",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915153052-ojqyzpk",
+				"updated": "20210915153054"
+			},
+			"Children": [
+				{
+					"ID": "20210915153054-1a0mph9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915153054-1a0mph9"
+					},
+					"Children": [
+						{
+							"ID": "20210915153054-o51d382",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915153054-o51d382",
+								"updated": "20210915153108"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Case1：采用 pix2pix 的 GAN 神经网络"
+								}
+							]
+						},
+						{
+							"ID": "20210915153148-e43z5i0",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210915153148-e43z5i0"
+							},
+							"Children": [
+								{
+									"ID": "20210915153144-864wuh4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915153144-864wuh4"
+									},
+									"Children": [
+										{
+											"ID": "20210915153144-r1wuku2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915153144-r1wuku2",
+												"updated": "20210915153217"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "1024x1024 --\u003e 256x256"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210915153310-7vnun9r",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915153310-7vnun9r"
+									},
+									"Children": [
+										{
+											"ID": "20210915153310-xmpji9a",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915153310-xmpji9a",
+												"updated": "20210915153319"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "深度，从每个细节出发"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210915153429-f52ecvw",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915153429-f52ecvw"
+									},
+									"Children": [
+										{
+											"ID": "20210915153429-0x6g7du",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915153429-0x6g7du",
+												"updated": "20210915153435"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "所有关键问题要有结论支持"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915153435-5vhc66m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915153435-5vhc66m"
+					},
+					"Children": [
+						{
+							"ID": "20210915153435-dig4142",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915153435-dig4142",
+								"updated": "20210915153449"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Case2：考虑功能分区"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915153554-gt5hz15",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915153554-gt5hz15",
+				"updated": "20210915153631"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "ETABS 自动建立结构分析模型"
+				}
+			]
+		},
+		{
+			"ID": "20210915153610-i1ce2dd",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915153610-i1ce2dd",
+				"updated": "20210915153610"
+			},
+			"Children": [
+				{
+					"ID": "20210915153610-hb077lk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915153610-hb077lk"
+					},
+					"Children": [
+						{
+							"ID": "20210915153610-i5fckgp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915153610-i5fckgp",
+								"updated": "20210915153615"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "墙线、梁线提取"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915154207-r5atddw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915154207-r5atddw",
+				"updated": "20210915154300"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "论文写作"
+				}
+			]
+		},
+		{
+			"ID": "20210915154300-2ruxz1b",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915154300-2ruxz1b",
+				"updated": "20210915154301"
+			},
+			"Children": [
+				{
+					"ID": "20210915154301-de6847c",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915154301-de6847c"
+					},
+					"Children": [
+						{
+							"ID": "20210915154301-mdalae6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915154301-mdalae6",
+								"updated": "20210915154304"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一个核心创新点"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915154306-xkj5ju8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915154306-xkj5ju8"
+					},
+					"Children": [
+						{
+							"ID": "20210915154306-ade7wc2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915154306-ade7wc2",
+								"updated": "20210915154314"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "文献调研清晰"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915155122-tdxceoi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915155122-tdxceoi"
+					},
+					"Children": [
+						{
+							"ID": "20210915155122-s5y5fxz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915155122-s5y5fxz",
+								"updated": "20210915155134"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "8000 ~ 10000 字"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915155637-h1lr6e6",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915155637-h1lr6e6",
+				"updated": "20210915155652"
+			},
+			"Children": [
+				{
+					"ID": "20210915155638-detuvnx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915155638-detuvnx",
+						"updated": "20210915155652"
+					},
+					"Children": [
+						{
+							"ID": "20210915155638-d3lttv6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915155638-d3lttv6",
+								"updated": "20210915155646"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "人工智能的法律问题"
+								}
+							]
+						},
+						{
+							"ID": "20210915155648-uzkxuoa",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210915155648-uzkxuoa",
+								"updated": "20210915155652"
+							},
+							"Children": [
+								{
+									"ID": "20210915155648-ezy0ae1",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915155648-ezy0ae1",
+										"updated": "20210915155652"
+									},
+									"Children": [
+										{
+											"ID": "20210915155648-ac5o6ls",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915155648-ac5o6ls",
+												"updated": "20210915155652"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "负责人？"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915155218-x7igyz3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210915155218-x7igyz3",
+				"updated": "20210915155615"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "金鑫磊"
+				}
+			]
+		},
+		{
+			"ID": "20210915155616-xyutn9v",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210915155616-xyutn9v",
+				"updated": "20210915160213"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210915155618-axjj46h",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210915155618-axjj46h",
+						"updated": "20210915160213"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "梁端牺牲 "
+						},
+						{
+							"Type": "NodeBackslash",
+							"Data": "span",
+							"Children": [
+								{
+									"Type": "NodeBackslashContent",
+									"Data": "-"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 耗能节点的设计与模拟"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915155631-ioyf4it",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915155631-ioyf4it",
+				"updated": "20210915160635"
+			},
+			"Children": [
+				{
+					"ID": "20210915155659-c20lows",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915155659-c20lows"
+					},
+					"Children": [
+						{
+							"ID": "20210915155659-0ss4370",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915155659-0ss4370",
+								"updated": "20210915155719"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "先屈服机制、负刚度机制、牺牲-耗能机制"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915155758-eadz2gr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915155758-eadz2gr"
+					},
+					"Children": [
+						{
+							"ID": "20210915155758-sk0m44y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915155758-sk0m44y",
+								"updated": "20210915155815"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主动吸引与耗散地震能量的 3 种方式"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915155815-6zwyala",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915155815-6zwyala"
+					},
+					"Children": [
+						{
+							"ID": "20210915155815-lqdpis1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915155815-lqdpis1",
+								"updated": "20210915155915"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "针对框架结构提出一种牺牲 "
+								},
+								{
+									"Type": "NodeBackslash",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeBackslashContent",
+											"Data": "-"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 耗能机制新型节点"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915160112-rd0a5nb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915160112-rd0a5nb"
+					},
+					"Children": [
+						{
+							"ID": "20210915160112-y7rw5pu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915160112-y7rw5pu",
+								"updated": "20210915160129"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "等能量原理 等位移原理"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915160130-sa5wv8x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915160130-sa5wv8x"
+					},
+					"Children": [
+						{
+							"ID": "20210915160130-ohjh2v1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915160130-ohjh2v1",
+								"updated": "20210915160141"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弹性结构和弹塑性结构在一次地震中"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915160145-kul1kf2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915160145-kul1kf2",
+						"updated": "20210915160635"
+					},
+					"Children": [
+						{
+							"ID": "20210915160145-28hh9xt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915160145-28hh9xt",
+								"updated": "20210915160635"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "短周期结构 - 等能量原理 / "
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "长周期结构 - 等位移原理"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915160255-4q6uul2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915160255-4q6uul2"
+					},
+					"Children": [
+						{
+							"ID": "20210915160255-0r5to9q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915160255-0r5to9q",
+								"updated": "20210915160322"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "长周期结构软化型构件集中"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915160335-3p2rbn5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915160335-3p2rbn5"
+					},
+					"Children": [
+						{
+							"ID": "20210915160335-z2g3ljt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915160335-z2g3ljt",
+								"updated": "20210915160338"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "前提："
+								}
+							]
+						},
+						{
+							"ID": "20210915160338-39j22xd",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210915160338-39j22xd"
+							},
+							"Children": [
+								{
+									"ID": "20210915160338-v3pqp1l",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915160338-v3pqp1l"
+									},
+									"Children": [
+										{
+											"ID": "20210915160338-8bxgznn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915160338-8bxgznn",
+												"updated": "20210915160349"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构较柔"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210915160405-7tdnyau",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915160405-7tdnyau"
+									},
+									"Children": [
+										{
+											"ID": "20210915160405-qbok2zz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915160405-qbok2zz",
+												"updated": "20210915160420"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "满足目标位移的构件串联"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210915160421-tm2q3x1",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210915160421-tm2q3x1"
+									},
+									"Children": [
+										{
+											"ID": "20210915160421-eblqsy8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210915160421-eblqsy8",
+												"updated": "20210915160431"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "勇于牺牲的结构不能对结构安全性产生影响"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915160431-ce2ggrs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915160431-ce2ggrs",
+						"updated": "20210915160604"
+					},
+					"Children": [
+						{
+							"ID": "20210915160431-8quknvb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915160431-8quknvb",
+								"updated": "20210915160604"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "牺牲 - 耗能伸臂桁架设计与模拟"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915160230-twdct00",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915160230-twdct00",
+				"updated": "20210915160943"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "有限元模拟"
+				}
+			]
+		},
+		{
+			"ID": "20210915160943-tfo747d",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915160943-tfo747d",
+				"updated": "20210915161005"
+			},
+			"Children": [
+				{
+					"ID": "20210915161005-8iyvhon",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915161005-8iyvhon"
+					},
+					"Children": [
+						{
+							"ID": "20210915161005-vrkflpu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915161005-vrkflpu",
+								"updated": "20210915161008"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "ABAQUS"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915161014-8fm88ia",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915161014-8fm88ia"
+					},
+					"Children": [
+						{
+							"ID": "20210915161014-3aoj3my",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915161014-3aoj3my",
+								"updated": "20210915161031"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "MARC 生死单元"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915161701-prozryz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915161701-prozryz",
+				"updated": "20210915161714"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "设计路径"
+				}
+			]
+		},
+		{
+			"ID": "20210915161714-2qy6sm0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915161714-2qy6sm0",
+				"updated": "20210915161807"
+			},
+			"Children": [
+				{
+					"ID": "20210915161716-ogwcse3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915161716-ogwcse3",
+						"updated": "20210915161807"
+					},
+					"Children": [
+						{
+							"ID": "20210915161716-ljw8mph",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915161716-ljw8mph",
+								"updated": "20210915161807"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "提出 proposal --\u003e 节点构造设计 --\u003e 有限元计算 --\u003e 结构试验 --\u003e 结构体系设计方法提出"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915161703-n869ohx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210915161703-n869ohx",
+				"updated": "20210915163111"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "费一凡"
+				}
+			]
+		},
+		{
+			"ID": "20210915163111-py71huk",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210915163111-py71huk",
+				"updated": "20210915163332"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210915163117-0mohz4x",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210915163117-0mohz4x",
+						"updated": "20210915163332"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "强化学习 剪力墙布置"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915163123-m9hkp6m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915163123-m9hkp6m",
+				"updated": "20210915163250"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "文献调研"
+				}
+			]
+		},
+		{
+			"ID": "20210915163250-lg1jra4",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915163250-lg1jra4",
+				"updated": "20210915163251"
+			},
+			"Children": [
+				{
+					"ID": "20210915163251-lzgx0lo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915163251-lzgx0lo"
+					},
+					"Children": [
+						{
+							"ID": "20210915163251-i3v6ot9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915163251-i3v6ot9",
+								"updated": "20210915163302"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "强化学习在工程设计中一般用于特定场景"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915163302-a57wpjs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915163302-a57wpjs"
+					},
+					"Children": [
+						{
+							"ID": "20210915163302-2hhsk0r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915163302-2hhsk0r",
+								"updated": "20210915163321"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "具有泛化性的强化学习较少"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915163357-0zvrchp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915163357-0zvrchp",
+				"updated": "20210915163401"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "问题抽象"
+				}
+			]
+		},
+		{
+			"ID": "20210915163401-drzc1do",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915163401-drzc1do",
+				"updated": "20210915163402"
+			},
+			"Children": [
+				{
+					"ID": "20210915163402-tk1nr61",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915163402-tk1nr61"
+					},
+					"Children": [
+						{
+							"ID": "20210915163402-l1b8ie1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915163402-l1b8ie1",
+								"updated": "20210915163418"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "剪力墙布置映射到标准化网格"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915163434-z58f1ew",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915163434-z58f1ew"
+					},
+					"Children": [
+						{
+							"ID": "20210915163434-kj539e2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915163434-kj539e2",
+								"updated": "20210915163444"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Ground structure method"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915163459-noltx82",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915163459-noltx82",
+				"updated": "20210915163502"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "网络架构"
+				}
+			]
+		},
+		{
+			"ID": "20210915163503-4ojxr05",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210915163503-4ojxr05",
+				"updated": "20210915163607"
+			},
+			"Children": [
+				{
+					"ID": "20210915163503-veko5we",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915163503-veko5we"
+					},
+					"Children": [
+						{
+							"ID": "20210915163503-ctowiqa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915163503-ctowiqa",
+								"updated": "20210915163519"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "策略网络 + 值网络"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210915163602-2mhsk28",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210915163602-2mhsk28",
+						"updated": "20210915163607"
+					},
+					"Children": [
+						{
+							"ID": "20210915163602-q2bxop4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210915163602-q2bxop4",
+								"updated": "20210915163607"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "GNN --\u003e CNN"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210915163948-vaubqtx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210915163948-vaubqtx",
+				"updated": "20210915165647"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "陈旺"
+				}
+			]
+		},
+		{
+			"ID": "20210915165647-tus874l",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210915165647-tus874l",
+				"updated": "20210915170627"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "软件"
+				}
+			]
+		},
+		{
+			"ID": "20210915170622-hry024u",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210915170622-hry024u",
+				"updated": "20210915170622"
+			}
+		}
+	]
+}

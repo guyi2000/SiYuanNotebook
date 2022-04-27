@@ -1,0 +1,464 @@
+{
+	"ID": "20210929210027-qdah2jz",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210929210027-qdah2jz",
+		"title": "2021-09-29-系TMS第一次例会",
+		"title-img": "background-image:linear-gradient(to top, #65bd60 0%, #5ac1a8 25%, #3ec6ed 50%, #b7ddb7 75%, #fef381 100%)",
+		"updated": "20210930221030"
+	},
+	"Children": [
+		{
+			"ID": "20210929210029-an3eq6y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210929210029-an3eq6y",
+				"updated": "20210929210038"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "固本计划"
+				}
+			]
+		},
+		{
+			"ID": "20210929210038-6uf7taa",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210929210038-6uf7taa",
+				"updated": "20210929210039"
+			},
+			"Children": [
+				{
+					"ID": "20210929210039-6te82s9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929210039-6te82s9"
+					},
+					"Children": [
+						{
+							"ID": "20210929210039-djgl74c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929210039-djgl74c",
+								"updated": "20210929210047"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "党史学习"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929210100-m4oqubh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929210100-m4oqubh"
+					},
+					"Children": [
+						{
+							"ID": "20210929210100-9nn68w3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929210100-9nn68w3",
+								"updated": "20210929210358"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建议每个申报单位（全系）"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "一本书"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "，建议不少于"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "两次读书研讨会"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "（邀请非积极分子参与）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929210141-91xu36v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929210141-91xu36v"
+					},
+					"Children": [
+						{
+							"ID": "20210929210141-h2prha8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929210141-h2prha8",
+								"updated": "20210929210148"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "50 元 / 人"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929210148-crirhfr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929210148-crirhfr"
+					},
+					"Children": [
+						{
+							"ID": "20210929210148-un9kiho",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929210148-un9kiho",
+								"updated": "20210929211024"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第四周周三晚提交材料"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929211025-t4c0exs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929211025-t4c0exs"
+					},
+					"Children": [
+						{
+							"ID": "20210929211025-6o87wrx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929211025-6o87wrx",
+								"updated": "20210929211038"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "第十二周下发总结材料"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210929211910-u47b69t",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210929211910-u47b69t",
+				"updated": "20210929211924"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210929211913-an3v9zu",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210929211913-an3v9zu",
+						"updated": "20210929211924"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "常务工作：党课小组积极分子人数等"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210929210734-4eqy9fn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210929210734-4eqy9fn",
+				"updated": "20210929211044"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "深根计划"
+				}
+			]
+		},
+		{
+			"ID": "20210929211045-57rnqzh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210929211045-57rnqzh",
+				"updated": "20210929212901"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "理论 1+1"
+				}
+			]
+		},
+		{
+			"ID": "20210929212902-5gpuuqd",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210929212902-5gpuuqd",
+				"updated": "20210929212958"
+			},
+			"Children": [
+				{
+					"ID": "20210929212902-sipgimw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929212902-sipgimw"
+					},
+					"Children": [
+						{
+							"ID": "20210929212902-quyau6n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929212902-quyau6n",
+								"updated": "20210929212926"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不强求合办，可以分开"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929212928-qzkfwbp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929212928-qzkfwbp"
+					},
+					"Children": [
+						{
+							"ID": "20210929212928-vp6du2h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929212928-vp6du2h",
+								"updated": "20210929212937"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "集中党团日活动，均可报名"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929212952-lt08spk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929212952-lt08spk",
+						"updated": "20210929212958"
+					},
+					"Children": [
+						{
+							"ID": "20210929212952-s9kxhc7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929212952-s9kxhc7",
+								"updated": "20210929212958"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第五周周末报送策划"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210929213010-w0mn4di",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210929213010-w0mn4di",
+				"updated": "20210929213219"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "求索杯"
+				}
+			]
+		},
+		{
+			"ID": "20210929213219-enqsxof",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210929213219-enqsxof",
+				"updated": "20210929213257"
+			},
+			"Children": [
+				{
+					"ID": "20210929213244-ho0140u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929213244-ho0140u"
+					},
+					"Children": [
+						{
+							"ID": "20210929213244-4g5q7gu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929213244-4g5q7gu",
+								"updated": "20210929213248"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第十周前举办"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210929213248-f1pql9b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210929213248-f1pql9b",
+						"updated": "20210929213257"
+					},
+					"Children": [
+						{
+							"ID": "20210929213248-bw801b7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210929213248-bw801b7",
+								"updated": "20210929213257"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第三周周末前报送时间"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

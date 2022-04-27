@@ -1,0 +1,182 @@
+{
+	"ID": "20210721104439-x1m2qku",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210721104439-x1m2qku",
+		"title": "【1】结构设计大赛赛题说明",
+		"title-img": "background:linear-gradient(135deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),linear-gradient(225deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;background-color:#708090;background-size: 64px 128px;",
+		"updated": "20210927221840"
+	},
+	"Children": [
+		{
+			"ID": "20210721104439-el5eud5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721104439-el5eud5",
+				"updated": "20210927220530"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "2021-09-27"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210721104618-0c5frym",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210721104618-0c5frym",
+				"updated": "20210927220825"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "赛题说明"
+				}
+			]
+		},
+		{
+			"ID": "20210721104639-ciuyr7p",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210721104639-ciuyr7p",
+				"updated": "20210927221211"
+			},
+			"Children": [
+				{
+					"ID": "20210927220826-vz6z7d4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210927220826-vz6z7d4"
+					},
+					"Children": [
+						{
+							"ID": "20210927220826-y5q41rn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210927220826-y5q41rn",
+								"updated": "20210927220833"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "模型比例 1:120"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210927220958-9w4zmqy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210927220958-9w4zmqy"
+					},
+					"Children": [
+						{
+							"ID": "20210927220958-v7yfpad",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210927220958-v7yfpad",
+								"updated": "20210927221008"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "60 * 35 * 35 的台"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210927221016-xa2aqed",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210927221016-xa2aqed"
+					},
+					"Children": [
+						{
+							"ID": "20210927221016-h535w13",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210927221016-h535w13",
+								"updated": "20210927221206"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "其它功能区（休息厅、等）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210927221207-swy24xe",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210927221207-swy24xe",
+						"updated": "20210927221211"
+					},
+					"Children": [
+						{
+							"ID": "20210927221207-bel9b9r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210927221207-bel9b9r",
+								"updated": "20210927221211"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一级静载"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210927221840-5qdhk98",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210927221840-5qdhk98",
+				"updated": "20210927221840"
+			}
+		}
+	]
+}

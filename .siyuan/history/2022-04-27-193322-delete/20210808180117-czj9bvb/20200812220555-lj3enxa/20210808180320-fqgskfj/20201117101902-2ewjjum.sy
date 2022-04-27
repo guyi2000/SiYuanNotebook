@@ -3,9 +3,9 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20201117101902-2ewjjum",
-		"title": "嵌入内容块",
+		"title": "5 嵌入内容块",
 		"type": "doc",
-		"updated": "20211223192455"
+		"updated": "20210630172500"
 	},
 	"Children": [
 		{
@@ -260,12 +260,8 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
-									"ID": "20220307091943-nnvt195",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%内容块%' AND type = 'i' }}\n",
-									"Properties": {
-										"id": "20220307091943-nnvt195"
-									}
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%内容块%' AND type = 'i' }}\n"
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -371,12 +367,8 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
-									"ID": "20220307091943-yr7wm1v",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%内容块%' AND content LIKE '%引用%' AND type = 'p') }}\n",
-									"Properties": {
-										"id": "20220307091943-yr7wm1v"
-									}
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%内容块%' AND content LIKE '%引用%' AND type = 'p') }}\n"
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -483,12 +475,8 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
-									"ID": "20220307091943-wjxtfog",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%内容块%' AND content LIKE '%嵌入%' AND type = 'h' ORDER BY updated DESC LIMIT 2 }}\n",
-									"Properties": {
-										"id": "20220307091943-wjxtfog"
-									}
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%内容块%' AND content LIKE '%嵌入%' AND type = 'h' ORDER BY updated DESC LIMIT 2 }}\n"
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -579,9 +567,9 @@
 		{
 			"ID": "20210111224926-ju1sd4d",
 			"Type": "NodeBlockQueryEmbed",
+			"Data": "{{SELECT * FROM blocks WHERE content LIKE '%在思源中%' AND content LIKE '%核心概念%' AND path NOT LIKE '%嵌入内容块%'}}\n",
 			"Properties": {
-				"id": "20210111224926-ju1sd4d",
-				"updated": "20211222185346"
+				"id": "20210111224926-ju1sd4d"
 			},
 			"Children": [
 				{
@@ -592,7 +580,7 @@
 				},
 				{
 					"Type": "NodeBlockQueryEmbedScript",
-					"Data": "SELECT * FROM blocks WHERE content LIKE '%在思源中%' AND content LIKE '%核心概念%' AND hpath NOT LIKE '%嵌入内容块%'"
+					"Data": "SELECT * FROM blocks WHERE content LIKE '%在思源中%' AND content LIKE '%核心概念%' AND path NOT LIKE '%嵌入内容块%'"
 				},
 				{
 					"Type": "NodeCloseBrace"
@@ -680,9 +668,9 @@
 		{
 			"ID": "20201224120447-veyqmvr",
 			"Type": "NodeBlockQueryEmbed",
+			"Data": "{{SELECT * FROM blocks WHERE (content LIKE '%#内容块/嵌入#%' OR content LIKE '%#内容块/引用#%') AND path NOT LIKE '%嵌入内容块%'}}\n",
 			"Properties": {
-				"id": "20201224120447-veyqmvr",
-				"updated": "20211222185428"
+				"id": "20201224120447-veyqmvr"
 			},
 			"Children": [
 				{
@@ -693,7 +681,7 @@
 				},
 				{
 					"Type": "NodeBlockQueryEmbedScript",
-					"Data": "SELECT * FROM blocks WHERE (content LIKE '%#内容块/嵌入#%' OR content LIKE '%#内容块/引用#%') AND hpath NOT LIKE '%嵌入内容块%'"
+					"Data": "SELECT * FROM blocks WHERE (content LIKE '%#内容块/嵌入#%' OR content LIKE '%#内容块/引用#%') AND path NOT LIKE '%嵌入内容块%'"
 				},
 				{
 					"Type": "NodeCloseBrace"
@@ -834,7 +822,7 @@
 			"Type": "NodeBlockQueryEmbed",
 			"Properties": {
 				"id": "20210630172118-iu2hsz3",
-				"updated": "20211008203521"
+				"updated": "20210630172302"
 			},
 			"Children": [
 				{
@@ -845,7 +833,7 @@
 				},
 				{
 					"Type": "NodeBlockQueryEmbedScript",
-					"Data": "SELECT * FROM blocks WHERE markdown LIKE '%[ ]%' AND subtype = 't' AND type = 'i'"
+					"Data": "SELECT * FROM blocks WHERE markdown LIKE '%- [ ]%' AND subtype = 't' AND type = 'i'"
 				},
 				{
 					"Type": "NodeCloseBrace"

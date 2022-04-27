@@ -1,0 +1,1895 @@
+{
+	"ID": "20210917152837-dxf88ow",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210917152837-dxf88ow",
+		"title": "【1】绪论",
+		"title-img": "background:radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%),radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%),radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;background-color:#63773F;background-size:100px 100px;",
+		"updated": "20210924113208"
+	},
+	"Children": [
+		{
+			"ID": "20210917152922-x9b5jsx",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210917152922-x9b5jsx",
+				"updated": "20210917153610"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210917153104-r904nkz",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210917153104-r904nkz",
+						"updated": "20210917153610"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrong",
+							"Data": "strong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "海洋遥感学"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "（Oceanographic Remote Sensing），又称"
+						},
+						{
+							"Type": "NodeStrong",
+							"Data": "strong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "卫星海洋学"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，是随着人造地球卫星的诞生而发展起来的海洋科学的分支，它包括了两方面的内容，即遥感的海洋学解释与遥感的海洋学应用。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917153108-2v87qoa",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210917153108-2v87qoa",
+				"updated": "20210917153144"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210917153109-9gfrh76",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210917153109-9gfrh76",
+						"updated": "20210917153143"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "遥感的海洋学解释，涉及到对各种各样海洋环境参量的反演机制和信息提取方法的研究。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917153144-0n7hpxk",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210917153144-0n7hpxk",
+				"updated": "20210917153211"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210917153145-5agruov",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210917153145-5agruov",
+						"updated": "20210917153211"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "遥感的海洋学应用涉及到运用卫星遥感资料在海洋学各个领域的研究。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917153247-710c93c",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917153247-710c93c",
+				"updated": "20210917153256"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "卫星遥感"
+				}
+			]
+		},
+		{
+			"ID": "20210917153256-fr5ruk8",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917153256-fr5ruk8",
+				"updated": "20210917153451"
+			},
+			"Children": [
+				{
+					"ID": "20210917153257-s69i4gb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153257-s69i4gb",
+						"updated": "20210917153329"
+					},
+					"Children": [
+						{
+							"ID": "20210917153257-8rful87",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153257-8rful87",
+								"updated": "20210917153329"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "仪器校正(Sensor calibration)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153303-dn4gtcb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153303-dn4gtcb",
+						"updated": "20210917153347"
+					},
+					"Children": [
+						{
+							"ID": "20210917153303-mvfn6mc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153303-mvfn6mc",
+								"updated": "20210917153347"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "大气矫正(Atmosphere calibration)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153305-a0nm7sq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153305-a0nm7sq",
+						"updated": "20210917153400"
+					},
+					"Children": [
+						{
+							"ID": "20210917153305-rn27lop",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153305-rn27lop",
+								"updated": "20210917153400"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "定位(Positional registration)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153306-rilvq77",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153306-rilvq77",
+						"updated": "20210917153418"
+					},
+					"Children": [
+						{
+							"ID": "20210917153306-95dykqq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153306-95dykqq",
+								"updated": "20210917153418"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋信息提取(Oceanographic sampling for \"sea truth\")"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153314-uw8c03y",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153314-uw8c03y",
+						"updated": "20210917153424"
+					},
+					"Children": [
+						{
+							"ID": "20210917153314-2qdi096",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153314-2qdi096",
+								"updated": "20210917153424"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "图片处理(Image processing)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153318-wx2p35t",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153318-wx2p35t",
+						"updated": "20210917153451"
+					},
+					"Children": [
+						{
+							"ID": "20210917153318-r4d7v8v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153318-r4d7v8v",
+								"updated": "20210917153451"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋应用(Oceanographic applications of satellite remote sensing)"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917153615-uj688ie",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917153615-uj688ie",
+				"updated": "20210917153651"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "课程设置"
+				}
+			]
+		},
+		{
+			"ID": "20210917153651-97esvtu",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210917153651-97esvtu",
+				"updated": "20210917153702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "海洋遥感部分"
+				}
+			]
+		},
+		{
+			"ID": "20210917153705-f3d23mz",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210917153705-f3d23mz",
+				"updated": "20210917153706"
+			},
+			"Children": [
+				{
+					"ID": "20210917153706-0svoc99",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210917153706-0svoc99"
+					},
+					"Children": [
+						{
+							"ID": "20210917153706-x8l7pbk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153706-x8l7pbk",
+								"updated": "20210917153820"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "绪论(Introduction)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153708-8hxih1j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210917153708-8hxih1j"
+					},
+					"Children": [
+						{
+							"ID": "20210917153708-1wey99u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153708-1wey99u",
+								"updated": "20210917153848"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "气象卫星与水色卫星(Meteorological Satellite \u0026 Ocean Color Satellite)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153718-n6q530m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210917153718-n6q530m"
+					},
+					"Children": [
+						{
+							"ID": "20210917153718-tye5396",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153718-tye5396",
+								"updated": "20210917153724"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋卫星与陆地卫星"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153725-d6klomm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210917153725-d6klomm"
+					},
+					"Children": [
+						{
+							"ID": "20210917153725-bkiehn8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153725-bkiehn8",
+								"updated": "20210917153731"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "卫星轨道与分辨率"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153731-uc9wc23",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210917153731-uc9wc23"
+					},
+					"Children": [
+						{
+							"ID": "20210917153731-t4z6a6w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153731-t4z6a6w",
+								"updated": "20210917153736"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "电磁辐射"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153736-u2s2vxh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ni4=",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20210917153736-u2s2vxh"
+					},
+					"Children": [
+						{
+							"ID": "20210917153736-22yy2q6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153736-22yy2q6",
+								"updated": "20210917153742"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "散射和吸收"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153742-jfvcaeq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ny4=",
+						"Num": 7
+					},
+					"Properties": {
+						"id": "20210917153742-jfvcaeq"
+					},
+					"Children": [
+						{
+							"ID": "20210917153742-6m5v1af",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153742-6m5v1af",
+								"updated": "20210917153752"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "可见光和近红外辐射计与水色遥感"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153753-5w9yeve",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "OC4=",
+						"Num": 8
+					},
+					"Properties": {
+						"id": "20210917153753-5w9yeve"
+					},
+					"Children": [
+						{
+							"ID": "20210917153753-d33b389",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153753-d33b389",
+								"updated": "20210917153758"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "热红外辐射计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153758-izu7oiy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "OS4=",
+						"Num": 9
+					},
+					"Properties": {
+						"id": "20210917153758-izu7oiy"
+					},
+					"Children": [
+						{
+							"ID": "20210917153758-ql7vas7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153758-ql7vas7",
+								"updated": "20210917153802"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "微波辐射计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153856-m62r9xz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MTAu",
+						"Num": 10
+					},
+					"Properties": {
+						"id": "20210917153856-m62r9xz"
+					},
+					"Children": [
+						{
+							"ID": "20210917153856-dxefpoe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153856-dxefpoe",
+								"updated": "20210917153902"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "散射计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153902-txcb6m5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MTEu",
+						"Num": 11
+					},
+					"Properties": {
+						"id": "20210917153902-txcb6m5"
+					},
+					"Children": [
+						{
+							"ID": "20210917153902-80gratq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153902-80gratq",
+								"updated": "20210917153905"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "高度计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917153906-ik2vlgu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MTIu",
+						"Num": 12
+					},
+					"Properties": {
+						"id": "20210917153906-ik2vlgu"
+					},
+					"Children": [
+						{
+							"ID": "20210917153906-hpflzpc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153906-hpflzpc",
+								"updated": "20210917153910"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "合成孔径雷达"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917153918-opfh8jx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210917153918-opfh8jx",
+				"updated": "20210917153924"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "海洋大数据部分"
+				}
+			]
+		},
+		{
+			"ID": "20210917153924-8quurrx",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917153924-8quurrx",
+				"updated": "20210917153925"
+			},
+			"Children": [
+				{
+					"ID": "20210917153925-j6auw2n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917153925-j6auw2n"
+					},
+					"Children": [
+						{
+							"ID": "20210917153925-3ohkfrl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917153925-3ohkfrl",
+								"updated": "20210917153931"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "很短时间学习"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917153931-uv3zwhj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917153931-uv3zwhj",
+				"updated": "20210917154046"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "为什么使用遥感"
+				}
+			]
+		},
+		{
+			"ID": "20210917154159-6x3s0ab",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917154159-6x3s0ab",
+				"updated": "20210917154354"
+			},
+			"Children": [
+				{
+					"ID": "20210917154354-vatzam5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917154354-vatzam5"
+					},
+					"Children": [
+						{
+							"ID": "20210917154354-g0ybhxk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917154354-g0ybhxk",
+								"updated": "20210917154503"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "相对于船测，时空不连续性更弱"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917154504-3gktmzf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917154504-3gktmzf"
+					},
+					"Children": [
+						{
+							"ID": "20210917154504-ayp1ffh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917154504-ayp1ffh",
+								"updated": "20210917154511"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "卫星遥感分辨率"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917154547-dpdx812",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917154547-dpdx812"
+					},
+					"Children": [
+						{
+							"ID": "20210917154547-n80nvlt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917154547-n80nvlt",
+								"updated": "20210917154600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "卫星遥感可以捕捉到更多的细节"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917154615-voby7mq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917154615-voby7mq",
+				"updated": "20210917154620"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "教学目标"
+				}
+			]
+		},
+		{
+			"ID": "20210917154620-beiitao",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917154620-beiitao",
+				"updated": "20210917154621"
+			},
+			"Children": [
+				{
+					"ID": "20210917154621-edmeriu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917154621-edmeriu"
+					},
+					"Children": [
+						{
+							"ID": "20210917154621-ly9olew",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917154621-ly9olew",
+								"updated": "20210917154629"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "测什么？"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917154629-zcgbbjy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917154629-zcgbbjy"
+					},
+					"Children": [
+						{
+							"ID": "20210917154629-r3ru83f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917154629-r3ru83f",
+								"updated": "20210917154638"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "怎么测？"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917154632-iffk7fl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917154632-iffk7fl"
+					},
+					"Children": [
+						{
+							"ID": "20210917154632-y8f8frj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917154632-y8f8frj",
+								"updated": "20210917154637"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如何用？"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917154639-i5i9uw5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917154639-i5i9uw5",
+				"updated": "20210917155129"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "参考书目"
+				}
+			]
+		},
+		{
+			"ID": "20210917155129-n5koo0h",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917155129-n5koo0h",
+				"updated": "20210917155130"
+			},
+			"Children": [
+				{
+					"ID": "20210917155130-rkrfnx8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155130-rkrfnx8"
+					},
+					"Children": [
+						{
+							"ID": "20210917155130-gwnxf5e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155130-gwnxf5e",
+								"updated": "20210917155146"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "卫星海洋学（刘玉光）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917155134-j4njzrf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155134-j4njzrf"
+					},
+					"Children": [
+						{
+							"ID": "20210917155134-drgdiu8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155134-drgdiu8",
+								"updated": "20210917155138"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋遥感导论"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917155249-fp3zmw4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210917155249-fp3zmw4",
+				"updated": "20210917155303"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第一章 绪论(Introduction)"
+				}
+			]
+		},
+		{
+			"ID": "20210917155303-xrzvcuz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917155303-xrzvcuz",
+				"updated": "20210917155314"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "卫星海洋遥感的应用"
+				}
+			]
+		},
+		{
+			"ID": "20210917155427-nu1odrz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210917155427-nu1odrz",
+				"updated": "20210917155705"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "遥感能测什么"
+				}
+			]
+		},
+		{
+			"ID": "20210917155705-9ztjkb3",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917155705-9ztjkb3",
+				"updated": "20210917161235"
+			},
+			"Children": [
+				{
+					"ID": "20210917155706-5pb2etg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155706-5pb2etg"
+					},
+					"Children": [
+						{
+							"ID": "20210917155706-36i349z",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155706-36i349z",
+								"updated": "20210917160235"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋表面的温度(Sea surface temperature)"
+								}
+							]
+						},
+						{
+							"ID": "20210917160642-kp1znx9",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210917160642-kp1znx9"
+							},
+							"Children": [
+								{
+									"ID": "20210917160642-4nhmmt0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917160642-4nhmmt0"
+									},
+									"Children": [
+										{
+											"ID": "20210917160642-evwa88w",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917160642-evwa88w",
+												"updated": "20210917160655"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "确定流场的时间和空间"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917160655-5t8jzyh",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917160655-5t8jzyh"
+									},
+									"Children": [
+										{
+											"ID": "20210917160655-y93odn6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917160655-y93odn6",
+												"updated": "20210917160741"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "风生上升流"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917160711-hyc2t77",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917160711-hyc2t77"
+									},
+									"Children": [
+										{
+											"ID": "20210917160711-j3givxu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917160711-j3givxu",
+												"updated": "20210917160719"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "地形诱导上升流"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917160720-5fdvbd4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917160720-5fdvbd4"
+									},
+									"Children": [
+										{
+											"ID": "20210917160720-fq2lzri",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917160720-fq2lzri",
+												"updated": "20210917160747"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "流生上升流"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917160748-dpnqf4c",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917160748-dpnqf4c"
+									},
+									"Children": [
+										{
+											"ID": "20210917160748-57q230i",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917160748-57q230i",
+												"updated": "20210917160801"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "潮生上升流"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917155715-t239xqs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155715-t239xqs"
+					},
+					"Children": [
+						{
+							"ID": "20210917155715-tvesxpk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155715-tvesxpk",
+								"updated": "20210917160247"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋表面的盐度(Sea surface salinity)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160247-27kter3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160247-27kter3",
+						"updated": "20210917161235"
+					},
+					"Children": [
+						{
+							"ID": "20210917160247-ii6c34d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160247-ii6c34d",
+								"updated": "20210917160258"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海平面异常(Sea level anomaly)"
+								}
+							]
+						},
+						{
+							"ID": "20210917161224-geoil7k",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210917161224-geoil7k",
+								"updated": "20210917161235"
+							},
+							"Children": [
+								{
+									"ID": "20210917161223-l2tvc8g",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917161223-l2tvc8g",
+										"updated": "20210917161235"
+									},
+									"Children": [
+										{
+											"ID": "20210917161223-a87zfn9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917161223-a87zfn9",
+												"updated": "20210917161235"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "ENSO 事件"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160259-c13lcdh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160259-c13lcdh"
+					},
+					"Children": [
+						{
+							"ID": "20210917160259-dabmyz8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160259-dabmyz8",
+								"updated": "20210917160308"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海流(Ocean current)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160309-lqr4q99",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160309-lqr4q99"
+					},
+					"Children": [
+						{
+							"ID": "20210917160309-60cm7s8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160309-60cm7s8",
+								"updated": "20210917160326"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海面风(Sea surface wind)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917155722-s6h40tm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155722-s6h40tm"
+					},
+					"Children": [
+						{
+							"ID": "20210917155722-cfiphl7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155722-cfiphl7",
+								"updated": "20210917160330"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "水色(Ocean color)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917155808-xgfltft",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155808-xgfltft"
+					},
+					"Children": [
+						{
+							"ID": "20210917155808-gdrdosv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155808-gdrdosv",
+								"updated": "20210917160351"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋内波(Ocean internal waves)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917155906-3fuex0s",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917155906-3fuex0s"
+					},
+					"Children": [
+						{
+							"ID": "20210917155906-d07n9ir",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917155906-d07n9ir",
+								"updated": "20210917160100"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "洋流"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160102-qnts7t1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160102-qnts7t1"
+					},
+					"Children": [
+						{
+							"ID": "20210917160102-gc8c2vg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160102-gc8c2vg",
+								"updated": "20210917160421"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "叶绿素浓度(Chlorophill concentration)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160445-0ifb8zt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160445-0ifb8zt"
+					},
+					"Children": [
+						{
+							"ID": "20210917160445-hjdyh4l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160445-hjdyh4l",
+								"updated": "20210917160503"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "悬浮物浓度(Suspended matter concentration)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160509-rdy6juj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160509-rdy6juj"
+					},
+					"Children": [
+						{
+							"ID": "20210917160509-au42lc6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160509-au42lc6",
+								"updated": "20210917160518"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海浪(Sea waves)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160524-hxjbb99",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160524-hxjbb99"
+					},
+					"Children": [
+						{
+							"ID": "20210917160524-ehj0ivq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160524-ehj0ivq",
+								"updated": "20210917160538"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "色素浓度(Pigment concentration)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160121-jigzgs6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160121-jigzgs6"
+					},
+					"Children": [
+						{
+							"ID": "20210917160121-qyiob6h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160121-qyiob6h",
+								"updated": "20210917160122"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "污染"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160129-qrxg9q6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160129-qrxg9q6"
+					},
+					"Children": [
+						{
+							"ID": "20210917160129-we46kqc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160129-we46kqc",
+								"updated": "20210917160131"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "灾害"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917160133-qrqaa52",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917160133-qrqaa52"
+					},
+					"Children": [
+						{
+							"ID": "20210917160133-2dbh4af",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917160133-2dbh4af",
+								"updated": "20210917160136"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "含沙量"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917155314-t0ivk3k",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917155314-t0ivk3k",
+				"updated": "20210917155321"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "中国气象卫星的发展"
+				}
+			]
+		},
+		{
+			"ID": "20210917162830-r19yj14",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917162830-r19yj14",
+				"updated": "20210917162845"
+			},
+			"Children": [
+				{
+					"ID": "20210917162830-fc1qypu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917162830-fc1qypu",
+						"updated": "20210917162845"
+					},
+					"Children": [
+						{
+							"ID": "20210917162830-nl70fj6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917162830-nl70fj6",
+								"updated": "20210917162845"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "风云系列卫星（气象卫星）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917155321-3fya2xk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917155321-3fya2xk",
+				"updated": "20210917155329"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "中国海洋遥感的进步"
+				}
+			]
+		},
+		{
+			"ID": "20210917155329-ypfzshe",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917155329-ypfzshe",
+				"updated": "20210917155356"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "中国卫星发展的现状和目标"
+				}
+			]
+		},
+		{
+			"ID": "20210917155356-y4opn94",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917155356-y4opn94",
+				"updated": "20210917155411"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "数据分发(Data Distribution)"
+				}
+			]
+		},
+		{
+			"ID": "20210917163533-6e7zoft",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210917163533-6e7zoft",
+				"updated": "20210917163540"
+			},
+			"Children": [
+				{
+					"ID": "20210917163534-50nyn4g",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917163534-50nyn4g"
+					},
+					"Children": [
+						{
+							"ID": "20210917163534-376n41p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917163534-376n41p",
+								"updated": "20210917163537"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "NETCDF"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917163538-hvqvm5l",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210917163538-hvqvm5l",
+						"updated": "20210917163540"
+					},
+					"Children": [
+						{
+							"ID": "20210917163538-elfwtvp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917163538-elfwtvp",
+								"updated": "20210917163540"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "GRIB"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917155409-zl18v7n",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917155409-zl18v7n",
+				"updated": "20210917155425"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "海洋遥感信息和数据相关网站"
+				}
+			]
+		}
+	]
+}

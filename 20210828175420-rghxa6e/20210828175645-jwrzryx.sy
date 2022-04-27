@@ -1,0 +1,20 @@
+{
+	"ID": "20210828175645-jwrzryx",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f469-200d-1f52c",
+		"id": "20210828175645-jwrzryx",
+		"title": "技术服务部",
+		"updated": "20210828175645"
+	},
+	"Children": [
+		{
+			"ID": "20210828175645-prqxwao",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210828175645-prqxwao",
+				"updated": "20210828175645"
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"ID": "20211013152245-bizwd1l",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f9ec",
+		"id": "20211013152245-bizwd1l",
+		"title": "社工案例研讨课",
+		"updated": "20211013152255"
+	},
+	"Children": [
+		{
+			"ID": "20211013152245-c8ibd9n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211013152245-c8ibd9n",
+				"updated": "20211013152245"
+			}
+		}
+	]
+}

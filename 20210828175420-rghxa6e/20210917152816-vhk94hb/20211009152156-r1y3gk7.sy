@@ -1,0 +1,1094 @@
+{
+	"ID": "20211009152156-r1y3gk7",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "35-20e3",
+		"id": "20211009152156-r1y3gk7",
+		"title": "【5】电磁辐射",
+		"title-img": "background:radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%),radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%),radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;background-color:#63773F;background-size:100px 100px;",
+		"updated": "20211009154856"
+	},
+	"Children": [
+		{
+			"ID": "20211009152156-45zyal4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211009152156-45zyal4",
+				"updated": "20211009152322"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "电磁波的波段"
+				}
+			]
+		},
+		{
+			"ID": "20211009152322-79x2qg9",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211009152322-79x2qg9",
+				"updated": "20211009153053"
+			},
+			"Children": [
+				{
+					"ID": "20211009152436-ib57sxo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009152436-ib57sxo"
+					},
+					"Children": [
+						{
+							"ID": "20211009152436-wcqnh3o",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009152436-wcqnh3o",
+								"updated": "20211009152443"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "分为 7 个部分"
+								}
+							]
+						},
+						{
+							"ID": "20211009152443-5naesn2",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009152443-5naesn2"
+							},
+							"Children": [
+								{
+									"ID": "20211009152443-uga19qn",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152443-uga19qn"
+									},
+									"Children": [
+										{
+											"ID": "20211009152443-14ofzpm",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152443-14ofzpm",
+												"updated": "20211009152450"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "无线电波——FM、AM"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152450-1rjafyr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152450-1rjafyr"
+									},
+									"Children": [
+										{
+											"ID": "20211009152450-0iw7wxw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152450-0iw7wxw",
+												"updated": "20211009152453"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "微波"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152453-pbb41yl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152453-pbb41yl"
+									},
+									"Children": [
+										{
+											"ID": "20211009152453-44fckvr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152453-44fckvr",
+												"updated": "20211009152456"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "红外"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152456-zy8bo6n",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152456-zy8bo6n"
+									},
+									"Children": [
+										{
+											"ID": "20211009152456-avflbcn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152456-avflbcn",
+												"updated": "20211009152459"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可见光"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152458-944h4ct",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152458-944h4ct"
+									},
+									"Children": [
+										{
+											"ID": "20211009152458-0b2suyo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152458-0b2suyo",
+												"updated": "20211009152500"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "紫外"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152500-2405ty7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152500-2405ty7"
+									},
+									"Children": [
+										{
+											"ID": "20211009152500-5ur30xw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152500-5ur30xw",
+												"updated": "20211009152511"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "X 射线"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152511-9d3ovl5",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152511-9d3ovl5"
+									},
+									"Children": [
+										{
+											"ID": "20211009152511-mcmt6bl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152511-mcmt6bl",
+												"updated": "20211009152515"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "伽马射线"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009152515-lfk7pdo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009152515-lfk7pdo",
+						"updated": "20211009153053"
+					},
+					"Children": [
+						{
+							"ID": "20211009152515-qyw5x09",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009152515-qyw5x09",
+								"updated": "20211009152645"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "微波"
+								}
+							]
+						},
+						{
+							"ID": "20211009152655-ax7ycv6",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009152655-ax7ycv6",
+								"updated": "20211009153053"
+							},
+							"Children": [
+								{
+									"ID": "20211009152655-thl9tzx",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152655-thl9tzx"
+									},
+									"Children": [
+										{
+											"ID": "20211009152655-y2wqonr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152655-y2wqonr",
+												"updated": "20211009152741"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "P 波"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152741-yu0ye8k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152741-yu0ye8k"
+									},
+									"Children": [
+										{
+											"ID": "20211009152741-l9vyrb2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152741-l9vyrb2",
+												"updated": "20211009152746"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "L 波"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152746-qt4azwz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152746-qt4azwz"
+									},
+									"Children": [
+										{
+											"ID": "20211009152746-mbkzz9d",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152746-mbkzz9d",
+												"updated": "20211009152750"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "S 波"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152750-55e3pba",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152750-55e3pba"
+									},
+									"Children": [
+										{
+											"ID": "20211009152750-4l9ttb1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152750-4l9ttb1",
+												"updated": "20211009152755"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "C 波"
+												}
+											]
+										},
+										{
+											"ID": "20211009152849-6uptkjb",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20211009152849-6uptkjb"
+											},
+											"Children": [
+												{
+													"ID": "20211009152849-zygtzie",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211009152849-zygtzie"
+													},
+													"Children": [
+														{
+															"ID": "20211009152849-tss0bpg",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211009152849-tss0bpg",
+																"updated": "20211009152922"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "IEEE C-band (4 GHz - 8 GHz) and its slight variations"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152756-66lxzv3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152756-66lxzv3"
+									},
+									"Children": [
+										{
+											"ID": "20211009152756-xp14d0f",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152756-xp14d0f",
+												"updated": "20211009152800"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "X 波"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152800-9158ter",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152800-9158ter"
+									},
+									"Children": [
+										{
+											"ID": "20211009152800-dliwtx0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152800-dliwtx0",
+												"updated": "20211009152804"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Ku 波"
+												}
+											]
+										},
+										{
+											"ID": "20211009152932-0fwntph",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20211009152932-0fwntph"
+											},
+											"Children": [
+												{
+													"ID": "20211009152932-sauvqqq",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211009152932-sauvqqq"
+													},
+													"Children": [
+														{
+															"ID": "20211009152932-6xnppic",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211009152932-6xnppic",
+																"updated": "20211009152935"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "K-under"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152804-dtkog36",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152804-dtkog36",
+										"updated": "20211009153053"
+									},
+									"Children": [
+										{
+											"ID": "20211009152804-juwil0l",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152804-juwil0l",
+												"updated": "20211009152808"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "K 波"
+												}
+											]
+										},
+										{
+											"ID": "20211009152947-xn8wxgn",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20211009152947-xn8wxgn",
+												"updated": "20211009153053"
+											},
+											"Children": [
+												{
+													"ID": "20211009152946-en4qq64",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211009152946-en4qq64"
+													},
+													"Children": [
+														{
+															"ID": "20211009152946-qn6a6tk",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211009152946-qn6a6tk",
+																"updated": "20211009153000"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "K - German Kurz (short)"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20211009153006-ickytjc",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211009153006-ickytjc",
+														"updated": "20211009153053"
+													},
+													"Children": [
+														{
+															"ID": "20211009153006-j0swhn9",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211009153006-j0swhn9",
+																"updated": "20211009153053"
+															},
+															"Children": [
+																{
+																	"Type": "NodeMark",
+																	"Data": "mark",
+																	"Children": [
+																		{
+																			"Type": "NodeMark2OpenMarker"
+																		},
+																		{
+																			"Type": "NodeText",
+																			"Data": "The microwave K bands are used primarily for rader and satellite communications"
+																		},
+																		{
+																			"Type": "NodeMark2CloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152808-c0i5077",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152808-c0i5077"
+									},
+									"Children": [
+										{
+											"ID": "20211009152808-llu31hu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152808-llu31hu",
+												"updated": "20211009152814"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Ka 波"
+												}
+											]
+										},
+										{
+											"ID": "20211009152937-mf3093w",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20211009152937-mf3093w"
+											},
+											"Children": [
+												{
+													"ID": "20211009152937-lqqa4yp",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211009152937-lqqa4yp"
+													},
+													"Children": [
+														{
+															"ID": "20211009152937-7o88c83",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211009152937-7o88c83",
+																"updated": "20211009152940"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "K-above"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009152815-9z32tvw",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009152815-9z32tvw"
+									},
+									"Children": [
+										{
+											"ID": "20211009152815-74ba3zp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009152815-74ba3zp",
+												"updated": "20211009152822"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "极高频（EHF）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009153102-lhytgdq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211009153102-lhytgdq",
+				"updated": "20211009153323"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "电磁波的波动方程"
+				}
+			]
+		},
+		{
+			"ID": "20211009153323-sb60w3h",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211009153323-sb60w3h",
+				"updated": "20211009153613"
+			},
+			"Children": [
+				{
+					"ID": "20211009153326-lsx6ojx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009153326-lsx6ojx",
+						"updated": "20211009153613"
+					},
+					"Children": [
+						{
+							"ID": "20211009153326-vs5ae2p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009153326-vs5ae2p",
+								"updated": "20211009153338"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "传输介质三参数"
+								}
+							]
+						},
+						{
+							"ID": "20211009153339-8cou9zt",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009153339-8cou9zt",
+								"updated": "20211009153613"
+							},
+							"Children": [
+								{
+									"ID": "20211009153339-a90biyi",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009153339-a90biyi"
+									},
+									"Children": [
+										{
+											"ID": "20211009153339-cm7jcsw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009153339-cm7jcsw",
+												"updated": "20211009153448"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "磁导率 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\mu=\\mu_0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009153341-2qd4jk7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009153341-2qd4jk7"
+									},
+									"Children": [
+										{
+											"ID": "20211009153341-ong9gim",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009153341-ong9gim",
+												"updated": "20211009153456"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "介电常数 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\varepsilon"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009153345-bej94by",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009153345-bej94by",
+										"updated": "20211009153613"
+									},
+									"Children": [
+										{
+											"ID": "20211009153345-ukmy9eh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009153345-ukmy9eh",
+												"updated": "20211009153613"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "电导率 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " "
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009153619-06owu7v",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211009153619-06owu7v",
+				"updated": "20211009153653"
+			},
+			"Children": [
+				{
+					"ID": "20211009153622-42sgmyy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009153622-42sgmyy",
+						"updated": "20211009153638"
+					},
+					"Children": [
+						{
+							"ID": "20211009153622-nrpd0ew",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009153622-nrpd0ew",
+								"updated": "20211009153638"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋学中关心的三种介质：真空、大气、海洋"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009153638-g9qvw3x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009153638-g9qvw3x",
+						"updated": "20211009153653"
+					},
+					"Children": [
+						{
+							"ID": "20211009153638-ic4wgs8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009153638-ic4wgs8",
+								"updated": "20211009153653"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "均匀介质、各向同性、无磁性、不含自由电荷"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009153847-syzcxqw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211009153847-syzcxqw",
+				"updated": "20211009153951"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "辐射术语"
+				}
+			]
+		},
+		{
+			"ID": "20211009153951-vastkbe",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211009153951-vastkbe",
+				"updated": "20211009154010"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "水平极化和垂直极化"
+				}
+			]
+		},
+		{
+			"ID": "20211009154051-jvy52jf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211009154051-jvy52jf",
+				"updated": "20211009154856"
+			}
+		},
+		{
+			"ID": "20211009154011-mcug1rv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211009154011-mcug1rv",
+				"updated": "20211009154021"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "立体角和观测的天顶角"
+				}
+			]
+		},
+		{
+			"ID": "20211009154021-yo4za4y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211009154021-yo4za4y",
+				"updated": "20211009154026"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "辐射术语"
+				}
+			]
+		},
+		{
+			"ID": "20211009154026-b694ttb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211009154026-b694ttb",
+				"updated": "20211009154048"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "朗伯表面"
+				}
+			]
+		}
+	]
+}

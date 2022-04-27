@@ -1,0 +1,3568 @@
+{
+	"ID": "20210918095105-fkhorjh",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "32-20e3",
+		"id": "20210918095105-fkhorjh",
+		"title": "【2】荷载与荷载组合",
+		"title-img": "background-image:linear-gradient(to top, #fddb92 0%, #d1fdff 100%)",
+		"updated": "20210924112906"
+	},
+	"Children": [
+		{
+			"ID": "20210918095105-9x5jmr7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210918095105-9x5jmr7",
+				"updated": "20210918095135"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "结构荷载概述"
+				}
+			]
+		},
+		{
+			"ID": "20210918095135-0duht7f",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210918095135-0duht7f",
+				"updated": "20210918095456"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "S \\leq R"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210918095456-fy6f0oo",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210918095456-fy6f0oo",
+				"updated": "20210918095512"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "S\\leq C"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210918095512-5poq7a8",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918095512-5poq7a8",
+				"updated": "20210918095754"
+			},
+			"Children": [
+				{
+					"ID": "20210918095516-zxxfjtd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918095516-zxxfjtd"
+					},
+					"Children": [
+						{
+							"ID": "20210918095516-3nikxik",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918095516-3nikxik",
+								"updated": "20210918095743"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "泉州酒店案例"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918095743-xg42y1j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918095743-xg42y1j",
+						"updated": "20210918095754"
+					},
+					"Children": [
+						{
+							"ID": "20210918095743-tta8wig",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918095743-tta8wig",
+								"updated": "20210918095754"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "准确确定荷载条件是合理结构设计的先决条件"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918095852-7pdyw2p",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210918095852-7pdyw2p",
+				"updated": "20210918100047"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "荷载定义与分类"
+				}
+			]
+		},
+		{
+			"ID": "20210918100047-rvkyt3q",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918100047-rvkyt3q",
+				"updated": "20210918101252"
+			},
+			"Children": [
+				{
+					"ID": "20210918100051-rtg7dkq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918100051-rtg7dkq"
+					},
+					"Children": [
+						{
+							"ID": "20210918100051-k4nopgm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918100051-k4nopgm",
+								"updated": "20210918100105"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "作用：指能使结构产生效应的各种原因的总称。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918100106-e7hjgoj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918100106-e7hjgoj",
+						"updated": "20210918101252"
+					},
+					"Children": [
+						{
+							"ID": "20210918100106-3suo5va",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918100106-3suo5va",
+								"updated": "20210918100123"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "效应：如结构或构件的内力、变形、应力、应变及裂缝等。作用包括"
+								}
+							]
+						},
+						{
+							"ID": "20210918100123-h5x7sl4",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210918100123-h5x7sl4",
+								"updated": "20210918101252"
+							},
+							"Children": [
+								{
+									"ID": "20210918100123-3dphfo8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918100123-3dphfo8"
+									},
+									"Children": [
+										{
+											"ID": "20210918100123-wruq5ct",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918100123-wruq5ct",
+												"updated": "20210918100143"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "直接作用：荷载，直接施加在结构上的集中力和分布力，结构设计中必须考虑"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918100143-4u9gzzx",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918100143-4u9gzzx"
+									},
+									"Children": [
+										{
+											"ID": "20210918100143-k0gnq2d",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918100143-k0gnq2d",
+												"updated": "20210918100204"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "间接作用：对于建筑结构中经常遇到的各种荷载《建筑结构荷载规范》GB50009"
+												}
+											]
+										},
+										{
+											"ID": "20210918100333-m1axwlb",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210918100333-m1axwlb"
+											},
+											"Children": [
+												{
+													"ID": "20210918100333-qefvsgo",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210918100333-qefvsgo"
+													},
+													"Children": [
+														{
+															"ID": "20210918100333-i8zvsr0",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210918100333-i8zvsr0",
+																"updated": "20210918100405"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "以外加变形或约束变形使结构产生效应。包括：温度变化、地基沉降、结构材料的收缩、"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918100206-47c0jb0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918100206-47c0jb0",
+										"updated": "20210918101252"
+									},
+									"Children": [
+										{
+											"ID": "20210918100206-gxfxq88",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918100206-gxfxq88",
+												"updated": "20210918100224"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "其他作用：给出了有关规定"
+												}
+											]
+										},
+										{
+											"ID": "20210918100921-ar841m7",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210918100921-ar841m7",
+												"updated": "20210918101252"
+											},
+											"Children": [
+												{
+													"ID": "20210918100921-n2j6k55",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210918100921-n2j6k55"
+													},
+													"Children": [
+														{
+															"ID": "20210918100921-ditprvx",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210918100921-ditprvx",
+																"updated": "20210918101107"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "环境作用：在长期环境介质侵蚀下，例如锈蚀（钢网架球节点、踢脚、卫生间漏水）"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210918101251-2la4zre",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210918101251-2la4zre",
+														"updated": "20210918101252"
+													},
+													"Children": [
+														{
+															"ID": "20210918101251-oviz5ep",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210918101251-oviz5ep",
+																"updated": "20210918101252"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "火灾"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918100423-75y18wx",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918100423-75y18wx",
+				"updated": "20210918100830"
+			},
+			"Children": [
+				{
+					"ID": "20210918100820-fwxdqke",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918100820-fwxdqke",
+						"updated": "20210918100830"
+					},
+					"Children": [
+						{
+							"ID": "20210918100820-s1vz9lb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918100820-s1vz9lb",
+								"updated": "20210918100830"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "温度、地震、支座沉降"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918101253-1c9gztd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210918101253-1c9gztd",
+				"updated": "20210918101711"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "荷载的分类"
+				}
+			]
+		},
+		{
+			"ID": "20210918101812-qz52i6c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210918101812-qz52i6c",
+				"updated": "20210918101823"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "按随时间的变异分类"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918101825-48hcren",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918101825-48hcren",
+				"updated": "20210918102259"
+			},
+			"Children": [
+				{
+					"ID": "20210918101828-zfrtktd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101828-zfrtktd"
+					},
+					"Children": [
+						{
+							"ID": "20210918101828-2pxaewc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101828-2pxaewc",
+								"updated": "20210918101833"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "永久荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918101833-r7mr1ib",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101833-r7mr1ib"
+					},
+					"Children": [
+						{
+							"ID": "20210918101833-h1pbmna",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101833-h1pbmna",
+								"updated": "20210918101837"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "可变荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918101918-f2ekcdv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101918-f2ekcdv"
+					},
+					"Children": [
+						{
+							"ID": "20210918101918-lmqktvk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101918-lmqktvk",
+								"updated": "20210918101921"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "偶然荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102033-7ugalfm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102033-7ugalfm",
+						"updated": "20210918102259"
+					},
+					"Children": [
+						{
+							"ID": "20210918102033-kftp6f1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102033-kftp6f1",
+								"updated": "20210918102259"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210918102150-sy5gp3g"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefDynamicText",
+											"Data": "荷载代表值"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918101715-8koo8gg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210918101715-8koo8gg",
+				"updated": "20210918101738"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "按随空间位置的变异分类"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918101730-16kilbn",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918101730-16kilbn",
+				"updated": "20210918102052"
+			},
+			"Children": [
+				{
+					"ID": "20210918101741-4c12o0i",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101741-4c12o0i"
+					},
+					"Children": [
+						{
+							"ID": "20210918101741-en36wtj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101741-en36wtj",
+								"updated": "20210918101745"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "固定荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918101745-qlofdp5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101745-qlofdp5"
+					},
+					"Children": [
+						{
+							"ID": "20210918101745-xuix7dd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101745-xuix7dd",
+								"updated": "20210918101749"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "移动荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102039-3my0piz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102039-3my0piz",
+						"updated": "20210918102052"
+					},
+					"Children": [
+						{
+							"ID": "20210918102039-au8bx5p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102039-au8bx5p",
+								"updated": "20210918102052"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "位置、方向随时间变化，考虑最不利位置和方向"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918101926-e0ybwe0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210918101926-e0ybwe0",
+				"updated": "20210918101941"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "按结构的反应性质分类"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918101942-y1l2vtd",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918101942-y1l2vtd",
+				"updated": "20210918102108"
+			},
+			"Children": [
+				{
+					"ID": "20210918101943-kmjwyki",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101943-kmjwyki"
+					},
+					"Children": [
+						{
+							"ID": "20210918101943-qx9zpk2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101943-qx9zpk2",
+								"updated": "20210918101945"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "静力荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918101945-crx0m85",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918101945-crx0m85"
+					},
+					"Children": [
+						{
+							"ID": "20210918101945-eokt3rp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918101945-eokt3rp",
+								"updated": "20210918101950"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "动力荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102055-hdb71ii",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102055-hdb71ii"
+					},
+					"Children": [
+						{
+							"ID": "20210918102055-h0oqqv4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102055-h0oqqv4",
+								"updated": "20210918102103"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "静力 or 动力分析"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102105-a25cr1a",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102105-a25cr1a",
+						"updated": "20210918102108"
+					},
+					"Children": [
+						{
+							"ID": "20210918102105-3ryeznv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102105-3ryeznv",
+								"updated": "20210918102108"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "动力放大系数"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918102150-sy5gp3g",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210918102150-sy5gp3g",
+				"updated": "20210918102250"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210614124038-fzu23kn"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "荷载代表值"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918102233-cxgufdp",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918102233-cxgufdp",
+				"updated": "20210918103100"
+			},
+			"Children": [
+				{
+					"ID": "20210918102309-4dxgn45",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102309-4dxgn45"
+					},
+					"Children": [
+						{
+							"ID": "20210918102309-4w8nnre",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102309-4w8nnre",
+								"updated": "20210918102311"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "标准值"
+								}
+							]
+						},
+						{
+							"ID": "20210918102451-r9nrwf0",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210918102451-r9nrwf0"
+							},
+							"Children": [
+								{
+									"ID": "20210918102451-l3yrbse",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918102451-l3yrbse"
+									},
+									"Children": [
+										{
+											"ID": "20210918102451-hh11hli",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918102451-hh11hli",
+												"updated": "20210918102549"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "是荷载的基本代表值，其量值一般其在结构的使用期间（设计基准期 50 年）可能出现的最大荷载值。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918102623-k61c1w3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918102623-k61c1w3"
+									},
+									"Children": [
+										{
+											"ID": "20210918102623-739gfkq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918102623-739gfkq",
+												"updated": "20210918102635"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "永久荷载标准值 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "G_k"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										},
+										{
+											"ID": "20210918102638-tfoce7j",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210918102638-tfoce7j"
+											},
+											"Children": [
+												{
+													"ID": "20210918102636-z80ne9e",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210918102636-z80ne9e"
+													},
+													"Children": [
+														{
+															"ID": "20210918102636-f0sdtw1",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210918102636-f0sdtw1",
+																"updated": "20210918102708"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "对结构自重，可按结构构件的设计尺寸与材料单位体积的自重计算确定"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918102733-adftms8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918102733-adftms8"
+									},
+									"Children": [
+										{
+											"ID": "20210918102733-j43xuqn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918102733-j43xuqn",
+												"updated": "20210918102751"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可变荷载标准值 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "Q_k"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										},
+										{
+											"ID": "20210918102752-y1ttw1b",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210918102752-y1ttw1b"
+											},
+											"Children": [
+												{
+													"ID": "20210918102752-4hr9kr4",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210918102752-4hr9kr4"
+													},
+													"Children": [
+														{
+															"ID": "20210918102752-lbpuxk7",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210918102752-lbpuxk7",
+																"updated": "20210918102825"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "当有足够的统计资料的荷载，可根据其最大荷载的统计分布按一定保证率取其上限分位值。"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210918102826-cdk4h92",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210918102826-cdk4h92"
+													},
+													"Children": [
+														{
+															"ID": "20210918102826-k31vsoa",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210918102826-k31vsoa",
+																"updated": "20210918102845"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "对风、雪，以平均重现期来确定，（50 年）"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102313-lshgqon",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102313-lshgqon",
+						"updated": "20210918103100"
+					},
+					"Children": [
+						{
+							"ID": "20210918102313-zuygtur",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102313-zuygtur",
+								"updated": "20210918102315"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "组合值"
+								}
+							]
+						},
+						{
+							"ID": "20210918102850-tr3bjpw",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210918102850-tr3bjpw",
+								"updated": "20210918103100"
+							},
+							"Children": [
+								{
+									"ID": "20210918102850-pklj7on",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918102850-pklj7on"
+									},
+									"Children": [
+										{
+											"ID": "20210918102850-yztdmem",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918102850-yztdmem",
+												"updated": "20210918102911"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可变荷载组合值 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "Q_c=\\psi_cQ_k"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918102939-gut87nj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918102939-gut87nj"
+									},
+									"Children": [
+										{
+											"ID": "20210918102939-i2rj3ge",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918102939-i2rj3ge",
+												"updated": "20210918103020"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可变荷载频遇值 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "Q_f=\\psi_fQ_k"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918102954-vnt6vkr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918102954-vnt6vkr"
+									},
+									"Children": [
+										{
+											"ID": "20210918102954-pwowcaa",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918102954-pwowcaa",
+												"updated": "20210918103027"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可变荷载准永久值 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "Q_q=\\psi_qQ_k"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918103046-dugdpoy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918103046-dugdpoy",
+										"updated": "20210918103100"
+									},
+									"Children": [
+										{
+											"ID": "20210918103046-slv8nc7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918103046-slv8nc7",
+												"updated": "20210918103100"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "频遇值一般会高于准永久值"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102315-btz0z9d",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102315-btz0z9d"
+					},
+					"Children": [
+						{
+							"ID": "20210918102315-vrlmwcu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102315-vrlmwcu",
+								"updated": "20210918102328"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "频遇值"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918102329-ui4wbta",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918102329-ui4wbta"
+					},
+					"Children": [
+						{
+							"ID": "20210918102329-136ular",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918102329-136ular",
+								"updated": "20210918102331"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "准永久值"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918102404-wc9avqv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210918102404-wc9avqv",
+				"updated": "20210918103212"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "恒荷载"
+				}
+			]
+		},
+		{
+			"ID": "20210918103228-5sh5vvt",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210918103228-5sh5vvt",
+				"updated": "20210918103238"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210918103230-u5zlci0",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210918103230-u5zlci0",
+						"updated": "20210918103238"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "充分调查统计，不遗漏！"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918103214-6swus7p",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918103214-6swus7p",
+				"updated": "20210918103333"
+			},
+			"Children": [
+				{
+					"ID": "20210918103220-1e2r6nm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918103220-1e2r6nm"
+					},
+					"Children": [
+						{
+							"ID": "20210918103220-erg4bzw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918103220-erg4bzw",
+								"updated": "20210918103226"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构自重、面层自重"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918103244-yfgey0p",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918103244-yfgey0p"
+					},
+					"Children": [
+						{
+							"ID": "20210918103244-083rlvr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918103244-083rlvr",
+								"updated": "20210918103311"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "围护构件自重（包括：填充墙、玻璃幕墙等）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918103313-xwpmszs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918103313-xwpmszs",
+						"updated": "20210918103333"
+					},
+					"Children": [
+						{
+							"ID": "20210918103313-raefvoa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918103313-raefvoa",
+								"updated": "20210918103333"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "常用材料的自重可参照规范附录 A"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918103414-aoidi6c",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210918103414-aoidi6c",
+				"updated": "20210918103418"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "活荷载"
+				}
+			]
+		},
+		{
+			"ID": "20210918103418-pmj7epq",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918103418-pmj7epq",
+				"updated": "20210918104433"
+			},
+			"Children": [
+				{
+					"ID": "20210918103447-atu8agk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918103447-atu8agk"
+					},
+					"Children": [
+						{
+							"ID": "20210918103447-1lj5v87",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918103447-1lj5v87",
+								"updated": "20210918103455"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "楼面活荷载"
+								}
+							]
+						},
+						{
+							"ID": "20210918103456-2a4woi1",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210918103456-2a4woi1"
+							},
+							"Children": [
+								{
+									"ID": "20210918103456-g48o7ww",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918103456-g48o7ww"
+									},
+									"Children": [
+										{
+											"ID": "20210918103456-z5nuorr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918103456-z5nuorr",
+												"updated": "20210918103503"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "5.1.1 基本取值"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210918103503-oghmu9d",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210918103503-oghmu9d"
+									},
+									"Children": [
+										{
+											"ID": "20210918103503-rt5r7bv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210918103503-rt5r7bv",
+												"updated": "20210918103518"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "5.1.2 面积折减和楼层折减"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918104359-oqrafdy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918104359-oqrafdy"
+					},
+					"Children": [
+						{
+							"ID": "20210918104359-inat6qm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918104359-inat6qm",
+								"updated": "20210918104429"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "屋面活荷载"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918104429-x81sw5y",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918104429-x81sw5y",
+						"updated": "20210918104433"
+					},
+					"Children": [
+						{
+							"ID": "20210918104429-f79l6mr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918104429-f79l6mr",
+								"updated": "20210918104433"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "雪荷载"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210918105721-y00a4oo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210918105721-y00a4oo",
+				"updated": "20210918105745"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "风荷载及计算"
+				}
+			]
+		},
+		{
+			"ID": "20210918113809-at1jolb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210918113809-at1jolb",
+				"updated": "20210924095312"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "w_0"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "——基准风压"
+				}
+			]
+		},
+		{
+			"ID": "20210924095159-0vvxdxp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924095159-0vvxdxp",
+				"updated": "20210924095219"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\mu_z"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "——高度影响因子"
+				}
+			]
+		},
+		{
+			"ID": "20210924095219-pb70byc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924095219-pb70byc",
+				"updated": "20210924095245"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\mu_s"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "——形状系数"
+				}
+			]
+		},
+		{
+			"ID": "20210924095247-xbz6ma0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924095247-xbz6ma0",
+				"updated": "20210924095326"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\beta_z"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "——风振系数"
+				}
+			]
+		},
+		{
+			"ID": "20210924095343-4e47chv",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924095343-4e47chv",
+				"updated": "20210924095506"
+			},
+			"Children": [
+				{
+					"ID": "20210924095344-qjc75fy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095344-qjc75fy"
+					},
+					"Children": [
+						{
+							"ID": "20210924095344-wt2kran",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095344-wt2kran",
+								"updated": "20210924095403"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "风是一种动力作用，引起结构的振动，放大荷载效应"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924095408-whkkm8n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095408-whkkm8n",
+						"updated": "20210924095506"
+					},
+					"Children": [
+						{
+							"ID": "20210924095408-far4zj4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095408-far4zj4",
+								"updated": "20210924095506"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "风速 "
+								},
+								{
+									"Type": "NodeBackslash",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeBackslashContent",
+											"Data": "="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 平均风速 + 零均值脉动风速"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924095432-2r8t8fp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924095432-2r8t8fp",
+				"updated": "20210924095456"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "高层结构估算第一周期 0.08 "
+				},
+				{
+					"Type": "NodeBackslash",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBackslashContent",
+							"Data": "~"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 0.1n"
+				}
+			]
+		},
+		{
+			"ID": "20210924095506-a83j3oz",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924095506-a83j3oz",
+				"updated": "20210924095518"
+			},
+			"Children": [
+				{
+					"ID": "20210924095518-5e68tnm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095518-5e68tnm"
+					},
+					"Children": [
+						{
+							"ID": "20210924095518-ewdb1yn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095518-ewdb1yn",
+								"updated": "20210924095534"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构刚度越小（柔性结构），风振效应越显著"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924095551-jgw1a4v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095551-jgw1a4v"
+					},
+					"Children": [
+						{
+							"ID": "20210924095551-nr8370m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095551-nr8370m",
+								"updated": "20210924095609"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "大跨度柔性屋盖"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924095614-mh89y3r",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210924095614-mh89y3r",
+				"updated": "20210924095641"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\beta_z=1+2gI_{10}B_z\\sqrt{1+R^2}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210924095641-7fjdgrx",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924095641-7fjdgrx",
+				"updated": "20210924101001"
+			},
+			"Children": [
+				{
+					"ID": "20210924095646-6xvxk51",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095646-6xvxk51"
+					},
+					"Children": [
+						{
+							"ID": "20210924095646-tiqz34s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095646-tiqz34s",
+								"updated": "20210924095658"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "g: 峰值因子，可取 2.5"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924095739-timu2i5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095739-timu2i5"
+					},
+					"Children": [
+						{
+							"ID": "20210924095739-8syi04p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095739-8syi04p",
+								"updated": "20210924095838"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "I_{10}"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ": 10m 高名义湍流强度，ABCD 类粗糙度分别取值 0.12, 0.14, 0.23, 0.39"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924100954-xgp77ys",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924100954-xgp77ys",
+						"updated": "20210924101001"
+					},
+					"Children": [
+						{
+							"ID": "20210924100954-6e3z88v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924100954-6e3z88v",
+								"updated": "20210924101001"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "R: 共振分量因子"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924095901-jvy754c",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924095901-jvy754c"
+					},
+					"Children": [
+						{
+							"ID": "20210924095901-8v1y2ol",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924095901-8v1y2ol",
+								"updated": "20210924095921"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "B_z"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ": 背景分量因子"
+								}
+							]
+						},
+						{
+							"ID": "20210924100125-fzbuwa3",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924100125-fzbuwa3"
+							},
+							"Children": [
+								{
+									"ID": "20210924100121-14n6yj6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924100121-14n6yj6"
+									},
+									"Children": [
+										{
+											"ID": "20210924100121-9q6vwke",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924100121-9q6vwke",
+												"updated": "20210924100149"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "弯曲型（体型与质量沿高度方向均匀分布）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924100343-guccp96",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924100343-guccp96",
+				"updated": "20210924100442"
+			},
+			"Children": [
+				{
+					"ID": "20210924100417-acaq8wk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924100417-acaq8wk",
+						"updated": "20210924100442"
+					},
+					"Children": [
+						{
+							"ID": "20210924100417-6chho06",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924100417-6chho06",
+								"updated": "20210924100442"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "当计算维护构件（含门窗）风荷载时，应考虑阵风系数"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924101354-0bypbl1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924101354-0bypbl1",
+				"updated": "20210924101403"
+			},
+			"Children": [
+				{
+					"Type": "NodeMark",
+					"Data": "mark",
+					"Children": [
+						{
+							"Type": "NodeMark2OpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "例题"
+						},
+						{
+							"Type": "NodeMark2CloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924101403-wo85ueo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924101403-wo85ueo",
+				"updated": "20210924101937"
+			},
+			"Children": [
+				{
+					"ID": "20210924101721-wix2q7u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924101721-wix2q7u"
+					},
+					"Children": [
+						{
+							"ID": "20210924101721-ema9nc0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924101721-ema9nc0",
+								"updated": "20210924101755"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一个案例：利比亚 TRIPOLY"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924101904-t3u84gl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924101904-t3u84gl"
+					},
+					"Children": [
+						{
+							"ID": "20210924101904-84227tp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924101904-84227tp",
+								"updated": "20210924101915"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "按英国规范，风荷载取多少"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924101916-wdf39od",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924101916-wdf39od",
+						"updated": "20210924101937"
+					},
+					"Children": [
+						{
+							"ID": "20210924101916-88gsjqn",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210924101916-88gsjqn",
+								"updated": "20210924101937"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "p_e=(1+C_r)q_sC_{pe}C_a"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924101944-93osjyn",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924101944-93osjyn",
+				"updated": "20210924102018"
+			},
+			"Children": [
+				{
+					"ID": "20210924101946-7ds2m56",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924101946-7ds2m56",
+						"updated": "20210924102018"
+					},
+					"Children": [
+						{
+							"ID": "20210924101946-q9b5i0f",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210924101946-q9b5i0f",
+								"updated": "20210924102018"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "q_s=0.613V_e^2"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924102018-2ndcsh5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924102018-2ndcsh5",
+				"updated": "20210924102134"
+			},
+			"Children": [
+				{
+					"ID": "20210924102021-e57aoge",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924102021-e57aoge",
+						"updated": "20210924102134"
+					},
+					"Children": [
+						{
+							"ID": "20210924102021-zro4rev",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210924102021-zro4rev",
+								"updated": "20210924102134"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "V_e=V_bS_aS_dS_sS_pS_b"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924102134-bumg267",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924102134-bumg267",
+				"updated": "20210924103020"
+			},
+			"Children": [
+				{
+					"ID": "20210924102231-glkm7pe",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924102231-glkm7pe"
+					},
+					"Children": [
+						{
+							"ID": "20210924102231-v3hjoda",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924102231-v3hjoda",
+								"updated": "20210924102300"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "英国规范 "
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "V_b"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 与中国规范 "
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "v_0"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924102300-cqr8fvd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924102300-cqr8fvd"
+					},
+					"Children": [
+						{
+							"ID": "20210924102300-420guze",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924102300-420guze",
+								"updated": "20210924102407"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "空旷平坦地面上，离地 10 米，按照极值 I 型概率分布曲线，统计得到的 50 年一遇的年最大风速"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924102409-hfs54qi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924102409-hfs54qi",
+						"updated": "20210924103020"
+					},
+					"Children": [
+						{
+							"ID": "20210924102409-awrq791",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924102409-awrq791",
+								"updated": "20210924102424"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "唯一不同：测量时距"
+								}
+							]
+						},
+						{
+							"ID": "20210924102427-q9lfhxh",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924102427-q9lfhxh",
+								"updated": "20210924103020"
+							},
+							"Children": [
+								{
+									"ID": "20210924102426-bxlhwsl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924102426-bxlhwsl"
+									},
+									"Children": [
+										{
+											"ID": "20210924102426-u466ri2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924102426-u466ri2",
+												"updated": "20210924102624"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "英国：1 小时平均"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924102432-hcgl2p7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924102432-hcgl2p7"
+									},
+									"Children": [
+										{
+											"ID": "20210924102432-56qaw32",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924102432-56qaw32",
+												"updated": "20210924102437"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "中国：10 分钟平均"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924102556-m2lmf5l",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924102556-m2lmf5l"
+									},
+									"Children": [
+										{
+											"ID": "20210924102556-5ysuqge",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924102556-5ysuqge",
+												"updated": "20210924102609"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "V_b=0.94v_0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924103010-y2yu73p",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924103010-y2yu73p",
+										"updated": "20210924103020"
+									},
+									"Children": [
+										{
+											"ID": "20210924103010-tv0v3v5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924103010-tv0v3v5",
+												"updated": "20210924103020"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可以得到按中国规范的基本风压"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924103106-foazj7z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210924103106-foazj7z",
+				"updated": "20210924103314"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "地震荷载"
+				}
+			]
+		},
+		{
+			"ID": "20210924103322-pcwhbpl",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924103322-pcwhbpl",
+				"updated": "20210924110534"
+			},
+			"Children": [
+				{
+					"ID": "20210924104845-ydtb4hy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924104845-ydtb4hy"
+					},
+					"Children": [
+						{
+							"ID": "20210924104845-73njf9m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924104845-73njf9m",
+								"updated": "20210924104908"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "与震级、震源深度、震中远近、土体性质有关"
+								}
+							]
+						},
+						{
+							"ID": "20210924104909-199onro",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924104909-199onro"
+							},
+							"Children": [
+								{
+									"ID": "20210924104908-bnufowa",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924104908-bnufowa"
+									},
+									"Children": [
+										{
+											"ID": "20210924104908-ufw0crg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924104908-ufw0crg",
+												"updated": "20210924104931"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "震级高、震源浅、离震中近，地震强度一般越大"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924105026-op4pal9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924105026-op4pal9"
+					},
+					"Children": [
+						{
+							"ID": "20210924105026-qsyboyj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924105026-qsyboyj",
+								"updated": "20210924105028"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地震作用"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924105202-g267dnk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924105202-g267dnk"
+					},
+					"Children": [
+						{
+							"ID": "20210924105202-8nrcfkl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924105202-8nrcfkl",
+								"updated": "20210924105424"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "运动平衡方程（Equations of motion）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924105716-60j0pn1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924105716-60j0pn1"
+					},
+					"Children": [
+						{
+							"ID": "20210924105716-ki09jiq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924105716-ki09jiq",
+								"updated": "20210924105718"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "直接时程分析"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924110050-jvkdbfz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924110050-jvkdbfz"
+					},
+					"Children": [
+						{
+							"ID": "20210924110050-srlh4po",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924110050-srlh4po",
+								"updated": "20210924110057"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\beta"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 谱"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924110436-v67k8id",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924110436-v67k8id"
+					},
+					"Children": [
+						{
+							"ID": "20210924110436-chnbdcb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924110436-chnbdcb",
+								"updated": "20210924110444"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "F=\\alpha G"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924110507-tvh3sj7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924110507-tvh3sj7",
+						"updated": "20210924110534"
+					},
+					"Children": [
+						{
+							"ID": "20210924110507-rbbhsgn",
+							"Type": "NodeMathBlock",
+							"Properties": {
+								"id": "20210924110507-rbbhsgn",
+								"updated": "20210924110534"
+							},
+							"Children": [
+								{
+									"Type": "NodeMathBlockOpenMarker"
+								},
+								{
+									"Type": "NodeMathBlockContent",
+									"Data": "\\alpha = \\frac{\\beta A_{max}}{g}"
+								},
+								{
+									"Type": "NodeMathBlockCloseMarker"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924110534-90gandb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210924110534-90gandb",
+				"updated": "20210924112642"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "荷载组合"
+				}
+			]
+		},
+		{
+			"ID": "20210924112642-xlqftn2",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924112642-xlqftn2",
+				"updated": "20210924112906"
+			},
+			"Children": [
+				{
+					"ID": "20210924112644-h9z4dqm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924112644-h9z4dqm",
+						"updated": "20210924112906"
+					},
+					"Children": [
+						{
+							"ID": "20210924112644-rm8ihcj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924112644-rm8ihcj",
+								"updated": "20210924112649"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "承载能力极限状态验算"
+								}
+							]
+						},
+						{
+							"ID": "20210924112649-xuqd8vg",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924112649-xuqd8vg",
+								"updated": "20210924112906"
+							},
+							"Children": [
+								{
+									"ID": "20210924112649-nqgtc7w",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924112649-nqgtc7w"
+									},
+									"Children": [
+										{
+											"ID": "20210924112649-ntq0ofd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924112649-ntq0ofd",
+												"updated": "20210924112653"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基本组合（有地震）"
+												}
+											]
+										},
+										{
+											"ID": "20210924112657-75r0n2y",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210924112657-75r0n2y"
+											},
+											"Children": [
+												{
+													"ID": "20210924112657-jox15my",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210924112657-jox15my"
+													},
+													"Children": [
+														{
+															"ID": "20210924112657-to8vobg",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210924112657-to8vobg",
+																"updated": "20210924112723"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "S\\leq R/\\gamma_{RE}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "\n"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210924112736-ed5c67j",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210924112736-ed5c67j"
+													},
+													"Children": [
+														{
+															"ID": "20210924112736-aoywals",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210924112736-aoywals",
+																"updated": "20210924112755"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\gamma_{RE}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 承载力抗震调整系数"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924112654-3ndrhpw",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924112654-3ndrhpw"
+									},
+									"Children": [
+										{
+											"ID": "20210924112654-chsu580",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924112654-chsu580",
+												"updated": "20210924112802"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基本组合（无地震）"
+												}
+											]
+										},
+										{
+											"ID": "20210924112838-2r4xpxk",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210924112838-2r4xpxk"
+											},
+											"Children": [
+												{
+													"ID": "20210924112838-j19en9o",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210924112838-j19en9o"
+													},
+													"Children": [
+														{
+															"ID": "20210924112838-6y0elaa",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210924112838-6y0elaa",
+																"updated": "20210924112852"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\gamma_0S\\leq R"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "\n"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924112802-xerhjcu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924112802-xerhjcu",
+										"updated": "20210924112906"
+									},
+									"Children": [
+										{
+											"ID": "20210924112802-y2fti54",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924112802-y2fti54",
+												"updated": "20210924112816"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "偶然组合（撞击爆炸，略）"
+												}
+											]
+										},
+										{
+											"ID": "20210924112901-46urmey",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210924112901-46urmey",
+												"updated": "20210924112906"
+											},
+											"Children": [
+												{
+													"ID": "20210924112900-skcrtpi",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210924112900-skcrtpi",
+														"updated": "20210924112906"
+													},
+													"Children": [
+														{
+															"ID": "20210924112900-u879pey",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210924112900-u879pey",
+																"updated": "20210924112906"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\gamma_0S\\leq R"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924112816-fmggnw0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924112816-fmggnw0",
+						"updated": "20210924112835"
+					},
+					"Children": [
+						{
+							"ID": "20210924112816-vytnoa5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924112816-vytnoa5",
+								"updated": "20210924112823"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "正常使用极限状态验算"
+								}
+							]
+						},
+						{
+							"ID": "20210924112825-wyp72n3",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924112825-wyp72n3",
+								"updated": "20210924112835"
+							},
+							"Children": [
+								{
+									"ID": "20210924112824-itlupk7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924112824-itlupk7"
+									},
+									"Children": [
+										{
+											"ID": "20210924112824-j2v4iuy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924112824-j2v4iuy",
+												"updated": "20210924112828"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "标准组合"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924112828-az2dlww",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924112828-az2dlww"
+									},
+									"Children": [
+										{
+											"ID": "20210924112828-74n7t7a",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924112828-74n7t7a",
+												"updated": "20210924112831"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "频遇组合"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924112831-2667g4k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924112831-2667g4k",
+										"updated": "20210924112835"
+									},
+									"Children": [
+										{
+											"ID": "20210924112831-g2em2bp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924112831-g2em2bp",
+												"updated": "20210924112835"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "准永久组合"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924112723-m7l0hbx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924112723-m7l0hbx",
+				"updated": "20210924112723"
+			}
+		}
+	]
+}

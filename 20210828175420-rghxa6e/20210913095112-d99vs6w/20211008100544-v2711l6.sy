@@ -1,0 +1,2284 @@
+{
+	"ID": "20211008100544-v2711l6",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "35-20e3",
+		"id": "20211008100544-v2711l6",
+		"title": "【5】框架内力计算",
+		"title-img": "background-image:linear-gradient(to top, #65bd60 0%, #5ac1a8 25%, #3ec6ed 50%, #b7ddb7 75%, #fef381 100%)",
+		"updated": "20211009102729"
+	},
+	"Children": [
+		{
+			"ID": "20211008100544-1vz6np9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211008100544-1vz6np9",
+				"updated": "20211008100619"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "框架柱抗侧刚度 D 和框架层刚度中心"
+				}
+			]
+		},
+		{
+			"ID": "20211008100619-55lml44",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211008100619-55lml44",
+				"updated": "20211008100648"
+			},
+			"Children": [
+				{
+					"ID": "20211008100648-nhlaeqi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008100648-nhlaeqi"
+					},
+					"Children": [
+						{
+							"ID": "20211008100648-k7a19nn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008100648-k7a19nn",
+								"updated": "20211008100704"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "框架柱抗侧刚度 D 和梁柱线刚度比有关"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008100705-yi1nshd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008100705-yi1nshd"
+					},
+					"Children": [
+						{
+							"ID": "20211008100705-8s1geke",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008100705-8s1geke",
+								"updated": "20211008100740"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\displaystyle D=\\alpha \\frac{12i_c}{h^2}"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "\n"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008100743-7wqvngi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008100743-7wqvngi"
+					},
+					"Children": [
+						{
+							"ID": "20211008100743-tof78bp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008100743-tof78bp",
+								"updated": "20211008100824"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "框架某楼层的刚度中心，简称刚心"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211008100915-f46eik0",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20211008100915-f46eik0",
+				"updated": "20211008101015"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "x_0=\\frac{\\sum D_i x_i}{\\sum D_i}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20211008101015-icfv9hw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211008101015-icfv9hw",
+				"updated": "20211008101045"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "楼板对框架受力的影响及其考虑"
+				}
+			]
+		},
+		{
+			"ID": "20211008101046-off2nu0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211008101046-off2nu0",
+				"updated": "20211008101823"
+			},
+			"Children": [
+				{
+					"ID": "20211008101050-gdfumor",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008101050-gdfumor"
+					},
+					"Children": [
+						{
+							"ID": "20211008101050-lk5tmuz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008101050-lk5tmuz",
+								"updated": "20211008101057"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "面内作用：面内刚度很大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008101303-sxnsq3m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008101303-sxnsq3m"
+					},
+					"Children": [
+						{
+							"ID": "20211008101303-nf5n0cs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008101303-nf5n0cs",
+								"updated": "20211008101329"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "考虑这种：刚性楼盖假定"
+								}
+							]
+						},
+						{
+							"ID": "20211008101330-leiep2v",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211008101330-leiep2v"
+							},
+							"Children": [
+								{
+									"ID": "20211008101330-b1pliia",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008101330-b1pliia"
+									},
+									"Children": [
+										{
+											"ID": "20211008101330-r4vh9c8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008101330-r4vh9c8",
+												"updated": "20211008101401"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "假定楼板面内刚度无穷大，像钢片一样运动"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211008101402-7amzpfl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008101402-7amzpfl"
+									},
+									"Children": [
+										{
+											"ID": "20211008101402-b1bift5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008101402-b1bift5",
+												"updated": "20211008101430"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "模型实现：荷载作用点与楼层任意位置之间刚性连接"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008101431-8gwl4ox",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008101431-8gwl4ox"
+					},
+					"Children": [
+						{
+							"ID": "20211008101431-1xnxi15",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008101431-1xnxi15",
+								"updated": "20211008101440"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不满足刚性楼盖假定"
+								}
+							]
+						},
+						{
+							"ID": "20211008101440-8t6thdg",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211008101440-8t6thdg"
+							},
+							"Children": [
+								{
+									"ID": "20211008101440-bca1812",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008101440-bca1812"
+									},
+									"Children": [
+										{
+											"ID": "20211008101440-7ti8u8x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008101440-7ti8u8x",
+												"updated": "20211008101448"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "狭长弹性楼板"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008101513-rvsq1u7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008101513-rvsq1u7",
+						"updated": "20211008101823"
+					},
+					"Children": [
+						{
+							"ID": "20211008101513-2puj78d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008101513-2puj78d",
+								"updated": "20211008101546"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "楼板面外作用，和梁形成 T 形截面共同抗弯，提高梁刚度和承载力"
+								}
+							]
+						},
+						{
+							"ID": "20211008101751-u0b5s5w",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211008101751-u0b5s5w",
+								"updated": "20211008101823"
+							},
+							"Children": [
+								{
+									"ID": "20211008101751-5k1t920",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008101751-5k1t920"
+									},
+									"Children": [
+										{
+											"ID": "20211008101751-02zl6x1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008101751-02zl6x1",
+												"updated": "20211008101757"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "《混凝土结构设计规范》"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211008101817-nfpjtiu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008101817-nfpjtiu",
+										"updated": "20211008101823"
+									},
+									"Children": [
+										{
+											"ID": "20211008101817-bmg9j0a",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008101817-bmg9j0a",
+												"updated": "20211008101823"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "梁刚度放大系数法"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211008101804-62ve37p",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211008101804-62ve37p",
+				"updated": "20211008102706"
+			},
+			"Children": [
+				{
+					"ID": "20211008102706-etde53b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008102706-etde53b"
+					},
+					"Children": [
+						{
+							"ID": "20211008102706-ibfvz4m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008102706-ibfvz4m",
+								"updated": "20211008102725"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "充分考虑楼板密码忘了作用的意义"
+								}
+							]
+						},
+						{
+							"ID": "20211008102726-emuqza1",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211008102726-emuqza1"
+							},
+							"Children": [
+								{
+									"ID": "20211008102725-ajj1lkp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008102725-ajj1lkp"
+									},
+									"Children": [
+										{
+											"ID": "20211008102725-ixzhcjo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008102725-ixzhcjo",
+												"updated": "20211008102734"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "对楼板贡献考虑不足"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211008103123-bm6597s",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211008103123-bm6597s",
+				"updated": "20211008103548"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "竖向荷载作用框架内力近似手算：分层法"
+				}
+			]
+		},
+		{
+			"ID": "20211008103139-8w8ln8t",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211008103139-8w8ln8t",
+				"updated": "20211008104226"
+			},
+			"Children": [
+				{
+					"ID": "20211008103541-tr8virx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008103541-tr8virx"
+					},
+					"Children": [
+						{
+							"ID": "20211008103541-h5f1i30",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008103541-h5f1i30",
+								"updated": "20211008103602"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "梯形荷载加集中力、三角形荷载加集中力"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008103535-xaz6u99",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008103535-xaz6u99"
+					},
+					"Children": [
+						{
+							"ID": "20211008103535-aabitnl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008103535-aabitnl",
+								"updated": "20211008103540"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "转动刚度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008103604-x0zijbs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008103604-x0zijbs"
+					},
+					"Children": [
+						{
+							"ID": "20211008103604-aieqkcr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008103604-aieqkcr",
+								"updated": "20211008103609"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弯矩分配系数"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008103609-5nnzvra",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008103609-5nnzvra"
+					},
+					"Children": [
+						{
+							"ID": "20211008103609-3yf5pj3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008103609-3yf5pj3",
+								"updated": "20211008103615"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弯矩传递系数"
+								}
+							]
+						},
+						{
+							"ID": "20211008104108-fwicnw9",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211008104108-fwicnw9"
+							},
+							"Children": [
+								{
+									"ID": "20211008104108-emgewhc",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008104108-emgewhc"
+									},
+									"Children": [
+										{
+											"ID": "20211008104108-9zhpqx6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008104108-9zhpqx6",
+												"updated": "20211008104136"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "固结 0.5，铰接 0，滑动支座 -1"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008104137-lln7uca",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008104137-lln7uca"
+					},
+					"Children": [
+						{
+							"ID": "20211008104137-hx4jrsp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008104137-hx4jrsp",
+								"updated": "20211008104157"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "假定：在竖向荷载作用下，框架不发生侧移"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008104158-8fz32sb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008104158-8fz32sb",
+						"updated": "20211008104226"
+					},
+					"Children": [
+						{
+							"ID": "20211008104158-6vfryvs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008104158-6vfryvs",
+								"updated": "20211008104226"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "作用在某一层框架梁上竖向荷载"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211008105416-z8907ch",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211008105416-z8907ch",
+				"updated": "20211008105426"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "例题 1 ——结构布置"
+				}
+			]
+		},
+		{
+			"ID": "20211008105427-ugpn0be",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211008105427-ugpn0be",
+				"updated": "20211008110124"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "侧向荷载作用框架内力近似手算：D 值法"
+				}
+			]
+		},
+		{
+			"ID": "20211008110125-8abpwmu",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211008110125-8abpwmu",
+				"updated": "20211008111916"
+			},
+			"Children": [
+				{
+					"ID": "20211008110306-2bx5giy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008110306-2bx5giy"
+					},
+					"Children": [
+						{
+							"ID": "20211008110306-izssr7p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008110306-izssr7p",
+								"updated": "20211008110315"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "刚度中心和质量中心重合"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008110315-p41oa6q",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008110315-p41oa6q"
+					},
+					"Children": [
+						{
+							"ID": "20211008110315-3q8v8j6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008110315-3q8v8j6",
+								"updated": "20211008110320"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "满足刚性楼盖假定"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008110945-lu6clh9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008110945-lu6clh9"
+					},
+					"Children": [
+						{
+							"ID": "20211008110945-b77vcmk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008110945-b77vcmk",
+								"updated": "20211008110952"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "步骤 1：计算楼层剪力"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008111007-op29ak1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008111007-op29ak1"
+					},
+					"Children": [
+						{
+							"ID": "20211008111007-mtbdagl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008111007-mtbdagl",
+								"updated": "20211008111016"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "步骤 2：分配柱子剪力"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008111149-dxe0yhp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008111149-dxe0yhp",
+						"updated": "20211008111916"
+					},
+					"Children": [
+						{
+							"ID": "20211008111149-cehx33g",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008111149-cehx33g",
+								"updated": "20211008111156"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "步骤 3：计算梁柱弯矩"
+								}
+							]
+						},
+						{
+							"ID": "20211008111334-x19c9fb",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211008111334-x19c9fb",
+								"updated": "20211008111916"
+							},
+							"Children": [
+								{
+									"ID": "20211008111334-h9nlrdu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211008111334-h9nlrdu",
+										"updated": "20211008111916"
+									},
+									"Children": [
+										{
+											"ID": "20211008111334-s4yzmm5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211008111334-s4yzmm5",
+												"updated": "20211008111345"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "核心问题：柱反弯点高度"
+												}
+											]
+										},
+										{
+											"ID": "20211008111359-qcm1cdk",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20211008111359-qcm1cdk",
+												"updated": "20211008111916"
+											},
+											"Children": [
+												{
+													"ID": "20211008111358-ar1bemy",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211008111358-ar1bemy"
+													},
+													"Children": [
+														{
+															"ID": "20211008111358-rr85nf2",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211008111358-rr85nf2",
+																"updated": "20211008111411"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "上下柱端约束强弱问题"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20211008111454-dz52tkm",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211008111454-dz52tkm"
+													},
+													"Children": [
+														{
+															"ID": "20211008111454-zzoal2u",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211008111454-zzoal2u",
+																"updated": "20211008111507"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "y=y_n+y_1+y_2+y_3"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20211008111509-kxvkeat",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211008111509-kxvkeat"
+													},
+													"Children": [
+														{
+															"ID": "20211008111509-ny2vsoh",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211008111509-ny2vsoh",
+																"updated": "20211008111520"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "y_n"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 标准反弯点高度"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20211008111520-edx7di2",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211008111520-edx7di2"
+													},
+													"Children": [
+														{
+															"ID": "20211008111520-03qt1ee",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211008111520-03qt1ee",
+																"updated": "20211008111737"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "y_1"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 上下梁线刚度的修正"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20211008111738-djuyu44",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211008111738-djuyu44"
+													},
+													"Children": [
+														{
+															"ID": "20211008111738-j6siqr7",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211008111738-j6siqr7",
+																"updated": "20211008111903"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "y_2"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 上层层高变化修正系数"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20211008111904-qs0p5ov",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20211008111904-qs0p5ov",
+														"updated": "20211008111916"
+													},
+													"Children": [
+														{
+															"ID": "20211008111904-igglv51",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20211008111904-igglv51",
+																"updated": "20211008111916"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Data": "span",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "y_3"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 下层层高变化修正系数"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211008111418-d1ybauo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211008111418-d1ybauo",
+				"updated": "20211008112411"
+			},
+			"Children": [
+				{
+					"ID": "20211008112305-nqgg2ln",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008112305-nqgg2ln"
+					},
+					"Children": [
+						{
+							"ID": "20211008112305-26v25m9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008112305-26v25m9",
+								"updated": "20211008112316"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "顶点位移法求结构基本周期"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211008112402-q8h2zcg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211008112402-q8h2zcg",
+						"updated": "20211008112411"
+					},
+					"Children": [
+						{
+							"ID": "20211008112402-gfzeehl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211008112402-gfzeehl",
+								"updated": "20211008112411"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "底部剪力法计算水平地震作用"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009095021-ytd9359",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20211009095021-ytd9359",
+				"updated": "20211009095310"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20211009095229-5nnipry",
+					"Type": "NodeList",
+					"ListData": {
+						"Typ": 1
+					},
+					"Properties": {
+						"id": "20211009095229-5nnipry",
+						"updated": "20211009095310"
+					},
+					"Children": [
+						{
+							"ID": "20211009095235-9eoezex",
+							"Type": "NodeListItem",
+							"ListData": {
+								"Typ": 1,
+								"Delimiter": 46,
+								"Marker": "MS4=",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20211009095235-9eoezex"
+							},
+							"Children": [
+								{
+									"ID": "20211009095235-w0qjbvp",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20211009095235-w0qjbvp",
+										"updated": "20211009095244"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "按照 D 值分配楼层剪力"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20211009095245-7am09wg",
+							"Type": "NodeListItem",
+							"ListData": {
+								"Typ": 1,
+								"Delimiter": 46,
+								"Marker": "Mi4=",
+								"Num": 2
+							},
+							"Properties": {
+								"id": "20211009095245-7am09wg",
+								"updated": "20211009095310"
+							},
+							"Children": [
+								{
+									"ID": "20211009095245-4fd2527",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20211009095245-4fd2527",
+										"updated": "20211009095310"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "柱的反弯点要考虑上下端的约束情况"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009095327-uf2244c",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211009095327-uf2244c",
+				"updated": "20211009100542"
+			},
+			"Children": [
+				{
+					"ID": "20211009095808-z2m6to0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009095808-z2m6to0"
+					},
+					"Children": [
+						{
+							"ID": "20211009095808-zdarej8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009095808-zdarej8",
+								"updated": "20211009095816"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "D 值法的特例——反弯点法"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009095816-3rsoi12",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009095816-3rsoi12"
+					},
+					"Children": [
+						{
+							"ID": "20211009095816-znjvv2k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009095816-znjvv2k",
+								"updated": "20211009095821"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "假定"
+								}
+							]
+						},
+						{
+							"ID": "20211009095822-427likz",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009095822-427likz"
+							},
+							"Children": [
+								{
+									"ID": "20211009095822-1avrddr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009095822-1avrddr"
+									},
+									"Children": [
+										{
+											"ID": "20211009095822-a64s2sk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009095822-a64s2sk",
+												"updated": "20211009095908"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "梁柱线刚度比无限大，各柱上下端均不产生转角"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009095908-mhm2eru",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009095908-mhm2eru"
+									},
+									"Children": [
+										{
+											"ID": "20211009095908-xu2c746",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009095908-xu2c746",
+												"updated": "20211009095933"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\displaystyle d=12\\frac{i_c}{h^2}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009095934-4ovnjgf",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009095934-4ovnjgf"
+									},
+									"Children": [
+										{
+											"ID": "20211009095934-9ap9evf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009095934-9ap9evf",
+												"updated": "20211009100048"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "除底层柱外，各层框架柱反弯点均位于层高中点。底层柱由于下端固接，上端为弹性约束，反弯点位置上移。假定底部反弯点取 2/3 层高"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009100049-nz66tc8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009100049-nz66tc8"
+					},
+					"Children": [
+						{
+							"ID": "20211009100049-3ree80u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009100049-3ree80u",
+								"updated": "20211009100057"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "适用情况"
+								}
+							]
+						},
+						{
+							"ID": "20211009100057-6g6bz8s",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009100057-6g6bz8s"
+							},
+							"Children": [
+								{
+									"ID": "20211009100057-3nbshlq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009100057-3nbshlq"
+									},
+									"Children": [
+										{
+											"ID": "20211009100057-jx65ekx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009100057-jx65ekx",
+												"updated": "20211009100134"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "层数少的多层建筑。柱截面小，框架梁受楼面荷载控制而刚度相对较大，与第一假定较符合"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009100134-zt8vxbq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009100134-zt8vxbq"
+									},
+									"Children": [
+										{
+											"ID": "20211009100134-0idfanl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009100134-0idfanl",
+												"updated": "20211009100205"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "通常当梁线刚度比柱线刚度大得多（3 倍），假设与实际符合较好"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009100447-o78b2zh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009100447-o78b2zh",
+						"updated": "20211009100542"
+					},
+					"Children": [
+						{
+							"ID": "20211009100447-a6d40yk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009100447-a6d40yk",
+								"updated": "20211009100449"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "局限性"
+								}
+							]
+						},
+						{
+							"ID": "20211009100454-z475468",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009100454-z475468",
+								"updated": "20211009100542"
+							},
+							"Children": [
+								{
+									"ID": "20211009100450-dju8qx4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009100450-dju8qx4"
+									},
+									"Children": [
+										{
+											"ID": "20211009100450-9bi0cfh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009100450-9bi0cfh",
+												"updated": "20211009100512"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "假定适用于低层结构"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009100513-bav6pg8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009100513-bav6pg8"
+									},
+									"Children": [
+										{
+											"ID": "20211009100513-yr3huj4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009100513-yr3huj4",
+												"updated": "20211009100529"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "对于高层或抗震要求较高的框架不行"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009100534-5uz20xj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009100534-5uz20xj",
+										"updated": "20211009100542"
+									},
+									"Children": [
+										{
+											"ID": "20211009100534-0a1gm7j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009100534-0a1gm7j",
+												"updated": "20211009100542"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "误差较大，需要使用 D 值法"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009100552-cu2liaa",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211009100552-cu2liaa",
+				"updated": "20211009100615"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "侧向荷载作用框架侧移近似手算"
+				}
+			]
+		},
+		{
+			"ID": "20211009100618-gywuh10",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211009100618-gywuh10",
+				"updated": "20211009102405"
+			},
+			"Children": [
+				{
+					"ID": "20211009100644-exjqun5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009100644-exjqun5"
+					},
+					"Children": [
+						{
+							"ID": "20211009100644-0cy5tmo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009100644-0cy5tmo",
+								"updated": "20211009100650"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "侧移过大——结构开裂等"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009100650-p5suxkd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009100650-p5suxkd"
+					},
+					"Children": [
+						{
+							"ID": "20211009100650-1l953iy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009100650-1l953iy",
+								"updated": "20211009100813"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多遇地震作用下按弹性方法计算层间位移角限值"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009100813-afs479h",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009100813-afs479h"
+					},
+					"Children": [
+						{
+							"ID": "20211009100813-fbeq3sz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009100813-fbeq3sz",
+								"updated": "20211009101139"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "罕遇地震作用下按弹塑性方法计算层间位移角限制"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009101238-wnby0q3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009101238-wnby0q3"
+					},
+					"Children": [
+						{
+							"ID": "20211009101238-ml7kc5k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009101238-ml7kc5k",
+								"updated": "20211009101302"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "侧向变形的组成：总体剪切变形 + 总体弯曲变形（构件比拟）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009101304-7b3u44j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009101304-7b3u44j"
+					},
+					"Children": [
+						{
+							"ID": "20211009101304-uig26a0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009101304-uig26a0",
+								"updated": "20211009101308"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "总体剪切变形"
+								}
+							]
+						},
+						{
+							"ID": "20211009101308-ldbzdvi",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009101308-ldbzdvi"
+							},
+							"Children": [
+								{
+									"ID": "20211009101308-x9wluw7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009101308-x9wluw7"
+									},
+									"Children": [
+										{
+											"ID": "20211009101308-nahiuw3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009101308-nahiuw3",
+												"updated": "20211009101330"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "梁柱构件的弯曲变形引起"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009101317-psiiwtn",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009101317-psiiwtn"
+					},
+					"Children": [
+						{
+							"ID": "20211009101317-wn47r7c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009101317-wn47r7c",
+								"updated": "20211009101323"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "总体弯曲变形"
+								}
+							]
+						},
+						{
+							"ID": "20211009101323-ccnejnw",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009101323-ccnejnw"
+							},
+							"Children": [
+								{
+									"ID": "20211009101323-9k30pjp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009101323-9k30pjp"
+									},
+									"Children": [
+										{
+											"ID": "20211009101323-2dt6etd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009101323-2dt6etd",
+												"updated": "20211009101335"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "柱的轴向变形引起"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009101335-pim5z8f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009101335-pim5z8f"
+					},
+					"Children": [
+						{
+							"ID": "20211009101335-52r0yrd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009101335-52r0yrd",
+								"updated": "20211009101358"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "总体剪切变形的平面框架手算法——D 值法"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211009101515-loqzsib",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211009101515-loqzsib",
+						"updated": "20211009102405"
+					},
+					"Children": [
+						{
+							"ID": "20211009101515-auks4kq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211009101515-auks4kq",
+								"updated": "20211009101531"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "总体弯曲变形的平面框架手算法——单位荷载法"
+								}
+							]
+						},
+						{
+							"ID": "20211009101941-0sw209z",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211009101941-0sw209z",
+								"updated": "20211009102405"
+							},
+							"Children": [
+								{
+									"ID": "20211009101941-5w7jqvx",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009101941-5w7jqvx"
+									},
+									"Children": [
+										{
+											"ID": "20211009101941-y9fru9w",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009101941-y9fru9w",
+												"updated": "20211009102007"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "顶点作用水平集中力 V"
+												},
+												{
+													"Type": "NodeSub",
+													"Data": "sub",
+													"Children": [
+														{
+															"Type": "NodeSubOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "0"
+														},
+														{
+															"Type": "NodeSubCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009102008-0e75p41",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009102008-0e75p41"
+									},
+									"Children": [
+										{
+											"ID": "20211009102008-zx0v8qg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009102008-zx0v8qg",
+												"updated": "20211009102032"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "柱子截面假定为 A"
+												},
+												{
+													"Type": "NodeSub",
+													"Data": "sub",
+													"Children": [
+														{
+															"Type": "NodeSubOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "1"
+														},
+														{
+															"Type": "NodeSubCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " 到 0"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009102034-o1gmhju",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009102034-o1gmhju"
+									},
+									"Children": [
+										{
+											"ID": "20211009102034-w967hp7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211009102034-w967hp7",
+												"updated": "20211009102057"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "因此需要加修正"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211009102057-imhlnvl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211009102057-imhlnvl",
+										"updated": "20211009102405"
+									},
+									"Children": [
+										{
+											"ID": "20211009102057-xi3ky7f",
+											"Type": "NodeMathBlock",
+											"Properties": {
+												"id": "20211009102057-xi3ky7f",
+												"updated": "20211009102405"
+											},
+											"Children": [
+												{
+													"Type": "NodeMathBlockOpenMarker"
+												},
+												{
+													"Type": "NodeMathBlockContent",
+													"Data": "\\Delta_n^N=\\frac{V_0H^3}{EA_1 B^2}F_N=\\frac{F_NV_0}{EA_1}\\cdot H\\cdot\\left(\\frac{H}{B}\\right)^2 "
+												},
+												{
+													"Type": "NodeMathBlockCloseMarker"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009102308-1i6p04a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211009102308-1i6p04a",
+				"updated": "20211009102542"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "平面 6 层框架侧移手算示例"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211009102544-bhjdw95",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211009102544-bhjdw95",
+				"updated": "20211009102729"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "空间框架的内力电算简介：基于 Midas GEN"
+				}
+			]
+		},
+		{
+			"ID": "20211009102729-x411btp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211009102729-x411btp",
+				"updated": "20211009102729"
+			}
+		}
+	]
+}

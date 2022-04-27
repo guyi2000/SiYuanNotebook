@@ -1,0 +1,629 @@
+{
+	"ID": "20210924162654-ip8f2yp",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "33-20e3",
+		"id": "20210924162654-ip8f2yp",
+		"title": "【3】海洋卫星",
+		"title-img": "background-color:black;background-image:radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;",
+		"updated": "20210924164846"
+	},
+	"Children": [
+		{
+			"ID": "20210924162654-snkh97a",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210924162654-snkh97a",
+				"updated": "20210924162751"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "海洋卫星的特点"
+				}
+			]
+		},
+		{
+			"ID": "20210924162751-tcrujxy",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924162751-tcrujxy",
+				"updated": "20210924164031"
+			},
+			"Children": [
+				{
+					"ID": "20210924162754-c9xgs6n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924162754-c9xgs6n"
+					},
+					"Children": [
+						{
+							"ID": "20210924162754-fwnztqv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924162754-fwnztqv",
+								"updated": "20210924162812"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋环境要素探测要求大面积、连续、同步或准同步探测"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924162812-efqxfpi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924162812-efqxfpi"
+					},
+					"Children": [
+						{
+							"ID": "20210924162812-1gojrqs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924162812-1gojrqs",
+								"updated": "20210924162836"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋卫星可见光传感器要求波段多而窄，灵敏度和信噪比较高"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924163045-se5oc8z",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924163045-se5oc8z"
+					},
+					"Children": [
+						{
+							"ID": "20210924163045-cwuigx2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924163045-cwuigx2",
+								"updated": "20210924163100"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "欧空局 Copernicus Sentinel 系列卫星"
+								}
+							]
+						},
+						{
+							"ID": "20210924163658-h8zghcr",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924163658-h8zghcr"
+							},
+							"Children": [
+								{
+									"ID": "20210924163653-5tn5jzp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924163653-5tn5jzp"
+									},
+									"Children": [
+										{
+											"ID": "20210924163653-mqdsjn1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924163653-mqdsjn1",
+												"updated": "20210924163730"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "精度最高可达 5m x 5m"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924163719-b96g8v6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924163719-b96g8v6",
+						"updated": "20210924164031"
+					},
+					"Children": [
+						{
+							"ID": "20210924163719-jt333ms",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924163719-jt333ms",
+								"updated": "20210924163819"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "高度计卫星"
+								}
+							]
+						},
+						{
+							"ID": "20210924163820-042zkmm",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924163820-042zkmm",
+								"updated": "20210924164031"
+							},
+							"Children": [
+								{
+									"ID": "20210924163819-1l9tpct",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924163819-1l9tpct"
+									},
+									"Children": [
+										{
+											"ID": "20210924163819-sk03ywx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924163819-sk03ywx",
+												"updated": "20210924163844"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "TOPEX / Jason"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924164030-8nngat6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164030-8nngat6",
+										"updated": "20210924164031"
+									},
+									"Children": [
+										{
+											"ID": "20210924164030-bjef7qk",
+											"Type": "NodeIFrame",
+											"Data": "\u003ciframe src=\"https://oceancolor.gsfc.nasa.gov/\" data-src=\"\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" style=\"width: 997px; height: 416px;\"\u003e\u003c/iframe\u003e",
+											"Properties": {
+												"id": "20210924164030-bjef7qk",
+												"updated": "20210924164031"
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924164118-8bma7sf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924164118-8bma7sf",
+				"updated": "20210924164221"
+			},
+			"Children": [
+				{
+					"ID": "20210924164150-glpj17q",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924164150-glpj17q"
+					},
+					"Children": [
+						{
+							"ID": "20210924164150-rny7zkv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924164150-rny7zkv",
+								"updated": "20210924164215"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "合成孔径雷达（SAR）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924164215-2bcrefo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924164215-2bcrefo",
+						"updated": "20210924164221"
+					},
+					"Children": [
+						{
+							"ID": "20210924164215-4qnny2c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924164215-4qnny2c",
+								"updated": "20210924164221"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "散射计卫星"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924164430-0njlhb0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210924164430-0njlhb0",
+				"updated": "20210924164449"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "其他著名的陆地及海岸带观测卫星"
+				}
+			]
+		},
+		{
+			"ID": "20210924164449-byqehkp",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210924164449-byqehkp",
+				"updated": "20210924164846"
+			},
+			"Children": [
+				{
+					"ID": "20210924164451-p5uysv5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924164451-p5uysv5"
+					},
+					"Children": [
+						{
+							"ID": "20210924164451-cmdqurt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924164451-cmdqurt",
+								"updated": "20210924164459"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "美国 Landsat 系列卫星"
+								}
+							]
+						},
+						{
+							"ID": "20210924164513-p6gvk96",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924164513-p6gvk96"
+							},
+							"Children": [
+								{
+									"ID": "20210924164512-0xjm9iy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164512-0xjm9iy"
+									},
+									"Children": [
+										{
+											"ID": "20210924164512-ejthic3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924164512-ejthic3",
+												"updated": "20210924164521"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "太阳同步轨道"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210924164622-kjykfr5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210924164622-kjykfr5",
+						"updated": "20210924164846"
+					},
+					"Children": [
+						{
+							"ID": "20210924164622-50a13de",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210924164622-50a13de",
+								"updated": "20210924164655"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "GRACE（Gravity Recovery and Climate Experiment）satellites"
+								}
+							]
+						},
+						{
+							"ID": "20210924164708-fxe0oht",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210924164708-fxe0oht",
+								"updated": "20210924164846"
+							},
+							"Children": [
+								{
+									"ID": "20210924164708-yvhzlbh",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164708-yvhzlbh"
+									},
+									"Children": [
+										{
+											"ID": "20210924164708-7ttw6hs",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924164708-7ttw6hs",
+												"updated": "20210924164723"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "监测重力场的变化"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924164724-ewe3yve",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164724-ewe3yve",
+										"updated": "20210924164840"
+									},
+									"Children": [
+										{
+											"ID": "20210924164724-e3sahk8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924164724-e3sahk8",
+												"updated": "20210924164840"
+											},
+											"Children": [
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "changes due to surface and deep currents in the ocean"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924164739-k97ycfv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164739-k97ycfv"
+									},
+									"Children": [
+										{
+											"ID": "20210924164739-vr8ebn6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924164739-vr8ebn6",
+												"updated": "20210924164754"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "runoff and ground water storage on land masses"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924164755-t1g9pcl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164755-t1g9pcl",
+										"updated": "20210924164844"
+									},
+									"Children": [
+										{
+											"ID": "20210924164755-efglfuv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924164755-efglfuv",
+												"updated": "20210924164844"
+											},
+											"Children": [
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "exchanges between ice sheets or glaciers and the oceans"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210924164818-ilj4okn",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210924164818-ilj4okn",
+										"updated": "20210924164846"
+									},
+									"Children": [
+										{
+											"ID": "20210924164818-yka19o4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210924164818-yka19o4",
+												"updated": "20210924164846"
+											},
+											"Children": [
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "and variations of mass within the Earth"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210924164236-ojfj2om",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210924164236-ojfj2om",
+				"updated": "20210924164236"
+			}
+		}
+	]
+}

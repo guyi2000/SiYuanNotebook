@@ -1,0 +1,1803 @@
+{
+	"ID": "20211004094725-u3xk6dn",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "34-20e3",
+		"id": "20211004094725-u3xk6dn",
+		"title": "【4】钢结构布置和楼盖设计",
+		"title-img": "background-color: gray;background-image: linear-gradient(90deg, transparent 50%, rgba(255,255,255,.5) 50%);background-size: 50px 50px;",
+		"updated": "20211004112544"
+	},
+	"Children": [
+		{
+			"ID": "20211004094725-lqja5b0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211004094725-lqja5b0",
+				"updated": "20211004094754"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "概述"
+				}
+			]
+		},
+		{
+			"ID": "20211004095049-jwlpekh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004095049-jwlpekh",
+				"updated": "20211004095625"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "钢结构设计过程"
+				}
+			]
+		},
+		{
+			"ID": "20211004095625-or3mdvl",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20211004095625-or3mdvl",
+				"updated": "20211004095927"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "graph LR\n设计任务--\u003e结构方案设计\n结构方案设计--\u003e施工图设计"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211004095927-l8kcaih",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004095927-l8kcaih",
+				"updated": "20211004100212"
+			},
+			"Children": [
+				{
+					"ID": "20211004095931-mqkndih",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004095931-mqkndih"
+					},
+					"Children": [
+						{
+							"ID": "20211004095931-ipympsw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004095931-ipympsw",
+								"updated": "20211004095938"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "设计任务"
+								}
+							]
+						},
+						{
+							"ID": "20211004095939-safd5ye",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211004095939-safd5ye"
+							},
+							"Children": [
+								{
+									"ID": "20211004095939-sl0hfs7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004095939-sl0hfs7"
+									},
+									"Children": [
+										{
+											"ID": "20211004095939-70a0o3x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004095939-70a0o3x",
+												"updated": "20211004095941"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设计资料"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004095941-flmv16b",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004095941-flmv16b"
+									},
+									"Children": [
+										{
+											"ID": "20211004095941-quj2mkp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004095941-quj2mkp",
+												"updated": "20211004095943"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设计参数"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004095945-x8eec3j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004095945-x8eec3j"
+					},
+					"Children": [
+						{
+							"ID": "20211004095945-hg43jpa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004095945-hg43jpa",
+								"updated": "20211004095948"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构方案设计"
+								}
+							]
+						},
+						{
+							"ID": "20211004095949-ssol990",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211004095949-ssol990"
+							},
+							"Children": [
+								{
+									"ID": "20211004095948-1iwdkjv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004095948-1iwdkjv"
+									},
+									"Children": [
+										{
+											"ID": "20211004095948-8yh2nio",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004095948-8yh2nio",
+												"updated": "20211004095954"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "确定结构体系"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004095954-hqeh3rp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004095954-hqeh3rp"
+									},
+									"Children": [
+										{
+											"ID": "20211004095954-sljh8hv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004095954-sljh8hv",
+												"updated": "20211004100003"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构平立面布置"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004100003-9ch0gbu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004100003-9ch0gbu"
+									},
+									"Children": [
+										{
+											"ID": "20211004100003-cm4h25t",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004100003-cm4h25t",
+												"updated": "20211004100008"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "构件截面初估"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004100008-5tdeh9f",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004100008-5tdeh9f"
+									},
+									"Children": [
+										{
+											"ID": "20211004100008-6dr41ev",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004100008-6dr41ev",
+												"updated": "20211004100010"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004100010-x5pmpsz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004100010-x5pmpsz"
+									},
+									"Children": [
+										{
+											"ID": "20211004100010-izf5gvf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004100010-izf5gvf",
+												"updated": "20211004100015"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构及构件验算"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004100016-81lqgw6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004100016-81lqgw6"
+									},
+									"Children": [
+										{
+											"ID": "20211004100016-4pmgbi4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004100016-4pmgbi4",
+												"updated": "20211004100023"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "调整截面，迭代进行设计"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004100025-kp7m0lg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004100025-kp7m0lg",
+						"updated": "20211004100212"
+					},
+					"Children": [
+						{
+							"ID": "20211004100025-gqim3jo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100025-gqim3jo",
+								"updated": "20211004100030"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "施工图设计"
+								}
+							]
+						},
+						{
+							"ID": "20211004100030-j9fb61r",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211004100030-j9fb61r",
+								"updated": "20211004100212"
+							},
+							"Children": [
+								{
+									"ID": "20211004100030-lxur4b4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004100030-lxur4b4"
+									},
+									"Children": [
+										{
+											"ID": "20211004100030-ul4fxzh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004100030-ul4fxzh",
+												"updated": "20211004100032"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "绘制施工图"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004100033-1x487zo",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004100033-1x487zo",
+										"updated": "20211004100212"
+									},
+									"Children": [
+										{
+											"ID": "20211004100033-v8ju67b",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004100033-v8ju67b",
+												"updated": "20211004100212"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "施工图深化设计（现在已经不由设计院进行）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004094755-tbsinq9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211004094755-tbsinq9",
+				"updated": "20211004094807"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "钢结构体系选型"
+				}
+			]
+		},
+		{
+			"ID": "20211004095249-nuow51n",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004095249-nuow51n",
+				"updated": "20211004100415"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "多高层建筑钢结构的功能"
+				}
+			]
+		},
+		{
+			"ID": "20211004100441-0uiopgs",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211004100441-0uiopgs",
+				"updated": "20211004100455"
+			},
+			"Children": [
+				{
+					"ID": "20211004100443-a1uemjw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211004100443-a1uemjw"
+					},
+					"Children": [
+						{
+							"ID": "20211004100443-jfraoal",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100443-jfraoal",
+								"updated": "20211004100448"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抵抗竖向重力"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004100448-rgp0gso",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211004100448-rgp0gso",
+						"updated": "20211004100455"
+					},
+					"Children": [
+						{
+							"ID": "20211004100448-tmipz2b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100448-tmipz2b",
+								"updated": "20211004100455"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抵抗侧向力作用"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004100415-yeu6xhv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004100415-yeu6xhv",
+				"updated": "20211004100425"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "多高层钢结构的基本体系"
+				}
+			]
+		},
+		{
+			"ID": "20211004100501-91dkcoo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004100501-91dkcoo",
+				"updated": "20211004100615"
+			},
+			"Children": [
+				{
+					"ID": "20211004100615-h0tj0ff",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004100615-h0tj0ff"
+					},
+					"Children": [
+						{
+							"ID": "20211004100615-y9s7mjp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100615-y9s7mjp",
+								"updated": "20211004100634"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抗重力结构体系：楼盖"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004100624-os5fhmx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004100624-os5fhmx"
+					},
+					"Children": [
+						{
+							"ID": "20211004100624-w7yafb2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100624-w7yafb2",
+								"updated": "20211004100629"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抗侧力结构体系"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004100637-a3m5gbv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20211004100637-a3m5gbv",
+				"updated": "20211004100658"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "框架结构体系"
+				}
+			]
+		},
+		{
+			"ID": "20211004100658-e197o2f",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004100658-e197o2f",
+				"updated": "20211004102704"
+			},
+			"Children": [
+				{
+					"ID": "20211004100659-usbeffg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004100659-usbeffg"
+					},
+					"Children": [
+						{
+							"ID": "20211004100659-valthvh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100659-valthvh",
+								"updated": "20211004100719"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "由钢梁和钢柱组成抗重力体系和抗侧力体系，一般采用"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Properties": {
+										"style": "text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;"
+									},
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "双向刚接"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeKramdownSpanIAL",
+									"Data": "{: style=\"text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;\"}"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004100722-ywsjsjp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004100722-ywsjsjp",
+						"updated": "20211004100916"
+					},
+					"Children": [
+						{
+							"ID": "20211004100722-lkzo9x6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004100722-lkzo9x6",
+								"updated": "20211004100916"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "节点：刚性节点、铰接节点、半刚性节点"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004101636-qzcy6qm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004101636-qzcy6qm"
+					},
+					"Children": [
+						{
+							"ID": "20211004101636-4l5azlf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004101636-4l5azlf",
+								"updated": "20211004101656"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "刚接框架侧向变形（弯曲型、剪切型）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004101657-uv6n3oe",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004101657-uv6n3oe"
+					},
+					"Children": [
+						{
+							"ID": "20211004101657-z0h3f84",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004101657-z0h3f84",
+								"updated": "20211004101836"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中心支撑框架结构（变形特征：弯剪形）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004102209-h5bkt95",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004102209-h5bkt95"
+					},
+					"Children": [
+						{
+							"ID": "20211004102209-e20rzux",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004102209-e20rzux"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "偏心支撑 - 耗能梁端"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004102238-08eof8j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004102238-08eof8j"
+					},
+					"Children": [
+						{
+							"ID": "20211004102238-powfnr5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004102238-powfnr5",
+								"updated": "20211004102243"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "框筒结构"
+								}
+							]
+						},
+						{
+							"ID": "20211004102249-mahz1ay",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211004102249-mahz1ay"
+							},
+							"Children": [
+								{
+									"ID": "20211004102249-ixj4pv8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004102249-ixj4pv8"
+									},
+									"Children": [
+										{
+											"ID": "20211004102249-91mf2bc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004102249-91mf2bc",
+												"updated": "20211004102308"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "密柱深梁，存在问题：剪力滞后"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211004102455-vfc0424",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004102455-vfc0424"
+									},
+									"Children": [
+										{
+											"ID": "20211004102455-2uczvvi",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004102455-2uczvvi",
+												"updated": "20211004102512"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "柱距越大，剪力滞后效应越大"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004102518-65iuvff",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004102518-65iuvff"
+					},
+					"Children": [
+						{
+							"ID": "20211004102518-2x275tq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004102518-2x275tq",
+								"updated": "20211004102529"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "束筒结构"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004102701-sb349f5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004102701-sb349f5",
+						"updated": "20211004102704"
+					},
+					"Children": [
+						{
+							"ID": "20211004102701-74ovukv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004102701-74ovukv",
+								"updated": "20211004102704"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "巨型结构"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004094808-9ciwtg3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211004094808-9ciwtg3",
+				"updated": "20211004094821"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "多层钢框架布置"
+				}
+			]
+		},
+		{
+			"ID": "20211004102900-n8c35jk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004102900-n8c35jk",
+				"updated": "20211004102924"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "多层钢框架结构体系"
+				}
+			]
+		},
+		{
+			"ID": "20211004102924-r81kqt3",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004102924-r81kqt3",
+				"updated": "20211004102927"
+			},
+			"Children": [
+				{
+					"ID": "20211004102927-4acqass",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004102927-4acqass"
+					},
+					"Children": [
+						{
+							"ID": "20211004102927-i9ommqz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004102927-i9ommqz",
+								"updated": "20211004102953"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "层数不超过 8 层，总高度不超过 24m"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004102955-1ka4ycs",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004102955-1ka4ycs",
+				"updated": "20211004103051"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "结构平面布置"
+				}
+			]
+		},
+		{
+			"ID": "20211004103051-kfanuoa",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004103051-kfanuoa",
+				"updated": "20211004103051"
+			},
+			"Children": [
+				{
+					"ID": "20211004103051-1rlf9f3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004103051-1rlf9f3"
+					},
+					"Children": [
+						{
+							"ID": "20211004103051-4hnxeg4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004103051-4hnxeg4",
+								"updated": "20211004103054"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "与混凝土相同"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004103110-y266lhu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004103110-y266lhu"
+					},
+					"Children": [
+						{
+							"ID": "20211004103110-v5mrv6e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004103110-v5mrv6e",
+								"updated": "20211004103115"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "简单、规则"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004103115-ad9jyzb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004103115-ad9jyzb"
+					},
+					"Children": [
+						{
+							"ID": "20211004103115-gl91twd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004103115-gl91twd",
+								"updated": "20211004103309"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "刚度中心"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "与"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "质量中心"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "接近，避免平面扭转"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004103320-ybyp2fq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004103320-ybyp2fq",
+				"updated": "20211004103420"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "结构竖向布置"
+				}
+			]
+		},
+		{
+			"ID": "20211004103420-q2qm63n",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004103420-q2qm63n",
+				"updated": "20211004103426"
+			},
+			"Children": [
+				{
+					"ID": "20211004103426-2wk17e7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004103426-2wk17e7"
+					},
+					"Children": [
+						{
+							"ID": "20211004103426-fq1hbsb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004103426-fq1hbsb",
+								"updated": "20211004103434"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "符合体系最大高度和高宽比要求"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004104259-rw1q1xj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004104259-rw1q1xj"
+					},
+					"Children": [
+						{
+							"ID": "20211004104259-jd3njkk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004104259-jd3njkk",
+								"updated": "20211004104325"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "竖向抗侧力构件不连续——转换梁"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004104344-tor97ws",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004104344-tor97ws",
+				"updated": "20211004104348"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "柱网布置"
+				}
+			]
+		},
+		{
+			"ID": "20211004104348-j9ximy8",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004104348-j9ximy8",
+				"updated": "20211004104647"
+			},
+			"Children": [
+				{
+					"ID": "20211004104353-qfopr1n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004104353-qfopr1n"
+					},
+					"Children": [
+						{
+							"ID": "20211004104353-uf1p7ry",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004104353-uf1p7ry",
+								"updated": "20211004104413"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "柱距宜采用 6~9m，梁柱宜采用双向刚接"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004104417-he0fgjf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004104417-he0fgjf"
+					},
+					"Children": [
+						{
+							"ID": "20211004104417-rr3tzbl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004104417-rr3tzbl",
+								"updated": "20211004104439"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在主梁间按楼板受荷载要求设置次梁，间距 3~4m"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004104439-juyt59t",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004104439-juyt59t",
+						"updated": "20211004104647"
+					},
+					"Children": [
+						{
+							"ID": "20211004104439-3qcugm9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004104439-3qcugm9",
+								"updated": "20211004104647"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "次梁间距——楼板承载力"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004094821-yquq02d",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211004094821-yquq02d",
+				"updated": "20211004094834"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "钢框架构件初估"
+				}
+			]
+		},
+		{
+			"ID": "20211004104713-dfe6e6r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004104713-dfe6e6r",
+				"updated": "20211004105257"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "结构用钢材"
+				}
+			]
+		},
+		{
+			"ID": "20211004105257-91kmr0q",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004105257-91kmr0q",
+				"updated": "20211004105307"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "梁截面初估"
+				}
+			]
+		},
+		{
+			"ID": "20211004105307-70glfan",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004105307-70glfan",
+				"updated": "20211004110325"
+			},
+			"Children": [
+				{
+					"ID": "20211004105310-ssrom16",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004105310-ssrom16"
+					},
+					"Children": [
+						{
+							"ID": "20211004105310-23m1q32",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004105310-23m1q32",
+								"updated": "20211004105327"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "得到初步可用截面，减少后续截面调整工作"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004105458-hs7rq1n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004105458-hs7rq1n"
+					},
+					"Children": [
+						{
+							"ID": "20211004105458-iqi418x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004105458-iqi418x",
+								"updated": "20211004105527"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "推荐截面尺寸（钢结构 1）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004105527-8g9zd9f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004105527-8g9zd9f"
+					},
+					"Children": [
+						{
+							"ID": "20211004105527-72xepba",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004105527-72xepba",
+								"updated": "20211004105625"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般先验算一下局部稳定"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004105556-651s9fs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004105556-651s9fs"
+					},
+					"Children": [
+						{
+							"ID": "20211004105556-j1kl3fq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004105556-j1kl3fq",
+								"updated": "20211004105634"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "同时需要保证梁具有足够刚度，验算挠度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004105635-l0t86e0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004105635-l0t86e0"
+					},
+					"Children": [
+						{
+							"ID": "20211004105635-8x6zx8i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004105635-8x6zx8i",
+								"updated": "20211004105652"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "局部稳定要求：回顾《钢结构 1》"
+								}
+							]
+						},
+						{
+							"ID": "20211004110019-lqgwakp",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211004110019-lqgwakp"
+							},
+							"Children": [
+								{
+									"ID": "20211004110018-adppula",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211004110018-adppula"
+									},
+									"Children": [
+										{
+											"ID": "20211004110018-k4wb4zo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211004110018-k4wb4zo",
+												"updated": "20211004110023"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "S1~S5"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004110028-swyvc8r",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004110028-swyvc8r"
+					},
+					"Children": [
+						{
+							"ID": "20211004110028-9w72ezw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004110028-9w72ezw",
+								"updated": "20211004110045"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "板件宽厚比限值"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211004110255-l3xz3c2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004110255-l3xz3c2",
+						"updated": "20211004110325"
+					},
+					"Children": [
+						{
+							"ID": "20211004110255-odqzveu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004110255-odqzveu",
+								"updated": "20211004110325"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "引入概念《抗震等级》——三级"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004105328-fbtxhl8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004105328-fbtxhl8",
+				"updated": "20211004105456"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "柱截面初估"
+				}
+			]
+		},
+		{
+			"ID": "20211004094834-m08dm55",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211004094834-m08dm55",
+				"updated": "20211004094847"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "钢结构楼盖设计"
+				}
+			]
+		},
+		{
+			"ID": "20211004094858-nwwcbnc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004094858-nwwcbnc",
+				"updated": "20211004111951"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "楼盖设计"
+				}
+			]
+		},
+		{
+			"ID": "20211004111951-xorloxb",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004111951-xorloxb",
+				"updated": "20211004112017"
+			},
+			"Children": [
+				{
+					"ID": "20211004111952-hkboanm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004111952-hkboanm",
+						"updated": "20211004112017"
+					},
+					"Children": [
+						{
+							"ID": "20211004111952-10o4m3u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004111952-10o4m3u",
+								"updated": "20211004112017"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "现浇混凝土楼板、压型钢板组合楼板"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211004112510-3vd5aag",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211004112510-3vd5aag",
+				"updated": "20211004112513"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "次梁设计"
+				}
+			]
+		},
+		{
+			"ID": "20211004112515-svkxijg",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211004112515-svkxijg",
+				"updated": "20211004112544"
+			},
+			"Children": [
+				{
+					"ID": "20211004112542-gu60tae",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211004112542-gu60tae",
+						"updated": "20211004112544"
+					},
+					"Children": [
+						{
+							"ID": "20211004112542-kaeualo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211004112542-kaeualo",
+								"updated": "20211004112544"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般铰接"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

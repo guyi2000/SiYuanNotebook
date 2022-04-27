@@ -1,0 +1,282 @@
+{
+	"ID": "20211019090043-9qsotu6",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "32-20e3",
+		"id": "20211019090043-9qsotu6",
+		"title": "2021-10-19",
+		"updated": "20211019095029"
+	},
+	"Children": [
+		{
+			"ID": "20211019090043-y2cpzpo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211019090043-y2cpzpo",
+				"updated": "20211019090103"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "陈旺"
+				}
+			]
+		},
+		{
+			"ID": "20211019090134-ubd75u7",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20211019090134-ubd75u7",
+				"updated": "20211019090142"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20211019090135-xd3wuag",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20211019090135-xd3wuag",
+						"updated": "20211019090141"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "熊猫大厦"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211019090142-jloo3l4",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211019090142-jloo3l4",
+				"updated": "20211019090232"
+			},
+			"Children": [
+				{
+					"ID": "20211019090232-2vftjg6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019090232-2vftjg6"
+					},
+					"Children": [
+						{
+							"ID": "20211019090232-nlfm1ej",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019090232-nlfm1ej",
+								"updated": "20211019090517"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "伸臂桁架与腰桁架"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211019090242-5b20rrv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019090242-5b20rrv"
+					},
+					"Children": [
+						{
+							"ID": "20211019090242-t2qr4c3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019090242-t2qr4c3",
+								"updated": "20211019090549"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弹塑性分析要求：一阶周期误差不超过 5%"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211019091643-z59ebnk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211019091643-z59ebnk",
+				"updated": "20211019091647"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "赵鹏举"
+				}
+			]
+		},
+		{
+			"ID": "20211019091647-wvxmn1h",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211019091647-wvxmn1h",
+				"updated": "20211019095029"
+			},
+			"Children": [
+				{
+					"ID": "20211019093141-wz22pbc",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019093141-wz22pbc"
+					},
+					"Children": [
+						{
+							"ID": "20211019093141-8mhkr5c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019093141-8mhkr5c",
+								"updated": "20211019093151"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "图像分析方法评估与物理方法评估"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211019093151-9da8ux5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019093151-9da8ux5"
+					},
+					"Children": [
+						{
+							"ID": "20211019093151-r61ky1t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019093151-r61ky1t",
+								"updated": "20211019093200"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "物理方法评估如何传递到神经网络中"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211019093912-bzr5zwk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019093912-bzr5zwk"
+					},
+					"Children": [
+						{
+							"ID": "20211019093912-b9x8d4r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019093912-b9x8d4r",
+								"updated": "20211019093920"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建模分析优化"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211019094533-iyme4ju",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019094533-iyme4ju"
+					},
+					"Children": [
+						{
+							"ID": "20211019094533-g1ig3w6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019094533-g1ig3w6",
+								"updated": "20211019094540"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "图形学 + 专业知识"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211019095016-bu2l8ci",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211019095016-bu2l8ci",
+						"updated": "20211019095029"
+					},
+					"Children": [
+						{
+							"ID": "20211019095016-0s4ueoq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211019095016-0s4ueoq",
+								"updated": "20211019095029"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "loss 函数，相加、取最大值"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

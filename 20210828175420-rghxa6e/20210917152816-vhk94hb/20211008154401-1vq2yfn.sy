@@ -1,0 +1,28 @@
+{
+	"ID": "20211008154401-1vq2yfn",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "34-20e3",
+		"id": "20211008154401-1vq2yfn",
+		"title": "【4】卫星轨道与分辨率",
+		"title-img": "background:linear-gradient(135deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),linear-gradient(225deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;background-color:#708090;background-size: 64px 128px;",
+		"updated": "20211008154507"
+	},
+	"Children": [
+		{
+			"ID": "20211008154401-d34o7dy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211008154401-d34o7dy",
+				"updated": "20211008154507"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "牛顿世界的卫星与轨道"
+				}
+			]
+		}
+	]
+}

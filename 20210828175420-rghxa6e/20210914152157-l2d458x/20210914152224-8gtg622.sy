@@ -1,0 +1,3609 @@
+{
+	"ID": "20210914152224-8gtg622",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210914152224-8gtg622",
+		"title": "【1】绪论",
+		"title-img": "background:linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, linear-gradient(315deg, #ECEDDC 25%, transparent 25%),linear-gradient(45deg, #ECEDDC 25%, transparent 25%);background-size: 100px 100px;background-color: #EC173A;",
+		"updated": "20210926152241"
+	},
+	"Children": [
+		{
+			"ID": "20210914152224-e0wp39u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914152224-e0wp39u",
+				"updated": "20210914153521"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "力学分类"
+				}
+			]
+		},
+		{
+			"ID": "20210914153521-d7lv0nq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210914153521-d7lv0nq",
+				"updated": "20210914153527"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "一般力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914153527-euotuxt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914153527-euotuxt",
+				"updated": "20210914153618"
+			},
+			"Children": [
+				{
+					"ID": "20210914153528-k7wbngv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914153528-k7wbngv",
+						"updated": "20210914153618"
+					},
+					"Children": [
+						{
+							"ID": "20210914153528-lrkplpr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914153528-lrkplpr",
+								"updated": "20210914153618"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多体系统动力学"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914153545-3p31zwg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210914153545-3p31zwg",
+				"updated": "20210914153549"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "连续介质力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914153550-xck8jxj",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914153550-xck8jxj",
+				"updated": "20210914153558"
+			},
+			"Children": [
+				{
+					"ID": "20210914153558-7sm243q",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914153558-7sm243q"
+					},
+					"Children": [
+						{
+							"ID": "20210914153558-f9hq7eu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914153558-f9hq7eu"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "连续介质假设"
+								}
+							]
+						},
+						{
+							"ID": "20210914153603-5f2wbyv",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914153603-5f2wbyv"
+							},
+							"Children": [
+								{
+									"ID": "20210914153603-z7o2knb",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153603-z7o2knb"
+									},
+									"Children": [
+										{
+											"ID": "20210914153603-57vqupt",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153603-57vqupt",
+												"updated": "20210914153659"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "真实流体/固体所占有的空间可以近似地看作连续地无空隙地充满着“质点”"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153659-p7zinvb",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153659-p7zinvb"
+									},
+									"Children": [
+										{
+											"ID": "20210914153659-lj2q0e1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153659-lj2q0e1",
+												"updated": "20210914153717"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "质点：微观上充分大、宏观上充分小的分子团（微团）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153719-0uvxk14",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153719-0uvxk14"
+									},
+									"Children": [
+										{
+											"ID": "20210914153719-yzoa3hh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153719-yzoa3hh",
+												"updated": "20210914153735"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "空间中的每个点和每个时刻都有确定的物理量"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153738-kf5gia7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153738-kf5gia7"
+									},
+									"Children": [
+										{
+											"ID": "20210914153738-4u6svtm",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153738-4u6svtm",
+												"updated": "20210914153748"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "物理量是空间坐标和时间的连续函数"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153753-lz49vcm",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153753-lz49vcm"
+									},
+									"Children": [
+										{
+											"ID": "20210914153753-7aad36t",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153753-7aad36t",
+												"updated": "20210914153758"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "固体力学和流体力学"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914154053-infsbqf",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210914154053-infsbqf",
+				"updated": "20210914154122"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "固体力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914154134-kelje9s",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914154134-kelje9s",
+				"updated": "20210914154134"
+			},
+			"Children": [
+				{
+					"ID": "20210914153759-k8gm8q1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914153759-k8gm8q1"
+					},
+					"Children": [
+						{
+							"ID": "20210914153759-dnv5ak9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914153759-dnv5ak9",
+								"updated": "20210914153817"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "理论力学"
+								}
+							]
+						},
+						{
+							"ID": "20210914153818-3pu6puk",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914153818-3pu6puk"
+							},
+							"Children": [
+								{
+									"ID": "20210914153817-h343i9g",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153817-h343i9g"
+									},
+									"Children": [
+										{
+											"ID": "20210914153817-4lha2er",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153817-4lha2er",
+												"updated": "20210914153831"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "研究物体机械运动的基本规律"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153832-rx9zjs2",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153832-rx9zjs2"
+									},
+									"Children": [
+										{
+											"ID": "20210914153832-te29bmo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153832-te29bmo",
+												"updated": "20210914153837"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "质点、刚体、刚体系"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153837-wo5zomv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153837-wo5zomv"
+									},
+									"Children": [
+										{
+											"ID": "20210914153837-g3orbzc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153837-g3orbzc",
+												"updated": "20210914153844"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "静力学、运动学、动力学"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154214-rspe56o",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154214-rspe56o"
+					},
+					"Children": [
+						{
+							"ID": "20210914154214-4s5p8vg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154214-4s5p8vg"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "材料力学"
+								}
+							]
+						},
+						{
+							"ID": "20210914153849-n8ux94w",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914153849-n8ux94w"
+							},
+							"Children": [
+								{
+									"ID": "20210914153848-2bthjkz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153848-2bthjkz"
+									},
+									"Children": [
+										{
+											"ID": "20210914153848-134uv6j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153848-134uv6j",
+												"updated": "20210914153914"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "研究结构与机械零件中杆件在外力作用下的变形、应力分布与破环的规律"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153917-fcnfli4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153917-fcnfli4"
+									},
+									"Children": [
+										{
+											"ID": "20210914153917-ftncb7a",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153917-ftncb7a",
+												"updated": "20210914153920"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "变形体、杆件"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914153921-dgxqrsv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914153921-dgxqrsv"
+									},
+									"Children": [
+										{
+											"ID": "20210914153921-hrfj6n1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914153921-hrfj6n1",
+												"updated": "20210914153929"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "强度、刚度、稳定性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154226-x7grwhk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154226-x7grwhk"
+					},
+					"Children": [
+						{
+							"ID": "20210914154226-a22pibj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154226-a22pibj"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构力学"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154231-wtpoq89",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154231-wtpoq89"
+					},
+					"Children": [
+						{
+							"ID": "20210914154231-9nlgfov",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154231-9nlgfov"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "断裂力学"
+								}
+							]
+						},
+						{
+							"ID": "20210914154234-759qnka",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914154234-759qnka"
+							},
+							"Children": [
+								{
+									"ID": "20210914154234-oik20j5",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914154234-oik20j5"
+									},
+									"Children": [
+										{
+											"ID": "20210914154234-0hz8mho",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914154234-0hz8mho"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "材料和工程结构中裂纹扩展规律"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914154123-eevj5d9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210914154123-eevj5d9",
+				"updated": "20210914154126"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "流体力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914154126-q8yk68e",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914154126-q8yk68e",
+				"updated": "20210914154237"
+			},
+			"Children": [
+				{
+					"ID": "20210914154237-9kl1q1l",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154237-9kl1q1l"
+					},
+					"Children": [
+						{
+							"ID": "20210914154237-n71fvbe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154237-n71fvbe",
+								"updated": "20210914154247"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "流体 = 气体 + 液体"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154244-nocrmti",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154244-nocrmti"
+					},
+					"Children": [
+						{
+							"ID": "20210914154244-pzwmrjk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154244-pzwmrjk",
+								"updated": "20210914154348"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "研究各种力作用下流体本身的静止状态与运动规律，以及流体和固体、流体和流体之间、流体与其他运动形态之间有相对运动的相互作用和流动规律的学科。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154348-axxs0ch",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154348-axxs0ch"
+					},
+					"Children": [
+						{
+							"ID": "20210914154348-rx0aueu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154348-rx0aueu",
+								"updated": "20210914154355"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "流体静力学、流体动力学"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154355-v70pbs3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154355-v70pbs3"
+					},
+					"Children": [
+						{
+							"ID": "20210914154355-qs5cob2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154355-qs5cob2",
+								"updated": "20210914154411"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "空气动力学、渗流力学、多相流体力学"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154412-gx1ndcs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154412-gx1ndcs"
+					},
+					"Children": [
+						{
+							"ID": "20210914154412-r8529oy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154412-r8529oy",
+								"updated": "20210914154437"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "计算流体力学"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914154441-34uc0dj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210914154441-34uc0dj",
+				"updated": "20210914154449"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "土力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914154449-r190mph",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914154449-r190mph",
+				"updated": "20210914154452"
+			},
+			"Children": [
+				{
+					"ID": "20210914154452-mu85z2m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154452-mu85z2m"
+					},
+					"Children": [
+						{
+							"ID": "20210914154452-j0b7dv9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154452-j0b7dv9",
+								"updated": "20210914154501"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "研究土的力学、物理和化学性能"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914154501-fo2lung",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154501-fo2lung"
+					},
+					"Children": [
+						{
+							"ID": "20210914154501-ar1r5sf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154501-ar1r5sf",
+								"updated": "20210914154526"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "矿物可莉构成的土骨架、骨架孔隙内含有水和气体"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914154526-1i2uzxg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210914154526-1i2uzxg",
+				"updated": "20210914154533"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "颗粒力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914154533-8kom13u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210914154533-8kom13u",
+				"updated": "20210914154541"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "细观力学、微观力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914154614-bavkg8r",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914154614-bavkg8r",
+				"updated": "20210914154617"
+			},
+			"Children": [
+				{
+					"ID": "20210914154617-4ilo6j9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914154617-4ilo6j9"
+					},
+					"Children": [
+						{
+							"ID": "20210914154617-9gklz0m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914154617-9gklz0m",
+								"updated": "20210914154623"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "颗粒尺度的力学分析"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914154651-lkhabbq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210914154651-lkhabbq",
+				"updated": "20210914154655"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性力学"
+				}
+			]
+		},
+		{
+			"ID": "20210914154845-yssprf6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914154845-yssprf6",
+				"updated": "20210914155508"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性力学的研究内容"
+				}
+			]
+		},
+		{
+			"ID": "20210914155508-c1dmk3j",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914155508-c1dmk3j",
+				"updated": "20210914155515"
+			},
+			"Children": [
+				{
+					"ID": "20210914155515-74w5wxz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155515-74w5wxz"
+					},
+					"Children": [
+						{
+							"ID": "20210914155515-xujt1kg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155515-xujt1kg",
+								"updated": "20210914155619"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "关键词："
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "力学"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "、"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "弹性"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "、"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "有限元"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "、"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "基础"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914155621-1xbgazd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210914155621-1xbgazd",
+				"updated": "20210914155626"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性"
+				}
+			]
+		},
+		{
+			"ID": "20210914155627-3uzac9a",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914155627-3uzac9a",
+				"updated": "20210914155628"
+			},
+			"Children": [
+				{
+					"ID": "20210914155628-aqzql73",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155628-aqzql73"
+					},
+					"Children": [
+						{
+							"ID": "20210914155628-dksyn2c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155628-dksyn2c",
+								"updated": "20210914155631"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弹性的概念"
+								}
+							]
+						},
+						{
+							"ID": "20210914155631-zt7zbo1",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914155631-zt7zbo1"
+							},
+							"Children": [
+								{
+									"ID": "20210914155631-ua9ysmg",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914155631-ua9ysmg"
+									},
+									"Children": [
+										{
+											"ID": "20210914155631-i1tpm4u",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914155631-i1tpm4u",
+												"updated": "20210914155635"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "材料的特性"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914155635-osj6ddr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914155635-osj6ddr"
+									},
+									"Children": [
+										{
+											"ID": "20210914155635-lvmbo5g",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914155635-lvmbo5g",
+												"updated": "20210914155643"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "力 --\u003e 形变"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914155640-ojhdfoi",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914155640-ojhdfoi"
+									},
+									"Children": [
+										{
+											"ID": "20210914155640-pikpwx7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914155640-pikpwx7",
+												"updated": "20210914155701"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "外力移去，形变消失，完全恢复形状"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914155703-z1fuz8l",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914155703-z1fuz8l"
+									},
+									"Children": [
+										{
+											"ID": "20210914155703-jjlwra2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914155703-jjlwra2",
+												"updated": "20210914155718"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "根据变形的特点，描述材料力与变形之间的关系"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914155718-r4edwfp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914155718-r4edwfp"
+									},
+									"Children": [
+										{
+											"ID": "20210914155718-q5vkocg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914155718-q5vkocg",
+												"updated": "20210914155721"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "胡克定律"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914155747-0z3jhgz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155747-0z3jhgz"
+					},
+					"Children": [
+						{
+							"ID": "20210914155747-8shmygm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155747-8shmygm",
+								"updated": "20210914155753"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弹性力学（弹性理论）"
+								}
+							]
+						},
+						{
+							"ID": "20210914155755-gceby3m",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914155755-gceby3m"
+							},
+							"Children": [
+								{
+									"ID": "20210914155754-2303ekx",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914155754-2303ekx"
+									},
+									"Children": [
+										{
+											"ID": "20210914155754-tnbmul5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914155754-tnbmul5",
+												"updated": "20210914155814"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "物体、弹性阶段、受力和形变"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914155823-yy1h1ot",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914155823-yy1h1ot",
+				"updated": "20210914155834"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性力学的基本假定"
+				}
+			]
+		},
+		{
+			"ID": "20210914155834-fzgm9op",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914155834-fzgm9op",
+				"updated": "20210926152241"
+			},
+			"Children": [
+				{
+					"ID": "20210914155835-tv5v4w4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155835-tv5v4w4"
+					},
+					"Children": [
+						{
+							"ID": "20210914155835-rnlfmep",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155835-rnlfmep",
+								"updated": "20210914155924"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "连续：物体内的物理量可表示成坐标的连续函数。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914155846-cnk9nlh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155846-cnk9nlh"
+					},
+					"Children": [
+						{
+							"ID": "20210914155846-y20l88n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155846-y20l88n",
+								"updated": "20210914155931"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "均匀：物体内各部分具有相同的力学性质。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914155847-k71c4a7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155847-k71c4a7"
+					},
+					"Children": [
+						{
+							"ID": "20210914155847-p888ipq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155847-p888ipq",
+								"updated": "20210914155932"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "各向同性：材料沿各个方向力学性质相同。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914155932-315xqxx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914155932-315xqxx",
+						"updated": "20210926152241"
+					},
+					"Children": [
+						{
+							"ID": "20210914155932-m16pinu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914155932-m16pinu",
+								"updated": "20210926152241"
+							},
+							"Children": [
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "完全"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "线"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "弹性"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "："
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914160053-t4c7ilv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914160053-t4c7ilv"
+					},
+					"Children": [
+						{
+							"ID": "20210914160053-zqb5oaa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914160053-zqb5oaa",
+								"updated": "20210914160118"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小变形：位移远小于物体原来的尺寸，"
+								},
+								{
+									"Type": "NodeStrong",
+									"Data": "strong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "转角和应变"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "均远小于 1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914160121-f40dbo7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914160121-f40dbo7"
+					},
+					"Children": [
+						{
+							"ID": "20210914160121-b8oixqs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914160121-b8oixqs",
+								"updated": "20210914160128"
+							},
+							"Children": [
+								{
+									"Type": "NodeMark",
+									"Data": "mark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "没有初始应力"
+										},
+										{
+											"Type": "NodeMark2CloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914160133-g813p0y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914160133-g813p0y",
+				"updated": "20210914160148"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性力学的研究对象"
+				}
+			]
+		},
+		{
+			"ID": "20210914160201-gofur9p",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210914160201-gofur9p",
+				"updated": "20210914160230"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210914160202-bhti6ly",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210914160202-bhti6ly",
+						"updated": "20210914160230"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "研究弹性体（平面结构、板壳结构、空间结构）在外界因素作用下的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Data": "strong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "应力、应变和位移"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "问题。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914160230-mziwqn2",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914160230-mziwqn2",
+				"updated": "20210914160257"
+			},
+			"Children": [
+				{
+					"ID": "20210914160235-o6maf2d",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914160235-o6maf2d",
+						"updated": "20210914160257"
+					},
+					"Children": [
+						{
+							"ID": "20210914160235-76wjtpk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914160235-76wjtpk",
+								"updated": "20210914160257"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "空间问题（三维结构） --\u003e 平面问题（二维结构）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914160258-pczh08y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914160258-pczh08y",
+				"updated": "20210914160430"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性力学发展史"
+				}
+			]
+		},
+		{
+			"ID": "20210914160430-kxqbv0o",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914160430-kxqbv0o",
+				"updated": "20210914162153"
+			},
+			"Children": [
+				{
+					"ID": "20210914162012-zgvye5x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914162012-zgvye5x",
+						"updated": "20210914162153"
+					},
+					"Children": [
+						{
+							"ID": "20210914162012-ghktim5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914162012-ghktim5",
+								"updated": "20210914162014"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "初期"
+								}
+							]
+						},
+						{
+							"ID": "20210914162014-y9p92j0",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914162014-y9p92j0",
+								"updated": "20210914162153"
+							},
+							"Children": [
+								{
+									"ID": "20210914162014-uvpd3p1",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162014-uvpd3p1"
+									},
+									"Children": [
+										{
+											"ID": "20210914162014-0jt10rr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162014-0jt10rr",
+												"updated": "20210914162026"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "通过实验探索弹性力学规律"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162039-ubvp8vl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162039-ubvp8vl"
+									},
+									"Children": [
+										{
+											"ID": "20210914162039-e3jza50",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162039-e3jza50",
+												"updated": "20210914162040"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "胡克"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162040-79yz8c9",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162040-79yz8c9",
+										"updated": "20210914162153"
+									},
+									"Children": [
+										{
+											"ID": "20210914162040-w3nlhzg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162040-w3nlhzg",
+												"updated": "20210914162042"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "牛顿"
+												}
+											]
+										},
+										{
+											"ID": "20210914162150-menbi7f",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210914162150-menbi7f",
+												"updated": "20210914162153"
+											},
+											"Children": [
+												{
+													"ID": "20210914162150-cff97wb",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162150-cff97wb",
+														"updated": "20210914162153"
+													},
+													"Children": [
+														{
+															"ID": "20210914162150-hngp85g",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162150-hngp85g",
+																"updated": "20210914162153"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "力学三定律"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914162047-xffjlcr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914162047-xffjlcr",
+						"updated": "20210914162120"
+					},
+					"Children": [
+						{
+							"ID": "20210914162047-gcrnfsx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914162047-gcrnfsx",
+								"updated": "20210914162050"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "文艺复兴"
+								}
+							]
+						},
+						{
+							"ID": "20210914162051-s5tc09l",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914162051-s5tc09l",
+								"updated": "20210914162120"
+							},
+							"Children": [
+								{
+									"ID": "20210914162051-2wkvkyw",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162051-2wkvkyw"
+									},
+									"Children": [
+										{
+											"ID": "20210914162051-yf9q4ye",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162051-yf9q4ye",
+												"updated": "20210914162054"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "达芬奇"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162055-7unlbrl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162055-7unlbrl"
+									},
+									"Children": [
+										{
+											"ID": "20210914162055-ogpm5cy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162055-ogpm5cy",
+												"updated": "20210914162058"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "实验方法"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162058-p01ml1c",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162058-p01ml1c"
+									},
+									"Children": [
+										{
+											"ID": "20210914162058-a53ihaz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162058-a53ihaz",
+												"updated": "20210914162101"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "思想实验"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162102-k082lng",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162102-k082lng"
+									},
+									"Children": [
+										{
+											"ID": "20210914162102-847ydlj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162102-847ydlj",
+												"updated": "20210914162108"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "用图形表达理念"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162108-gwfuk0m",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162108-gwfuk0m"
+									},
+									"Children": [
+										{
+											"ID": "20210914162108-ok0mqz9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162108-ok0mqz9",
+												"updated": "20210914162114"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "解决实际问题"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162114-mcu57dz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162114-mcu57dz",
+										"updated": "20210914162120"
+									},
+									"Children": [
+										{
+											"ID": "20210914162114-9kl1i5n",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162114-9kl1i5n",
+												"updated": "20210914162120"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "手稿插图"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914162159-25qb6ob",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914162159-25qb6ob",
+				"updated": "20210914162940"
+			},
+			"Children": [
+				{
+					"ID": "20210914162257-ffbthhf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914162257-ffbthhf"
+					},
+					"Children": [
+						{
+							"ID": "20210914162257-epuf8ms",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914162257-epuf8ms",
+								"updated": "20210914162306"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第二时期"
+								}
+							]
+						},
+						{
+							"ID": "20210914162306-g3q8p05",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914162306-g3q8p05"
+							},
+							"Children": [
+								{
+									"ID": "20210914162306-90f5fl2",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162306-90f5fl2"
+									},
+									"Children": [
+										{
+											"ID": "20210914162306-7rqvib2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162306-7rqvib2",
+												"updated": "20210914162311"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "主要研究梁的理论"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162311-nx89qb6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162311-nx89qb6"
+									},
+									"Children": [
+										{
+											"ID": "20210914162311-yrptlm3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162311-yrptlm3",
+												"updated": "20210914162319"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "纳维、柯西"
+												}
+											]
+										},
+										{
+											"ID": "20210914162320-k5qjt12",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210914162320-k5qjt12"
+											},
+											"Children": [
+												{
+													"ID": "20210914162320-wb1chhq",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162320-wb1chhq"
+													},
+													"Children": [
+														{
+															"ID": "20210914162320-asprht3",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162320-asprht3",
+																"updated": "20210914162327"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "弹性力学的数学理论"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162327-1mm0363",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162327-1mm0363"
+													},
+													"Children": [
+														{
+															"ID": "20210914162327-3ofij2c",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162327-3ofij2c",
+																"updated": "20210914162333"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "应变、应力的概念"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162333-icwime7",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162333-icwime7"
+													},
+													"Children": [
+														{
+															"ID": "20210914162333-y4aqmgh",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162333-y4aqmgh",
+																"updated": "20210914162347"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "弹性力学的几何方程、运动（平衡）方程"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162348-ypn4nw6",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162348-ypn4nw6"
+													},
+													"Children": [
+														{
+															"ID": "20210914162348-mnd7aay",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162348-mnd7aay",
+																"updated": "20210914162357"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "各向异性材料的广义胡克定律"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162401-r3tvry4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162401-r3tvry4"
+									},
+									"Children": [
+										{
+											"ID": "20210914162401-ecj2vy2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162401-ecj2vy2",
+												"updated": "20210914162408"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "奠定了弹性力学的理论基础"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914162459-gjlubam",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914162459-gjlubam"
+					},
+					"Children": [
+						{
+							"ID": "20210914162459-qjsojla",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914162459-qjsojla",
+								"updated": "20210914162508"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第三时期"
+								}
+							]
+						},
+						{
+							"ID": "20210914162509-vbu086o",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914162509-vbu086o"
+							},
+							"Children": [
+								{
+									"ID": "20210914162509-jwap2cd",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162509-jwap2cd"
+									},
+									"Children": [
+										{
+											"ID": "20210914162509-vzxubd8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162509-vzxubd8",
+												"updated": "20210914162518"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "线性各向同性弹性力学大发展时期"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162519-7sva9jv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162519-7sva9jv"
+									},
+									"Children": [
+										{
+											"ID": "20210914162519-k1nimmt",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162519-k1nimmt",
+												"updated": "20210914162532"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "弹性力学广泛应用于解决工程问题"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162535-qfqmsc3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162535-qfqmsc3"
+									},
+									"Children": [
+										{
+											"ID": "20210914162535-8kvtbr3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162535-8kvtbr3",
+												"updated": "20210914162537"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "圣维南"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162537-rijkjul",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162537-rijkjul"
+									},
+									"Children": [
+										{
+											"ID": "20210914162537-c4i9zex",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162537-c4i9zex",
+												"updated": "20210914162547"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基尔施"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162552-jy3z6fk",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162552-jy3z6fk"
+									},
+									"Children": [
+										{
+											"ID": "20210914162552-f7bfqs6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162552-f7bfqs6",
+												"updated": "20210914162606"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "弹性力学一般理论取得两方面重要成果"
+												}
+											]
+										},
+										{
+											"ID": "20210914162607-s5rji8k",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210914162607-s5rji8k"
+											},
+											"Children": [
+												{
+													"ID": "20210914162607-git4fsw",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162607-git4fsw"
+													},
+													"Children": [
+														{
+															"ID": "20210914162607-t7bwzis",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162607-t7bwzis",
+																"updated": "20210914162617"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "建立了各种关于能量的原理"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162617-reu8uj2",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162617-reu8uj2"
+													},
+													"Children": [
+														{
+															"ID": "20210914162617-ftvlfws",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162617-ftvlfws",
+																"updated": "20210914162657"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "发展了许多有效的近似计算、数值计算和其他计算方法，如著名的瑞利 - 里兹法"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162700-y6qi1qg",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162700-y6qi1qg"
+									},
+									"Children": [
+										{
+											"ID": "20210914162700-b009795",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162700-b009795",
+												"updated": "20210914162728"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "弹性力学走入独立发展，奠定了经典弹性力学的理论基础"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914162728-mzqn691",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914162728-mzqn691",
+						"updated": "20210914162940"
+					},
+					"Children": [
+						{
+							"ID": "20210914162728-pk07qt0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914162728-pk07qt0",
+								"updated": "20210914162811"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第四时期"
+								}
+							]
+						},
+						{
+							"ID": "20210914162811-ca1sn2d",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914162811-ca1sn2d",
+								"updated": "20210914162940"
+							},
+							"Children": [
+								{
+									"ID": "20210914162811-3xcrf5v",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162811-3xcrf5v"
+									},
+									"Children": [
+										{
+											"ID": "20210914162811-342jkqj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162811-342jkqj",
+												"updated": "20210914162834"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "在发展经典理论的同时，广泛地探讨了许多复杂的问题，出现了许多边缘分支。"
+												}
+											]
+										},
+										{
+											"ID": "20210914162837-2tppo6a",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210914162837-2tppo6a"
+											},
+											"Children": [
+												{
+													"ID": "20210914162834-gvyz9op",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162834-gvyz9op"
+													},
+													"Children": [
+														{
+															"ID": "20210914162834-lbqtic0",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162834-lbqtic0",
+																"updated": "20210914162850"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "各向异性和非均匀体的理论"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162850-4yk3xid",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162850-4yk3xid"
+													},
+													"Children": [
+														{
+															"ID": "20210914162850-pohftjd",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162850-pohftjd",
+																"updated": "20210914162856"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "非线性弹性力学"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162856-mq5tlnj",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162856-mq5tlnj"
+													},
+													"Children": [
+														{
+															"ID": "20210914162856-a3tixpd",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162856-a3tixpd",
+																"updated": "20210914162902"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "热弹性力学"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162902-7c1x6ki",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162902-7c1x6ki"
+													},
+													"Children": [
+														{
+															"ID": "20210914162902-9ccinb3",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162902-9ccinb3",
+																"updated": "20210914162911"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "水弹性理论及粘弹性理论"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914162911-26fg1tb",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914162911-26fg1tb"
+													},
+													"Children": [
+														{
+															"ID": "20210914162911-c5fdv6m",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914162911-c5fdv6m",
+																"updated": "20210914162919"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "辛弹性力学"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914162925-rybrcqi",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914162925-rybrcqi",
+										"updated": "20210914162940"
+									},
+									"Children": [
+										{
+											"ID": "20210914162925-57q9kea",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914162925-57q9kea",
+												"updated": "20210914162940"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "丰富了弹性力学的内容，促进了有关工程技术的发展"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914163033-ceawk4x",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914163033-ceawk4x",
+				"updated": "20210914163235"
+			},
+			"Children": [
+				{
+					"ID": "20210914163235-l80q7ru",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914163235-l80q7ru"
+					},
+					"Children": [
+						{
+							"ID": "20210914163235-m4mse9e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914163235-m4mse9e",
+								"updated": "20210914163244"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第五时期（21 世纪）"
+								}
+							]
+						},
+						{
+							"ID": "20210914163248-9ddpi4r",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914163248-9ddpi4r"
+							},
+							"Children": [
+								{
+									"ID": "20210914163245-4d0nwia",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914163245-4d0nwia"
+									},
+									"Children": [
+										{
+											"ID": "20210914163245-xj6phba",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914163245-xj6phba",
+												"updated": "20210914163314"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "随着计算机技术的发展，计算力学称为力学研究的新的分支，也成为工程设计的重要支柱。"
+												}
+											]
+										},
+										{
+											"ID": "20210914163315-5acboxc",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210914163315-5acboxc"
+											},
+											"Children": [
+												{
+													"ID": "20210914163315-z4j75xc",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914163315-z4j75xc"
+													},
+													"Children": [
+														{
+															"ID": "20210914163315-s0yuooz",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914163315-s0yuooz",
+																"updated": "20210914163320"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "有限元法"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210914163320-t8jecvg",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210914163320-t8jecvg"
+													},
+													"Children": [
+														{
+															"ID": "20210914163320-sxregbm",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210914163320-sxregbm",
+																"updated": "20210914163330"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "国内外各种著名商业型计算分析软件"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914163330-33mbvom",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914163330-33mbvom"
+									},
+									"Children": [
+										{
+											"ID": "20210914163330-0g4pmyz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914163330-0g4pmyz",
+												"updated": "20210914163348"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "大大拓宽了弹性力学在工程技术领域的应用空间"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914163350-2n4pr3q",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914163350-2n4pr3q",
+				"updated": "20210914163358"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "弹性力学的分析方法"
+				}
+			]
+		},
+		{
+			"ID": "20210914163358-np7wbn4",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210914163358-np7wbn4",
+				"updated": "20210914163440"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20210914163402-spxmsj6",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210914163402-spxmsj6",
+						"updated": "20210914163440"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "在外界因素影响下，弹性体内产生的应力、应变和位移（基本未知量）是坐标的连续函数，为"
+						},
+						{
+							"Type": "NodeStrong",
+							"Data": "strong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "无限自由度"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "问题"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914163440-tn59tom",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914163440-tn59tom",
+				"updated": "20210914163442"
+			},
+			"Children": [
+				{
+					"ID": "20210914163442-9jjlyll",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914163442-9jjlyll"
+					},
+					"Children": [
+						{
+							"ID": "20210914163442-uhbutr9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914163442-uhbutr9",
+								"updated": "20210914163448"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "精确解法"
+								}
+							]
+						},
+						{
+							"ID": "20210914163608-irc8gd2",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914163608-irc8gd2"
+							},
+							"Children": [
+								{
+									"ID": "20210914163608-03xek8m",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914163608-03xek8m"
+									},
+									"Children": [
+										{
+											"ID": "20210914163608-yvpnrzq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914163608-yvpnrzq",
+												"updated": "20210914163645"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "建立描述弹性体性质的"
+												},
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "偏微分方程"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "和边界条件，求解得到问题的解答。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914163448-3rug2fr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914163448-3rug2fr"
+					},
+					"Children": [
+						{
+							"ID": "20210914163448-kzjjo9v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914163448-kzjjo9v",
+								"updated": "20210914163452"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "近似解法"
+								}
+							]
+						},
+						{
+							"ID": "20210914163452-ltc32an",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914163452-ltc32an"
+							},
+							"Children": [
+								{
+									"ID": "20210914163452-2ht89cj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914163452-2ht89cj"
+									},
+									"Children": [
+										{
+											"ID": "20210914163452-v3biepr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914163452-v3biepr",
+												"updated": "20210914163459"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "最常用："
+												},
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "有限元法"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914163500-0wkvg1k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914163500-0wkvg1k"
+									},
+									"Children": [
+										{
+											"ID": "20210914163500-x9k2usg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914163500-x9k2usg",
+												"updated": "20210914163658"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "弹性体离散为有限个单元，依据能量原理，把弹性力学偏微分方程问题化为数学中的"
+												},
+												{
+													"Type": "NodeStrong",
+													"Data": "strong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "变分问题"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "，求得近似解答。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914163907-9k1yhmk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914163907-9k1yhmk",
+				"updated": "20210914163918"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "课程目标"
+				}
+			]
+		},
+		{
+			"ID": "20210914163923-z2sto7o",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914163923-z2sto7o",
+				"updated": "20210914164740"
+			},
+			"Children": [
+				{
+					"ID": "20210914164741-6ql3gm9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914164741-6ql3gm9"
+					},
+					"Children": [
+						{
+							"ID": "20210914164741-6s35ka4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914164741-6s35ka4",
+								"updated": "20210914164759"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "教材：《弹性力学简明教程》（第四版）徐芝纶"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914164803-436nj8g",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914164803-436nj8g"
+					},
+					"Children": [
+						{
+							"ID": "20210914164803-4xsw1ah",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914164803-4xsw1ah",
+								"updated": "20210914164835"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "参考书："
+								}
+							]
+						},
+						{
+							"ID": "20210914164842-pw647jd",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210914164842-pw647jd"
+							},
+							"Children": [
+								{
+									"ID": "20210914164841-9ui6jxe",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914164841-9ui6jxe"
+									},
+									"Children": [
+										{
+											"ID": "20210914164841-2zrqazd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914164841-2zrqazd",
+												"updated": "20210914164925"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "《Theory of Elasticity》S.Timoshenko，中文译本."
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914164844-2i85htp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914164844-2i85htp"
+									},
+									"Children": [
+										{
+											"ID": "20210914164844-46uouha",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914164844-46uouha",
+												"updated": "20210914164922"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "《弹性力学》徐秉业、王建学编. 清华大学出版社、Springer."
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210914165002-x4rebif",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210914165002-x4rebif"
+									},
+									"Children": [
+										{
+											"ID": "20210914165002-8m163ce",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210914165002-8m163ce",
+												"updated": "20210914165009"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "《弹性力学》陆明万"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914165039-v94w6id",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210914165039-v94w6id",
+				"updated": "20210914165048"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成绩组成"
+				}
+			]
+		},
+		{
+			"ID": "20210914165049-65hbknl",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210914165049-65hbknl",
+				"updated": "20210914165120"
+			},
+			"Children": [
+				{
+					"ID": "20210914165050-vkyq5js",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914165050-vkyq5js",
+						"updated": "20210914165120"
+					},
+					"Children": [
+						{
+							"ID": "20210914165050-zel7o7i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914165050-zel7o7i",
+								"updated": "20210914165120"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "平时作业（20%）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914165053-im786gt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914165053-im786gt",
+						"updated": "20210914165109"
+					},
+					"Children": [
+						{
+							"ID": "20210914165053-15bri1d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914165053-15bri1d",
+								"updated": "20210914165109"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "已知测验（10%）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210914165058-q5ykyru",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210914165058-q5ykyru",
+						"updated": "20210914165114"
+					},
+					"Children": [
+						{
+							"ID": "20210914165058-7v8ai0f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210914165058-7v8ai0f",
+								"updated": "20210914165114"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "研究报告（70%）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210914165121-b03aee9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210914165121-b03aee9",
+				"updated": "20210914165121"
+			}
+		}
+	]
+}

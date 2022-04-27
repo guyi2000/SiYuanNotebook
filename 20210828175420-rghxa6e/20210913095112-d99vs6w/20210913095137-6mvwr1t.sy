@@ -1,0 +1,3708 @@
+{
+	"ID": "20210913095137-6mvwr1t",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20210913095137-6mvwr1t",
+		"title": "【1】绪论",
+		"title-img": "background-color: hsl(34, 53%, 82%);background-image: repeating-linear-gradient(45deg, transparent 5px, hsla(197, 62%, 11%, 0.5) 5px, hsla(197, 62%, 11%, 0.5) 10px, hsla(5, 53%, 63%, 0) 10px, hsla(5, 53%, 63%, 0) 35px, hsla(5, 53%, 63%, 0.5) 35px, hsla(5, 53%, 63%, 0.5) 40px, hsla(197, 62%, 11%, 0.5) 40px, hsla(197, 62%, 11%, 0.5) 50px, hsla(197, 62%, 11%, 0) 50px, hsla(197, 62%, 11%, 0) 60px, hsla(5, 53%, 63%, 0.5) 60px, hsla(5, 53%, 63%, 0.5) 70px, hsla(35, 91%, 65%, 0.5) 70px, hsla(35, 91%, 65%, 0.5) 80px, hsla(35, 91%, 65%, 0) 80px, hsla(35, 91%, 65%, 0) 90px, hsla(5, 53%, 63%, 0.5) 90px, hsla(5, 53%, 63%, 0.5) 110px, hsla(5, 53%, 63%, 0) 110px, hsla(5, 53%, 63%, 0) 120px, hsla(197, 62%, 11%, 0.5) 120px, hsla(197, 62%, 11%, 0.5) 140px),repeating-linear-gradient(135deg, transparent 5px, hsla(197, 62%, 11%, 0.5) 5px, hsla(197, 62%, 11%, 0.5) 10px, hsla(5, 53%, 63%, 0) 10px, hsla(5, 53%, 63%, 0) 35px, hsla(5, 53%, 63%, 0.5) 35px, hsla(5, 53%, 63%, 0.5) 40px, hsla(197, 62%, 11%, 0.5) 40px, hsla(197, 62%, 11%, 0.5) 50px, hsla(197, 62%, 11%, 0) 50px, hsla(197, 62%, 11%, 0) 60px, hsla(5, 53%, 63%, 0.5) 60px, hsla(5, 53%, 63%, 0.5) 70px, hsla(35, 91%, 65%, 0.5) 70px, hsla(35, 91%, 65%, 0.5) 80px, hsla(35, 91%, 65%, 0) 80px, hsla(35, 91%, 65%, 0) 90px, hsla(5, 53%, 63%, 0.5) 90px, hsla(5, 53%, 63%, 0.5) 110px, hsla(5, 53%, 63%, 0) 110px, hsla(5, 53%, 63%, 0) 140px, hsla(197, 62%, 11%, 0.5) 140px, hsla(197, 62%, 11%, 0.5) 160px);",
+		"updated": "20210917112156"
+	},
+	"Children": [
+		{
+			"ID": "20210913095137-dg2n33e",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210913095137-dg2n33e",
+				"updated": "20210913103115"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "设计任务书"
+				}
+			]
+		},
+		{
+			"ID": "20210913100446-dgfftqo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210913100446-dgfftqo",
+				"updated": "20210913100530"
+			},
+			"Children": [
+				{
+					"ID": "20210913100530-nb8urde",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913100530-nb8urde"
+					},
+					"Children": [
+						{
+							"ID": "20210913100530-lq8lben",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913100530-lq8lben",
+								"updated": "20210913100540"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "设计土木系新系馆的办公楼部分"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913100655-ficnz33",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913100655-ficnz33"
+					},
+					"Children": [
+						{
+							"ID": "20210913100655-9lpma0w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913100655-9lpma0w",
+								"updated": "20210913100711"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构体系：钢筋混凝土框架或钢框架"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913101318-ny7574j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913101318-ny7574j"
+					},
+					"Children": [
+						{
+							"ID": "20210913101318-vk0bq7j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913101318-vk0bq7j",
+								"updated": "20210913101323"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑方案与结构方案"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913101328-9jggqt3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913101328-9jggqt3"
+					},
+					"Children": [
+						{
+							"ID": "20210913101328-ut6butb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913101328-ut6butb",
+								"updated": "20210913101337"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "楼盖和屋盖结构设计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913101424-m95ljb0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913101424-m95ljb0"
+					},
+					"Children": [
+						{
+							"ID": "20210913101424-qowatht",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913101424-qowatht",
+								"updated": "20210913101440"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "单榀框架的结构设计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913101402-u77tui4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913101402-u77tui4"
+					},
+					"Children": [
+						{
+							"ID": "20210913101402-g06twiv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913101402-g06twiv",
+								"updated": "20210913101411"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基础设计（可选）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913101528-d09uoms",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210913101528-d09uoms"
+					},
+					"Children": [
+						{
+							"ID": "20210913101528-697veub",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913101528-697veub",
+								"updated": "20210913101547"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "总工程量估算：包括单位平米的材料用量"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210913101809-u851zsb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210913101809-u851zsb",
+				"updated": "20210913101825"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第一讲 结构设计计算方法"
+				}
+			]
+		},
+		{
+			"ID": "20210913101821-vaf3t70",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210913101821-vaf3t70",
+				"updated": "20210913101911"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建筑结构设计基本原则"
+				}
+			]
+		},
+		{
+			"ID": "20210913101911-tokijle",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210913101911-tokijle",
+				"updated": "20210913102849"
+			},
+			"Children": [
+				{
+					"ID": "20210913102137-08f14x2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210913102137-08f14x2"
+					},
+					"Children": [
+						{
+							"ID": "20210913102137-7pprb3s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913102137-7pprb3s",
+								"updated": "20210913102144"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构设计的目标"
+								}
+							]
+						},
+						{
+							"ID": "20210913102156-gzy18oz",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913102156-gzy18oz",
+								"updated": "20210913102202"
+							},
+							"Children": [
+								{
+									"ID": "20210913102202-v1p5rxp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102202-v1p5rxp"
+									},
+									"Children": [
+										{
+											"ID": "20210913102202-5ho6b0t",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102202-5ho6b0t",
+												"updated": "20210913102217"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "GB 50068"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913102220-fc44xe1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210913102220-fc44xe1"
+					},
+					"Children": [
+						{
+							"ID": "20210913102220-71e06f9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913102220-71e06f9",
+								"updated": "20210913102227"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构功能"
+								}
+							]
+						},
+						{
+							"ID": "20210913102229-g26g1er",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913102229-g26g1er",
+								"updated": "20210913102230"
+							},
+							"Children": [
+								{
+									"ID": "20210913102230-3h01fau",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102230-3h01fau"
+									},
+									"Children": [
+										{
+											"ID": "20210913102230-bds9rxe",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102230-bds9rxe",
+												"updated": "20210913102244"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "安全性、适用性耐久性、整体性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913102244-tdk1w8p",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210913102244-tdk1w8p"
+					},
+					"Children": [
+						{
+							"ID": "20210913102244-2v4kgd9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913102244-2v4kgd9",
+								"updated": "20210913102253"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构设计方法"
+								}
+							]
+						},
+						{
+							"ID": "20210913102253-5ocjjh4",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913102253-5ocjjh4",
+								"updated": "20210913102256"
+							},
+							"Children": [
+								{
+									"ID": "20210913102256-jxvzwgj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102256-jxvzwgj"
+									},
+									"Children": [
+										{
+											"ID": "20210913102256-l2nxqul",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102256-l2nxqul",
+												"updated": "20210913102301"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "适当的材料"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913102303-wozqbi0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102303-wozqbi0"
+									},
+									"Children": [
+										{
+											"ID": "20210913102303-2rm7lq3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102303-2rm7lq3",
+												"updated": "20210913102310"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设立的设计和构造"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913102310-bgnm59l",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102310-bgnm59l"
+									},
+									"Children": [
+										{
+											"ID": "20210913102310-ghu5bma",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102310-ghu5bma",
+												"updated": "20210913102326"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构的设计、制作、施工和使用的控制措施"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913102332-lacb9s4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210913102332-lacb9s4",
+						"updated": "20210913102849"
+					},
+					"Children": [
+						{
+							"ID": "20210913102332-82tzvox",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913102332-82tzvox",
+								"updated": "20210913102502"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构设计合理性评价"
+								}
+							]
+						},
+						{
+							"ID": "20210913102657-3hawq6b",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913102657-3hawq6b",
+								"updated": "20210913102849"
+							},
+							"Children": [
+								{
+									"ID": "20210913102659-sat8242",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102659-sat8242"
+									},
+									"Children": [
+										{
+											"ID": "20210913102659-y3juhtw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102659-y3juhtw",
+												"updated": "20210913102702"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "承载力极限状态"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913102702-ma905ac",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102702-ma905ac"
+									},
+									"Children": [
+										{
+											"ID": "20210913102702-ii5n43g",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102702-ii5n43g",
+												"updated": "20210913102707"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "正常使用极限状态"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913102753-ipbtqev",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102753-ipbtqev"
+									},
+									"Children": [
+										{
+											"ID": "20210913102753-1phikjk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102753-1phikjk",
+												"updated": "20210913102801"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "建筑结构安全等级"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913102841-hqcyp7l",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913102841-hqcyp7l",
+										"updated": "20210913102849"
+									},
+									"Children": [
+										{
+											"ID": "20210913102841-j6qdnpd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913102841-j6qdnpd",
+												"updated": "20210913102849"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "承载能力极限状态可靠指标"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210913103008-mzegowq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210913103008-mzegowq",
+				"updated": "20210913103017"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建筑结构设计基本过程"
+				}
+			]
+		},
+		{
+			"ID": "20210913103017-r5v5q2z",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210913103017-r5v5q2z",
+				"updated": "20210913104926"
+			},
+			"Children": [
+				{
+					"ID": "20210913103019-dypssk3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210913103019-dypssk3"
+					},
+					"Children": [
+						{
+							"ID": "20210913103019-1jouim7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913103019-1jouim7",
+								"updated": "20210913103032"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构设计内容"
+								}
+							]
+						},
+						{
+							"ID": "20210913103033-n6vg57y",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913103033-n6vg57y",
+								"updated": "20210913103035"
+							},
+							"Children": [
+								{
+									"ID": "20210913103035-8n4kc8a",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103035-8n4kc8a"
+									},
+									"Children": [
+										{
+											"ID": "20210913103035-linq541",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103035-linq541",
+												"updated": "20210913103158"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "规划立项：立项审批、建设许可、环境评价；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913103037-s3vb35w",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103037-s3vb35w"
+									},
+									"Children": [
+										{
+											"ID": "20210913103037-2sfy9n6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103037-2sfy9n6",
+												"updated": "20210913103144"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设计条件：环境、地质、气候、功能、年限；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913103040-ekjxzcq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103040-ekjxzcq"
+									},
+									"Children": [
+										{
+											"ID": "20210913103040-q02x07t",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103040-q02x07t",
+												"updated": "20210913103043"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设计依据"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913103043-db4v9n8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103043-db4v9n8"
+									},
+									"Children": [
+										{
+											"ID": "20210913103043-yyp9ef8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103043-yyp9ef8",
+												"updated": "20210913103045"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "建筑方案"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913103442-dtlepcj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103442-dtlepcj"
+									},
+									"Children": [
+										{
+											"ID": "20210913103442-9db2w46",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103442-9db2w46",
+												"updated": "20210913103446"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构方案"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913103447-qdrmsux",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103447-qdrmsux"
+									},
+									"Children": [
+										{
+											"ID": "20210913103447-5cqqzit",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103447-5cqqzit",
+												"updated": "20210913103451"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "荷载计算"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913103451-docmafq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913103451-docmafq"
+									},
+									"Children": [
+										{
+											"ID": "20210913103451-9j7fv15",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913103451-9j7fv15",
+												"updated": "20210913103457"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "内力分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913104508-n74pmdy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104508-n74pmdy"
+									},
+									"Children": [
+										{
+											"ID": "20210913104508-inmqop2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104508-inmqop2",
+												"updated": "20210913104527"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "构件设计"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913104514-3hojac9",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104514-3hojac9"
+									},
+									"Children": [
+										{
+											"ID": "20210913104514-31gc4ox",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104514-31gc4ox",
+												"updated": "20210913104516"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "节点设计"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913104516-0hr5ifo",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104516-0hr5ifo"
+									},
+									"Children": [
+										{
+											"ID": "20210913104516-wbr5qxc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104516-wbr5qxc",
+												"updated": "20210913104536"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "构造要求"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913104519-i01v5p4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104519-i01v5p4"
+									},
+									"Children": [
+										{
+											"ID": "20210913104519-t2qk3un",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104519-t2qk3un",
+												"updated": "20210913104524"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "施工详图"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913104530-6f4cgfy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210913104530-6f4cgfy",
+						"updated": "20210913104926"
+					},
+					"Children": [
+						{
+							"ID": "20210913104530-8yoaczw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913104530-8yoaczw",
+								"updated": "20210913104638"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构设计三阶段"
+								}
+							]
+						},
+						{
+							"ID": "20210913104638-hj6ey0m",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913104638-hj6ey0m",
+								"updated": "20210913104926"
+							},
+							"Children": [
+								{
+									"ID": "20210913104641-7u24mwq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104641-7u24mwq",
+										"updated": "20210913104831"
+									},
+									"Children": [
+										{
+											"ID": "20210913104641-g6cy0dk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104641-g6cy0dk",
+												"updated": "20210913104831"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "概念设计（方案设计）——设计条件、结构方案、结构选型、结构布置、设计参数和控制指标，持力层和基础埋深；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913104654-9clys6h",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104654-9clys6h",
+										"updated": "20210913104857"
+									},
+									"Children": [
+										{
+											"ID": "20210913104654-r0cj743",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104654-r0cj743",
+												"updated": "20210913104857"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "初步设计——结构体系和布置、结构分析与计算、主要构件设计和节点构造；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913104656-977zrxz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913104656-977zrxz",
+										"updated": "20210913104926"
+									},
+									"Children": [
+										{
+											"ID": "20210913104656-dpm33tq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913104656-dpm33tq",
+												"updated": "20210913104926"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "施工图设计（深化设计）——全部构件及其连接的详细设计、绘制施工图、形成完整可施工的设计文件。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210913104710-akxdnoo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210913104710-akxdnoo",
+				"updated": "20210913104718"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建筑结构体系简介"
+				}
+			]
+		},
+		{
+			"ID": "20210913104720-pzv174v",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210913104720-pzv174v",
+				"updated": "20210917100931"
+			},
+			"Children": [
+				{
+					"ID": "20210913104723-v77yqq3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210913104723-v77yqq3"
+					},
+					"Children": [
+						{
+							"ID": "20210913104723-qxeb5hm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913104723-qxeb5hm",
+								"updated": "20210913104729"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构体系的功能"
+								}
+							]
+						},
+						{
+							"ID": "20210913105217-oiyfvi2",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913105217-oiyfvi2",
+								"updated": "20210913105218"
+							},
+							"Children": [
+								{
+									"ID": "20210913105218-o71we2e",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913105218-o71we2e"
+									},
+									"Children": [
+										{
+											"ID": "20210913105218-o9jlacy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913105218-o9jlacy",
+												"updated": "20210913105253"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "有效传递、平衡和承受各种作用：水平荷载和作用、竖向荷载和作用、温度作用、地质作用、环境作用"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913105712-vc5rzal",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913105712-vc5rzal"
+									},
+									"Children": [
+										{
+											"ID": "20210913105712-fnkyrt0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913105712-fnkyrt0",
+												"updated": "20210913110053"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "提供建筑功能需要的空间：跨度、高度、长度、减少结构自身占用的空间"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110053-dq7afq3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110053-dq7afq3"
+									},
+									"Children": [
+										{
+											"ID": "20210913110053-157ynxh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110053-157ynxh",
+												"updated": "20210913110104"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "适应建筑创意要求"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913110105-ky6ci8w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210913110105-ky6ci8w"
+					},
+					"Children": [
+						{
+							"ID": "20210913110105-mqiud6l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913110105-mqiud6l",
+								"updated": "20210913110118"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构体系选型原则"
+								}
+							]
+						},
+						{
+							"ID": "20210913110118-gc79nw2",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913110118-gc79nw2",
+								"updated": "20210913110121"
+							},
+							"Children": [
+								{
+									"ID": "20210913110121-cp43wj6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110121-cp43wj6"
+									},
+									"Children": [
+										{
+											"ID": "20210913110121-v33ui9o",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110121-v33ui9o",
+												"updated": "20210913110145"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "功能要求——空间需求、室内环境、宜居安全、运维高效"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110146-j6vvpd4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110146-j6vvpd4"
+									},
+									"Children": [
+										{
+											"ID": "20210913110146-oyades0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110146-oyades0",
+												"updated": "20210913110150"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "材料优势"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110150-h8yhouv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110150-h8yhouv"
+									},
+									"Children": [
+										{
+											"ID": "20210913110150-5r7foe2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110150-5r7foe2",
+												"updated": "20210913110153"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "经济适用"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110203-xanufcd",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110203-xanufcd"
+									},
+									"Children": [
+										{
+											"ID": "20210913110203-fu0f2ug",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110203-fu0f2ug",
+												"updated": "20210913110220"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "安全可靠——设计、施工、运维技术可行、依据充分"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110221-2j5yzeg",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110221-2j5yzeg"
+									},
+									"Children": [
+										{
+											"ID": "20210913110221-stepv6m",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110221-stepv6m",
+												"updated": "20210913110250"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "受力清晰——结构简洁、规则整齐、传力直接，一定的冗余度"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110250-fslchwz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110250-fslchwz"
+									},
+									"Children": [
+										{
+											"ID": "20210913110250-xisyyno",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110250-xisyyno",
+												"updated": "20210913110308"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "减少作用——降低自重、质量和刚度分布均匀、低流体阻力外形"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913110315-qt9rnmz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913110315-qt9rnmz"
+									},
+									"Children": [
+										{
+											"ID": "20210913110315-tlh300j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913110315-tlh300j",
+												"updated": "20210913110323"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "兼顾安全、传承与创新"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913110153-lliil00",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210913110153-lliil00"
+					},
+					"Children": [
+						{
+							"ID": "20210913110153-50z0k02",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913110153-50z0k02",
+								"updated": "20210913110400"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构体系类型"
+								}
+							]
+						},
+						{
+							"ID": "20210913111137-ryn8ftu",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210913111137-ryn8ftu",
+								"updated": "20210913111138"
+							},
+							"Children": [
+								{
+									"ID": "20210913111138-p7irrj6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111138-p7irrj6"
+									},
+									"Children": [
+										{
+											"ID": "20210913111138-app0mjb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111138-app0mjb",
+												"updated": "20210913111203"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构材料：钢结构、混凝土结构、木结构、砌体结构、索膜结构、组合结构、混合结构"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913111204-2hjq65k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111204-2hjq65k"
+									},
+									"Children": [
+										{
+											"ID": "20210913111204-wxv8z4z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111204-wxv8z4z",
+												"updated": "20210913111213"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "建筑功能：多高层结构、大跨度结构"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913111213-eurxftv",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111213-eurxftv"
+									},
+									"Children": [
+										{
+											"ID": "20210913111213-njf70f8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111213-njf70f8",
+												"updated": "20210913111315"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "承载功能：抗水平荷载、抗竖向荷载"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913111326-z10of5u",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111326-z10of5u"
+									},
+									"Children": [
+										{
+											"ID": "20210913111326-h79fxsu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111326-h79fxsu",
+												"updated": "20210913111615"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "传力形式：平面结构、空间结构、充气结构、张拉结构、弦支结构等"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913111401-c92eqo0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111401-c92eqo0"
+									},
+									"Children": [
+										{
+											"ID": "20210913111401-i9j1b88",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111401-i9j1b88",
+												"updated": "20210913111612"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "几何特征：拱结构、板结构、壳体结构、桁架结构、网格结构等"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913111623-ote0r70",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111623-ote0r70"
+									},
+									"Children": [
+										{
+											"ID": "20210913111623-xkroc8v",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111623-xkroc8v",
+												"updated": "20210913111734"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "构件布局：框架结构、墙体结构、支撑结构、筒体结构、框架-支撑结构、框架-剪力墙结构、框架-筒体结构"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913111635-ex38h4w",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210913111635-ex38h4w"
+									},
+									"Children": [
+										{
+											"ID": "20210913111635-5gs15br",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913111635-5gs15br",
+												"updated": "20210913111701"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "空间位置：上部结构、下部结构（地下室、基础），确定持力层和基础埋深"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210913112034-jugcew1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210913112034-jugcew1",
+						"updated": "20210913112109"
+					},
+					"Children": [
+						{
+							"ID": "20210913112034-1rgug8t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210913112034-1rgug8t",
+								"updated": "20210913112044"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "常用多高层建筑结构体系"
+								}
+							]
+						},
+						{
+							"ID": "20210913112046-hqfdg0d",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20210913112046-hqfdg0d",
+								"updated": "20210913112109"
+							},
+							"Children": [
+								{
+									"ID": "20210913112050-s3ljz1w",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210913112050-s3ljz1w",
+										"updated": "20210913112350"
+									},
+									"Children": [
+										{
+											"ID": "20210913112050-lgz9rpl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913112050-lgz9rpl",
+												"updated": "20210913112053"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "框架结构"
+												}
+											]
+										},
+										{
+											"ID": "20210913112111-ufcomtz",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210913112111-ufcomtz",
+												"updated": "20210913112350"
+											},
+											"Children": [
+												{
+													"ID": "20210913112112-byy5vma",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210913112112-byy5vma"
+													},
+													"Children": [
+														{
+															"ID": "20210913112112-szswpk6",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210913112112-szswpk6",
+																"updated": "20210913112142"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "钢结构、混凝土结构、木竹结构、组合结构"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210913112148-p8aalaj",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210913112148-p8aalaj"
+													},
+													"Children": [
+														{
+															"ID": "20210913112148-vu2jzwk",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210913112148-vu2jzwk",
+																"updated": "20210913112156"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "梁和柱构件组成"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210913112230-n6fg7pw",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210913112230-n6fg7pw"
+													},
+													"Children": [
+														{
+															"ID": "20210913112230-l5zp0v5",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210913112230-l5zp0v5",
+																"updated": "20210913112259"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "纵向和横均采用框架作为承重和抗侧力体系，框架梁与柱双向铰接"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210913112300-n9i1e9b",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210913112300-n9i1e9b"
+													},
+													"Children": [
+														{
+															"ID": "20210913112300-723y561",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210913112300-723y561",
+																"updated": "20210913112315"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "梁柱构件以弯曲变形为主"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210913112316-49471ml",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210913112316-49471ml",
+														"updated": "20210913112350"
+													},
+													"Children": [
+														{
+															"ID": "20210913112316-k8fgdpg",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210913112316-k8fgdpg",
+																"updated": "20210913112350"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "水平荷载作用下单个构件呈弯曲变形，整体结构呈剪切变形"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210913112057-ai65qwo",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210913112057-ai65qwo",
+										"updated": "20210913112109"
+									},
+									"Children": [
+										{
+											"ID": "20210913112057-93jmakr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210913112057-93jmakr",
+												"updated": "20210913112109"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "墙体结构"
+												}
+											]
+										},
+										{
+											"ID": "20210917095312-b1tj4n2",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210917095312-b1tj4n2",
+												"updated": "20210917095313"
+											},
+											"Children": [
+												{
+													"ID": "20210917095313-xy3yhna",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095313-xy3yhna"
+													},
+													"Children": [
+														{
+															"ID": "20210917095313-3x6iv54",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095313-3x6iv54",
+																"updated": "20210917095406"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "竖向荷载和水平荷载由砌体墙、混凝土墙或木板墙承担，侧向刚度较大；"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095338-kt2i5yu",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095338-kt2i5yu"
+													},
+													"Children": [
+														{
+															"ID": "20210917095338-dryti68",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095338-dryti68",
+																"updated": "20210917095405"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "低层和多高层建筑，开间布局受到限制，主要用于住宅、办公、商住等；"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095410-k8ok6w1",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095410-k8ok6w1"
+													},
+													"Children": [
+														{
+															"ID": "20210917095410-ruvk6xs",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095410-ruvk6xs",
+																"updated": "20210917095705"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "用于"
+																},
+																{
+																	"Type": "NodeStrong",
+																	"Data": "strong",
+																	"Children": [
+																		{
+																			"Type": "NodeStrongA6kOpenMarker",
+																			"Data": "**"
+																		},
+																		{
+																			"Type": "NodeText",
+																			"Data": "混凝土结构、砖砌体结构、砌块结构、木结构"
+																		},
+																		{
+																			"Type": "NodeStrongA6kCloseMarker",
+																			"Data": "**"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095421-y9rm4kd",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095421-y9rm4kd"
+													},
+													"Children": [
+														{
+															"ID": "20210917095421-bm8vp6v",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095421-bm8vp6v",
+																"updated": "20210917095435"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "竖向荷载由楼板直接传给墙体"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095435-64zpygq",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095435-64zpygq"
+													},
+													"Children": [
+														{
+															"ID": "20210917095435-amtulqy",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095435-amtulqy",
+																"updated": "20210917095442"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "侧向变形特征——整体弯曲变形"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095443-9d2co56",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095443-9d2co56"
+													},
+													"Children": [
+														{
+															"ID": "20210917095443-wuwjtzg",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095443-wuwjtzg",
+																"updated": "20210917095451"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "减少墙体对建筑功能的影响；"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095451-690eyvn",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095451-690eyvn"
+													},
+													"Children": [
+														{
+															"ID": "20210917095451-iacr7f2",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095451-iacr7f2",
+																"updated": "20210917095516"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "实体墙、开口墙、联肢墙、短肢墙"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917095516-de67l10",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "My4=",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20210917095516-de67l10"
+									},
+									"Children": [
+										{
+											"ID": "20210917095516-aztcgpo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917095516-aztcgpo",
+												"updated": "20210917095523"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "框架-支撑结构"
+												}
+											]
+										},
+										{
+											"ID": "20210917095524-z6hq0gu",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210917095524-z6hq0gu",
+												"updated": "20210917095525"
+											},
+											"Children": [
+												{
+													"ID": "20210917095525-t8783dt",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095525-t8783dt"
+													},
+													"Children": [
+														{
+															"ID": "20210917095525-y6ywa6b",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095525-y6ywa6b",
+																"updated": "20210917095547"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "竖向荷载由框架承担，水平荷载主要由支撑承受，双重抗侧力体系"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095548-mzvllgd",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095548-mzvllgd"
+													},
+													"Children": [
+														{
+															"ID": "20210917095548-99x5cyj",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095548-99x5cyj",
+																"updated": "20210917095606"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "兼顾框架平面灵活和支撑侧向刚度大的优势，用于多高层建筑"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095609-ksz3ozo",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095609-ksz3ozo"
+													},
+													"Children": [
+														{
+															"ID": "20210917095609-u0pjxix",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095609-u0pjxix",
+																"updated": "20210917095623"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "整体弯曲变形，楼盖刚度保证框架与支撑协同工作"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095625-yi6st8p",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095625-yi6st8p"
+													},
+													"Children": [
+														{
+															"ID": "20210917095625-vt09v60",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095625-vt09v60",
+																"updated": "20210917095647"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "钢支撑、木制成——中心支撑、偏心支撑、防屈曲支撑、伸臂桁架"
+																}
+															]
+														},
+														{
+															"ID": "20210917095723-pkm6ai6",
+															"Type": "NodeList",
+															"ListData": {},
+															"Properties": {
+																"id": "20210917095723-pkm6ai6"
+															},
+															"Children": [
+																{
+																	"ID": "20210917095723-83dxu7q",
+																	"Type": "NodeListItem",
+																	"ListData": {
+																		"BulletChar": 42,
+																		"Marker": "Kg=="
+																	},
+																	"Properties": {
+																		"id": "20210917095723-83dxu7q"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210917095723-bgzt61a",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210917095723-bgzt61a",
+																				"updated": "20210917095729"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "型钢-混凝土（SRC）"
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"ID": "20210917095731-4wyw0rv",
+																	"Type": "NodeListItem",
+																	"ListData": {
+																		"BulletChar": 42,
+																		"Marker": "Kg=="
+																	},
+																	"Properties": {
+																		"id": "20210917095731-4wyw0rv"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210917095731-sn4vn8r",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210917095731-sn4vn8r",
+																				"updated": "20210917095736"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "防屈曲支撑（BRB）"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917095650-optcxfu",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917095650-optcxfu"
+													},
+													"Children": [
+														{
+															"ID": "20210917095650-ipt3yay",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917095650-ipt3yay",
+																"updated": "20210917095708"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "用于"
+																},
+																{
+																	"Type": "NodeStrong",
+																	"Data": "strong",
+																	"Children": [
+																		{
+																			"Type": "NodeStrongA6kOpenMarker",
+																			"Data": "**"
+																		},
+																		{
+																			"Type": "NodeText",
+																			"Data": "钢结构、混凝土结构、组合结构、木结构"
+																		},
+																		{
+																			"Type": "NodeStrongA6kCloseMarker",
+																			"Data": "**"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917100350-l3kjqmc",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "NC4=",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20210917100350-l3kjqmc"
+									},
+									"Children": [
+										{
+											"ID": "20210917100350-wy54knc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917100350-wy54knc",
+												"updated": "20210917100355"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "框架-剪力墙结构"
+												}
+											]
+										},
+										{
+											"ID": "20210917100650-g2xni3e",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210917100650-g2xni3e",
+												"updated": "20210917100651"
+											},
+											"Children": [
+												{
+													"ID": "20210917100651-h8n8v32",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917100651-h8n8v32"
+													},
+													"Children": [
+														{
+															"ID": "20210917100651-63udtsf",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917100651-63udtsf",
+																"updated": "20210917100711"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "竖向荷载由框架承担，水平荷载主要由剪力墙承担，双重抗侧力体系；"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917100711-8ct3cn4",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917100711-8ct3cn4"
+													},
+													"Children": [
+														{
+															"ID": "20210917100711-xv35n49",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917100711-xv35n49",
+																"updated": "20210917100729"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "兼顾框架平面灵活和剪力墙侧向刚度大的优势，用于多高层建筑；"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917100730-tb35ysp",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917100730-tb35ysp"
+													},
+													"Children": [
+														{
+															"ID": "20210917100730-z22grcl",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917100730-z22grcl",
+																"updated": "20210917100747"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "剪力墙结构——混凝土墙、钢板墙、组合墙、木墙；"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917100747-ule2ibr",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917100747-ule2ibr"
+													},
+													"Children": [
+														{
+															"ID": "20210917100747-xm9t9wo",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917100747-xm9t9wo",
+																"updated": "20210917100759"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "用于混凝土结构、钢结构、组合结构、木结构"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917100800-30v8clu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210917100800-30v8clu",
+						"updated": "20210917100931"
+					},
+					"Children": [
+						{
+							"ID": "20210917100800-b7otdjz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917100800-b7otdjz",
+								"updated": "20210917100814"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多高层建筑结构体系布置"
+								}
+							]
+						},
+						{
+							"ID": "20210917100848-kk7tj9y",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20210917100848-kk7tj9y",
+								"updated": "20210917100931"
+							},
+							"Children": [
+								{
+									"ID": "20210917100852-vp1ol8p",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210917100852-vp1ol8p",
+										"updated": "20210917100931"
+									},
+									"Children": [
+										{
+											"ID": "20210917100852-ducqzxi",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917100852-ducqzxi",
+												"updated": "20210917100856"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基本原则"
+												}
+											]
+										},
+										{
+											"ID": "20210917100856-efvosyv",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20210917100856-efvosyv",
+												"updated": "20210917100931"
+											},
+											"Children": [
+												{
+													"ID": "20210917100901-figxnol",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917100901-figxnol"
+													},
+													"Children": [
+														{
+															"ID": "20210917100901-ntno0nm",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917100901-ntno0nm",
+																"updated": "20210917100907"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "建筑分类"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210917100907-ntx2mov",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20210917100907-ntx2mov",
+														"updated": "20210917100931"
+													},
+													"Children": [
+														{
+															"ID": "20210917100907-42h3t6m",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210917100907-42h3t6m",
+																"updated": "20210917100931"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "平面布置：简单、规则、对称、减少偏心，限制长宽比、限制突出部位；"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917110311-oxxnsu8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917110311-oxxnsu8",
+				"updated": "20210917110329"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建筑结构体系力学分析"
+				}
+			]
+		},
+		{
+			"ID": "20210917110329-5ifdd0g",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210917110329-5ifdd0g",
+				"updated": "20210917110339"
+			},
+			"Children": [
+				{
+					"ID": "20210917110339-3j7bj1i",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210917110339-3j7bj1i"
+					},
+					"Children": [
+						{
+							"ID": "20210917110339-1z1to9h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917110339-1z1to9h",
+								"updated": "20210917110347"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建筑结构力学分析的目的"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917110347-suofoy9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210917110347-suofoy9"
+					},
+					"Children": [
+						{
+							"ID": "20210917110347-nxh1tme",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917110347-nxh1tme",
+								"updated": "20210917110351"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "场地条件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917110351-cccyvcr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210917110351-cccyvcr"
+					},
+					"Children": [
+						{
+							"ID": "20210917110351-pf80dfb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917110351-pf80dfb",
+								"updated": "20210917110358"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "荷载条件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917110358-r3gb3g4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210917110358-r3gb3g4"
+					},
+					"Children": [
+						{
+							"ID": "20210917110358-sxvhs9s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917110358-sxvhs9s",
+								"updated": "20210917110403"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "其他条件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917110405-60vr3kq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210917110405-60vr3kq"
+					},
+					"Children": [
+						{
+							"ID": "20210917110405-7lv8blo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917110405-7lv8blo",
+								"updated": "20210917110408"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构分析方法"
+								}
+							]
+						},
+						{
+							"ID": "20210917110416-4udupa8",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210917110416-4udupa8",
+								"updated": "20210917110417"
+							},
+							"Children": [
+								{
+									"ID": "20210917110417-ka252cz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110417-ka252cz"
+									},
+									"Children": [
+										{
+											"ID": "20210917110417-rwi05f4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110417-rwi05f4",
+												"updated": "20210917110419"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "线弹性分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110419-b4xqgum",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110419-b4xqgum"
+									},
+									"Children": [
+										{
+											"ID": "20210917110419-ceszhtz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110419-ceszhtz",
+												"updated": "20210917110423"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "弹塑性分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110423-w6pm6af",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110423-w6pm6af"
+									},
+									"Children": [
+										{
+											"ID": "20210917110423-ttn83qo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110423-ttn83qo",
+												"updated": "20210917110426"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "特征值分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110427-y77zvzx",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110427-y77zvzx"
+									},
+									"Children": [
+										{
+											"ID": "20210917110427-ir6kgam",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110427-ir6kgam",
+												"updated": "20210917110430"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "动力特性分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110430-3gno1e0",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110430-3gno1e0"
+									},
+									"Children": [
+										{
+											"ID": "20210917110430-6ffz06z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110430-6ffz06z",
+												"updated": "20210917110434"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "静力分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110434-ei8fsyi",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110434-ei8fsyi"
+									},
+									"Children": [
+										{
+											"ID": "20210917110434-68xj83x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110434-68xj83x",
+												"updated": "20210917110439"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "动力时程分析"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110440-ko1ilgu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110440-ko1ilgu"
+									},
+									"Children": [
+										{
+											"ID": "20210917110440-9zez89v",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110440-9zez89v",
+												"updated": "20210917110447"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "强度和变形计算"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110448-5zw7qrs",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110448-5zw7qrs"
+									},
+									"Children": [
+										{
+											"ID": "20210917110448-jbpd7z9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110448-jbpd7z9",
+												"updated": "20210917110451"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "整体稳定计算"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110455-xvh328z",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110455-xvh328z"
+									},
+									"Children": [
+										{
+											"ID": "20210917110455-k92r8ik",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110455-k92r8ik",
+												"updated": "20210917110458"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "手工计算"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917110458-amez3ah",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917110458-amez3ah"
+									},
+									"Children": [
+										{
+											"ID": "20210917110458-elf4jt1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917110458-elf4jt1",
+												"updated": "20210917110500"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "程序计算"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917110504-dbi67z2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ni4=",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20210917110504-dbi67z2"
+					},
+					"Children": [
+						{
+							"ID": "20210917110504-1atst3z",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917110504-1atst3z",
+								"updated": "20210917110507"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构计算简图"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917111157-29v70r3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ny4=",
+						"Num": 7
+					},
+					"Properties": {
+						"id": "20210917111157-29v70r3"
+					},
+					"Children": [
+						{
+							"ID": "20210917111157-qr103sb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917111157-qr103sb",
+								"updated": "20210917111205"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "构件边界和制作约束"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210917111205-6jtub9m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917111205-6jtub9m",
+				"updated": "20210917111215"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建筑结构详细设计概要"
+				}
+			]
+		},
+		{
+			"ID": "20210917111215-405kd35",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210917111215-405kd35",
+				"updated": "20210917112156"
+			},
+			"Children": [
+				{
+					"ID": "20210917111220-i80j9ns",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210917111220-i80j9ns"
+					},
+					"Children": [
+						{
+							"ID": "20210917111220-lakxaz6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917111220-lakxaz6",
+								"updated": "20210917111224"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构详细设计的目的"
+								}
+							]
+						},
+						{
+							"ID": "20210917111346-1h71uml",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210917111346-1h71uml",
+								"updated": "20210917111347"
+							},
+							"Children": [
+								{
+									"ID": "20210917111347-mcbyyn2",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917111347-mcbyyn2"
+									},
+									"Children": [
+										{
+											"ID": "20210917111347-itruy5q",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917111347-itruy5q",
+												"updated": "20210917111409"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "确定构件的材料、截面尺寸、连接、支座、基础、配筋、构造形式；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917111411-cm0c926",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917111411-cm0c926"
+									},
+									"Children": [
+										{
+											"ID": "20210917111411-ttcn258",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917111411-ttcn258",
+												"updated": "20210917112023"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "编制设计和技术档案文件"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917112023-mqk3yww",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210917112023-mqk3yww"
+					},
+					"Children": [
+						{
+							"ID": "20210917112023-ei5nk5c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917112023-ei5nk5c",
+								"updated": "20210917112026"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构材料"
+								}
+							]
+						},
+						{
+							"ID": "20210917112027-snyr8l3",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210917112027-snyr8l3",
+								"updated": "20210917112028"
+							},
+							"Children": [
+								{
+									"ID": "20210917112028-mfjqwtq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917112028-mfjqwtq"
+									},
+									"Children": [
+										{
+											"ID": "20210917112028-yan9sht",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917112028-yan9sht",
+												"updated": "20210917112031"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "材料性能要求"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917112040-zjr4j4p",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210917112040-zjr4j4p"
+									},
+									"Children": [
+										{
+											"ID": "20210917112040-f3bdtmh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917112040-f3bdtmh",
+												"updated": "20210917112043"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "材料设计指标"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917112048-385ujkk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210917112048-385ujkk"
+					},
+					"Children": [
+						{
+							"ID": "20210917112048-dfbckzv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917112048-dfbckzv",
+								"updated": "20210917112050"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构深化设计"
+								}
+							]
+						},
+						{
+							"ID": "20210917112131-foj93qs",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20210917112131-foj93qs"
+							},
+							"Children": [
+								{
+									"ID": "20210917112131-pmagkk6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210917112131-pmagkk6"
+									},
+									"Children": [
+										{
+											"ID": "20210917112131-nofpbqq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917112131-nofpbqq",
+												"updated": "20210917112135"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基本构件设计"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917112135-gmcezq1",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210917112135-gmcezq1"
+									},
+									"Children": [
+										{
+											"ID": "20210917112135-g7kwfe5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917112135-g7kwfe5",
+												"updated": "20210917112138"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "整体结构设计"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917112138-f0uff4o",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "My4=",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20210917112138-f0uff4o"
+									},
+									"Children": [
+										{
+											"ID": "20210917112138-ydl7dpn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917112138-ydl7dpn",
+												"updated": "20210917112144"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "连接节点设计"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210917112144-u2yhypp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "NC4=",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20210917112144-u2yhypp"
+									},
+									"Children": [
+										{
+											"ID": "20210917112144-3star4z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210917112144-3star4z",
+												"updated": "20210917112147"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构控制设计"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210917112151-pt7m1pz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210917112151-pt7m1pz",
+						"updated": "20210917112156"
+					},
+					"Children": [
+						{
+							"ID": "20210917112151-ugmj56q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210917112151-ugmj56q",
+								"updated": "20210917112156"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构施工详图"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210913112435-fu0hamm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210913112435-fu0hamm",
+				"updated": "20210913112435"
+			}
+		}
+	]
+}
