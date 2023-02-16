@@ -1,10 +1,12 @@
 {
 	"ID": "20210427194211-tg3431l",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210427194211-tg3431l",
 		"title": "2021-04-27",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210427194211"
 	},
 	"Children": [
 		{

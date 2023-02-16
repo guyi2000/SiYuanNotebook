@@ -1,5 +1,6 @@
 {
 	"ID": "20211009152156-r1y3gk7",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "35-20e3",
@@ -613,20 +614,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeMark",
-																	"Data": "mark",
-																	"Children": [
-																		{
-																			"Type": "NodeMark2OpenMarker"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "The microwave K bands are used primarily for rader and satellite communications"
-																		},
-																		{
-																			"Type": "NodeMark2CloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "mark",
+																	"TextMarkTextContent": "The microwave K bands are used primarily for rader and satellite communications"
 																}
 															]
 														}
@@ -816,20 +806,9 @@
 													"Data": "磁导率 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\mu=\\mu_0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\mu=\\mu_0"
 												},
 												{
 													"Type": "NodeText",
@@ -863,20 +842,9 @@
 													"Data": "介电常数 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\varepsilon"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\varepsilon"
 												},
 												{
 													"Type": "NodeText",
@@ -911,20 +879,9 @@
 													"Data": "电导率 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma"
 												},
 												{
 													"Type": "NodeText",

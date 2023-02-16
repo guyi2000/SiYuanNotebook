@@ -1,10 +1,12 @@
 {
 	"ID": "20210419113747-04s2311",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210419113747-04s2311",
 		"title": "2021-04-19",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210419113747"
 	},
 	"Children": [
 		{

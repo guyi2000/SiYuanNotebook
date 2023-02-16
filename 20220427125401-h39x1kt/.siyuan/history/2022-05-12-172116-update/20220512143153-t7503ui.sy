@@ -1,0 +1,20 @@
+{
+	"ID": "20220512143153-t7503ui",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220512143153-t7503ui",
+		"title": "Untitled",
+		"updated": "20220512143153"
+	},
+	"Children": [
+		{
+			"ID": "20230216100212-oqglvwm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100212-oqglvwm",
+				"updated": "20230216100212"
+			}
+		}
+	]
+}

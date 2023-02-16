@@ -1,10 +1,12 @@
 {
 	"ID": "20210511204804-s3uulew",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210511204804-s3uulew",
 		"title": "【11】讨论课2",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210511204804"
 	},
 	"Children": [
 		{
@@ -162,21 +164,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "第1，6，7，10组：人工岛建设的技术挑战"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "第1，6，7，10组：人工岛建设的技术挑战"
 						}
 					]
 				},
@@ -221,21 +211,9 @@
 							"Data": "聚焦某一个问题来开展调查、分析、研究，避免选题过大过宽。"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "提出问题，有自己的分析和见解。"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "提出问题，有自己的分析和见解。"
 						}
 					]
 				}

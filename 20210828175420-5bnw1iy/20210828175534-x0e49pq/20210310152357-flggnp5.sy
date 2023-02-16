@@ -1,10 +1,12 @@
 {
 	"ID": "20210310152357-flggnp5",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210310152357-flggnp5",
 		"title": "第二次例会-0312",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210310152357"
 	},
 	"Children": [
 		{
@@ -35,22 +37,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "2021-03-12"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "2021-03-12"
 				}
 			]
 		},
@@ -580,22 +569,9 @@
 									"Data": "Gitee项目仓库使用、"
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "cloud"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "cloud"
 								},
 								{
 									"Type": "NodeText",

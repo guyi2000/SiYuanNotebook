@@ -1,5 +1,6 @@
 {
 	"ID": "20210927094641-7urwkaw",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "33-20e3",
@@ -623,22 +624,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Data": "strong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "采用对结构有利的平面布置"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "采用对结构有利的平面布置"
 												}
 											]
 										}
@@ -728,25 +716,12 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Data": "strong",
+													"Type": "NodeTextMark",
 													"Properties": {
 														"style": "text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;"
 													},
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "柱网均匀分布有利于抵抗竖向作用"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "柱网均匀分布有利于抵抗竖向作用"
 												},
 												{
 													"Type": "NodeKramdownSpanIAL",
@@ -959,17 +934,7 @@
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "较经济的柱网间距 5 "
-												},
-												{
-													"Type": "NodeBackslash",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeBackslashContent",
-															"Data": "~"
-														}
-													]
+													"Data": "较经济的柱网间距 5 ~"
 												},
 												{
 													"Type": "NodeText",

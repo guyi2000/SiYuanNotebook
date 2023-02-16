@@ -1,5 +1,6 @@
 {
 	"ID": "20211011095152-w8fqjrc",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20211011095152-w8fqjrc",
@@ -730,20 +731,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\gamma_{RE}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\gamma_{RE}"
 								},
 								{
 									"Type": "NodeText",

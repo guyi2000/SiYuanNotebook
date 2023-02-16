@@ -1,0 +1,426 @@
+{
+	"ID": "20230216095638-1otu14q",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216095638-1otu14q",
+		"title": "组会-20220512",
+		"updated": "20220512144506"
+	},
+	"Children": [
+		{
+			"ID": "20230216095638-3xrpvyx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230216095638-3xrpvyx",
+				"updated": "20220512143240"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三维位移测量问题"
+				}
+			]
+		},
+		{
+			"ID": "20230216095638-6p4qsjd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230216095638-6p4qsjd",
+				"updated": "20220512143250"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "研究背景"
+				}
+			]
+		},
+		{
+			"ID": "20230216095638-lkkftwm",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230216095638-lkkftwm",
+				"updated": "20220512143352"
+			},
+			"Children": [
+				{
+					"ID": "20230216095638-0eh7a7y",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095638-0eh7a7y",
+						"updated": "20220512143352"
+					},
+					"Children": [
+						{
+							"ID": "20230216095638-w9gw5g7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095638-w9gw5g7",
+								"updated": "20220512143355"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "三维靶标"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095638-3r1ednu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095638-3r1ednu"
+					},
+					"Children": [
+						{
+							"ID": "20230216095638-ahgw6ad",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095638-ahgw6ad",
+								"updated": "20220512143423"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "DPOD方法——两阶段方法"
+								}
+							]
+						},
+						{
+							"ID": "20230216095638-20qzska",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230216095638-20qzska"
+							},
+							"Children": [
+								{
+									"ID": "20230216095638-rqr2o3m",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095638-rqr2o3m"
+									},
+									"Children": [
+										{
+											"ID": "20230216095638-ki7hi1c",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095638-ki7hi1c",
+												"updated": "20220512143428"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "预测物体的mask"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230216095638-24xacfc",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095638-24xacfc"
+									},
+									"Children": [
+										{
+											"ID": "20230216095638-tfebyxt",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095638-tfebyxt",
+												"updated": "20220512143444"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "预测物体2D-3D映射（归一化UVW坐标）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230216095638-tcm8w3s",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095638-tcm8w3s"
+									},
+									"Children": [
+										{
+											"ID": "20230216095638-8wow1h9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095638-8wow1h9",
+												"updated": "20220512143507"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "求解PnP问题得到位姿"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230216095638-8un7h8u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230216095638-8un7h8u",
+				"updated": "20220512143548"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "静态物体位移测量试验"
+				}
+			]
+		},
+		{
+			"ID": "20230216095638-zjd5eiu",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230216095638-zjd5eiu",
+				"updated": "20220512143549"
+			},
+			"Children": [
+				{
+					"ID": "20230216095638-eg3zv9u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095638-eg3zv9u",
+						"updated": "20220512143549"
+					},
+					"Children": [
+						{
+							"ID": "20230216095638-ei54z4l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095638-ei54z4l",
+								"updated": "20220512143602"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建立物体模型：SfM+MVS"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095638-npsm73f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095638-npsm73f"
+					},
+					"Children": [
+						{
+							"ID": "20230216095638-gx2xqsh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095638-gx2xqsh",
+								"updated": "20220512143617"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "合成渲染数据背景环境"
+								}
+							]
+						},
+						{
+							"ID": "20230216095638-n2kxmon",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230216095638-n2kxmon"
+							},
+							"Children": [
+								{
+									"ID": "20230216095638-2ype36s",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095638-2ype36s"
+									},
+									"Children": [
+										{
+											"ID": "20230216095638-7a8aiof",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095638-7a8aiof",
+												"updated": "20220512143807"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "虚拟相机的内外参数，多视图渲染"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095638-k2j49c5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095638-k2j49c5"
+					},
+					"Children": [
+						{
+							"ID": "20230216095638-3ts1e9x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095638-3ts1e9x",
+								"updated": "20220512144356"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "方法一：位移前后的位姿变化"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095638-nd1er9f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095638-nd1er9f"
+					},
+					"Children": [
+						{
+							"ID": "20230216095638-onw2q85",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095638-onw2q85",
+								"updated": "20220512144147"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "方法二：基于初始（相机）位姿和像素测量"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230216095638-wnw0g44",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216095638-wnw0g44",
+				"updated": "20220512144506"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "width: 50%;",
+						"style": "width: 10000px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20220512144506-tkz5l7q.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 10000px;\" parent-style=\"width: 50%;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20230216095638-tgvqyar",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216095638-tgvqyar",
+				"updated": "20220512144507"
+			}
+		}
+	]
+}

@@ -1,5 +1,6 @@
 {
 	"ID": "20210915152632-9vsbcie",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "31-20e3",
@@ -536,17 +537,7 @@
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "梁端牺牲 "
-						},
-						{
-							"Type": "NodeBackslash",
-							"Data": "span",
-							"Children": [
-								{
-									"Type": "NodeBackslashContent",
-									"Data": "-"
-								}
-							]
+							"Data": "梁端牺牲 -"
 						},
 						{
 							"Type": "NodeText",
@@ -640,17 +631,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "针对框架结构提出一种牺牲 "
-								},
-								{
-									"Type": "NodeBackslash",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "-"
-										}
-									]
+									"Data": "针对框架结构提出一种牺牲 -"
 								},
 								{
 									"Type": "NodeText",
@@ -739,22 +720,9 @@
 									"Data": "短周期结构 - 等能量原理 / "
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "长周期结构 - 等位移原理"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "长周期结构 - 等位移原理"
 								}
 							]
 						}

@@ -1,5 +1,6 @@
 {
 	"ID": "20210917152837-dxf88ow",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "31-20e3",
@@ -30,44 +31,18 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Data": "strong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "海洋遥感学"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "海洋遥感学"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "（Oceanographic Remote Sensing），又称"
 						},
 						{
-							"Type": "NodeStrong",
-							"Data": "strong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "卫星海洋学"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "卫星海洋学"
 						},
 						{
 							"Type": "NodeText",

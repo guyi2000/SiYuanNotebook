@@ -1,10 +1,12 @@
 {
 	"ID": "20210305102150-vcbvjba",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305102150-vcbvjba",
 		"title": "【2】钢筋和混凝土的力学性能",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210305102150"
 	},
 	"Children": [
 		{
@@ -512,19 +514,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "d=6, 8, 10, 12, 14, 16, 18, 20, 22, 25, 28, 32, 36, 40"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "d=6, 8, 10, 12, 14, 16, 18, 20, 22, 25, 28, 32, 36, 40"
 												}
 											]
 										}
@@ -1037,19 +1029,9 @@
 																	"Data": "屈服强度"
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "f_y"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "f_y"
 																}
 															]
 														},
@@ -1095,21 +1077,9 @@
 																					"Data": "是钢筋强度的设计依据，因为钢筋屈服后将产生很大的塑性变形，卸载后塑性变形 "
 																				},
 																				{
-																					"Type": "NodeEmphasis",
-																					"Children": [
-																						{
-																							"Type": "NodeEmA6kOpenMarker",
-																							"Data": "*"
-																						},
-																						{
-																							"Type": "NodeText",
-																							"Data": "不可恢复"
-																						},
-																						{
-																							"Type": "NodeEmA6kCloseMarker",
-																							"Data": "*"
-																						}
-																					]
+																					"Type": "NodeTextMark",
+																					"TextMarkType": "em",
+																					"TextMarkTextContent": "不可恢复"
 																				},
 																				{
 																					"Type": "NodeText",
@@ -1151,19 +1121,9 @@
 																	"Data": "极限强度"
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "f_u"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "f_u"
 																}
 															]
 														},
@@ -1422,19 +1382,9 @@
 																	"Data": "最大力下总伸长率"
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\delta_{gt}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\delta_{gt}"
 																}
 															]
 														}
@@ -1603,19 +1553,9 @@
 									"Data": "钢筋强度的标准值是"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "f_{y,m}-2\\sigma"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "f_{y,m}-2\\sigma"
 								}
 							]
 						}
@@ -2092,40 +2032,18 @@
 									"Data": "边长"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "150mm"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "150mm"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "立方体标准试件，标准条件下养护28天，用标准实验方法测得的具有95%保证率的立方体抗压强度，用符号"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "C"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "C"
 								},
 								{
 									"Type": "NodeText",
@@ -2229,19 +2147,9 @@
 									"Data": "轴心抗压强度，符号 "
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "f_c"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "f_c"
 								}
 							]
 						},
@@ -2285,19 +2193,9 @@
 													"Data": "通常取"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": " 150mm\\times 150mm \\times 300mm"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": " 150mm\\times 150mm \\times 300mm"
 												}
 											]
 										}
@@ -2331,19 +2229,9 @@
 													"Data": "《规范》规定：小于C50级的的混凝土 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "f_c=k_1 f_{cu}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "f_c=k_1 f_{cu}"
 												}
 											]
 										}
@@ -2416,19 +2304,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "f_{cu}^{150}=\\mu f_{cu}^{100}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "f_{cu}^{150}=\\mu f_{cu}^{100}"
 																}
 															]
 														}
@@ -2458,19 +2336,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": " \\mu\\times f_{cu, m, 100}=\\ f_{cu,m}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": " \\mu\\times f_{cu, m, 100}=\\ f_{cu,m}"
 																}
 															]
 														}
@@ -2504,38 +2372,18 @@
 																	"Data": "小于C50的混凝土，修正系数 "
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\mu=0.95"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\mu=0.95"
 																},
 																{
 																	"Type": "NodeText",
 																	"Data": "，混凝土强度提高 "
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\mu"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\mu"
 																},
 																{
 																	"Type": "NodeText",
@@ -2616,19 +2464,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "f_c'=(0.79 \\sim 0.81)f_{cu}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "f_c'=(0.79 \\sim 0.81)f_{cu}"
 																}
 															]
 														}
@@ -2672,19 +2510,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "f_{cu, m, 100},\\ f_{cu,m},\\ f_{c,m},\\ f_{c,m}'"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "f_{cu, m, 100},\\ f_{cu,m},\\ f_{c,m},\\ f_{c,m}'"
 				}
 			]
 		},
@@ -2697,19 +2525,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "f_{cu,k}"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "f_{cu,k}"
 				},
 				{
 					"Type": "NodeText",
@@ -2726,19 +2544,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "f_{c,k}=0.88f_{cu,k}"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "f_{c,k}=0.88f_{cu,k}"
 				}
 			]
 		},
@@ -2799,19 +2607,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\displaystyle \\frac{f_{c,k}}{1.4} = f_c"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\displaystyle \\frac{f_{c,k}}{1.4} = f_c"
 				}
 			]
 		},
@@ -2877,19 +2675,9 @@
 									"Data": "符号："
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "f_t"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "f_t"
 								}
 							]
 						}
@@ -3061,19 +2849,9 @@
 									"Data": "原点切线模量"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "E_c"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "E_c"
 								}
 							]
 						}
@@ -3107,19 +2885,9 @@
 									"Data": "割线模量"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "E_c'"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "E_c'"
 								}
 							]
 						}
@@ -3153,19 +2921,9 @@
 									"Data": "任何一点的切线模量"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "E_c''"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "E_c''"
 								}
 							]
 						}
@@ -3199,19 +2957,9 @@
 									"Data": "弹性系数"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\nu"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\nu"
 								},
 								{
 									"Type": "NodeText",
@@ -3299,19 +3047,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "f_c\u003cf_{cu}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "f_c\u0026lt;f_{cu}"
 								},
 								{
 									"Type": "NodeText",
@@ -3380,21 +3118,9 @@
 									"Data": "混凝土强度高（C100等），摩擦力基本不变，环箍效应变弱，因此破坏亦不成"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "倒四棱锥"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "倒四棱锥"
 								}
 							]
 						}
@@ -3626,19 +3352,9 @@
 													"Data": "C点的纵向应变称为峰值应变"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\epsilon_0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\epsilon_0"
 												},
 												{
 													"Type": "NodeText",
@@ -3992,19 +3708,9 @@
 									"Data": "峰值应变"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": " 3500\\mu\\epsilon"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": " 3500\\mu\\epsilon"
 								}
 							]
 						}
@@ -4163,22 +3869,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "超高延性混凝土"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "超高延性混凝土"
 								}
 							]
 						}
@@ -4279,19 +3972,9 @@
 									"Data": "主应力以压为正，且"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\sigma_1 \\geq\\sigma_2\\geq\\sigma_3 "
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\sigma_1 \\geq\\sigma_2\\geq\\sigma_3 "
 								}
 							]
 						}
@@ -4325,19 +4008,9 @@
 									"Data": "相应的三轴强度记为"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "f_1,\\ f_2,\\ f_3"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "f_1,\\ f_2,\\ f_3"
 								},
 								{
 									"Type": "NodeText",
@@ -4375,19 +4048,9 @@
 									"Data": "各主应力满足"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "|\\sigma_i|\\leq|f_i|"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "|\\sigma_i|\\leq|f_i|"
 								},
 								{
 									"Type": "NodeText",
@@ -4806,21 +4469,9 @@
 							"Data": "混凝土在空气中硬化时体积会缩小，这种现象称为混凝土的"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "收缩"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "收缩"
 						},
 						{
 							"Type": "NodeText",
@@ -5287,19 +4938,9 @@
 									"Data": "收缩量约为"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "(2\\sim5)\\times10^{-4}\\mu\\epsilon"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "(2\\sim5)\\times10^{-4}\\mu\\epsilon"
 								}
 							]
 						}
@@ -5333,21 +4974,9 @@
 									"Data": "故长度方向"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "超过10m"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "超过10m"
 								},
 								{
 									"Type": "NodeText",
@@ -5687,63 +5316,27 @@
 							"Data": "混凝土在"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "荷载的长期作用"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "荷载的长期作用"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "下，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "其变形随时间而不断增长"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "其变形随时间而不断增长"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "的现象称为"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "徐变"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "徐变"
 						},
 						{
 							"Type": "NodeText",
@@ -6200,19 +5793,9 @@
 					"Data": "当初始应力小于0.5fc时，徐变在2年以后可趋于稳定，最终的徐变系数"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\varphi=2\\sim4"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\varphi=2\\sim4"
 				},
 				{
 					"Type": "NodeText",
@@ -6636,38 +6219,18 @@
 													"Data": "是指初应力水平"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma_i/f_c"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma_i/f_c"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "和加荷时混凝土的龄期"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "t_0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "t_0"
 												}
 											]
 										}

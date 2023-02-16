@@ -1,0 +1,20 @@
+{
+	"ID": "20220512143154-o8tnub0",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220512143154-o8tnub0",
+		"title": "Untitled",
+		"updated": "20220512143154"
+	},
+	"Children": [
+		{
+			"ID": "20230216100212-vbrw019",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100212-vbrw019",
+				"updated": "20230216100212"
+			}
+		}
+	]
+}

@@ -1,5 +1,6 @@
 {
 	"ID": "20210924152159-35c0pn4",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "32-20e3",
@@ -815,17 +816,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Solution: careful planning of image acquisitioning and "
-								},
-								{
-									"Type": "NodeBackslash",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "/"
-										}
-									]
+									"Data": "Solution: careful planning of image acquisitioning and /"
 								},
 								{
 									"Type": "NodeText",
@@ -1334,17 +1325,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "成像雷达 "
-								},
-								{
-									"Type": "NodeBackslash",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "-"
-										}
-									]
+									"Data": "成像雷达 -"
 								},
 								{
 									"Type": "NodeText",

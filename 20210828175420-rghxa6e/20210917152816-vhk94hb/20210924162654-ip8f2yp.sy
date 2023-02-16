@@ -1,5 +1,6 @@
 {
 	"ID": "20210924162654-ip8f2yp",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "33-20e3",
@@ -479,22 +480,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Data": "strong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "changes due to surface and deep currents in the ocean"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "changes due to surface and deep currents in the ocean"
 												}
 											]
 										}
@@ -548,22 +536,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Data": "strong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "exchanges between ice sheets or glaciers and the oceans"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "exchanges between ice sheets or glaciers and the oceans"
 												}
 											]
 										}
@@ -590,22 +565,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Data": "strong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "and variations of mass within the Earth"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "and variations of mass within the Earth"
 												}
 											]
 										}

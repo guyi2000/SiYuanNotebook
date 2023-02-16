@@ -1,5 +1,6 @@
 {
 	"ID": "20210314220110-zlip6z2",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210314220110-zlip6z2",
@@ -141,20 +142,9 @@
 													"Data": "下周三 "
 												},
 												{
-													"Type": "NodeMark",
-													"Data": "mark",
-													"Children": [
-														{
-															"Type": "NodeMark2OpenMarker"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "终稿"
-														},
-														{
-															"Type": "NodeMark2CloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "mark",
+													"TextMarkTextContent": "终稿"
 												}
 											]
 										}

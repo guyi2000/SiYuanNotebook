@@ -1,10 +1,12 @@
 {
 	"ID": "20210308195346-14vtyeq",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210308195346-14vtyeq",
 		"title": "【3】结构的动力计算",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210308195346"
 	},
 	"Children": [
 		{
@@ -122,21 +124,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "静荷载"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "静荷载"
 								},
 								{
 									"Type": "NodeText",
@@ -170,21 +160,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "动荷载"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "动荷载"
 								},
 								{
 									"Type": "NodeText",
@@ -258,42 +236,18 @@
 									"Data": "由荷载周期T"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "H"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "H"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "与结构自振比例T"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "J"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "J"
 								},
 								{
 									"Type": "NodeText",
@@ -331,19 +285,9 @@
 									"Data": "一般地，"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "T_H/T_J \\geq 5"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "T_H/T_J \\geq 5"
 								},
 								{
 									"Type": "NodeText",
@@ -417,21 +361,9 @@
 									"Data": "动荷载作用下，结构产生振动，结构的分布质量和集中质量的位移、速度、加速度以及作用在质量上的惯性力等都是时间t的函数，结构任一截面的内力也是时间t的函数。以上统称"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "结构的动力反应"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "结构的动力反应"
 								}
 							]
 						}
@@ -465,84 +397,36 @@
 									"Data": "结构的"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "自振周期"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "自振周期"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "（"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "自振频率"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "自振频率"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "）和"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "阻尼特性"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "阻尼特性"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "，以及"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "多自由度体系的主振型"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "多自由度体系的主振型"
 								},
 								{
 									"Type": "NodeText",
@@ -1096,21 +980,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeStrong",
-					"Children": [
-						{
-							"Type": "NodeStrongA6kOpenMarker",
-							"Data": "**"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "自由振动"
-						},
-						{
-							"Type": "NodeStrongA6kCloseMarker",
-							"Data": "**"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "自由振动"
 				},
 				{
 					"Type": "NodeText",
@@ -1401,19 +1273,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "y_{st}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "y_{st}"
 								},
 								{
 									"Type": "NodeText",
@@ -1504,19 +1366,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\beta"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\beta"
 								},
 								{
 									"Type": "NodeText",
@@ -1546,19 +1398,9 @@
 					"Data": "讨论"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\beta"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\beta"
 				},
 				{
 					"Type": "NodeText",
@@ -1607,38 +1449,18 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\theta \u003c\u003c \\omega"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\theta \u0026lt;\u0026lt; \\omega"
 								},
 								{
 									"Type": "NodeText",
 									"Data": ", "
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\theta/\\omega\\rightarrow0"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\theta/\\omega\\rightarrow0"
 								},
 								{
 									"Type": "NodeText",
@@ -1689,19 +1511,9 @@
 													"Data": "此时，"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\beta\\rightarrow1"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\beta\\rightarrow1"
 												},
 												{
 													"Type": "NodeText",
@@ -1772,38 +1584,18 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\theta\\rightarrow\\omega"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\theta\\rightarrow\\omega"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "，即"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\theta/\\omega\\rightarrow1"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\theta/\\omega\\rightarrow1"
 								},
 								{
 									"Type": "NodeText",
@@ -1887,38 +1679,18 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\theta\u003e\u003e\\omega"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\theta\u0026gt;\u0026gt;\\omega"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "，即"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\theta/\\omega\u003e\u003e1"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\theta/\\omega\u0026gt;\u0026gt;1"
 								},
 								{
 									"Type": "NodeText",
@@ -2159,42 +1931,18 @@
 									"Data": "y"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "0"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "0"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "为初位移，v"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "0"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "0"
 								},
 								{
 									"Type": "NodeText",
@@ -3007,38 +2755,18 @@
 					"Data": "求频率"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\omega_1"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\omega_1"
 				},
 				{
 					"Type": "NodeText",
 					"Data": "和"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\omega_2"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\omega_2"
 				}
 			]
 		},
@@ -3150,42 +2878,18 @@
 									"Data": "这种振动位移形状不变的振动形式称为"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "主振型"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "主振型"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "或"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "振型"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "振型"
 								}
 							]
 						}
@@ -3252,19 +2956,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\displaystyle T_2=(1/3\\sim1/2)T_1"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\displaystyle T_2=(1/3\\sim1/2)T_1"
 								}
 							]
 						}
@@ -3598,19 +3292,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "m_1Y_{11}Y_{12}+m_2Y_{21}Y_{22}=0"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "m_1Y_{11}Y_{12}+m_2Y_{21}Y_{22}=0"
 								}
 							]
 						}

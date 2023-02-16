@@ -1,10 +1,12 @@
 {
 	"ID": "20210304222300-4bkwd64",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210304222300-4bkwd64",
 		"title": "【1】地震的基本概念",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210304222300"
 	},
 	"Children": [
 		{
@@ -1734,21 +1736,9 @@
 					"Data": "一次地震只有"
 				},
 				{
-					"Type": "NodeMark",
-					"Children": [
-						{
-							"Type": "NodeMark2OpenMarker",
-							"Data": "=="
-						},
-						{
-							"Type": "NodeText",
-							"Data": "一个"
-						},
-						{
-							"Type": "NodeMark2CloseMarker",
-							"Data": "=="
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "mark",
+					"TextMarkTextContent": "一个"
 				},
 				{
 					"Type": "NodeText",
@@ -1768,21 +1758,9 @@
 					"Data": "但一次地震可以有"
 				},
 				{
-					"Type": "NodeMark",
-					"Children": [
-						{
-							"Type": "NodeMark2OpenMarker",
-							"Data": "=="
-						},
-						{
-							"Type": "NodeText",
-							"Data": "多个"
-						},
-						{
-							"Type": "NodeMark2CloseMarker",
-							"Data": "=="
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "mark",
+					"TextMarkTextContent": "多个"
 				},
 				{
 					"Type": "NodeText",
@@ -1847,19 +1825,9 @@
 									"Data": "里氏震级"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "M_L"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "M_L"
 								}
 							]
 						}
@@ -1892,19 +1860,9 @@
 									"Data": "标准地震仪在距离震中100km处，记录最大振幅为"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\mu"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mu"
 								},
 								{
 									"Type": "NodeText",
@@ -1941,19 +1899,9 @@
 									"Data": "计算："
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "M_L=lgA(\\Delta)-lgA_0(\\Delta)"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "M_L=lgA(\\Delta)-lgA_0(\\Delta)"
 								}
 							]
 						}
@@ -2012,19 +1960,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "lgE_s=1.5M+11.8"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "lgE_s=1.5M+11.8"
 								}
 							]
 						},
@@ -2069,40 +2007,18 @@
 													"Data": "大1级，能量为"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "10^{1.5}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "10^{1.5}"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "倍，约为"
 												},
 												{
-													"Type": "NodeMark",
-													"Children": [
-														{
-															"Type": "NodeMark2OpenMarker",
-															"Data": "=="
-														},
-														{
-															"Type": "NodeText",
-															"Data": "32"
-														},
-														{
-															"Type": "NodeMark2CloseMarker",
-															"Data": "=="
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "mark",
+													"TextMarkTextContent": "32"
 												},
 												{
 													"Type": "NodeText",
@@ -2387,19 +2303,9 @@
 									"Data": "震中烈度与震级的大致关系（"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "M=0.58I+1.5"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "M=0.58I+1.5"
 								},
 								{
 									"Type": "NodeText",
@@ -3094,16 +3000,7 @@
 															"Children": [
 																{
 																	"Type": "NodeText",
-																	"Data": "加速度竖向分量与水平分量的比值为1:2"
-																},
-																{
-																	"Type": "NodeBackslash",
-																	"Children": [
-																		{
-																			"Type": "NodeBackslashContent",
-																			"Data": "~"
-																		}
-																	]
+																	"Data": "加速度竖向分量与水平分量的比值为1:2~"
 																},
 																{
 																	"Type": "NodeText",
@@ -3152,19 +3049,9 @@
 																					"Data": "计算时"
 																				},
 																				{
-																					"Type": "NodeInlineMath",
-																					"Children": [
-																						{
-																							"Type": "NodeInlineMathOpenMarker"
-																						},
-																						{
-																							"Type": "NodeInlineMathContent",
-																							"Data": "a_v=0.65a_h"
-																						},
-																						{
-																							"Type": "NodeInlineMathCloseMarker"
-																						}
-																					]
+																					"Type": "NodeTextMark",
+																					"TextMarkType": "inline-math",
+																					"TextMarkInlineMathContent": "a_v=0.65a_h"
 																				}
 																			]
 																		}

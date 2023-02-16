@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100053-01ry9ta",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100053-01ry9ta",
+		"title": "Untitled",
+		"updated": "20220512143153"
+	},
+	"Children": [
+		{
+			"ID": "20230216100053-h0gbzlv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100053-h0gbzlv",
+				"updated": "20230216095639"
+			}
+		}
+	]
+}

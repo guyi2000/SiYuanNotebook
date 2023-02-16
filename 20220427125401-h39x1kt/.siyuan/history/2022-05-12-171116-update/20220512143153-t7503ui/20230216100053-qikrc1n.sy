@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100053-qikrc1n",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100053-qikrc1n",
+		"title": "Untitled",
+		"updated": "20220512143154"
+	},
+	"Children": [
+		{
+			"ID": "20230216100053-r2w3pzj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100053-r2w3pzj",
+				"updated": "20230216095639"
+			}
+		}
+	]
+}

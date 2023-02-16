@@ -1,5 +1,6 @@
 {
 	"ID": "20210918095105-fkhorjh",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "32-20e3",
@@ -470,20 +471,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "按随时间的变异分类"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "按随时间的变异分类"
 				}
 			]
 		},
@@ -598,33 +588,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210918102150-sy5gp3g"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "荷载代表值"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210918102150-sy5gp3g",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "荷载代表值"
 								}
 							]
 						}
@@ -641,20 +609,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "按随空间位置的变异分类"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "按随空间位置的变异分类"
 				}
 			]
 		},
@@ -760,20 +717,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "按结构的反应性质分类"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "按结构的反应性质分类"
 				}
 			]
 		},
@@ -907,33 +853,11 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeBlockRef",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210614124038-fzu23kn"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "荷载代表值"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210614124038-fzu23kn",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "荷载代表值"
 				}
 			]
 		},
@@ -1030,20 +954,9 @@
 													"Data": "永久荷载标准值 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "G_k"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "G_k"
 												}
 											]
 										},
@@ -1110,20 +1023,9 @@
 													"Data": "可变荷载标准值 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "Q_k"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "Q_k"
 												}
 											]
 										},
@@ -1256,20 +1158,9 @@
 													"Data": "可变荷载组合值 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "Q_c=\\psi_cQ_k"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "Q_c=\\psi_cQ_k"
 												},
 												{
 													"Type": "NodeText",
@@ -1303,20 +1194,9 @@
 													"Data": "可变荷载频遇值 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "Q_f=\\psi_fQ_k"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "Q_f=\\psi_fQ_k"
 												},
 												{
 													"Type": "NodeText",
@@ -1350,20 +1230,9 @@
 													"Data": "可变荷载准永久值 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "Q_q=\\psi_qQ_k"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "Q_q=\\psi_qQ_k"
 												}
 											]
 										}
@@ -1789,20 +1658,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "w_0"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "w_0"
 				},
 				{
 					"Type": "NodeText",
@@ -1819,20 +1677,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\mu_z"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mu_z"
 				},
 				{
 					"Type": "NodeText",
@@ -1849,20 +1696,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\mu_s"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mu_s"
 				},
 				{
 					"Type": "NodeText",
@@ -1879,20 +1715,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\beta_z"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\beta_z"
 				},
 				{
 					"Type": "NodeText",
@@ -1958,17 +1783,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "风速 "
-								},
-								{
-									"Type": "NodeBackslash",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "="
-										}
-									]
+									"Data": "风速 ="
 								},
 								{
 									"Type": "NodeText",
@@ -1990,17 +1805,7 @@
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "高层结构估算第一周期 0.08 "
-				},
-				{
-					"Type": "NodeBackslash",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeBackslashContent",
-							"Data": "~"
-						}
-					]
+					"Data": "高层结构估算第一周期 0.08 ~"
 				},
 				{
 					"Type": "NodeText",
@@ -2149,20 +1954,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "I_{10}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "I_{10}"
 								},
 								{
 									"Type": "NodeText",
@@ -2220,20 +2014,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "B_z"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "B_z"
 								},
 								{
 									"Type": "NodeText",
@@ -2330,20 +2113,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeMark",
-					"Data": "mark",
-					"Children": [
-						{
-							"Type": "NodeMark2OpenMarker"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "例题"
-						},
-						{
-							"Type": "NodeMark2CloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "mark",
+					"TextMarkTextContent": "例题"
 				}
 			]
 		},
@@ -2569,40 +2341,18 @@
 									"Data": "英国规范 "
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "V_b"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "V_b"
 								},
 								{
 									"Type": "NodeText",
 									"Data": " 与中国规范 "
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "v_0"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "v_0"
 								}
 							]
 						}
@@ -2744,20 +2494,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "V_b=0.94v_0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "V_b=0.94v_0"
 												},
 												{
 													"Type": "NodeText",
@@ -2990,20 +2729,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\beta"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\beta"
 								},
 								{
 									"Type": "NodeText",
@@ -3033,20 +2761,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "F=\\alpha G"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "F=\\alpha G"
 								}
 							]
 						}
@@ -3200,20 +2917,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "S\\leq R/\\gamma_{RE}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "S\\leq R/\\gamma_{RE}"
 																},
 																{
 																	"Type": "NodeText",
@@ -3243,20 +2949,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\gamma_{RE}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\gamma_{RE}"
 																},
 																{
 																	"Type": "NodeText",
@@ -3323,20 +3018,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\gamma_0S\\leq R"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\gamma_0S\\leq R"
 																},
 																{
 																	"Type": "NodeText",
@@ -3406,20 +3090,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\gamma_0S\\leq R"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\gamma_0S\\leq R"
 																}
 															]
 														}

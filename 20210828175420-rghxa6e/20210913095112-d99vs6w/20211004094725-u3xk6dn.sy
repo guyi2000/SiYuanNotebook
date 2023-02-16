@@ -1,5 +1,6 @@
 {
 	"ID": "20211004094725-u3xk6dn",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "34-20e3",
@@ -691,25 +692,12 @@
 									"Data": "由钢梁和钢柱组成抗重力体系和抗侧力体系，一般采用"
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
+									"Type": "NodeTextMark",
 									"Properties": {
 										"style": "text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;"
 									},
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "双向刚接"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "双向刚接"
 								},
 								{
 									"Type": "NodeKramdownSpanIAL",
@@ -1141,44 +1129,18 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "刚度中心"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "刚度中心"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "与"
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "质量中心"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "质量中心"
 								},
 								{
 									"Type": "NodeText",

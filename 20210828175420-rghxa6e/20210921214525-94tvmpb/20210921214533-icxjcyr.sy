@@ -1,9 +1,11 @@
 {
 	"ID": "20210921214533-icxjcyr",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "31-20e3",
 		"id": "20210921214533-icxjcyr",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20210921214533-eq1w97e\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20210921221437-cyjcffo\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20210921214533-eq1w97e\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "2021-09-21-TMS总会会议-顾燚记",
 		"title-img": "background-image:linear-gradient(to top, #e14fad 0%, #f9d423 100%)",
 		"updated": "20210921222201"
@@ -921,20 +923,9 @@
 																	"Data": "实际出行人数人均 40 元（"
 																},
 																{
-																	"Type": "NodeMark",
-																	"Data": "mark",
-																	"Children": [
-																		{
-																			"Type": "NodeMark2OpenMarker"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "重点询问"
-																		},
-																		{
-																			"Type": "NodeMark2CloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "mark",
+																	"TextMarkTextContent": "重点询问"
 																},
 																{
 																	"Type": "NodeText",
@@ -968,20 +959,9 @@
 																	"Data": "如有未报销，需要尽快报完（"
 																},
 																{
-																	"Type": "NodeMark",
-																	"Data": "mark",
-																	"Children": [
-																		{
-																			"Type": "NodeMark2OpenMarker"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "即将封账"
-																		},
-																		{
-																			"Type": "NodeMark2CloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "mark",
+																	"TextMarkTextContent": "即将封账"
 																},
 																{
 																	"Type": "NodeText",
@@ -1015,20 +995,9 @@
 																	"Data": "如果按原有情况报销能报销，但按新规不能报销很多的，需要"
 																},
 																{
-																	"Type": "NodeMark",
-																	"Data": "mark",
-																	"Children": [
-																		{
-																			"Type": "NodeMark2OpenMarker"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "立刻联系"
-																		},
-																		{
-																			"Type": "NodeMark2CloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "mark",
+																	"TextMarkTextContent": "立刻联系"
 																},
 																{
 																	"Type": "NodeText",
@@ -1284,22 +1253,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Data": "strong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "维真读书会"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "维真读书会"
 												}
 											]
 										}

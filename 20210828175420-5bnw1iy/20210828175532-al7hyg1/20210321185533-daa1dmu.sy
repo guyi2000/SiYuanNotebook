@@ -1,10 +1,12 @@
 {
 	"ID": "20210321185533-daa1dmu",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210321185533-daa1dmu",
 		"title": "第一次组织生活",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210321185533"
 	},
 	"Children": [
 		{
@@ -54,22 +56,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "自我认知和个人选择、生涯规划"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "自我认知和个人选择、生涯规划"
 				}
 			]
 		},

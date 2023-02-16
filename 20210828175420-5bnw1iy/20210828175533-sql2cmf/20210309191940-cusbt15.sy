@@ -1,10 +1,12 @@
 {
 	"ID": "20210309191940-cusbt15",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210309191940-cusbt15",
 		"title": "【1】第一次面谈",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210309191940"
 	},
 	"Children": [
 		{

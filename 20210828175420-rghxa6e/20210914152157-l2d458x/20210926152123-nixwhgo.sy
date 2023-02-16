@@ -1,5 +1,6 @@
 {
 	"ID": "20210926152123-nixwhgo",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "32-20e3",
@@ -227,20 +228,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\varepsilon_x, \\varepsilon_y, \\varepsilon_z"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\varepsilon_x, \\varepsilon_y, \\varepsilon_z"
 																},
 																{
 																	"Type": "NodeText",
@@ -337,20 +327,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\gamma_{xy}, \\gamma_{yz}, \\gamma_{zx}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\gamma_{xy}, \\gamma_{yz}, \\gamma_{zx}"
 																}
 															]
 														}
@@ -504,22 +483,9 @@
 									"Data": "坐标正面上的应力，沿坐标"
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "正"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "正"
 								},
 								{
 									"Type": "NodeText",
@@ -553,22 +519,9 @@
 									"Data": "坐标负面上的应力，沿坐标"
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "负"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "负"
 								},
 								{
 									"Type": "NodeText",
@@ -698,20 +651,9 @@
 									"Data": "特点：边界 "
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "z=\\pm t/2"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "z=\\pm t/2"
 								},
 								{
 									"Type": "NodeText",
@@ -774,20 +716,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
 												},
 												{
 													"Type": "NodeText",
@@ -878,20 +809,9 @@
 									"Data": "特点：w = 0, 只有沿 x, y 方向有位移（与 z 无关）"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\gamma_{zx}=\\gamma_{zy}=0"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\gamma_{zx}=\\gamma_{zy}=0"
 								}
 							]
 						}
@@ -917,20 +837,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\tau_{zx}=\\tau_{zy}=0"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\tau_{zx}=\\tau_{zy}=0"
 								},
 								{
 									"Type": "NodeText",
@@ -993,20 +902,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
 												}
 											]
 										}
@@ -1032,20 +930,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma_z\\neq 0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma_z\\neq 0"
 												},
 												{
 													"Type": "NodeText",
@@ -1164,20 +1051,9 @@
 									"Data": "考虑应力 "
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\sigma_x"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\sigma_x"
 								},
 								{
 									"Type": "NodeText",
@@ -1384,22 +1260,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "平面问题中的平衡微分方程"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "平面问题中的平衡微分方程"
 								}
 							]
 						}
@@ -1487,20 +1350,9 @@
 							"Data": "已知一点 P 的 "
 						},
 						{
-							"Type": "NodeInlineMath",
-							"Data": "span",
-							"Children": [
-								{
-									"Type": "NodeInlineMathOpenMarker"
-								},
-								{
-									"Type": "NodeInlineMathContent",
-									"Data": "\\sigma_x, \\sigma_y, \\tau_{xy}"
-								},
-								{
-									"Type": "NodeInlineMathCloseMarker"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "\\sigma_x, \\sigma_y, \\tau_{xy}"
 						},
 						{
 							"Type": "NodeText",
@@ -1905,20 +1757,9 @@
 					"Data": "平面应力问题，"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\sigma_z=0"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\sigma_z=0"
 				},
 				{
 					"Type": "NodeText",
@@ -1986,20 +1827,9 @@
 					"Data": "平面应变问题，"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "\\varepsilon_z=0"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\varepsilon_z=0"
 				},
 				{
 					"Type": "NodeText",
@@ -2342,20 +2172,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeInlineMath",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "u_s=\\bar u, v_s=\\bar v"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "u_s=\\bar u, v_s=\\bar v"
 				},
 				{
 					"Type": "NodeText",
@@ -2392,40 +2211,18 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "u_s, v_s"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "u_s, v_s"
 								},
 								{
 									"Type": "NodeText",
 									"Data": " 位移的边界值；"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\bar u, \\bar v"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\bar u, \\bar v"
 								},
 								{
 									"Type": "NodeText",
@@ -2685,20 +2482,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "x=0"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "x=0"
 								}
 							]
 						},
@@ -2730,28 +2516,13 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "u=0, v=0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "u=0, v=0"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "\n"
-												},
-												{
-													"Type": "NodeBr",
-													"Data": "br"
 												}
 											]
 										}
@@ -2781,20 +2552,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\displaystyle y=\\frac{h}{2}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\displaystyle y=\\frac{h}{2}"
 								},
 								{
 									"Type": "NodeText",
@@ -2830,20 +2590,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma_y=0, \\tau_{yx}=0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma_y=0, \\tau_{yx}=0"
 												},
 												{
 													"Type": "NodeText",
@@ -2877,20 +2626,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\displaystyle y=-\\frac{h}{2}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\displaystyle y=-\\frac{h}{2}"
 								},
 								{
 									"Type": "NodeText",
@@ -2926,20 +2664,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\sigma_y=-q, \\tau_{yx}=0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\sigma_y=-q, \\tau_{yx}=0"
 												},
 												{
 													"Type": "NodeText",
@@ -2973,20 +2700,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "x=l"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "x=l"
 								}
 							]
 						},
@@ -3115,25 +2831,12 @@
 							"Data": "如果把物体的一小部分上的面力，变换为分布不同但静力等效的面力（主向量相同，对同一点的主矩也相同），那么"
 						},
 						{
-							"Type": "NodeStrong",
-							"Data": "strong",
+							"Type": "NodeTextMark",
 							"Properties": {
 								"style": "text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;"
 							},
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "近处的应力分布将有显著的改变，但远处所受到的影响可以不计"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "近处的应力分布将有显著的改变，但远处所受到的影响可以不计"
 						},
 						{
 							"Type": "NodeKramdownSpanIAL",
@@ -3242,40 +2945,18 @@
 					"Data": "方法："
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "位移求解（位移法）"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "位移求解（位移法）"
 				},
 				{
 					"Type": "NodeText",
 					"Data": "、"
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "应力求解（力法）"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "应力求解（力法）"
 				}
 			]
 		},
@@ -3650,20 +3331,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\phi(x, y)"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\phi(x, y)"
 								},
 								{
 									"Type": "NodeText",

@@ -1,10 +1,12 @@
 {
 	"ID": "20210305110220-hnfcbbo",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305110220-hnfcbbo",
 		"title": "第一次例会-0305",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210305110220"
 	},
 	"Children": [
 		{
@@ -35,22 +37,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "2021-03-05"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "2021-03-05"
 				}
 			]
 		},
@@ -232,33 +221,10 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeLink",
-																	"Children": [
-																		{
-																			"Type": "NodeOpenBracket",
-																			"Data": "["
-																		},
-																		{
-																			"Type": "NodeLinkText",
-																			"Data": "土木系、建管系学生科协"
-																		},
-																		{
-																			"Type": "NodeCloseBracket",
-																			"Data": "]"
-																		},
-																		{
-																			"Type": "NodeOpenParen",
-																			"Data": "("
-																		},
-																		{
-																			"Type": "NodeLinkDest",
-																			"Data": "https://thuce.top"
-																		},
-																		{
-																			"Type": "NodeCloseParen",
-																			"Data": ")"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "a",
+																	"TextMarkAHref": "https://thuce.top",
+																	"TextMarkTextContent": "土木系、建管系学生科协"
 																}
 															]
 														}
@@ -428,33 +394,10 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeLink",
-																	"Children": [
-																		{
-																			"Type": "NodeOpenBracket",
-																			"Data": "["
-																		},
-																		{
-																			"Type": "NodeLinkText",
-																			"Data": "清华云盘"
-																		},
-																		{
-																			"Type": "NodeCloseBracket",
-																			"Data": "]"
-																		},
-																		{
-																			"Type": "NodeOpenParen",
-																			"Data": "("
-																		},
-																		{
-																			"Type": "NodeLinkDest",
-																			"Data": "https://cloud.tsinghua.edu.cn/group/8825/"
-																		},
-																		{
-																			"Type": "NodeCloseParen",
-																			"Data": ")"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "a",
+																	"TextMarkAHref": "https://cloud.tsinghua.edu.cn/group/8825/",
+																	"TextMarkTextContent": "清华云盘"
 																}
 															]
 														}
@@ -530,33 +473,10 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeLink",
-																	"Children": [
-																		{
-																			"Type": "NodeOpenBracket",
-																			"Data": "["
-																		},
-																		{
-																			"Type": "NodeLinkText",
-																			"Data": "技术部Gitee仓库"
-																		},
-																		{
-																			"Type": "NodeCloseBracket",
-																			"Data": "]"
-																		},
-																		{
-																			"Type": "NodeOpenParen",
-																			"Data": "("
-																		},
-																		{
-																			"Type": "NodeLinkDest",
-																			"Data": "https://gitee.com/guyi2000/data_of_technology_department_2021"
-																		},
-																		{
-																			"Type": "NodeCloseParen",
-																			"Data": ")"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "a",
+																	"TextMarkAHref": "https://gitee.com/guyi2000/data_of_technology_department_2021",
+																	"TextMarkTextContent": "技术部Gitee仓库"
 																}
 															]
 														}
@@ -644,21 +564,9 @@
 													"Data": "无特殊原因："
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "周五晚21:20~22:20"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "周五晚21:20~22:20"
 												},
 												{
 													"Type": "NodeText",
@@ -727,33 +635,10 @@
 													"Data": "例会上每次由不同部员进行会议记录，会议记录结束后上传至"
 												},
 												{
-													"Type": "NodeLink",
-													"Children": [
-														{
-															"Type": "NodeOpenBracket",
-															"Data": "["
-														},
-														{
-															"Type": "NodeLinkText",
-															"Data": "技术部Gitee仓库"
-														},
-														{
-															"Type": "NodeCloseBracket",
-															"Data": "]"
-														},
-														{
-															"Type": "NodeOpenParen",
-															"Data": "("
-														},
-														{
-															"Type": "NodeLinkDest",
-															"Data": "https://gitee.com/guyi2000/data_of_technology_department_2021"
-														},
-														{
-															"Type": "NodeCloseParen",
-															"Data": ")"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "a",
+													"TextMarkAHref": "https://gitee.com/guyi2000/data_of_technology_department_2021",
+													"TextMarkTextContent": "技术部Gitee仓库"
 												}
 											]
 										}
@@ -1381,33 +1266,10 @@
 									"Data": "（全体）加入"
 								},
 								{
-									"Type": "NodeLink",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket",
-											"Data": "["
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "技术部Gitee仓库"
-										},
-										{
-											"Type": "NodeCloseBracket",
-											"Data": "]"
-										},
-										{
-											"Type": "NodeOpenParen",
-											"Data": "("
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://gitee.com/guyi2000/data_of_technology_department_2021"
-										},
-										{
-											"Type": "NodeCloseParen",
-											"Data": ")"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://gitee.com/guyi2000/data_of_technology_department_2021",
+									"TextMarkTextContent": "技术部Gitee仓库"
 								}
 							]
 						},
@@ -1453,66 +1315,27 @@
 													"Data": "熟悉"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "git"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "git"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "的使用，能够"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "clone"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "clone"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "与"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "commit"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "commit"
 												},
 												{
 													"Type": "NodeText",
@@ -1550,44 +1373,18 @@
 													"Data": "理解文本文件（"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "text"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "text"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "）与二进制文件（"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "binary"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "binary"
 												},
 												{
 													"Type": "NodeText",
@@ -1660,22 +1457,9 @@
 									"Data": "（新人）联系"
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "SHZ"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "SHZ"
 								},
 								{
 									"Type": "NodeText",

@@ -1,10 +1,12 @@
 {
 	"ID": "20210318112008-cffxwxo",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210318112008-cffxwxo",
 		"title": "【3】钢筋混凝土构件的基本受力性能",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210318112008"
 	},
 	"Children": [
 		{
@@ -152,42 +154,18 @@
 									"Data": "两种"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "非线性材料"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "非线性材料"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "组合而成的"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "复合"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "复合"
 								},
 								{
 									"Type": "NodeText",
@@ -721,37 +699,16 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "混凝土开裂前，钢筋应力=20"
-								},
-								{
-									"Type": "NodeBackslash",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "~"
-										}
-									]
+									"Data": "混凝土开裂前，钢筋应力=20~"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "40MPa，对N"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "cr"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "cr"
 								},
 								{
 									"Type": "NodeText",
@@ -1161,22 +1118,9 @@
 									"Data": "受力钢筋沿"
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "周围"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "周围"
 								},
 								{
 									"Type": "NodeText",
@@ -1458,19 +1402,9 @@
 													"Data": "混凝土的峰值应变"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": " 2000\\mu\\varepsilon"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": " 2000\\mu\\varepsilon"
 												}
 											]
 										}
@@ -1504,57 +1438,27 @@
 													"Data": "钢筋的屈服应变："
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": " 1500\\mu\\varepsilon"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": " 1500\\mu\\varepsilon"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "（300MPa）、"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": " 2000\\mu\\varepsilon"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": " 2000\\mu\\varepsilon"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "（400MPa）、"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": " 2500\\mu\\varepsilon"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": " 2500\\mu\\varepsilon"
 												},
 												{
 													"Type": "NodeText",

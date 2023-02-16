@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100212-asve5md",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100212-asve5md",
+		"title": "Untitled",
+		"updated": "20220512143154"
+	},
+	"Children": [
+		{
+			"ID": "20230216100212-bw7etyz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100212-bw7etyz",
+				"updated": "20230216100053"
+			}
+		}
+	]
+}

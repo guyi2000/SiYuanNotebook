@@ -1,10 +1,12 @@
 {
 	"ID": "20210323192047-2san2r1",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210323192047-2san2r1",
 		"title": "【5】岛礁建设新材料——珊瑚砂",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210323192047"
 	},
 	"Children": [
 		{
@@ -60,21 +62,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "珊瑚礁"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "珊瑚礁"
 						},
 						{
 							"Type": "NodeText",
@@ -91,21 +81,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "珊瑚礁"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "珊瑚礁"
 						},
 						{
 							"Type": "NodeText",
@@ -122,21 +100,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "珊瑚礁"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "珊瑚礁"
 						},
 						{
 							"Type": "NodeText",
@@ -267,22 +233,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "珊瑚砂素填土"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "珊瑚砂素填土"
 				}
 			]
 		},
@@ -357,29 +310,11 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "局部含碎石及少量珊瑚枝，碎石含量约为15%"
-								},
-								{
-									"Type": "NodeBackslash",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "~"
-										}
-									]
+									"Data": "局部含碎石及少量珊瑚枝，碎石含量约为15%~"
 								},
 								{
 									"Type": "NodeText",
-									"Data": "35%，一般粒径为3"
-								},
-								{
-									"Type": "NodeBackslash",
-									"Children": [
-										{
-											"Type": "NodeBackslashContent",
-											"Data": "~"
-										}
-									]
+									"Data": "35%，一般粒径为3~"
 								},
 								{
 									"Type": "NodeText",
@@ -430,21 +365,9 @@
 							"Data": "主要矿物成分为"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "碳酸钙"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "碳酸钙"
 						},
 						{
 							"Type": "NodeText",

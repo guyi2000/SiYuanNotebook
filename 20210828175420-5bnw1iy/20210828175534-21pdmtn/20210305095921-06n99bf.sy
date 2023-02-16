@@ -1,10 +1,12 @@
 {
 	"ID": "20210305095921-06n99bf",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305095921-06n99bf",
 		"title": "【2】人工岛",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210305095921"
 	},
 	"Children": [
 		{
@@ -155,21 +157,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "核电站"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "核电站"
 												},
 												{
 													"Type": "NodeText",
@@ -1290,64 +1280,22 @@
 													"Data": "有限水深，使用"
 												},
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100908-fxiu6e0"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefDynamicText",
-															"Data": "围垦式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100908-fxiu6e0",
+													"TextMarkBlockRefSubtype": "d",
+													"TextMarkTextContent": "围垦式"
 												},
 												{
 													"Type": "NodeText",
 													"Data": " 和 "
 												},
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100911-fvytkzx"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefDynamicText",
-															"Data": "圩区式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100911-fvytkzx",
+													"TextMarkBlockRefSubtype": "d",
+													"TextMarkTextContent": "圩区式"
 												}
 											]
 										}
@@ -1377,32 +1325,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100915-npaizrx"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "重力式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100915-npaizrx",
+													"TextMarkBlockRefSubtype": "s",
+													"TextMarkTextContent": "重力式"
 												},
 												{
 													"Type": "NodeText",
@@ -1436,32 +1363,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100957-e08iuu3"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefDynamicText",
-															"Data": "顶起式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100957-e08iuu3",
+													"TextMarkBlockRefSubtype": "d",
+													"TextMarkTextContent": "顶起式"
 												},
 												{
 													"Type": "NodeText",
@@ -1495,32 +1401,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100935-mzwotpl"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "漂浮式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100935-mzwotpl",
+													"TextMarkBlockRefSubtype": "s",
+													"TextMarkTextContent": "漂浮式"
 												},
 												{
 													"Type": "NodeText",
@@ -1694,32 +1579,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100908-fxiu6e0"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefDynamicText",
-															"Data": "围垦式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100908-fxiu6e0",
+													"TextMarkBlockRefSubtype": "d",
+													"TextMarkTextContent": "围垦式"
 												}
 											]
 										}
@@ -1827,32 +1691,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210305100908-fxiu6e0"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefDynamicText",
-															"Data": "围垦式"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210305100908-fxiu6e0",
+													"TextMarkBlockRefSubtype": "d",
+													"TextMarkTextContent": "围垦式"
 												}
 											]
 										}
@@ -1882,19 +1725,9 @@
 					"Data": "人工岛建设的核心问题（"
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "E^3S"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "E^3S"
 				},
 				{
 					"Type": "NodeText",
@@ -2315,32 +2148,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210305100908-fxiu6e0"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "围垦式"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210305100908-fxiu6e0",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "围垦式"
 								},
 								{
 									"Type": "NodeText",

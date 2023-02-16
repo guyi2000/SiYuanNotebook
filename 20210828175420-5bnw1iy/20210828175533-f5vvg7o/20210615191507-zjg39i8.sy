@@ -1,10 +1,12 @@
 {
 	"ID": "20210615191507-zjg39i8",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210615191507-zjg39i8",
 		"title": "复习",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210615191507"
 	},
 	"Children": [
 		{
@@ -132,21 +134,9 @@
 									"Data": "设计者的思想意图、构思通过"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "工程施工"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "工程施工"
 								},
 								{
 									"Type": "NodeText",
@@ -246,21 +236,9 @@
 									"Data": "建筑工程施工全过程中的主要工种工程的"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "施工特点和具体施工方法"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "施工特点和具体施工方法"
 								},
 								{
 									"Type": "NodeText",
@@ -294,160 +272,55 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210615191517-6q4xlfd"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "土方工程"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210615191517-6q4xlfd",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "土方工程"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "、"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210615191810-2tbqglp"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "桩基础工程"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210615191810-2tbqglp",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "桩基础工程"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "、"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210615191817-6o2ml7g"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "模板工程"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210615191817-6o2ml7g",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "模板工程"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "、"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210615191820-tzad7qh"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "钢筋工程"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210615191820-tzad7qh",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "钢筋工程"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "、"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210615191824-7h4xr2s"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "混凝土工程"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210615191824-7h4xr2s",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "混凝土工程"
 								},
 								{
 									"Type": "NodeText",
@@ -518,22 +391,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "Earthworks"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "Earthworks"
 				}
 			]
 		},
@@ -1108,32 +968,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210616094736-da2i25h"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "浅基础"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210616094736-da2i25h",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "浅基础"
 				}
 			]
 		},
@@ -1293,32 +1132,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210616094739-g3mu9fx"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "刚性基础"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210616094739-g3mu9fx",
+													"TextMarkBlockRefSubtype": "s",
+													"TextMarkTextContent": "刚性基础"
 												}
 											]
 										},
@@ -1395,32 +1213,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210616094745-14sozzf"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "柔性基础"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210616094745-14sozzf",
+													"TextMarkBlockRefSubtype": "s",
+													"TextMarkTextContent": "柔性基础"
 												}
 											]
 										},
@@ -4176,32 +3973,11 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeBlockRef",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210616103206-3h1l8yu"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "确定顺序"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "block-ref",
+													"TextMarkBlockRefID": "20210616103206-3h1l8yu",
+													"TextMarkBlockRefSubtype": "s",
+													"TextMarkTextContent": "确定顺序"
 												}
 											]
 										}
@@ -5962,21 +5738,9 @@
 													"Data": "特点：无噪音，无振动，无污染，和锤击沉桩相比 "
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "节约材料、降低造价，施工速度快"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "节约材料、降低造价，施工速度快"
 												},
 												{
 													"Type": "NodeText",
@@ -8827,21 +8591,9 @@
 									"Data": "概念：采用长螺旋钻机钻孔至设计标高，利用混凝土泵将超流态细石混凝土从钻头底压出，边压灌混凝土边提升钻头直至成桩，混凝土灌注至设计标高后，再借助钢筋笼自重或利用专门振动装置将钢筋笼一次插入混凝土桩体至设计标高，形成钢筋混凝土灌注桩。 "
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "后插入钢筋笼工序应在压灌混凝土工序后连续进行"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "后插入钢筋笼工序应在压灌混凝土工序后连续进行"
 								},
 								{
 									"Type": "NodeText",
@@ -8879,32 +8631,11 @@
 									"Data": "特点：无需泥浆护壁，无泥皮，无沉渣，无泥浆污染，施工速度快，造价低，可以结合"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210616134751-1o6sih1"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefText",
-											"Data": "后注浆技术"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210616134751-1o6sih1",
+									"TextMarkBlockRefSubtype": "s",
+									"TextMarkTextContent": "后注浆技术"
 								},
 								{
 									"Type": "NodeText",
@@ -9043,21 +8774,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "是一种提高桩基承载力的辅助措施，不是成桩方法"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "是一种提高桩基承载力的辅助措施，不是成桩方法"
 												},
 												{
 													"Type": "NodeText",

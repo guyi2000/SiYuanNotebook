@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100053-bnb5ign",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100053-bnb5ign",
+		"title": "Untitled",
+		"updated": "20220512143154"
+	},
+	"Children": [
+		{
+			"ID": "20230216100053-1xg2l4j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100053-1xg2l4j",
+				"updated": "20230216095638"
+			}
+		}
+	]
+}

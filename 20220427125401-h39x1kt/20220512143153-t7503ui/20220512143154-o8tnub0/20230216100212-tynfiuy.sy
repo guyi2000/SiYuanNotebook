@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100212-tynfiuy",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100212-tynfiuy",
+		"title": "Untitled",
+		"updated": "20220512143154"
+	},
+	"Children": [
+		{
+			"ID": "20230216100212-pk7o6tg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100212-pk7o6tg",
+				"updated": "20230216100054"
+			}
+		}
+	]
+}

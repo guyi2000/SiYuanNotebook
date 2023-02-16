@@ -1,10 +1,12 @@
 {
 	"ID": "20210423174019-zog1ek9",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210423174019-zog1ek9",
 		"title": "2021-04-23",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210423174019"
 	},
 	"Children": [
 		{
@@ -22,16 +24,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "智能建造大赛"
-				},
-				{
-					"Type": "NodeBackslash",
-					"Children": [
-						{
-							"Type": "NodeBackslashContent",
-							"Data": "-"
-						}
-					]
+					"Data": "智能建造大赛-"
 				},
 				{
 					"Type": "NodeText",
@@ -124,22 +117,9 @@
 									"Data": "机电方案设计（学习+建模）（"
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "5.2"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "5.2"
 								},
 								{
 									"Type": "NodeText",

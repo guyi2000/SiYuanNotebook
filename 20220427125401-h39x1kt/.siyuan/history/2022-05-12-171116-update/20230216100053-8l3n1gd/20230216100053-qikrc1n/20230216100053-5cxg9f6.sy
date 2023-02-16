@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100053-5cxg9f6",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100053-5cxg9f6",
+		"title": "Untitled",
+		"updated": "20230216100053"
+	},
+	"Children": [
+		{
+			"ID": "20230216100212-idlxor9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100212-idlxor9",
+				"updated": "20230216100212"
+			}
+		}
+	]
+}

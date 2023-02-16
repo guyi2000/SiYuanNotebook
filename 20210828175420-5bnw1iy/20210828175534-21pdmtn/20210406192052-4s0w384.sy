@@ -1,10 +1,12 @@
 {
 	"ID": "20210406192052-4s0w384",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210406192052-4s0w384",
 		"title": "【7】人工岛建设环境影响评价",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210406192052"
 	},
 	"Children": [
 		{
@@ -83,84 +85,36 @@
 							"Data": "环境影响评价是为了实施可持续发展战略，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "预防"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "预防"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "因规划和建设项目实施后对环境造成的"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "不良影响"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "不良影响"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "促进"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "促进"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "经济、社会和环境的"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "协调发展"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "协调发展"
 						},
 						{
 							"Type": "NodeText",
@@ -181,63 +135,27 @@
 							"Data": "环境影响评价是指对规划和建设项目实施后可能造成的环境影响进行"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "分析、预测和评估"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "分析、预测和评估"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "，提出预防或者减轻不良环境影响的"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "对策和措施"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "对策和措施"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "，进行跟踪监测的"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "方法与制度"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "方法与制度"
 						},
 						{
 							"Type": "NodeText",

@@ -1,9 +1,11 @@
 {
 	"ID": "20210929210027-qdah2jz",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "31-20e3",
 		"id": "20210929210027-qdah2jz",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20210929210029-an3eq6y\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20210929213219-enqsxof\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20210929210029-an3eq6y\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "2021-09-29-系TMS第一次例会",
 		"title-img": "background-image:linear-gradient(to top, #65bd60 0%, #5ac1a8 25%, #3ec6ed 50%, #b7ddb7 75%, #fef381 100%)",
 		"updated": "20210930221030"
@@ -84,44 +86,18 @@
 									"Data": "建议每个申报单位（全系）"
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "一本书"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "一本书"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "，建议不少于"
 								},
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "两次读书研讨会"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "两次读书研讨会"
 								},
 								{
 									"Type": "NodeText",
@@ -205,22 +181,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "第十二周下发总结材料"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "第十二周下发总结材料"
 								}
 							]
 						}

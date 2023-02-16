@@ -1,10 +1,12 @@
 {
 	"ID": "20210413180258-xfus9t1",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210413180258-xfus9t1",
 		"title": "【8】讨论课1",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210413180258"
 	},
 	"Children": [
 		{
@@ -47,42 +49,18 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "背景"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "背景"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "：2018年国务院印发《关于加强滨海湿地保护严格管控围填海的通知》指出，要取消围填海地方年度计划指标，除国家重大战略项目涉及围填海的按程序报批外，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "全面停止新增围填海项目审批"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "全面停止新增围填海项目审批"
 						},
 						{
 							"Type": "NodeText",
@@ -99,21 +77,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "讨论"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "讨论"
 						},
 						{
 							"Type": "NodeText",
@@ -130,21 +96,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "讨论形式"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "讨论形式"
 						},
 						{
 							"Type": "NodeText",

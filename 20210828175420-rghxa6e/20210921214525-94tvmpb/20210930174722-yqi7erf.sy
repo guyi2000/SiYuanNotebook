@@ -1,9 +1,11 @@
 {
 	"ID": "20210930174722-yqi7erf",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "31-20e3",
 		"id": "20210930174722-yqi7erf",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20210930174732-2iqsvu3\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20210930174833-j1w0p0t\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20210930174732-2iqsvu3\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "2021-09-30-党课组长第一次例会",
 		"title-img": "background-color: #026873;background-image: linear-gradient(90deg, rgba(255,255,255,.07) 50%, transparent 50%),linear-gradient(90deg, rgba(255,255,255,.13) 50%, transparent 50%),linear-gradient(90deg, transparent 50%, rgba(255,255,255,.17) 50%),linear-gradient(90deg, transparent 50%, rgba(255,255,255,.19) 50%);background-size: 13px, 29px, 37px, 53px;",
 		"updated": "20210930221014"

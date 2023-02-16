@@ -1,10 +1,12 @@
 {
 	"ID": "20210427192118-dw9l6zd",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210427192118-dw9l6zd",
 		"title": "【9】无居民海岛价值评估",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210427192118"
 	},
 	"Children": [
 		{
@@ -83,21 +85,9 @@
 							"Data": "《中华人民共和国海岛保护法》实施前，大部分海岛是"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "无偿或低偿"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "无偿或低偿"
 						},
 						{
 							"Type": "NodeText",
@@ -118,21 +108,9 @@
 							"Data": "2018年，国家海洋局发布《关于海域、无居民海岛有偿使用的意见》，明确到2020年，基本建立"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "保护优先、产权明晰、权能丰富、规则完善、监管有效"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "保护优先、产权明晰、权能丰富、规则完善、监管有效"
 						},
 						{
 							"Type": "NodeText",
@@ -153,21 +131,9 @@
 							"Data": "完善用海用岛市场化配置制度……"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "制定海域、无居民海岛招拍挂出让管理办法"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "制定海域、无居民海岛招拍挂出让管理办法"
 						},
 						{
 							"Type": "NodeText",
@@ -353,21 +319,9 @@
 							"Data": "为了维护海岛国家所有权和用岛单位使用权的利益，客观上要求具有"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "中立立场"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "中立立场"
 						},
 						{
 							"Type": "NodeText",
@@ -543,42 +497,18 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "海岛价值的核心"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "海岛价值的核心"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "是其拥有陆地环境所不具有的"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "海岛生态价值"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "海岛生态价值"
 						},
 						{
 							"Type": "NodeText",
@@ -599,21 +529,9 @@
 							"Data": "通过海岛价值全面的评估，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "调节海岛环境保护与开发利用之间的矛盾，提高海岛资源的使用效益，能更好地保护海岛生态，实现海岛资源的可持续利用。"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "调节海岛环境保护与开发利用之间的矛盾，提高海岛资源的使用效益，能更好地保护海岛生态，实现海岛资源的可持续利用。"
 						}
 					]
 				}
@@ -647,22 +565,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "科学调查"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "科学调查"
 				}
 			]
 		},
@@ -691,21 +596,9 @@
 							"Data": "海岛价值评估是一项科学性非常强的工作，每个海岛都有自己的特点，对海岛进行评估，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "需要进行详细的科学调查和论证"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "需要进行详细的科学调查和论证"
 						},
 						{
 							"Type": "NodeText",
@@ -726,21 +619,9 @@
 							"Data": "对海岛开发的具体内容、开发规模、开发方式、经济效益以及岛屿开发后的变化情况、岛屿对周围环境的影响等方面做出详细的论证，"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "以促进海岛资源的持续利用"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "以促进海岛资源的持续利用"
 						},
 						{
 							"Type": "NodeText",
@@ -2789,32 +2670,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210427201834-v7j1wto"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "市场法"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210427201834-v7j1wto",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "市场法"
 				}
 			]
 		},
@@ -2931,32 +2791,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210427201831-9ij3ojj"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "收益法"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210427201831-9ij3ojj",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "收益法"
 				}
 			]
 		},
@@ -3054,21 +2893,9 @@
 									"Data": "A"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "i"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "i"
 								},
 								{
 									"Type": "NodeText",
@@ -3101,32 +2928,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210427201829-8ixe1tj"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "成本法"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210427201829-8ixe1tj",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "成本法"
 				}
 			]
 		},
@@ -3193,21 +2999,9 @@
 									"Data": "P"
 								},
 								{
-									"Type": "NodeSub",
-									"Children": [
-										{
-											"Type": "NodeSubOpenMarker",
-											"Data": "~"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "0"
-										},
-										{
-											"Type": "NodeSubCloseMarker",
-											"Data": "~"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sub",
+									"TextMarkTextContent": "0"
 								},
 								{
 									"Type": "NodeText",
@@ -3370,32 +3164,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210427203659-rm72l6y"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "市场法"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210427203659-rm72l6y",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "市场法"
 								},
 								{
 									"Type": "NodeText",
@@ -3429,32 +3202,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210427203027-ncogfp1"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "收益法"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210427203027-ncogfp1",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "收益法"
 								},
 								{
 									"Type": "NodeText",
@@ -3488,32 +3240,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210427203113-5zl0hmz"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "成本法"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210427203113-5zl0hmz",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "成本法"
 								},
 								{
 									"Type": "NodeText",

@@ -1,5 +1,6 @@
 {
 	"ID": "20210913095137-6mvwr1t",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "31-20e3",
@@ -2098,22 +2099,9 @@
 																	"Data": "用于"
 																},
 																{
-																	"Type": "NodeStrong",
-																	"Data": "strong",
-																	"Children": [
-																		{
-																			"Type": "NodeStrongA6kOpenMarker",
-																			"Data": "**"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "混凝土结构、砖砌体结构、砌块结构、木结构"
-																		},
-																		{
-																			"Type": "NodeStrongA6kCloseMarker",
-																			"Data": "**"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "strong",
+																	"TextMarkTextContent": "混凝土结构、砖砌体结构、砌块结构、木结构"
 																}
 															]
 														}
@@ -2463,22 +2451,9 @@
 																	"Data": "用于"
 																},
 																{
-																	"Type": "NodeStrong",
-																	"Data": "strong",
-																	"Children": [
-																		{
-																			"Type": "NodeStrongA6kOpenMarker",
-																			"Data": "**"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "钢结构、混凝土结构、组合结构、木结构"
-																		},
-																		{
-																			"Type": "NodeStrongA6kCloseMarker",
-																			"Data": "**"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "strong",
+																	"TextMarkTextContent": "钢结构、混凝土结构、组合结构、木结构"
 																}
 															]
 														}

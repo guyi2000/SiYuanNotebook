@@ -1,0 +1,20 @@
+{
+	"ID": "20230216100053-thwrtdx",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216100053-thwrtdx",
+		"title": "Untitled",
+		"updated": "20230216100053"
+	},
+	"Children": [
+		{
+			"ID": "20230216100210-4op5a8p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100210-4op5a8p",
+				"updated": "20230216100210"
+			}
+		}
+	]
+}

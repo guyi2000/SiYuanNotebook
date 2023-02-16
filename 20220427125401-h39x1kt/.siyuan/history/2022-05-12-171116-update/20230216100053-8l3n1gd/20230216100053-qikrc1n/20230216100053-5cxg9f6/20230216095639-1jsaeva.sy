@@ -1,0 +1,509 @@
+{
+	"ID": "20230216095639-1jsaeva",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230216095639-1jsaeva",
+		"title": "组会-20220512",
+		"updated": "20220512171059"
+	},
+	"Children": [
+		{
+			"ID": "20230216095639-0umns30",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230216095639-0umns30",
+				"updated": "20220512154844"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三维位移测量问题—孙楚津"
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-5wkm8cb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230216095639-5wkm8cb",
+				"updated": "20220512143250"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "研究背景"
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-elc8yg4",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230216095639-elc8yg4",
+				"updated": "20220512143352"
+			},
+			"Children": [
+				{
+					"ID": "20230216095639-mw71hk3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-mw71hk3",
+						"updated": "20220512143352"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-uoxewjs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-uoxewjs",
+								"updated": "20220512143355"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "三维靶标"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095639-iw1bhzd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-iw1bhzd"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-so68h9k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-so68h9k",
+								"updated": "20220512143423"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "DPOD方法——两阶段方法"
+								}
+							]
+						},
+						{
+							"ID": "20230216095639-21ur8ft",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230216095639-21ur8ft"
+							},
+							"Children": [
+								{
+									"ID": "20230216095639-b1nw9en",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095639-b1nw9en"
+									},
+									"Children": [
+										{
+											"ID": "20230216095639-pavav00",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095639-pavav00",
+												"updated": "20220512143428"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "预测物体的mask"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230216095639-3wg3t94",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095639-3wg3t94"
+									},
+									"Children": [
+										{
+											"ID": "20230216095639-wj5jzoc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095639-wj5jzoc",
+												"updated": "20220512143444"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "预测物体2D-3D映射（归一化UVW坐标）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230216095639-v3lqwi3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095639-v3lqwi3"
+									},
+									"Children": [
+										{
+											"ID": "20230216095639-1ergw5c",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095639-1ergw5c",
+												"updated": "20220512143507"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "求解PnP问题得到位姿"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-yigrgbw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230216095639-yigrgbw",
+				"updated": "20220512143548"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "静态物体位移测量试验"
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-u5c2hw7",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230216095639-u5c2hw7",
+				"updated": "20220512143549"
+			},
+			"Children": [
+				{
+					"ID": "20230216095639-8a3wgvs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-8a3wgvs",
+						"updated": "20220512143549"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-0kpzhzm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-0kpzhzm",
+								"updated": "20220512143602"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建立物体模型：SfM+MVS"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095639-34yib52",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-34yib52"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-khlv1wq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-khlv1wq",
+								"updated": "20220512143617"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "合成渲染数据背景环境"
+								}
+							]
+						},
+						{
+							"ID": "20230216095639-ol4y963",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230216095639-ol4y963"
+							},
+							"Children": [
+								{
+									"ID": "20230216095639-wm84bsq",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230216095639-wm84bsq"
+									},
+									"Children": [
+										{
+											"ID": "20230216095639-mcsv8ui",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230216095639-mcsv8ui",
+												"updated": "20220512143807"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "虚拟相机的内外参数，多视图渲染"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095639-ws7to10",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-ws7to10"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-3q384os",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-3q384os",
+								"updated": "20220512144356"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "方法一：位移前后的位姿变化"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095639-2vijuuk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-2vijuuk"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-93mvh33",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-93mvh33",
+								"updated": "20220512144147"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "方法二：基于初始（相机）位姿和像素测量"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-c9ln8dd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216095639-c9ln8dd",
+				"updated": "20220512144506"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "width: 50%;",
+						"style": "width: 10000px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20220512144506-tkz5l7q.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 10000px;\" parent-style=\"width: 50%;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-tvboohm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230216095639-tvboohm",
+				"updated": "20220512154842"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "剪力墙结构的设计再优化方法—赵鹏举"
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-szdfstt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230216095639-szdfstt",
+				"updated": "20220512154658"
+			},
+			"Children": [
+				{
+					"ID": "20230216095639-cybo6cr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-cybo6cr",
+						"updated": "20220512154649"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-msby85p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-msby85p",
+								"updated": "20220512154652"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "注意力机制"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230216095639-kshdqu7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230216095639-kshdqu7",
+						"updated": "20220512154658"
+					},
+					"Children": [
+						{
+							"ID": "20230216095639-dh6s90t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230216095639-dh6s90t",
+								"updated": "20220512154658"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "遗传算法——geatpy"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230216095639-vsrqpgx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230216095639-vsrqpgx",
+				"updated": "20220512171059"
+			}
+		}
+	]
+}

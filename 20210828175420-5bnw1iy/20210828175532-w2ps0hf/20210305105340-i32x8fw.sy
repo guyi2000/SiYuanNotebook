@@ -1,10 +1,12 @@
 {
 	"ID": "20210305105340-i32x8fw",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305105340-i32x8fw",
 		"title": "【2】统计学习的数学基础",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210305105340"
 	},
 	"Children": [
 		{
@@ -175,19 +177,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle \\frac{1}{n}\\sum_{i=1}^{n}|y_i-\\hat{y}_i|"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle \\frac{1}{n}\\sum_{i=1}^{n}|y_i-\\hat{y}_i|"
 												}
 											]
 										}
@@ -326,19 +318,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle \\frac{1}{n}\\sum_{i=1}^{n}(y_i-\\hat{y}_i)^2"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle \\frac{1}{n}\\sum_{i=1}^{n}(y_i-\\hat{y}_i)^2"
 												}
 											]
 										}
@@ -416,32 +398,11 @@
 									"Data": "选择"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210305105351-l6v31zx"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefText",
-											"Data": "模型"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210305105351-l6v31zx",
+									"TextMarkBlockRefSubtype": "s",
+									"TextMarkTextContent": "模型"
 								}
 							]
 						}
@@ -477,32 +438,11 @@
 									"Data": "选择"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210305105358-rg6wi7h"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "损失函数"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210305105358-rg6wi7h",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "损失函数"
 								}
 							]
 						}
@@ -605,32 +545,11 @@
 									"Data": "利用"
 								},
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210305105647-pg7jqq8"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefText",
-											"Data": "MSE"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210305105647-pg7jqq8",
+									"TextMarkBlockRefSubtype": "s",
+									"TextMarkTextContent": "MSE"
 								},
 								{
 									"Type": "NodeText",

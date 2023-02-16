@@ -1,10 +1,12 @@
 {
 	"ID": "20210305095435-5ttcbbs",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305095435-5ttcbbs",
 		"title": "【1】绪论",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210305095435"
 	},
 	"Children": [
 		{
@@ -443,42 +445,18 @@
 									"Data": "“"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "备料"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "备料"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "” + "
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "有效组织"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "有效组织"
 								}
 							]
 						}
@@ -547,63 +525,27 @@
 									"Data": "主要"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "工种工程"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "工种工程"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "的"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "施工特点"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "施工特点"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "和"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "具体施工方法"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "具体施工方法"
 								}
 							]
 						}

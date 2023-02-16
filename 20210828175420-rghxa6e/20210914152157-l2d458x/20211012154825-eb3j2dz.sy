@@ -1,5 +1,6 @@
 {
 	"ID": "20211012154825-eb3j2dz",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "33-20e3",
@@ -146,20 +147,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\phi"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\phi"
 								},
 								{
 									"Type": "NodeText",
@@ -227,20 +217,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\phi"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\phi"
 								},
 								{
 									"Type": "NodeText",
@@ -277,20 +256,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\phi=ax^2+bxy+cy^2"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\phi=ax^2+bxy+cy^2"
 												}
 											]
 										}
@@ -376,20 +344,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\phi"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\phi"
 								},
 								{
 									"Type": "NodeText",
@@ -426,20 +383,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\phi=ax^3+bx^2y+cxy^2+dy^3"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\phi=ax^3+bx^2y+cxy^2+dy^3"
 												}
 											]
 										}
@@ -589,20 +535,9 @@
 													"Data": "设应力函数 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\phi(x, y)=ay^3"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\phi(x, y)=ay^3"
 												}
 											]
 										}
@@ -655,20 +590,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle\\sigma_x=\\frac{12M}{h^3}y, \\sigma_y=0, \\tau_{xy}=0"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle\\sigma_x=\\frac{12M}{h^3}y, \\sigma_y=0, \\tau_{xy}=0"
 												},
 												{
 													"Type": "NodeText",
@@ -703,40 +627,18 @@
 													"Data": "此时，令 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle I=\\frac{1\\times h^3}{12}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle I=\\frac{1\\times h^3}{12}"
 												},
 												{
 													"Type": "NodeText",
 													"Data": ", 有 "
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle\\sigma_x=\\frac{M}{I}y"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle\\sigma_x=\\frac{M}{I}y"
 												}
 											]
 										}

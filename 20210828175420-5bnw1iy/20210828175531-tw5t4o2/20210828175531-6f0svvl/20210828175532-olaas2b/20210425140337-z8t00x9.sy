@@ -1,10 +1,12 @@
 {
 	"ID": "20210425140337-z8t00x9",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210425140337-z8t00x9",
 		"title": "2021-04-25",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210425140337"
 	},
 	"Children": [
 		{
@@ -22,16 +24,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": "茅以升公益桥开幕式筹备"
-				},
-				{
-					"Type": "NodeBackslash",
-					"Children": [
-						{
-							"Type": "NodeBackslashContent",
-							"Data": "-"
-						}
-					]
+					"Data": "茅以升公益桥开幕式筹备-"
 				},
 				{
 					"Type": "NodeText",
@@ -273,22 +266,9 @@
 													"Data": "暑假时可通过"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "桥址名单"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "桥址名单"
 												},
 												{
 													"Type": "NodeText",
@@ -326,22 +306,9 @@
 													"Data": "九月份进行"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "初审"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "初审"
 												}
 											]
 										},
@@ -422,22 +389,9 @@
 													"Data": "十一月份组织"
 												},
 												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "终审答辩"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "终审答辩"
 												}
 											]
 										},
@@ -692,22 +646,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "5月22日上午9:30~11:00"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "5月22日上午9:30~11:00"
 				}
 			]
 		},
@@ -1129,32 +1070,11 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeBlockRef",
-																	"Children": [
-																		{
-																			"Type": "NodeOpenParen"
-																		},
-																		{
-																			"Type": "NodeOpenParen"
-																		},
-																		{
-																			"Type": "NodeBlockRefID",
-																			"Data": "20210425142424-xz189nx"
-																		},
-																		{
-																			"Type": "NodeBlockRefSpace"
-																		},
-																		{
-																			"Type": "NodeBlockRefDynamicText",
-																			"Data": "与基金会、北建大联络，嘉宾信息。"
-																		},
-																		{
-																			"Type": "NodeCloseParen"
-																		},
-																		{
-																			"Type": "NodeCloseParen"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "block-ref",
+																	"TextMarkBlockRefID": "20210425142424-xz189nx",
+																	"TextMarkBlockRefSubtype": "d",
+																	"TextMarkTextContent": "与基金会、北建大联络，嘉宾信息。"
 																}
 															]
 														}

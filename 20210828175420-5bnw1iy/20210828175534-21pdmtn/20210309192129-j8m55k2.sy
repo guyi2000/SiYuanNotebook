@@ -1,10 +1,12 @@
 {
 	"ID": "20210309192129-j8m55k2",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210309192129-j8m55k2",
 		"title": "【3】人工岛护岸工程",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210309192129"
 	},
 	"Children": [
 		{
@@ -280,21 +282,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "适合于软弱地基"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "适合于软弱地基"
 								}
 							]
 						}
@@ -716,21 +706,9 @@
 													"Data": "直立式"
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "基础承载力"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "基础承载力"
 												},
 												{
 													"Type": "NodeText",
@@ -1707,32 +1685,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210309193938-gfof5q9"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "斜坡式防波提"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210309193938-gfof5q9",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "斜坡式防波提"
 								}
 							]
 						},
@@ -2009,32 +1966,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210309194903-87s7170"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "沉箱式直立堤"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210309194903-87s7170",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "沉箱式直立堤"
 								}
 							]
 						},

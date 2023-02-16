@@ -1,10 +1,12 @@
 {
 	"ID": "20210304222300-7nzhcqh",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210304222300-7nzhcqh",
 		"title": "【2】工程抗震设防",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210304222300"
 	},
 	"Children": [
 		{
@@ -452,19 +454,9 @@
 													"Data": "此后利用折减系数"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle\\frac{\\frac{2}{3}MCE}{R}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle\\frac{\\frac{2}{3}MCE}{R}"
 												}
 											]
 										}
@@ -594,21 +586,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeMark",
-													"Children": [
-														{
-															"Type": "NodeMark2OpenMarker",
-															"Data": "=="
-														},
-														{
-															"Type": "NodeText",
-															"Data": "特殊设施"
-														},
-														{
-															"Type": "NodeMark2CloseMarker",
-															"Data": "=="
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "mark",
+													"TextMarkTextContent": "特殊设施"
 												},
 												{
 													"Type": "NodeText",
@@ -821,32 +801,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210308193058-h27k266"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "特殊设防类——甲类"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210308193058-h27k266",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "特殊设防类——甲类"
 								}
 							]
 						},
@@ -923,32 +882,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210308193105-1bhlbpm"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "重点设防类——乙类"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210308193105-1bhlbpm",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "重点设防类——乙类"
 								}
 							]
 						}
@@ -978,32 +916,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210308193110-cab4r7g"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefDynamicText",
-											"Data": "标准设防类——丙类"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210308193110-cab4r7g",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "标准设防类——丙类"
 								}
 							]
 						},
@@ -1086,22 +1003,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "两阶段抗震设计方法"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "两阶段抗震设计方法"
 				}
 			]
 		},
@@ -1324,19 +1228,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "\\displaystyle[\\frac{\\delta}{h}]=\\frac{1}{50}"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "\\displaystyle[\\frac{\\delta}{h}]=\\frac{1}{50}"
 																}
 															]
 														}
@@ -1546,21 +1440,9 @@
 													"Data": "地震作用："
 												},
 												{
-													"Type": "NodeMark",
-													"Children": [
-														{
-															"Type": "NodeMark2OpenMarker",
-															"Data": "=="
-														},
-														{
-															"Type": "NodeText",
-															"Data": "大震"
-														},
-														{
-															"Type": "NodeMark2CloseMarker",
-															"Data": "=="
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "mark",
+													"TextMarkTextContent": "大震"
 												}
 											]
 										}
@@ -1797,32 +1679,11 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210308193902-vxikldg"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "结构设计"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210308193902-vxikldg",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "结构设计"
 				},
 				{
 					"Type": "NodeText",
@@ -1976,19 +1837,9 @@
 													"Data": "8度设防，计算加速度为"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": " 200gal=200cm/s^2=0.2g"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": " 200gal=200cm/s^2=0.2g"
 												}
 											]
 										}
@@ -2018,19 +1869,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle\\frac{\\delta}{h}=\\frac{1}{550}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle\\frac{\\delta}{h}=\\frac{1}{550}"
 												}
 											]
 										}

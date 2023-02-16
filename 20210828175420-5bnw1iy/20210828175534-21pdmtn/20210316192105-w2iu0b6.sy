@@ -1,10 +1,12 @@
 {
 	"ID": "20210316192105-w2iu0b6",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210316192105-w2iu0b6",
 		"title": "【4】人工岛成陆与陆域加固工程",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210316192105"
 	},
 	"Children": [
 		{
@@ -78,32 +80,11 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeBlockRef",
-									"Children": [
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeBlockRefID",
-											"Data": "20210309202523-y0xbi9d"
-										},
-										{
-											"Type": "NodeBlockRefSpace"
-										},
-										{
-											"Type": "NodeBlockRefText",
-											"Data": "人工块体"
-										},
-										{
-											"Type": "NodeCloseParen"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20210309202523-y0xbi9d",
+									"TextMarkBlockRefSubtype": "s",
+									"TextMarkTextContent": "人工块体"
 								},
 								{
 									"Type": "NodeText",
@@ -258,21 +239,9 @@
 									"Data": "随着疏浚技术的发展。吹填工程+疏浚工程。"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "缓解了疏浚土外抛造成的资源浪费、环境污染"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "缓解了疏浚土外抛造成的资源浪费、环境污染"
 								},
 								{
 									"Type": "NodeText",

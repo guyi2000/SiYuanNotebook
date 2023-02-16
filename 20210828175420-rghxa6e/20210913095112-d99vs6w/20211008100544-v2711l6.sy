@@ -1,5 +1,6 @@
 {
 	"ID": "20211008100544-v2711l6",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"icon": "35-20e3",
@@ -80,20 +81,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\displaystyle D=\\alpha \\frac{12i_c}{h^2}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\displaystyle D=\\alpha \\frac{12i_c}{h^2}"
 								},
 								{
 									"Type": "NodeText",
@@ -1018,20 +1008,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "y=y_n+y_1+y_2+y_3"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "y=y_n+y_1+y_2+y_3"
 																}
 															]
 														}
@@ -1057,20 +1036,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "y_n"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "y_n"
 																},
 																{
 																	"Type": "NodeText",
@@ -1100,20 +1068,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "y_1"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "y_1"
 																},
 																{
 																	"Type": "NodeText",
@@ -1143,20 +1100,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "y_2"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "y_2"
 																},
 																{
 																	"Type": "NodeText",
@@ -1187,20 +1133,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Data": "span",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "y_3"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "y_3"
 																},
 																{
 																	"Type": "NodeText",
@@ -1488,20 +1423,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle d=12\\frac{i_c}{h^2}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle d=12\\frac{i_c}{h^2}"
 												}
 											]
 										}
@@ -2098,20 +2022,9 @@
 													"Data": "顶点作用水平集中力 V"
 												},
 												{
-													"Type": "NodeSub",
-													"Data": "sub",
-													"Children": [
-														{
-															"Type": "NodeSubOpenMarker"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "0"
-														},
-														{
-															"Type": "NodeSubCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "sub",
+													"TextMarkTextContent": "0"
 												}
 											]
 										}
@@ -2141,20 +2054,9 @@
 													"Data": "柱子截面假定为 A"
 												},
 												{
-													"Type": "NodeSub",
-													"Data": "sub",
-													"Children": [
-														{
-															"Type": "NodeSubOpenMarker"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "1"
-														},
-														{
-															"Type": "NodeSubCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "sub",
+													"TextMarkTextContent": "1"
 												},
 												{
 													"Type": "NodeText",
@@ -2240,20 +2142,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "平面 6 层框架侧移手算示例"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "平面 6 层框架侧移手算示例"
 				}
 			]
 		},

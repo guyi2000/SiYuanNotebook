@@ -1,10 +1,12 @@
 {
 	"ID": "20210304222714-j71cgli",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210304222714-j71cgli",
 		"title": "【1】绪论",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210304222714"
 	},
 	"Children": [
 		{
@@ -239,21 +241,9 @@
 									"Data": "散布于海洋中，面积不小于500m"
 								},
 								{
-									"Type": "NodeSup",
-									"Children": [
-										{
-											"Type": "NodeSupOpenMarker",
-											"Data": "^"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "2"
-										},
-										{
-											"Type": "NodeSupCloseMarker",
-											"Data": "^"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sup",
+									"TextMarkTextContent": "2"
 								},
 								{
 									"Type": "NodeText",
@@ -290,63 +280,27 @@
 									"Data": "岛屿是"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "四面环水"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "四面环水"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "且在"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "高潮时高于水面"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "高潮时高于水面"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "的"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "自然形成"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "自然形成"
 								},
 								{
 									"Type": "NodeText",
@@ -383,21 +337,9 @@
 									"Data": "世界范围内：20w+，总面积996.35w+km"
 								},
 								{
-									"Type": "NodeSup",
-									"Children": [
-										{
-											"Type": "NodeSupOpenMarker",
-											"Data": "^"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "2"
-										},
-										{
-											"Type": "NodeSupCloseMarker",
-											"Data": "^"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "sup",
+									"TextMarkTextContent": "2"
 								},
 								{
 									"Type": "NodeText",
@@ -882,21 +824,9 @@
 									"Data": "地质构造与大陆"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "相近"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "相近"
 								}
 							]
 						}

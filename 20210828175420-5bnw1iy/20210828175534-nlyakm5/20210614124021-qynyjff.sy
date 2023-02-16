@@ -1,5 +1,6 @@
 {
 	"ID": "20210614124021-qynyjff",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210614124021-qynyjff",
@@ -423,21 +424,9 @@
 							"Data": "以"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "混凝土材料"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "混凝土材料"
 						},
 						{
 							"Type": "NodeText",
@@ -581,21 +570,9 @@
 													"Data": "有明显的"
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "脆性性质"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "脆性性质"
 												}
 											]
 										}
@@ -3693,19 +3670,9 @@
 													"Data": "均匀伸长率"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\delta_{gt}"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\delta_{gt}"
 												}
 											]
 										}
@@ -3735,19 +3702,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "\\displaystyle\\delta_{gt}=\\left(\\frac{l-l_0}{l_0}+\\frac{f_u}{E_s}\\right)\\times100\\%"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "\\displaystyle\\delta_{gt}=\\left(\\frac{l-l_0}{l_0}+\\frac{f_u}{E_s}\\right)\\times100\\%"
 												}
 											]
 										}
@@ -3981,19 +3938,9 @@
 									"Data": "混凝土的等级是150mm立方标准试块，标准条件下养护28天或设计规定龄期，标准试验法测得的具有95%保证率的立方体抗压强度，称立方体抗压强度标准值"
 								},
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "f_{cu, k}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "f_{cu, k}"
 								}
 							]
 						}
@@ -5620,19 +5567,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeInlineMath",
-									"Children": [
-										{
-											"Type": "NodeInlineMathOpenMarker"
-										},
-										{
-											"Type": "NodeInlineMathContent",
-											"Data": "\\displaystyle\\varphi(t, t_0)=\\frac{\\varepsilon_{cr}(t,t0)}{\\varepsilon_{el}}"
-										},
-										{
-											"Type": "NodeInlineMathCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\displaystyle\\varphi(t, t_0)=\\frac{\\varepsilon_{cr}(t,t0)}{\\varepsilon_{el}}"
 								}
 							]
 						}
@@ -8216,19 +8153,9 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeInlineMath",
-					"Children": [
-						{
-							"Type": "NodeInlineMathOpenMarker"
-						},
-						{
-							"Type": "NodeInlineMathContent",
-							"Data": "N_u-M_u"
-						},
-						{
-							"Type": "NodeInlineMathCloseMarker"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "N_u-M_u"
 				},
 				{
 					"Type": "NodeText",

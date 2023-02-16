@@ -1,0 +1,20 @@
+{
+	"ID": "history",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "history",
+		"title": "Untitled",
+		"updated": "20230216100210"
+	},
+	"Children": [
+		{
+			"ID": "20230216100210-r9po9oz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230216100210-r9po9oz",
+				"updated": "20230216100210"
+			}
+		}
+	]
+}

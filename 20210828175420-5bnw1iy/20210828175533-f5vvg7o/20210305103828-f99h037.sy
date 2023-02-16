@@ -1,10 +1,12 @@
 {
 	"ID": "20210305103828-f99h037",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305103828-f99h037",
 		"title": "【2】土方工程",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210305103828"
 	},
 	"Children": [
 		{
@@ -35,22 +37,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "EarthWorks"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "EarthWorks"
 				}
 			]
 		},
@@ -146,84 +135,36 @@
 									"Data": "包括土方 "
 								},
 								{
-									"Type": "NodeEmphasis",
-									"Children": [
-										{
-											"Type": "NodeEmA6kOpenMarker",
-											"Data": "*"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "开挖、运输、填筑与压实"
-										},
-										{
-											"Type": "NodeEmA6kCloseMarker",
-											"Data": "*"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "em",
+									"TextMarkTextContent": "开挖、运输、填筑与压实"
 								},
 								{
 									"Type": "NodeText",
 									"Data": " 等过程以及 "
 								},
 								{
-									"Type": "NodeEmphasis",
-									"Children": [
-										{
-											"Type": "NodeEmA6kOpenMarker",
-											"Data": "*"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "排水与降水、边坡支护"
-										},
-										{
-											"Type": "NodeEmA6kCloseMarker",
-											"Data": "*"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "em",
+									"TextMarkTextContent": "排水与降水、边坡支护"
 								},
 								{
 									"Type": "NodeText",
 									"Data": " 等"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "准备"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "准备"
 								},
 								{
 									"Type": "NodeText",
 									"Data": "与"
 								},
 								{
-									"Type": "NodeMark",
-									"Children": [
-										{
-											"Type": "NodeMark2OpenMarker",
-											"Data": "=="
-										},
-										{
-											"Type": "NodeText",
-											"Data": "辅助"
-										},
-										{
-											"Type": "NodeMark2CloseMarker",
-											"Data": "=="
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "mark",
+									"TextMarkTextContent": "辅助"
 								},
 								{
 									"Type": "NodeText",
@@ -601,19 +542,9 @@
 													"Data": "塑性指数（"
 												},
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "I_p"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "I_p"
 												},
 												{
 													"Type": "NodeText",
@@ -865,19 +796,9 @@
 																	"Data": "最初可松性系数："
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "K_s=V_2/V_1"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "K_s=V_2/V_1"
 																}
 															]
 														}
@@ -911,19 +832,9 @@
 																	"Data": "最终可松性系数："
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "K_s^{'}=V_3/V_1"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "K_s^{'}=V_3/V_1"
 																}
 															]
 														}
@@ -957,19 +868,9 @@
 																	"Data": "显然有"
 																},
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "K_s\u003eK_s^{'}\u003e1"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "K_s\u0026gt;K_s^{'}\u0026gt;1"
 																}
 															]
 														}
@@ -1259,21 +1160,9 @@
 													"Data": "按 "
 												},
 												{
-													"Type": "NodeEmphasis",
-													"Children": [
-														{
-															"Type": "NodeEmA6kOpenMarker",
-															"Data": "*"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "拟柱体"
-														},
-														{
-															"Type": "NodeEmA6kCloseMarker",
-															"Data": "*"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "em",
+													"TextMarkTextContent": "拟柱体"
 												},
 												{
 													"Type": "NodeText",
@@ -1307,19 +1196,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeInlineMath",
-													"Children": [
-														{
-															"Type": "NodeInlineMathOpenMarker"
-														},
-														{
-															"Type": "NodeInlineMathContent",
-															"Data": "V=\\frac{H}{6}(A_1+4A_0+A_2)"
-														},
-														{
-															"Type": "NodeInlineMathCloseMarker"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "inline-math",
+													"TextMarkInlineMathContent": "V=\\frac{H}{6}(A_1+4A_0+A_2)"
 												}
 											]
 										}
@@ -1921,19 +1800,9 @@
 																					"Data": "初步场地设计标高的调整（"
 																				},
 																				{
-																					"Type": "NodeInlineMath",
-																					"Children": [
-																						{
-																							"Type": "NodeInlineMathOpenMarker"
-																						},
-																						{
-																							"Type": "NodeInlineMathContent",
-																							"Data": "\\Delta h"
-																						},
-																						{
-																							"Type": "NodeInlineMathCloseMarker"
-																						}
-																					]
+																					"Type": "NodeTextMark",
+																					"TextMarkType": "inline-math",
+																					"TextMarkInlineMathContent": "\\Delta h"
 																				},
 																				{
 																					"Type": "NodeText",
@@ -1967,19 +1836,9 @@
 																			},
 																			"Children": [
 																				{
-																					"Type": "NodeInlineMath",
-																					"Children": [
-																						{
-																							"Type": "NodeInlineMathOpenMarker"
-																						},
-																						{
-																							"Type": "NodeInlineMathContent",
-																							"Data": "V_T+A_T\\Delta h = (V_W-A_W\\Delta h)K_s'"
-																						},
-																						{
-																							"Type": "NodeInlineMathCloseMarker"
-																						}
-																					]
+																					"Type": "NodeTextMark",
+																					"TextMarkType": "inline-math",
+																					"TextMarkInlineMathContent": "V_T+A_T\\Delta h = (V_W-A_W\\Delta h)K_s'"
 																				}
 																			]
 																		}
@@ -2060,21 +1919,9 @@
 																					"Data": "不小于"
 																				},
 																				{
-																					"Type": "NodeStrong",
-																					"Children": [
-																						{
-																							"Type": "NodeStrongA6kOpenMarker",
-																							"Data": "**"
-																						},
-																						{
-																							"Type": "NodeText",
-																							"Data": "2‰"
-																						},
-																						{
-																							"Type": "NodeStrongA6kCloseMarker",
-																							"Data": "**"
-																						}
-																					]
+																					"Type": "NodeTextMark",
+																					"TextMarkType": "strong",
+																					"TextMarkTextContent": "2‰"
 																				}
 																			]
 																		}
@@ -2880,21 +2727,9 @@
 									"Data": "土方调配是对挖土的 "
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "利用、堆弃和填土"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "利用、堆弃和填土"
 								},
 								{
 									"Type": "NodeText",
@@ -2963,22 +2798,9 @@
 									"Data": "应用："
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "Autodesk Civil 3D"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "Autodesk Civil 3D"
 								}
 							]
 						}
@@ -3246,21 +3068,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "做好边坡稳定、基坑支护、地下水控制工作"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "做好边坡稳定、基坑支护、地下水控制工作"
 								}
 							]
 						}
@@ -3388,21 +3198,9 @@
 													"Data": "开挖 "
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "太深"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "太深"
 												},
 												{
 													"Type": "NodeText",
@@ -4160,21 +3958,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "混凝土护面法"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "混凝土护面法"
 												},
 												{
 													"Type": "NodeText",
@@ -4460,42 +4246,18 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "挡土"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "挡土"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "，有时还要"
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "挡水"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "挡水"
 												}
 											]
 										}
@@ -4529,21 +4291,9 @@
 							},
 							"Children": [
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "设计使用年限"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "设计使用年限"
 								},
 								{
 									"Type": "NodeText",
@@ -4885,42 +4635,18 @@
 																	"Data": "由"
 																},
 																{
-																	"Type": "NodeStrong",
-																	"Children": [
-																		{
-																			"Type": "NodeStrongA6kOpenMarker",
-																			"Data": "**"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "支护墙体"
-																		},
-																		{
-																			"Type": "NodeStrongA6kCloseMarker",
-																			"Data": "**"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "strong",
+																	"TextMarkTextContent": "支护墙体"
 																},
 																{
 																	"Type": "NodeText",
 																	"Data": "（也称挡土构件）与"
 																},
 																{
-																	"Type": "NodeStrong",
-																	"Children": [
-																		{
-																			"Type": "NodeStrongA6kOpenMarker",
-																			"Data": "**"
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "支撑"
-																		},
-																		{
-																			"Type": "NodeStrongA6kCloseMarker",
-																			"Data": "**"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "strong",
+																	"TextMarkTextContent": "支撑"
 																},
 																{
 																	"Type": "NodeText",
@@ -5032,21 +4758,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeMark",
-																	"Children": [
-																		{
-																			"Type": "NodeMark2OpenMarker",
-																			"Data": "=="
-																		},
-																		{
-																			"Type": "NodeText",
-																			"Data": "原位土体加固"
-																		},
-																		{
-																			"Type": "NodeMark2CloseMarker",
-																			"Data": "=="
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "mark",
+																	"TextMarkTextContent": "原位土体加固"
 																},
 																{
 																	"Type": "NodeText",
@@ -5080,32 +4794,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615202002-gcbqm9o"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "重力式支护结构"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615202002-gcbqm9o",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "重力式支护结构"
 				}
 			]
 		},
@@ -5191,42 +4884,18 @@
 													"Data": "通过深层搅拌桩机将土和输入的水泥浆强制搅拌，形成连续搭接的水泥土柱状加固土柱状加固体挡墙。起"
 												},
 												{
-													"Type": "NodeMark",
-													"Children": [
-														{
-															"Type": "NodeMark2OpenMarker",
-															"Data": "=="
-														},
-														{
-															"Type": "NodeText",
-															"Data": "挡土"
-														},
-														{
-															"Type": "NodeMark2CloseMarker",
-															"Data": "=="
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "mark",
+													"TextMarkTextContent": "挡土"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "和"
 												},
 												{
-													"Type": "NodeMark",
-													"Children": [
-														{
-															"Type": "NodeMark2OpenMarker",
-															"Data": "=="
-														},
-														{
-															"Type": "NodeText",
-															"Data": "止水"
-														},
-														{
-															"Type": "NodeMark2CloseMarker",
-															"Data": "=="
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "mark",
+													"TextMarkTextContent": "止水"
 												},
 												{
 													"Type": "NodeText",
@@ -5560,42 +5229,18 @@
 													"Data": "止水帷幕用以阻隔或减少地下水通过基坑侧壁与坑底流入基坑和防止基坑外地下水位下降的幕墙状竖向截水体。有 "
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "落底式帷幕"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "落底式帷幕"
 												},
 												{
 													"Type": "NodeText",
 													"Data": "（底端穿透含水层并进入下部隔水层一定深度的截水帷幕）和 "
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "悬挂式帷幕"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "悬挂式帷幕"
 												},
 												{
 													"Type": "NodeText",
@@ -5625,32 +5270,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210310154145-2avdkzi"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "非重力式支护结构"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210310154145-2avdkzi",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "非重力式支护结构"
 				}
 			]
 		},
@@ -5726,21 +5350,9 @@
 									"Data": "支护墙体：采用"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "钢板桩、钻孔灌注桩和地下连续墙"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "钢板桩、钻孔灌注桩和地下连续墙"
 								}
 							]
 						}
@@ -6228,32 +5840,11 @@
 					"Data": "#### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615204956-im3zkrh"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "钢板桩支护"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615204956-im3zkrh",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "钢板桩支护"
 				}
 			]
 		},
@@ -6519,32 +6110,11 @@
 					"Data": "#### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615205000-8c7m4zu"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "挡土灌注桩支护"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615205000-8c7m4zu",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "挡土灌注桩支护"
 				}
 			]
 		},
@@ -6748,32 +6318,11 @@
 					"Data": "#### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615205022-ittljcy"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "排桩加锚杆支护"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615205022-ittljcy",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "排桩加锚杆支护"
 				}
 			]
 		},
@@ -6901,32 +6450,11 @@
 					"Data": "#### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615205030-bxtxiwv"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "排桩内支撑支护"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615205030-bxtxiwv",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "排桩内支撑支护"
 				}
 			]
 		},
@@ -7690,32 +7218,11 @@
 					"Data": "#### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615205046-4js8426"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "地下连续墙支护"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615205046-4js8426",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "地下连续墙支护"
 				}
 			]
 		},
@@ -8017,21 +7524,9 @@
 													"Data": "作用：护壁；携渣；"
 												},
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "冷却、润滑钻头"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "冷却、润滑钻头"
 												}
 											]
 										}
@@ -8476,21 +7971,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "逆作法"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "逆作法"
 						},
 						{
 							"Type": "NodeText",
@@ -8839,32 +8322,11 @@
 					"Data": "与"
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210615211313-ei0zi83"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "顺作法"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210615211313-ei0zi83",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "顺作法"
 				},
 				{
 					"Type": "NodeText",
@@ -9232,32 +8694,11 @@
 					"Data": "### "
 				},
 				{
-					"Type": "NodeBlockRef",
-					"Children": [
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210310154150-82d728p"
-						},
-						{
-							"Type": "NodeBlockRefSpace"
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "土钉墙支护"
-						},
-						{
-							"Type": "NodeCloseParen"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210310154150-82d728p",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "土钉墙支护"
 				}
 			]
 		},
@@ -9282,42 +8723,18 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "土钉墙支护"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "土钉墙支护"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "是一种原位土体加固技术。在开挖边坡表面上铺钢筋网喷射细石混凝土，并每隔一定距离埋设土钉，形成 "
 						},
 						{
-							"Type": "NodeEmphasis",
-							"Children": [
-								{
-									"Type": "NodeEmA6kOpenMarker",
-									"Data": "*"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "复合体"
-								},
-								{
-									"Type": "NodeEmA6kCloseMarker",
-									"Data": "*"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "em",
+							"TextMarkTextContent": "复合体"
 						},
 						{
 							"Type": "NodeText",
@@ -9370,42 +8787,18 @@
 									"Data": "土钉墙支护由 "
 								},
 								{
-									"Type": "NodeEmphasis",
-									"Children": [
-										{
-											"Type": "NodeEmA6kOpenMarker",
-											"Data": "*"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "原位土体、土钉、面层"
-										},
-										{
-											"Type": "NodeEmA6kCloseMarker",
-											"Data": "*"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "em",
+									"TextMarkTextContent": "原位土体、土钉、面层"
 								},
 								{
 									"Type": "NodeText",
 									"Data": " 和必要的 "
 								},
 								{
-									"Type": "NodeEmphasis",
-									"Children": [
-										{
-											"Type": "NodeEmA6kOpenMarker",
-											"Data": "*"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "防水系统"
-										},
-										{
-											"Type": "NodeEmA6kCloseMarker",
-											"Data": "*"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "em",
+									"TextMarkTextContent": "防水系统"
 								},
 								{
 									"Type": "NodeText",
@@ -9510,21 +8903,9 @@
 									"Data": "适用于地下水位以上或经降水的非软土基坑，且基坑深度"
 								},
 								{
-									"Type": "NodeStrong",
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "不宜大于12m"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "不宜大于12m"
 								},
 								{
 									"Type": "NodeText",
@@ -9944,21 +9325,9 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "复合土钉墙支护"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "复合土钉墙支护"
 						},
 						{
 							"Type": "NodeText",
@@ -9989,84 +9358,36 @@
 					},
 					"Children": [
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "复合土钉墙支护"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "复合土钉墙支护"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "具有"
 						},
 						{
-							"Type": "NodeEmphasis",
-							"Children": [
-								{
-									"Type": "NodeEmA6kOpenMarker",
-									"Data": "*"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "轻型，机动灵活，适用范围广、造价低、工期短、安全可靠"
-								},
-								{
-									"Type": "NodeEmA6kCloseMarker",
-									"Data": "*"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "em",
+							"TextMarkTextContent": "轻型，机动灵活，适用范围广、造价低、工期短、安全可靠"
 						},
 						{
 							"Type": "NodeText",
 							"Data": " 等特点，支护能力强，可作"
 						},
 						{
-							"Type": "NodeMark",
-							"Children": [
-								{
-									"Type": "NodeMark2OpenMarker",
-									"Data": "=="
-								},
-								{
-									"Type": "NodeText",
-									"Data": "超前支护"
-								},
-								{
-									"Type": "NodeMark2CloseMarker",
-									"Data": "=="
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "超前支护"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "，并兼备支护、截水等效果。在实际工程中，组成复合土钉墙的各项技术可根据工程需要进行灵活的有机结合，形式多样。"
 						},
 						{
-							"Type": "NodeEmphasis",
-							"Children": [
-								{
-									"Type": "NodeEmA6kOpenMarker",
-									"Data": "*"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "如：预应力锚杆复合土钉墙、水泥土桩垂直复合土钉墙、微型桩垂直复合土钉墙等"
-								},
-								{
-									"Type": "NodeEmA6kCloseMarker",
-									"Data": "*"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "em",
+							"TextMarkTextContent": "如：预应力锚杆复合土钉墙、水泥土桩垂直复合土钉墙、微型桩垂直复合土钉墙等"
 						}
 					]
 				}
@@ -10116,63 +9437,27 @@
 							"Data": "应根据基坑周边环境，土层结构、工程地质、水文情况、基坑形状、开挖深度、施工拟采用的挖方、降排水方法、施工作业设备条件、安全等级和工期要求及"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "技术经济效果"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "技术经济效果"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "综合全面地考虑。并加强基坑工程"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "设计"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "设计"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "和"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "施工"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "施工"
 						},
 						{
 							"Type": "NodeText",
@@ -10435,63 +9720,27 @@
 							"Data": "集水坑降水法是在基坑开挖过程中，在基坑底设置若干个集水坑，并在基坑底四周或中央开挖"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "排水沟"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "排水沟"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "，使地下水沿沟流入"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "集水坑"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "集水坑"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "内，然后用"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "水泵"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "水泵"
 						},
 						{
 							"Type": "NodeText",
@@ -10899,42 +10148,18 @@
 							"Data": "当基坑开挖到地下水位以下，采用集水坑降水时，若遇到粘粒含量少而粉粒含量大的细砂、粉砂土层，坑底下的土有时会形成"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "流动状态"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "流动状态"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "，随地下水涌入基坑，这种现象称 "
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "“流砂”"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "“流砂”"
 						}
 					]
 				}
@@ -11550,21 +10775,9 @@
 							"Data": "井点降水法是指在基坑开挖前，先在基坑周围埋设 "
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "一定数量的滤水管（井）"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "一定数量的滤水管（井）"
 						},
 						{
 							"Type": "NodeText",
@@ -11778,21 +10991,9 @@
 											},
 											"Children": [
 												{
-													"Type": "NodeStrong",
-													"Children": [
-														{
-															"Type": "NodeStrongA6kOpenMarker",
-															"Data": "**"
-														},
-														{
-															"Type": "NodeText",
-															"Data": "在降水过程中，基坑附近的地基土会有一定的沉降，施工时应加以注意"
-														},
-														{
-															"Type": "NodeStrongA6kCloseMarker",
-															"Data": "**"
-														}
-													]
+													"Type": "NodeTextMark",
+													"TextMarkType": "strong",
+													"TextMarkTextContent": "在降水过程中，基坑附近的地基土会有一定的沉降，施工时应加以注意"
 												}
 											]
 										}
@@ -12174,29 +11375,11 @@
 															"Children": [
 																{
 																	"Type": "NodeText",
-																	"Data": "直径38"
-																},
-																{
-																	"Type": "NodeBackslash",
-																	"Children": [
-																		{
-																			"Type": "NodeBackslashContent",
-																			"Data": "~"
-																		}
-																	]
+																	"Data": "直径38~"
 																},
 																{
 																	"Type": "NodeText",
-																	"Data": "51mm，长5"
-																},
-																{
-																	"Type": "NodeBackslash",
-																	"Children": [
-																		{
-																			"Type": "NodeBackslashContent",
-																			"Data": "~"
-																		}
-																	]
+																	"Data": "51mm，长5~"
 																},
 																{
 																	"Type": "NodeText",
@@ -12278,16 +11461,7 @@
 															"Children": [
 																{
 																	"Type": "NodeText",
-																	"Data": "长1"
-																},
-																{
-																	"Type": "NodeBackslash",
-																	"Children": [
-																		{
-																			"Type": "NodeBackslashContent",
-																			"Data": "~"
-																		}
-																	]
+																	"Data": "长1~"
 																},
 																{
 																	"Type": "NodeText",
@@ -12770,19 +11944,9 @@
 															},
 															"Children": [
 																{
-																	"Type": "NodeInlineMath",
-																	"Children": [
-																		{
-																			"Type": "NodeInlineMathOpenMarker"
-																		},
-																		{
-																			"Type": "NodeInlineMathContent",
-																			"Data": "H_A \\geq H_1 + h + IL"
-																		},
-																		{
-																			"Type": "NodeInlineMathCloseMarker"
-																		}
-																	]
+																	"Type": "NodeTextMark",
+																	"TextMarkType": "inline-math",
+																	"TextMarkInlineMathContent": "H_A \\geq H_1 + h + IL"
 																}
 															]
 														}
@@ -17119,22 +16283,9 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "用干密度衡量"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "用干密度衡量"
 				}
 			]
 		},
@@ -17665,21 +16816,9 @@
 							"Data": "《验收规范》按着“"
 						},
 						{
-							"Type": "NodeStrong",
-							"Children": [
-								{
-									"Type": "NodeStrongA6kOpenMarker",
-									"Data": "**"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "验评分离、强化验收、完善手段、过程控制"
-								},
-								{
-									"Type": "NodeStrongA6kCloseMarker",
-									"Data": "**"
-								}
-							]
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "验评分离、强化验收、完善手段、过程控制"
 						},
 						{
 							"Type": "NodeText",
