@@ -1,8 +1,11 @@
 {
   "name": "大三下",
-  "closed": false,
+  "sort": 0,
+  "icon": "",
+  "closed": true,
   "refCreateSavePath": "",
-  "createDocNameTemplate": "",
+  "docCreateSavePath": "",
   "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.md",
-  "dailyNoteTemplatePath": ""
+  "dailyNoteTemplatePath": "",
+  "sortMode": 15
 }

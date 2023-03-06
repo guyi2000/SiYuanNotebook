@@ -6,7 +6,7 @@
 		"id": "20210308195346-14vtyeq",
 		"title": "【3】结构的动力计算",
 		"type": "doc",
-		"updated": "20210308195346"
+		"updated": "20230306142016"
 	},
 	"Children": [
 		{
@@ -2604,7 +2604,7 @@
 			"Type": "NodeMathBlock",
 			"Properties": {
 				"id": "20210322192409-80rg0cr",
-				"updated": "20210322192843"
+				"updated": "20230306141953"
 			},
 			"Children": [
 				{
@@ -2624,7 +2624,7 @@
 			"Type": "NodeMathBlock",
 			"Properties": {
 				"id": "20210322192409-5747544",
-				"updated": "20210322192543"
+				"updated": "20230306141955"
 			},
 			"Children": [
 				{
@@ -3166,7 +3166,7 @@
 			"Type": "NodeMathBlock",
 			"Properties": {
 				"id": "20210322200437-dzivtg6",
-				"updated": "20210322200602"
+				"updated": "20230306142016"
 			},
 			"Children": [
 				{

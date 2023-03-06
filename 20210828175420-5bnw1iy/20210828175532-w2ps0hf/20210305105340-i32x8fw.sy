@@ -4,6 +4,7 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210305105340-i32x8fw",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20210305105340-o9vxtkt\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20210305105908-n90ckwg\u0026quot;,\u0026quot;scrollTop\u0026quot;:754,\u0026quot;focusId\u0026quot;:\u0026quot;20210305105340-o9vxtkt\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "【2】统计学习的数学基础",
 		"type": "doc",
 		"updated": "20210305105340"
