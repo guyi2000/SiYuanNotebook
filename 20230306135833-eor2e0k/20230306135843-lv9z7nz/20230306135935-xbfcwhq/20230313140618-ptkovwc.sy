@@ -1,0 +1,506 @@
+{
+	"ID": "20230313140618-ptkovwc",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "33-20e3",
+		"id": "20230313140618-ptkovwc",
+		"title": "应力应变监测",
+		"title-img": "background-color: hsl(2, 57%, 40%);background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);",
+		"updated": "20230313155402"
+	},
+	"Children": [
+		{
+			"ID": "20230313140618-dtg9h8m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230313140618-dtg9h8m",
+				"updated": "20230313140925"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "电阻式应变片"
+				}
+			]
+		},
+		{
+			"ID": "20230313141030-yuizekk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230313141030-yuizekk",
+				"updated": "20230313141200"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3种桥接方法"
+				}
+			]
+		},
+		{
+			"ID": "20230313141024-grg0rt1",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313141024-grg0rt1",
+				"updated": "20230313141344"
+			},
+			"Children": [
+				{
+					"ID": "20230313141205-kw9cly8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313141205-kw9cly8",
+						"updated": "20230313141205"
+					},
+					"Children": [
+						{
+							"ID": "20230313141205-yy9rbto",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313141205-yy9rbto",
+								"updated": "20230313141221"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "1/4桥，半桥，全桥"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230313141221-9x3ws4q",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313141221-9x3ws4q",
+						"updated": "20230313141344"
+					},
+					"Children": [
+						{
+							"ID": "20230313141221-t7rvden",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313141221-t7rvden",
+								"updated": "20230313141344"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弯曲应变或弯曲泊松应变可以使用半桥或全桥接法"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230313141056-u4nr3bn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230313141056-u4nr3bn",
+				"updated": "20230313142359"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "电阻法测量的补偿"
+				}
+			]
+		},
+		{
+			"ID": "20230313141104-nvdlpxh",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313141104-nvdlpxh",
+				"updated": "20230313142420"
+			},
+			"Children": [
+				{
+					"ID": "20230313141104-mxrgvpw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313141104-mxrgvpw",
+						"updated": "20230313141114"
+					},
+					"Children": [
+						{
+							"ID": "20230313141104-tw4aeof",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313141104-tw4aeof",
+								"updated": "20230313141114"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "温度误差"
+								}
+							]
+						},
+						{
+							"ID": "20230313141232-pfuzse2",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230313141232-pfuzse2"
+							},
+							"Children": [
+								{
+									"ID": "20230313141232-9f0307k",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313141232-9f0307k"
+									},
+									"Children": [
+										{
+											"ID": "20230313141232-fzqnoi4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313141232-fzqnoi4",
+												"updated": "20230313141249"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "受电阻丝与构件材料热膨胀系数影响"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230313141249-zaeahge",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313141249-zaeahge"
+									},
+									"Children": [
+										{
+											"ID": "20230313141249-ikw59fe",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313141249-ikw59fe",
+												"updated": "20230313141303"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "受电阻丝热膨胀系数影响"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230313142404-dezzvk0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313142404-dezzvk0",
+						"updated": "20230313142420"
+					},
+					"Children": [
+						{
+							"ID": "20230313142404-w0ujr0d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313142404-w0ujr0d",
+								"updated": "20230313142408"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "零点漂移"
+								}
+							]
+						},
+						{
+							"ID": "20230313142410-c8rotez",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230313142410-c8rotez",
+								"updated": "20230313142420"
+							},
+							"Children": [
+								{
+									"ID": "20230313142410-jr520r4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313142410-jr520r4",
+										"updated": "20230313142420"
+									},
+									"Children": [
+										{
+											"ID": "20230313142410-6bhjsn1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313142410-6bhjsn1",
+												"updated": "20230313142420"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "最大的问题就是零点漂移"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230313142616-i090rg5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230313142616-i090rg5",
+				"updated": "20230313142640"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "振弦式应变计"
+				}
+			]
+		},
+		{
+			"ID": "20230313142642-800b5mm",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313142642-800b5mm",
+				"updated": "20230313142931"
+			},
+			"Children": [
+				{
+					"ID": "20230313142846-21lkoax",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313142846-21lkoax",
+						"updated": "20230313142931"
+					},
+					"Children": [
+						{
+							"ID": "20230313142846-uy4q9uf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313142846-uy4q9uf",
+								"updated": "20230313142931"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "表面式、埋入式"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230313143019-n4v67qs",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313143019-n4v67qs",
+				"updated": "20230313143154"
+			},
+			"Children": [
+				{
+					"ID": "20230313143127-z8sfl3h",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313143127-z8sfl3h",
+						"updated": "20230313143127"
+					},
+					"Children": [
+						{
+							"ID": "20230313143127-7iccmxq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313143127-7iccmxq",
+								"updated": "20230313143139"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "长期测量稳定，无零漂现象"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230313143140-krzw0yn",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313143140-krzw0yn",
+						"updated": "20230313143154"
+					},
+					"Children": [
+						{
+							"ID": "20230313143140-x6a2j5k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313143140-x6a2j5k",
+								"updated": "20230313143154"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "测量标距相对较长（5cm以上）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230313143202-6d3jkdf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313143202-6d3jkdf",
+				"updated": "20230313143422"
+			},
+			"Children": [
+				{
+					"ID": "20230313143422-l0n4mrf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313143422-l0n4mrf",
+						"updated": "20230313143422"
+					},
+					"Children": [
+						{
+							"ID": "20230313143422-0bjirsz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313143422-0bjirsz",
+								"updated": "20230313143424"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "温度修正"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230313143452-raqiauo",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20230313143452-raqiauo",
+				"updated": "20230313143803"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "graph TD\nA[初始读数调整] --\u0026gt; B[传感器保护]\nB --\u0026gt; C[接线与防水]\nC --\u0026gt; D[套管保护]"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20230313143806-wd0p7a7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230313143806-wd0p7a7",
+				"updated": "20230313145021"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "光栅光纤传感器"
+				}
+			]
+		},
+		{
+			"ID": "20230313145008-yzfqplw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230313145008-yzfqplw",
+				"updated": "20230313155402"
+			}
+		}
+	]
+}

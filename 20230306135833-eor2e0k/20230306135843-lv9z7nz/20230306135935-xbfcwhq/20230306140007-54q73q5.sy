@@ -5,10 +5,10 @@
 	"Properties": {
 		"icon": "32-20e3",
 		"id": "20230306140007-54q73q5",
-		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230306140046-h5h6ydr\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230306141133-wuhz3fi\u0026quot;,\u0026quot;scrollTop\u0026quot;:983,\u0026quot;focusId\u0026quot;:\u0026quot;20230306141133-wuhz3fi\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230306140046-h5h6ydr\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230313140612-78qy0i6\u0026quot;,\u0026quot;scrollTop\u0026quot;:3954,\u0026quot;focusId\u0026quot;:\u0026quot;20230313140612-78qy0i6\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "损伤病害与检测指标",
 		"title-img": "background:radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent),radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent) 50px 50px, linear-gradient(#A8B1BB 8px, transparent 8px) 0 -4px, linear-gradient(90deg, #A8B1BB 8px, transparent 8px) -4px 0;background-color: slategray;background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;",
-		"updated": "20230306150536"
+		"updated": "20230313140612"
 	},
 	"Children": [
 		{
@@ -2391,7 +2391,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20230306150259-dmbycdj",
-				"updated": "20230306150424"
+				"updated": "20230313133237"
 			},
 			"Children": [
 				{
@@ -2431,7 +2431,7 @@
 					},
 					"Properties": {
 						"id": "20230306150336-rdjmp7o",
-						"updated": "20230306150424"
+						"updated": "20230313133237"
 					},
 					"Children": [
 						{
@@ -2454,7 +2454,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20230306150340-gfcmk8g",
-								"updated": "20230306150424"
+								"updated": "20230313133237"
 							},
 							"Children": [
 								{
@@ -2548,6 +2548,70 @@
 													"Data": "耐久性"
 												}
 											]
+										},
+										{
+											"ID": "20230313133124-lcbxd7h",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230313133124-lcbxd7h"
+											},
+											"Children": [
+												{
+													"ID": "20230313133124-rkyeqsr",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133124-rkyeqsr"
+													},
+													"Children": [
+														{
+															"ID": "20230313133124-p3w61xp",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133124-p3w61xp",
+																"updated": "20230313133134"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "混凝土氯离子渗透、钢筋锈蚀"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20230313133159-mu2j2oa",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133159-mu2j2oa"
+													},
+													"Children": [
+														{
+															"ID": "20230313133159-cwpx9k4",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133159-cwpx9k4",
+																"updated": "20230313133202"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "钢结构锈蚀"
+																}
+															]
+														}
+													]
+												}
+											]
 										}
 									]
 								},
@@ -2575,6 +2639,70 @@
 													"Data": "结构荷载"
 												}
 											]
+										},
+										{
+											"ID": "20230313133135-pmuu90q",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230313133135-pmuu90q"
+											},
+											"Children": [
+												{
+													"ID": "20230313133135-y64m93z",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133135-y64m93z"
+													},
+													"Children": [
+														{
+															"ID": "20230313133135-xqusrzz",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133135-xqusrzz",
+																"updated": "20230313133142"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "车辆车速、车重"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20230313133143-ta7o1o2",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133143-ta7o1o2"
+													},
+													"Children": [
+														{
+															"ID": "20230313133143-j86zkmh",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133143-j86zkmh",
+																"updated": "20230313133155"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "船舶撞击、地表地震加速度"
+																}
+															]
+														}
+													]
+												}
+											]
 										}
 									]
 								},
@@ -2586,7 +2714,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20230306150347-6jajpq5"
+										"id": "20230306150347-6jajpq5",
+										"updated": "20230313133237"
 									},
 									"Children": [
 										{
@@ -2602,6 +2731,72 @@
 													"Data": "结构响应"
 												}
 											]
+										},
+										{
+											"ID": "20230313133204-lyshknn",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230313133204-lyshknn",
+												"updated": "20230313133237"
+											},
+											"Children": [
+												{
+													"ID": "20230313133204-4jelxcs",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133204-4jelxcs"
+													},
+													"Children": [
+														{
+															"ID": "20230313133204-f3k0996",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133204-f3k0996",
+																"updated": "20230313133216"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "力（索力，反力等）"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20230313133216-4mi29ni",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133216-4mi29ni",
+														"updated": "20230313133237"
+													},
+													"Children": [
+														{
+															"ID": "20230313133216-1bty8ec",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133216-1bty8ec",
+																"updated": "20230313133237"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "应变、转角、位移、挠度、变形"
+																}
+															]
+														}
+													]
+												}
+											]
 										}
 									]
 								}
@@ -2613,23 +2808,460 @@
 		},
 		{
 			"ID": "20230306150454-6hck0w8",
-			"Type": "NodeParagraph",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20230306150454-6hck0w8",
-				"updated": "20230306150507"
+				"updated": "20230313133252"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "结构健康检测教程"
+					"Data": "桥梁结构"
+				}
+			]
+		},
+		{
+			"ID": "20230313133256-lieu3cs",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313133256-lieu3cs",
+				"updated": "20230313133653"
+			},
+			"Children": [
+				{
+					"ID": "20230313133259-7yht9z8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313133259-7yht9z8",
+						"updated": "20230313133653"
+					},
+					"Children": [
+						{
+							"ID": "20230313133259-lilhkhf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313133259-lilhkhf",
+								"updated": "20230313133301"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "环境"
+								}
+							]
+						},
+						{
+							"ID": "20230313133302-mdi7gbp",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230313133302-mdi7gbp",
+								"updated": "20230313133653"
+							},
+							"Children": [
+								{
+									"ID": "20230313133301-s5ly6zk",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313133301-s5ly6zk"
+									},
+									"Children": [
+										{
+											"ID": "20230313133301-gli27ni",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313133301-gli27ni",
+												"updated": "20230313133320"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "环境温湿度、日照辐射"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230313133321-dq7lugn",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313133321-dq7lugn"
+									},
+									"Children": [
+										{
+											"ID": "20230313133321-z23lw98",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313133321-z23lw98",
+												"updated": "20230313133337"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "风场特性"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230313133515-kc2iaux",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313133515-kc2iaux"
+									},
+									"Children": [
+										{
+											"ID": "20230313133515-7p4n6xm",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313133515-7p4n6xm",
+												"updated": "20230313133518"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "耐久性"
+												}
+											]
+										},
+										{
+											"ID": "20230313133519-vjdf11o",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230313133519-vjdf11o"
+											},
+											"Children": [
+												{
+													"ID": "20230313133519-o9qwpbf",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133519-o9qwpbf"
+													},
+													"Children": [
+														{
+															"ID": "20230313133519-5jyk407",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133519-5jyk407",
+																"updated": "20230313133522"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "环境作用"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20230313133523-i0tre85",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133523-i0tre85"
+													},
+													"Children": [
+														{
+															"ID": "20230313133523-t89cfzh",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133523-t89cfzh",
+																"updated": "20230313133525"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "腐蚀"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230313133631-xovey89",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313133631-xovey89",
+										"updated": "20230313133653"
+									},
+									"Children": [
+										{
+											"ID": "20230313133631-rz8hp6l",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313133631-rz8hp6l",
+												"updated": "20230313133636"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构荷载"
+												}
+											]
+										},
+										{
+											"ID": "20230313133637-nrhbgtd",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230313133637-nrhbgtd",
+												"updated": "20230313133653"
+											},
+											"Children": [
+												{
+													"ID": "20230313133637-xh0swe9",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133637-xh0swe9"
+													},
+													"Children": [
+														{
+															"ID": "20230313133637-jd7ga86",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133637-jd7ga86",
+																"updated": "20230313133639"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "车辆荷载"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20230313133641-52mc4h0",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230313133641-52mc4h0",
+														"updated": "20230313133653"
+													},
+													"Children": [
+														{
+															"ID": "20230313133641-o32pdkt",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230313133641-o32pdkt",
+																"updated": "20230313133653"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "地震动、船舶撞击荷载"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
 			"ID": "20230306150536-4emnfa6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230306150536-4emnfa6",
+				"updated": "20230313134321"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "隧道结构"
+				}
+			]
+		},
+		{
+			"ID": "20230313134322-5wz5mqf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230313134322-5wz5mqf",
+				"updated": "20230313134333"
+			},
+			"Children": [
+				{
+					"ID": "20230313134323-bob458x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230313134323-bob458x",
+						"updated": "20230313134333"
+					},
+					"Children": [
+						{
+							"ID": "20230313134323-knclmsz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230313134323-knclmsz",
+								"updated": "20230313134324"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "环境"
+								}
+							]
+						},
+						{
+							"ID": "20230313134324-hhhgklp",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230313134324-hhhgklp",
+								"updated": "20230313134333"
+							},
+							"Children": [
+								{
+									"ID": "20230313134324-07qxsju",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313134324-07qxsju"
+									},
+									"Children": [
+										{
+											"ID": "20230313134324-jjcagdu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313134324-jjcagdu",
+												"updated": "20230313134327"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "地表下沉"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230313134327-uw3w731",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313134327-uw3w731"
+									},
+									"Children": [
+										{
+											"ID": "20230313134327-bquatio",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313134327-bquatio",
+												"updated": "20230313134330"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "腐蚀"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230313134330-5kdaety",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230313134330-5kdaety",
+										"updated": "20230313134333"
+									},
+									"Children": [
+										{
+											"ID": "20230313134330-onw45h8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230313134330-onw45h8",
+												"updated": "20230313134333"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "临近结构"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230313140612-78qy0i6",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20230306150536-4emnfa6"
+				"id": "20230313140612-78qy0i6"
 			}
 		}
 	]
