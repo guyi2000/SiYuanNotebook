@@ -1,0 +1,130 @@
+{
+	"ID": "20230316145556-vgqgf5g",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "31-20e3",
+		"id": "20230316145556-vgqgf5g",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
+		"title": "2023-03-16 Group seminar 1",
+		"title-img": "background:radial-gradient(black 3px, transparent 4px),radial-gradient(black 3px, transparent 4px),linear-gradient(#fff 4px, transparent 0),linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),#fff;background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;",
+		"updated": "20230316172526"
+	},
+	"Children": [
+		{
+			"ID": "20230316145556-lybbfik",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230316145556-lybbfik",
+				"updated": "20230316150607"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Self introduction"
+				}
+			]
+		},
+		{
+			"ID": "20230316150629-83h9tvh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230316150629-83h9tvh",
+				"updated": "20230316150629"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Presently, the traditional construction industry is inefficient, and intelligent construction is urgently needed. AI-based design can effectively address these critical challenges. Our group invented a novel data-mechanics co-learning generative structural design method. We proposed data-mechanics co-driven generative networks, which are composed of the generative network, discriminative network, knowledge evaluator, and mechanic evaluator. The most advanced AI technologies, such as GAN, GNN, and attention, have been successfully combined with the demand for structural design. At present, my research focuses on the application of diffusion model in structural design, especially in the field of shear wall design. The system is integrated into the design workflow, are compatible with mainstream design software. Consequently, the entire structural design procedure can be automatically accomplished in 20 minutes, reducing 90% time consumption. More than 100 engineers test the AI design and report that about 50% of the AI designs are comparable to the engineer designs."
+				}
+			]
+		},
+		{
+			"ID": "20230316150720-ybpws5z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230316150720-ybpws5z",
+				"updated": "20230316151255"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Title \u0026 Grammatical mistake exercise"
+				}
+			]
+		},
+		{
+			"ID": "20230316150854-2q4j448",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230316150854-2q4j448",
+				"updated": "20230316151121"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "assets/1-s2.0-S0266892020300047-main-20230316150854-fbfbl5v.pdf",
+					"TextMarkTextContent": "1-s2.0-S0266892020300047-main.pdf"
+				}
+			]
+		},
+		{
+			"ID": "20230316150914-ehnox8p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230316150914-ehnox8p",
+				"updated": "20230316150914"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "assets/applsci-07-00053-20230316150914-71t578e.pdf",
+					"TextMarkTextContent": "applsci-07-00053.pdf"
+				}
+			]
+		},
+		{
+			"ID": "20230316150919-wryss8x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230316150919-wryss8x",
+				"updated": "20230316150919"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "assets/s13296-019-00270-y-20230316150919-w6a77yy.pdf",
+					"TextMarkTextContent": "s13296-019-00270-y.pdf"
+				}
+			]
+		},
+		{
+			"ID": "20230316150920-27ukuh8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230316150920-27ukuh8",
+				"updated": "20230316151152"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Introduction exercise"
+				}
+			]
+		},
+		{
+			"ID": "20230316151155-pqozoic",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230316151155-pqozoic",
+				"updated": "20230316172526"
+			}
+		}
+	]
+}

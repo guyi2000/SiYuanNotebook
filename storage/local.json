@@ -1,5 +1,16 @@
 {
   "local-dailynoteid": "20230306135833-eor2e0k",
+  "local-docinfo": {
+    "action": [
+      "cb-get-hl"
+    ],
+    "id": "20230316145556-vgqgf5g"
+  },
+  "local-historynoteid": "20220427125401-h39x1kt",
+  "local-pdftheme": {
+    "dark": "light",
+    "light": "light"
+  },
   "local-searchekeys": {
     "col": "",
     "colTab": "",
@@ -12,5 +23,6 @@
     "replaceKeys": [],
     "row": "",
     "rowTab": ""
-  }
+  },
+  "pdfjs.history": "{\"files\":[{\"fingerprint\":\"d2eed51f46008b4aae7a42db5681d709\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-17,\"scrollTop\":799,\"rotation\":0,\"scrollMode\":0},{\"fingerprint\":\"27fe95a992b7d1efea4a48ad822bfaca\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-14,\"scrollTop\":843,\"rotation\":0},{\"fingerprint\":\"92f91b98b5c23f1dfd81d341cda08ac4\",\"sidebarView\":0,\"page\":5,\"zoom\":\"auto\",\"scrollLeft\":-28,\"scrollTop\":736,\"rotation\":0}]}"
 }
