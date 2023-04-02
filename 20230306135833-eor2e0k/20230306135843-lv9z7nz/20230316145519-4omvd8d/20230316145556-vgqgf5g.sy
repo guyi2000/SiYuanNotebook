@@ -5,10 +5,10 @@
 	"Properties": {
 		"icon": "31-20e3",
 		"id": "20230316145556-vgqgf5g",
-		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230319195242-36t50p2\u0026quot;,\u0026quot;scrollTop\u0026quot;:1109,\u0026quot;focusId\u0026quot;:\u0026quot;20230316145556-lybbfik\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "2023-03-16 Group seminar 1",
 		"title-img": "background:radial-gradient(black 3px, transparent 4px),radial-gradient(black 3px, transparent 4px),linear-gradient(#fff 4px, transparent 0),linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),#fff;background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;",
-		"updated": "20230316172526"
+		"updated": "20230319195242"
 	},
 	"Children": [
 		{
@@ -119,11 +119,728 @@
 			]
 		},
 		{
+			"ID": "20230317083250-8smfn7m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230317083250-8smfn7m",
+				"updated": "20230317083309"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Week 4"
+				}
+			]
+		},
+		{
+			"ID": "20230317083419-rd84rp6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230317083419-rd84rp6",
+				"updated": "20230317083450"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Pair work - introducig a recent paper"
+				}
+			]
+		},
+		{
 			"ID": "20230316151155-pqozoic",
-			"Type": "NodeParagraph",
+			"Type": "NodeList",
+			"ListData": {},
 			"Properties": {
 				"id": "20230316151155-pqozoic",
-				"updated": "20230316172526"
+				"updated": "20230317083408"
+			},
+			"Children": [
+				{
+					"ID": "20230317083313-c4dazoy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230317083313-c4dazoy",
+						"updated": "20230317083313"
+					},
+					"Children": [
+						{
+							"ID": "20230317083313-a8ajv4h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230317083313-a8ajv4h",
+								"updated": "20230317083316"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Topic"
+								}
+							]
+						},
+						{
+							"ID": "20230317083317-pigbc9v",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230317083317-pigbc9v"
+							},
+							"Children": [
+								{
+									"ID": "20230317083316-t3vi41t",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317083316-t3vi41t"
+									},
+									"Children": [
+										{
+											"ID": "20230317083316-7ifm5zj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317083316-7ifm5zj"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Urban mining by flash Joule heating"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230317083320-ye4syvr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230317083320-ye4syvr",
+						"updated": "20230317083408"
+					},
+					"Children": [
+						{
+							"ID": "20230317083320-j5eygxq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230317083320-j5eygxq",
+								"updated": "20230317083325"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Findings"
+								}
+							]
+						},
+						{
+							"ID": "20230317083326-oigo2h6",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230317083326-oigo2h6",
+								"updated": "20230317083408"
+							},
+							"Children": [
+								{
+									"ID": "20230317083325-9nr9p76",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317083325-9nr9p76",
+										"updated": "20230317083346"
+									},
+									"Children": [
+										{
+											"ID": "20230317083325-jvd14so",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317083325-jvd14so",
+												"updated": "20230317083346"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Recover rare metal from WPCB by flash Joule heating"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317083329-4ak53js",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317083329-4ak53js",
+										"updated": "20230317083408"
+									},
+									"Children": [
+										{
+											"ID": "20230317083329-9u2mpdr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317083329-9u2mpdr",
+												"updated": "20230317083408"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Urban mining by flash Joule heating would be 80x - 500x less energy consumptive than traditional smelting furnaces"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230317083215-mqcdjiw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230317083215-mqcdjiw",
+				"updated": "20230317085353"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Research"
+				}
+			]
+		},
+		{
+			"ID": "20230317085353-nw5rma0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230317085353-nw5rma0",
+				"updated": "20230317085844"
+			},
+			"Children": [
+				{
+					"ID": "20230317085355-gigobpl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230317085355-gigobpl",
+						"updated": "20230317085844"
+					},
+					"Children": [
+						{
+							"ID": "20230317085355-uie9vrg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230317085355-uie9vrg",
+								"updated": "20230317085356"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Topic"
+								}
+							]
+						},
+						{
+							"ID": "20230317085357-agsiwrx",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230317085357-agsiwrx",
+								"updated": "20230317085844"
+							},
+							"Children": [
+								{
+									"ID": "20230317085356-o5x1ez7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317085356-o5x1ez7"
+									},
+									"Children": [
+										{
+											"ID": "20230317085356-0tck7cf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317085356-0tck7cf",
+												"updated": "20230317085731"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Flood"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317085732-s7dg6ak",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317085732-s7dg6ak"
+									},
+									"Children": [
+										{
+											"ID": "20230317085732-ligtyi9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317085732-ligtyi9",
+												"updated": "20230317085817"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "interannual maxium flood data"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317085818-uty8erz",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317085818-uty8erz",
+										"updated": "20230317085844"
+									},
+									"Children": [
+										{
+											"ID": "20230317085818-5m88gdf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317085818-5m88gdf",
+												"updated": "20230317085844"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "clustering, varation, corelation"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230317085852-t1qvg1k",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230317085852-t1qvg1k",
+				"updated": "20230317090630"
+			},
+			"Children": [
+				{
+					"ID": "20230317085853-rno1dzn",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230317085853-rno1dzn",
+						"updated": "20230317085853"
+					},
+					"Children": [
+						{
+							"ID": "20230317085853-eqbelvm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230317085853-eqbelvm",
+								"updated": "20230317085855"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Topic2"
+								}
+							]
+						},
+						{
+							"ID": "20230317085855-65wrxrl",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230317085855-65wrxrl"
+							},
+							"Children": [
+								{
+									"ID": "20230317085855-08cgzka",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317085855-08cgzka"
+									},
+									"Children": [
+										{
+											"ID": "20230317085855-ih6t9nw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317085855-ih6t9nw",
+												"updated": "20230317085911"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Recovering pres metal from "
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317085913-9j7fifb",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317085913-9j7fifb"
+									},
+									"Children": [
+										{
+											"ID": "20230317085913-9rjvs9c",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317085913-9rjvs9c",
+												"updated": "20230317085938"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "development novel madical development method"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317085938-duzva23",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317085938-duzva23"
+									},
+									"Children": [
+										{
+											"ID": "20230317085938-b2c3nv3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317085938-b2c3nv3",
+												"updated": "20230317090041"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Finally thermodynamic calculation"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230317090422-6dzxw2s",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230317090422-6dzxw2s",
+						"updated": "20230317090630"
+					},
+					"Children": [
+						{
+							"ID": "20230317090422-imk49lw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230317090422-imk49lw",
+								"updated": "20230317090425"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Topic3"
+								}
+							]
+						},
+						{
+							"ID": "20230317090426-xv7a7jz",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230317090426-xv7a7jz",
+								"updated": "20230317090630"
+							},
+							"Children": [
+								{
+									"ID": "20230317090425-bxu65l7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317090425-bxu65l7"
+									},
+									"Children": [
+										{
+											"ID": "20230317090425-oj7vua6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317090425-oj7vua6",
+												"updated": "20230317090436"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Earthquake resistance of dam"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317090436-56fyop4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317090436-56fyop4"
+									},
+									"Children": [
+										{
+											"ID": "20230317090436-qo715gd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317090436-qo715gd",
+												"updated": "20230317090446"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "How big the earthquake at the source"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317090446-g7c19s5",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317090446-g7c19s5"
+									},
+									"Children": [
+										{
+											"ID": "20230317090446-4zxoq45",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317090446-4zxoq45",
+												"updated": "20230317090502"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Ground motion"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317090505-k3292l1",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317090505-k3292l1"
+									},
+									"Children": [
+										{
+											"ID": "20230317090505-4o1myev",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317090505-4o1myev",
+												"updated": "20230317090530"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Secondly, put ground motion water dam fundation system,"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317090530-j395mcu",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317090530-j395mcu"
+									},
+									"Children": [
+										{
+											"ID": "20230317090530-p26h7jt",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317090530-p26h7jt",
+												"updated": "20230317090559"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "research question: calculate effeciency"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230317090600-ji3ygsj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230317090600-ji3ygsj",
+										"updated": "20230317090630"
+									},
+									"Children": [
+										{
+											"ID": "20230317090600-sua38ww",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230317090600-sua38ww",
+												"updated": "20230317090630"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "500 kilometers, a week, "
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230317091703-1g5pldh",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230317091703-1g5pldh",
+				"updated": "20230317092543"
+			},
+			"Children": [
+				{
+					"ID": "20230317092449-zdxtvuk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230317092449-zdxtvuk",
+						"updated": "20230317092543"
+					},
+					"Children": [
+						{
+							"ID": "20230317092449-276iigs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230317092449-276iigs",
+								"updated": "20230317092543"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "idea -\u003e hypothesis -\u003e concept -\u003e perspective -\u003e theory -\u003e foundation"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230319195242-36t50p2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230319195242-36t50p2"
 			}
 		}
 	]

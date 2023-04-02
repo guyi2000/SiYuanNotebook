@@ -1,0 +1,3633 @@
+{
+	"ID": "20230326143212-2rhsdvf",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f69c",
+		"id": "20230326143212-2rhsdvf",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230326143212-3vq0hmr\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230326143212-3vq0hmr\u0026quot;,\u0026quot;scrollTop\u0026quot;:0}",
+		"title": "2023-03-26 讨论",
+		"title-img": "background-image:linear-gradient(to top, #d299c2 0%, #fef9d7 100%)",
+		"updated": "20230328204043"
+	},
+	"Children": [
+		{
+			"ID": "20230326143212-3vq0hmr",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20230326143212-3vq0hmr",
+				"updated": "20230326143257"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Background",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326143257-nl2zaei",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326143257-nl2zaei",
+				"updated": "20230326143300"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "MQTT",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326143300-n5reub3",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230326143300-n5reub3",
+				"updated": "20230326143955"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230326143955-mljuugz",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326143955-mljuugz",
+						"updated": "20230326143955"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "MQTT 是一种基于客户端服务端架构的发布/订阅模式的消息传输协议。它的设计思想是轻巧、开放、 简单、规范，易于实现。这些特点使得它对很多场景来说都是很好的选择，特别是对于受限的环境如机器与机器的通信（M2M）以及物联网环境（IoT）。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326144021-08p2xdl",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230326144021-08p2xdl",
+				"updated": "20230326144024"
+			},
+			"Children": [
+				{
+					"ID": "20230326144024-jrsjw91",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230326144024-jrsjw91",
+						"updated": "20230326144024"
+					},
+					"Children": [
+						{
+							"ID": "20230326144024-0jv1ik3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144024-0jv1ik3",
+								"updated": "20230326144024"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用发布/订阅消息模式，提供一对多的消息发布，解除应用程序耦合。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326144026-13xmt7k",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230326144026-13xmt7k",
+						"updated": "20230326144026"
+					},
+					"Children": [
+						{
+							"ID": "20230326144026-4ljj80m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144026-4ljj80m",
+								"updated": "20230326144026"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基于 TCP/IP 提供网络连接。主流的 MQTT 是基于 TCP 连接进行数据推送的，但是同样也有基于 UDP 的版本，叫做 MQTT-SN。这两种版本由于基于不同的连接方式，优缺点自然也就各有不同了。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326144029-g59vm82",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230326144029-g59vm82",
+						"updated": "20230326144029"
+					},
+					"Children": [
+						{
+							"ID": "20230326144029-2la651a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144029-2la651a",
+								"updated": "20230326144029"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "支持 QoS 服务质量等级。根据消息的重要性不同设置不同的服务质量等级。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326144032-rcnsfp4",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230326144032-rcnsfp4",
+						"updated": "20230326144032"
+					},
+					"Children": [
+						{
+							"ID": "20230326144032-3y8ehke",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144032-3y8ehke",
+								"updated": "20230326144032"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小型传输，开销很小，协议交换最小化，以降低网络流量。这就是为什么在介绍里说它非常适合\"在物联网领域，传感器与服务器的通信，信息的收集\"，要知道嵌入式设备的运算能力和带宽都相对薄弱，使用这种协议来传递消息再适合不过了，在手机移动应用方面，MQTT 是一种不错的 Android 消息推送方案。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326144035-7eb8ujq",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230326144035-7eb8ujq",
+						"updated": "20230326144035"
+					},
+					"Children": [
+						{
+							"ID": "20230326144035-7fwdm6k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144035-7fwdm6k",
+								"updated": "20230326144035"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用 will 遗嘱机制来通知客户端异常断线。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326144037-weidqoj",
+					"Type": "NodeListItem",
+					"Data": "6",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 6,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Ng==",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20230326144037-weidqoj",
+						"updated": "20230326144037"
+					},
+					"Children": [
+						{
+							"ID": "20230326144037-g9fw1h6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144037-g9fw1h6",
+								"updated": "20230326144037"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基于主题发布/订阅消息，对负载内容屏蔽的消息传输。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326144041-j6ct57c",
+					"Type": "NodeListItem",
+					"Data": "7",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 7,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Nw==",
+						"Num": 7
+					},
+					"Properties": {
+						"id": "20230326144041-j6ct57c",
+						"updated": "20230326144041"
+					},
+					"Children": [
+						{
+							"ID": "20230326144041-c5z5egb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326144041-c5z5egb",
+								"updated": "20230326144041"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "支持心跳机制。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326144105-28l4yr3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230326144105-28l4yr3",
+				"updated": "20230326144113"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "服务端",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144113-te895of",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326144113-te895of",
+				"updated": "20230326144655"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "MQTT 服务端通常是一台服务器（Broker），它是 MQTT 信息传输的枢纽，负责将 MQTT 客户端发送来的信息传递给 MQTT 客户端；MQTT 服务端还负责管理 MQTT 客户端，以确保客户端之间的通讯顺畅，保证 MQTT 信息得以正确接收和准确投递。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144120-jv6jw5z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230326144120-jv6jw5z",
+				"updated": "20230326144127"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "客户端",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144127-ckzq7sv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326144127-ckzq7sv",
+				"updated": "20230326144213"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "MQTT 客户端可以向服务端发布信息，也可以从服务端收取信息；我们把客户端发送信息的行为称为 “发布”信息。而客户端要想从服务端收取信息，则首先要向服务端“订阅”信息。“订阅”信息这一操作很像我们在使用微信时“关注”了某个公众号，当公众号的作者发布新的文章时，微信官方会向关注了该公众号的所有用户发送信息，告诉他们有新文章更新了，以便用户查看。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144132-v9y9j53",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230326144132-v9y9j53",
+				"updated": "20230326144151"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "MQTT 主题",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144151-99fkllr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326144151-99fkllr",
+				"updated": "20230326144351"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "客户端发布消息是需要为消息制定一个“主题”，表示将消息发布到该主题；而对于订阅消息的客户端来说，可以通过订阅“主题”来订阅消息，这样当其他客户端或自己（当前客户端）向该主题发布消息时，MQTT 服务端就会将该主题的信息发送给该主题的订阅者（客户端）。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144624-yv8azpj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326144624-yv8azpj",
+				"updated": "20230326144640"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Properties": {
+						"id": "",
+						"parent-style": "display: block; max-width: 1034px;",
+						"style": "width: 1024px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "[",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "(",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20230326144624-7l5entd.png",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 1024px;\" parent-style=\"display: block; max-width: 1034px;\"}",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144428-80i0wsk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326144428-80i0wsk",
+				"updated": "20230326144545"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "EMQX",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326144555-hjv5xmg",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230326144555-hjv5xmg",
+				"updated": "20230326144708"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230326144706-glaepk1",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326144706-glaepk1",
+						"updated": "20230326144706"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://www.emqx.io/",
+							"TextMarkTextContent": "EMQX "
+						},
+						{
+							"Type": "NodeText",
+							"Data": "是一款大规模可弹性伸缩的云原生分布式物联网 ",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://mqtt.org/",
+							"TextMarkTextContent": "MQTT "
+						},
+						{
+							"Type": "NodeText",
+							"Data": "消息服务器。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				},
+				{
+					"ID": "20230326144708-oe0ahvz",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326144708-oe0ahvz",
+						"updated": "20230326144708"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "作为全球最具扩展性的 MQTT 消息服务器，EMQX 提供了高效可靠海量物联网设备连接，能够高性能实时移动与处理消息和事件流数据，帮助您快速构建关键业务的物联网平台与应用。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326144608-60kv4a7",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230326144608-60kv4a7",
+				"updated": "20230326145038"
+			},
+			"Children": [
+				{
+					"ID": "20230326145038-i787vq9",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326145038-i787vq9",
+						"updated": "20230326145038"
+					},
+					"Children": [
+						{
+							"ID": "20230326145038-zrojuz3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326145038-zrojuz3",
+								"updated": "20230326145044"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "MQTT Broker",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326150034-i74j0o2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326150034-i74j0o2",
+				"updated": "20230326150050"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Spring Boot",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326152338-do24h20",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326152338-do24h20",
+				"updated": "20230326152338"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Spring Boot 是一个用于创建基于 Spring 框架的快速应用程序的框架。它可以让你在极短的时间内搭建出一个完整的 Spring 应用程序。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326152338-i4noeyb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326152338-i4noeyb",
+				"updated": "20230326152338"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "下面是一些关于 Spring Boot 的基本概念：",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326152338-r7eucj6",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230326152338-r7eucj6",
+				"updated": "20230326152338"
+			},
+			"Children": [
+				{
+					"ID": "20230326152338-rlu4nhb",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326152338-rlu4nhb",
+						"updated": "20230326152338"
+					},
+					"Children": [
+						{
+							"ID": "20230326152338-tlnyohj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326152338-tlnyohj",
+								"updated": "20230326152338"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Spring Boot 自动配置：Spring Boot 会自动根据你的项目依赖来配置你的应用程序。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326152338-2a0n14o",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326152338-2a0n14o",
+						"updated": "20230326152338"
+					},
+					"Children": [
+						{
+							"ID": "20230326152338-pb8m1ly",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326152338-pb8m1ly",
+								"updated": "20230326152338"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "内嵌 Web 服务器：Spring Boot 包含了内嵌的 Web 服务器，可以让你在开发和测试时不需要部署到外部 Web 服务器。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326152338-og4njl8",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326152338-og4njl8",
+						"updated": "20230326152338"
+					},
+					"Children": [
+						{
+							"ID": "20230326152338-ro02c77",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326152338-ro02c77",
+								"updated": "20230326152338"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "开箱即用：Spring Boot 提供了一些\"starter POMs\"，可以让你快速添加常用的依赖。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326152338-77q6ojf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326152338-77q6ojf",
+				"updated": "20230326152512"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如果你想要学习 Spring Boot，你可以参考官方文档：",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://spring.io/projects/spring-boot",
+					"TextMarkATitle": "SpringBoot",
+					"TextMarkTextContent": "SpringBoot"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 。这里有一份官方的入门指南：",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://spring.io/guides/gs/spring-boot/",
+					"TextMarkTextContent": "Getting Started"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 。这份指南会教你如何创建一个基于 Spring Boot 的应用程序，并让你了解 Spring Boot 的基本概念。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326152526-iher7lp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326152526-iher7lp",
+				"updated": "20230326152532"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Kafka",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326152533-7ejf0rp",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230326152533-7ejf0rp",
+				"updated": "20230326152558"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230326152557-6ul4kxi",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326152557-6ul4kxi",
+						"updated": "20230326152558"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "Kafka 是 Apache 旗下的一款分布式流媒体平台，Kafka 是一种高吞吐量、持久性、分布式的发布订阅的消息队列系统。 它最初由 LinkedIn(领英)公司发布，使用 Scala 语言编写，与 2010 年 12 月份开源，成为 Apache 的顶级子项目。 它主要用于处理消费者规模网站中的所有动作流数据。动作指(网页浏览、搜索和其它用户行动所产生的数据)。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326152930-qy82xus",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326152930-qy82xus",
+				"updated": "20230327185950"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "display: block; max-width: 856px;",
+						"style": "width: 846px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20230326152930-dlrrlus.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 846px;\" parent-style=\"display: block; max-width: 856px;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20230326152937-zi0w55c",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230326152937-zi0w55c",
+				"updated": "20230326153135"
+			},
+			"Children": [
+				{
+					"ID": "20230326153135-xdmslwz",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326153135-xdmslwz",
+						"updated": "20230326153135"
+					},
+					"Children": [
+						{
+							"ID": "20230326153135-f13voqs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326153135-f13voqs",
+								"updated": "20230326153140"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一个消息发布订阅系统",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326153140-s4cjfwm",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326153140-s4cjfwm",
+						"updated": "20230326153140"
+					},
+					"Children": [
+						{
+							"ID": "20230326153140-5ga3cck",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326153140-5ga3cck",
+								"updated": "20230326153201"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Producer 向某个 Topic 发布消息",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326153201-uk9e93f",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326153201-uk9e93f",
+						"updated": "20230326153201"
+					},
+					"Children": [
+						{
+							"ID": "20230326153201-jmw2fhg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326153201-jmw2fhg",
+								"updated": "20230326153247"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Consumer 订阅某个 Topic 的消息",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326153213-mg958og",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326153213-mg958og",
+						"updated": "20230326153213"
+					},
+					"Children": [
+						{
+							"ID": "20230326153213-yc1a50k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326153213-yc1a50k",
+								"updated": "20230326153244"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "进而一旦有新的关于某个 Topic 的消息，Broker 会传递给订阅它的所有 Consumer",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326153250-vydqsxc",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326153250-vydqsxc",
+						"updated": "20230326153250"
+					},
+					"Children": [
+						{
+							"ID": "20230326153250-3mumi5h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326153250-3mumi5h",
+								"updated": "20230326153300"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "消息是按 Topic 组织的",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"ID": "20230326153302-xnue2aa",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 42,
+								"Padding": 2,
+								"Marker": "Kg==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20230326153302-xnue2aa",
+								"updated": "20230326153302"
+							},
+							"Children": [
+								{
+									"ID": "20230326153301-zrmz8ca",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20230326153301-zrmz8ca",
+										"updated": "20230326153301"
+									},
+									"Children": [
+										{
+											"ID": "20230326153301-8tic7ct",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230326153301-8tic7ct",
+												"updated": "20230326153316"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "每个 Topic 会分为多个 Partation",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230326153317-1o3baw9",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20230326153317-1o3baw9",
+										"updated": "20230326153317"
+									},
+									"Children": [
+										{
+											"ID": "20230326153317-5rf3lwx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230326153317-5rf3lwx",
+												"updated": "20230326153325"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "这样便于管理数据和进行负载均衡",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326153701-bcvpb6e",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326153701-bcvpb6e",
+				"updated": "20230326153707"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Flink",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326153707-y1zildg",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230326153707-y1zildg",
+				"updated": "20230326153916"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230326153723-358k9pk",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326153723-358k9pk",
+						"updated": "20230326153733"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "Apache Flink"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 是一个在",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "em",
+							"TextMarkTextContent": "有界"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "数据流和",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "em",
+							"TextMarkTextContent": "无界"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "数据流上进行有状态计算分布式处理引擎和框架。Flink 设计旨在",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "em",
+							"TextMarkTextContent": "所有常见的集群环境"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "中运行，以",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "em",
+							"TextMarkTextContent": "任意规模"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "和",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "em",
+							"TextMarkTextContent": "内存"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "级速度执行计算。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326153916-zryba9l",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326153916-zryba9l",
+				"updated": "20230326153920"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "HBase",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326153921-8txt6b8",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230326153921-8txt6b8",
+				"updated": "20230328142640"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230326153931-8cy41c3",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326153931-8cy41c3",
+						"updated": "20230326153931"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://www.apache.org/",
+							"TextMarkTextContent": "Apache"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " HBase™ is the ",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://hadoop.apache.org/",
+							"TextMarkTextContent": "Hadoop"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " database, a distributed, scalable, big data store.",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				},
+				{
+					"ID": "20230326153931-q3ilur0",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230326153931-q3ilur0",
+						"updated": "20230326153931"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "Use Apache HBase™ when you need random, realtime read/write access to your Big Data. This project's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardware. Apache HBase is an open-source, distributed, versioned, non-relational database modeled after Google's ",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://research.google.com/archive/bigtable.html",
+							"TextMarkTextContent": "Bigtable: A Distributed Storage System for Structured Data"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " by Chang et al. Just as Bigtable leverages the distributed data storage provided by the Google File System, Apache HBase provides Bigtable-like capabilities on top of Hadoop and HDFS.",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328142640-0uge5cm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230328142640-0uge5cm",
+				"updated": "20230328142730"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "HBase 介绍",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230328142730-moh4da9",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230328142730-moh4da9",
+				"updated": "20230328143117"
+			},
+			"Children": [
+				{
+					"ID": "20230328143117-4xd7rzn",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328143117-4xd7rzn",
+						"updated": "20230328143117"
+					},
+					"Children": [
+						{
+							"ID": "20230328143117-7njd2oz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328143117-7njd2oz",
+								"updated": "20230328143121"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小数据进行行交互式读和写的数据存储仓库，以便适用于应用程序",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328143153-z6m7ur4",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328143153-z6m7ur4",
+						"updated": "20230328143153"
+					},
+					"Children": [
+						{
+							"ID": "20230328143153-2bumuld",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328143153-2bumuld",
+								"updated": "20230328143203"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基于 Hadoop/HDFS",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328143204-f5h9fcr",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230328143204-f5h9fcr",
+				"updated": "20230328143222"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "HBase 数据模型",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230328143222-rzmlsx8",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230328143222-rzmlsx8",
+				"updated": "20230328143226"
+			},
+			"Children": [
+				{
+					"ID": "20230328143226-v5m20l5",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328143226-v5m20l5",
+						"updated": "20230328143226"
+					},
+					"Children": [
+						{
+							"ID": "20230328143226-k2rkft8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328143226-k2rkft8",
+								"updated": "20230328143357"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户将 row 存储在命名的 Table 中，各个数据的 row 携带了排序键和几个 column，用于存储的 Table 的隔行可以具有多个数量和种类的列。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328143402-0plef6i",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230328143402-0plef6i",
+				"updated": "20230328143408"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "map",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230328143409-iytdy0q",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230328143409-iytdy0q",
+				"updated": "20230328143422"
+			},
+			"Children": [
+				{
+					"ID": "20230328143422-yddad1u",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328143422-yddad1u",
+						"updated": "20230328143422"
+					},
+					"Children": [
+						{
+							"ID": "20230328143422-hrs1b8z",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328143422-hrs1b8z",
+								"updated": "20230328143448"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "key-value 进行关联， 类似 Python 中的 dictionary",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328143448-kq6cvgx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230328143448-kq6cvgx",
+				"updated": "20230328143554"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "排序性",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230328143554-5ex17fd",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230328143554-5ex17fd",
+				"updated": "20230328143555"
+			},
+			"Children": [
+				{
+					"ID": "20230328143555-u727da4",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328143555-u727da4",
+						"updated": "20230328143555"
+					},
+					"Children": [
+						{
+							"ID": "20230328143555-lsgsu09",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328143555-lsgsu09",
+								"updated": "20230328143611"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "sorted",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328143712-awjvrdz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230328143712-awjvrdz",
+				"updated": "20230328143722"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "多维性",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230328143758-bjswgeh",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230328143758-bjswgeh",
+				"updated": "20230328143758"
+			},
+			"Children": [
+				{
+					"ID": "20230328143758-58rcsqi",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328143758-58rcsqi",
+						"updated": "20230328143758"
+					},
+					"Children": [
+						{
+							"ID": "20230328143758-1g10ndq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328143758-1g10ndq",
+								"updated": "20230328144040"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "column family 的概念，一个 column family 有两个 column(label or qualifier)",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328144040-vhem84t",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230328144040-vhem84t",
+						"updated": "20230328144040"
+					},
+					"Children": [
+						{
+							"ID": "20230328144040-hi69vfj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328144040-hi69vfj",
+								"updated": "20230328144208"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "各行都可以拥有不同的 column 因此 HBase 中不提供可以查询所有行中的所有 column 列表的功能",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328144331-4bi07pn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230328144331-4bi07pn",
+				"updated": "20230328144340"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "HBase 数据库模式",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230328144340-p555jwm",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230328144340-p555jwm",
+				"updated": "20230328145452"
+			},
+			"Children": [
+				{
+					"ID": "20230328145434-g87bh6i",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230328145434-g87bh6i",
+						"updated": "20230328145452"
+					},
+					"Children": [
+						{
+							"ID": "20230328145434-52aorq4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328145434-52aorq4",
+								"updated": "20230328145619"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "数据模型扩展为数据的 Schema"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328145632-gni4jr3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230328145632-gni4jr3"
+					},
+					"Children": [
+						{
+							"ID": "20230328145632-79gd3cl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328145632-79gd3cl",
+								"updated": "20230328145707"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "理解HBase提供的强大数据一致性和基于Column Family的NoSQL的特征和活用方法"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230328150013-zdtq9li",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230328150013-zdtq9li",
+				"updated": "20230328150031"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "术语"
+				}
+			]
+		},
+		{
+			"ID": "20230328150032-geuxjh5",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20230328150032-geuxjh5",
+				"updated": "20230328150759"
+			},
+			"Children": [
+				{
+					"ID": "20230328150034-q0bjbqk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230328150034-q0bjbqk",
+						"updated": "20230328150034"
+					},
+					"Children": [
+						{
+							"ID": "20230328150034-vg9yv1w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328150034-vg9yv1w",
+								"updated": "20230328150043"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "列表（table）"
+								}
+							]
+						},
+						{
+							"ID": "20230328150214-rbirsce",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230328150214-rbirsce"
+							},
+							"Children": [
+								{
+									"ID": "20230328150214-wz4lwb7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230328150214-wz4lwb7"
+									},
+									"Children": [
+										{
+											"ID": "20230328150214-babdjm5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230328150214-babdjm5",
+												"updated": "20230328150236"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "HBase 使用 Table 管理所有数据"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328150044-ktkt63d",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230328150044-ktkt63d"
+					},
+					"Children": [
+						{
+							"ID": "20230328150044-9b76cs5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328150044-9b76cs5",
+								"updated": "20230328150048"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "行（row）"
+								}
+							]
+						},
+						{
+							"ID": "20230328150238-bseuag2",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230328150238-bseuag2"
+							},
+							"Children": [
+								{
+									"ID": "20230328150237-5tmxkwp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230328150237-5tmxkwp"
+									},
+									"Children": [
+										{
+											"ID": "20230328150237-j0aijgk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230328150237-j0aijgk",
+												"updated": "20230328150417"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "数据存储在行中，各行用各种固有的 key进行区分，将其称为 rowkey。如果不具有某种数据类型，则使用 byte列表示。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230328150417-j1s3i60",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230328150417-j1s3i60"
+									},
+									"Children": [
+										{
+											"ID": "20230328150417-2bko9kh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230328150417-2bko9kh",
+												"updated": "20230328150424"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "同个行的读写才具有原子性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328150048-du8q23s",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230328150048-du8q23s"
+					},
+					"Children": [
+						{
+							"ID": "20230328150048-fi2idxo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328150048-fi2idxo",
+								"updated": "20230328150132"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Column Family"
+								}
+							]
+						},
+						{
+							"ID": "20230328150516-u1lf8vq",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230328150516-u1lf8vq"
+							},
+							"Children": [
+								{
+									"ID": "20230328150516-uv606q7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230328150516-uv606q7"
+									},
+									"Children": [
+										{
+											"ID": "20230328150516-qmr174q",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230328150516-qmr174q",
+												"updated": "20230328150534"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "将一行中的数据grouping为多个Column Family"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230328150541-49r9z2b",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230328150541-49r9z2b"
+									},
+									"Children": [
+										{
+											"ID": "20230328150541-vwxhatc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230328150541-vwxhatc",
+												"updated": "20230328150605"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "对物理空间的排序和实现存储的过程有影响"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328150132-n1tdfhg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230328150132-n1tdfhg",
+						"updated": "20230328150759"
+					},
+					"Children": [
+						{
+							"ID": "20230328150132-1fe2d1b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328150132-1fe2d1b",
+								"updated": "20230328150150"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Column \u0026 Column Qualifier"
+								}
+							]
+						},
+						{
+							"ID": "20230328150733-5si6lbu",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230328150733-5si6lbu",
+								"updated": "20230328150759"
+							},
+							"Children": [
+								{
+									"ID": "20230328150733-y9228j6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230328150733-y9228j6",
+										"updated": "20230328150759"
+									},
+									"Children": [
+										{
+											"ID": "20230328150733-t85p96r",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230328150733-t85p96r",
+												"updated": "20230328150759"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "数据存储的单位即构成 Column Family 的数据单位。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328150151-n9cseec",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230328150151-n9cseec"
+					},
+					"Children": [
+						{
+							"ID": "20230328150151-ksraars",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328150151-ksraars",
+								"updated": "20230328150154"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Cell"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230328150154-3bwgoqg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ni4=",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20230328150154-3bwgoqg"
+					},
+					"Children": [
+						{
+							"ID": "20230328150154-77ha5x7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230328150154-77ha5x7",
+								"updated": "20230328150202"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Timestamp \u0026 Version"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326154017-ck9e4da",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20230326154017-ck9e4da",
+				"updated": "20230326154401"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "基本技术路线 \u0026 Sample Code",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326162110-pzugi98",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326162110-pzugi98",
+				"updated": "20230326163319"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Workflow",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326162116-skhydy3",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20230326162116-skhydy3",
+				"updated": "20230328204043"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "flowchart LR\nsubgraph 第1阶段 数据接入\nC((RSU))-.-\u0026gt;|\u0026quot;(a). MQTT Topic\u0026quot;|E\nR((RCU))-.-\u0026gt;|\u0026quot;(b). TCP\u0026quot;|E(EMQX)\nO((OBU))-.-\u0026gt;|\u0026quot;(b). TCP\u0026quot;|E\nE--\u0026quot;(c). NiFi\u0026quot;--\u0026gt;K(Kafka)\nend\nsubgraph 第2阶段 分析计算与存储\nK--\u0026gt;|\u0026quot;(d). Connector\u0026quot;|F(Flink)\nF--\u0026gt;|\u0026quot;(e). sink\u0026quot;|H[(HBase)]\nF--\u0026gt;|\u0026quot;(f). sink\u0026quot;|T[(Timescale)]\nF--\u0026gt;B[/Analysis.../]\nend\nsubgraph 第3阶段 场景应用\nT--\u0026gt;S(SuperSet)\nend"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20230326154404-hkdjara",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326154404-hkdjara",
+				"updated": "20230326154444"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "MQTT 实现引擎 EMQX",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326154445-t0vea2h",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230326154445-t0vea2h",
+				"updated": "20230326191504"
+			},
+			"Children": [
+				{
+					"ID": "20230326154454-25ud5l9",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230326154454-25ud5l9",
+						"updated": "20230326191504"
+					},
+					"Children": [
+						{
+							"ID": "20230326154454-5w88e19",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326154454-5w88e19",
+								"updated": "20230326191504"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "部署 EMQX，（示例代码采用 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "docker"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 方式部署单机或集群，参考 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://www.emqx.io/docs/zh/v5.0/deploy/install.html",
+									"TextMarkTextContent": "概览 | EMQX 5.0 文档"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326154501-fkvxh90",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230326154501-fkvxh90",
+				"updated": "20230326154529"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "docker pull emqx/emqx:5.0.20\ndocker run -d --name emqx -p 1883:1883 -p 8083:8083 -p 8084:8084 -p 8883:8883 -p 18083:18083 emqx/emqx:5.0.20\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326154539-0mz9qo2",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 2,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mg==",
+				"Num": 2
+			},
+			"Properties": {
+				"id": "20230326154539-0mz9qo2",
+				"updated": "20230326154541"
+			},
+			"Children": [
+				{
+					"ID": "20230326154541-z4w8w64",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230326154541-z4w8w64",
+						"updated": "20230326154541"
+					},
+					"Children": [
+						{
+							"ID": "20230326154541-wvyii83",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326154541-wvyii83",
+								"updated": "20230326154556"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "设计通信 Topic",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326154557-6px7ifz",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230326154557-6px7ifz",
+				"updated": "20230326154626"
+			},
+			"Children": [
+				{
+					"ID": "20230326154626-sydllpo",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326154626-sydllpo",
+						"updated": "20230326154626"
+					},
+					"Children": [
+						{
+							"ID": "20230326154626-um0l9zk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326154626-um0l9zk",
+								"updated": "20230326154750"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "根据提供的",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "a",
+									"TextMarkAHref": "assets/数据现状-20230326154750-iml9cnc.docx",
+									"TextMarkTextContent": "数据现状.docx"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230326154751-jvxltfo",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230326154751-jvxltfo",
+						"updated": "20230326154751"
+					},
+					"Children": [
+						{
+							"ID": "20230326154751-gjiwh9v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326154751-gjiwh9v",
+								"updated": "20230326154858"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "目前已经设计好通信 Topic，为 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "vpub/obu/state/{obuld}"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 及 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "rpub/rcu/objs/{rculd}"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326155009-s6ja2ne",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 3,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mw==",
+				"Num": 3
+			},
+			"Properties": {
+				"id": "20230326155009-s6ja2ne",
+				"updated": "20230326155111"
+			},
+			"Children": [
+				{
+					"ID": "20230326155011-ecsatb1",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230326155011-ecsatb1",
+						"updated": "20230326155111"
+					},
+					"Children": [
+						{
+							"ID": "20230326155011-gu2b242",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230326155011-gu2b242",
+								"updated": "20230326155111"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "调试设备通信，实现输入接入（",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "TODO"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 待完成）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230326145405-9qefy9c",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326145405-9qefy9c",
+				"updated": "20230326145416"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "MQTT 消费者实现",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326145417-qc9cbmd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326145417-qc9cbmd",
+				"updated": "20230326155504"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用 Spring Boot 框架，利用 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "spring-integration-mqtt"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ​编写 MQTT 消费者，参考 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://github.com/smltq/spring-boot-demo/blob/master/mqtt/README.md",
+					"TextMarkTextContent": "smltq/spring-boot-demo"
+				}
+			]
+		},
+		{
+			"ID": "20230326155211-xvncmg4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326155211-xvncmg4",
+				"updated": "20230326155412"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "application.yml"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ​示例",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326155313-oz3246t",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "eW1s",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230326155313-oz3246t",
+				"updated": "20230326155323"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "eW1s",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "# Mqtt配置\nmqtt:\n  serverURIs: tcp://127.0.0.1:61613\n  username: admin\n  password: password\n  client:\n    id: ${random.value}\n  topic: topic_default\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326150013-lot94dh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326150013-lot94dh",
+				"updated": "20230326155415"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "MqttSubcriberConfig.java"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ​示例",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326155415-s6a8su2",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "amF2YQ==",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230326155415-s6a8su2",
+				"updated": "20230326164336"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YQ==",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "package com.easy.mqtt.subscriber.config;\n\nimport lombok.Getter;\nimport lombok.Setter;\nimport lombok.extern.slf4j.Slf4j;\nimport org.eclipse.paho.client.mqttv3.MqttConnectOptions;\nimport org.springframework.beans.factory.annotation.Value;\nimport org.springframework.context.annotation.Bean;\nimport org.springframework.context.annotation.Configuration;\nimport org.springframework.integration.annotation.IntegrationComponentScan;\nimport org.springframework.integration.annotation.ServiceActivator;\nimport org.springframework.integration.channel.DirectChannel;\nimport org.springframework.integration.core.MessageProducer;\nimport org.springframework.integration.mqtt.core.DefaultMqttPahoClientFactory;\nimport org.springframework.integration.mqtt.core.MqttPahoClientFactory;\nimport org.springframework.integration.mqtt.inbound.MqttPahoMessageDrivenChannelAdapter;\nimport org.springframework.integration.mqtt.support.DefaultPahoMessageConverter;\nimport org.springframework.messaging.Message;\nimport org.springframework.messaging.MessageChannel;\nimport org.springframework.messaging.MessageHandler;\nimport org.springframework.messaging.MessagingException;\n\n@Slf4j\n@Configuration\n@IntegrationComponentScan\n@Getter\n@Setter\npublic class MqttSubscriberConfig {\n    /**\n     * 订阅的bean名称\n     */\n    public static final String CHANNEL_NAME_IN = \"mqttInboundChannel\";\n\n    // 客户端与服务器之间的连接意外中断，服务器将发布客户端的“遗嘱”消息\n    private static final byte[] WILL_DATA;\n\n    static {\n        WILL_DATA = \"offline\".getBytes();\n    }\n\n    @Value(\"${mqtt.username}\")\n    private String username;\n\n    @Value(\"${mqtt.password}\")\n    private String password;\n\n    @Value(\"${mqtt.serverURIs}\")\n    private String hostUrl;\n\n    @Value(\"${mqtt.client.id}\")\n    private String clientId;\n\n    @Value(\"${mqtt.topic}\")\n    private String defaultTopic;\n\n    /**\n     * MQTT连接器选项\n     */\n    @Bean\n    public MqttConnectOptions getReceiverMqttConnectOptions() {\n        MqttConnectOptions options = new MqttConnectOptions();\n        // 设置连接的用户名\n        if (!username.trim().equals(\"\")) {\n            options.setUserName(username);\n        }\n        // 设置连接的密码\n        options.setPassword(password.toCharArray());\n        // 设置连接的地址\n        options.setServerURIs(new String[]{hostUrl});\n        // 设置超时时间 单位为秒\n        options.setConnectionTimeout(10);\n        // 设置会话心跳时间 单位为秒 服务器会每隔1.5*20秒的时间向客户端发送心跳判断客户端是否在线\n        // 但这个方法并没有重连的机制\n        options.setKeepAliveInterval(20);\n        return options;\n    }\n\n    /**\n     * MQTT客户端\n     */\n    @Bean\n    public MqttPahoClientFactory receiverMqttClientFactory() {\n        DefaultMqttPahoClientFactory factory = new DefaultMqttPahoClientFactory();\n        factory.setConnectionOptions(getReceiverMqttConnectOptions());\n        return factory;\n    }\n\n    /**\n     * MQTT信息通道（消费者）\n     */\n    @Bean(name = CHANNEL_NAME_IN)\n    public MessageChannel mqttInboundChannel() {\n        return new DirectChannel();\n    }\n\n\n    /**\n     * MQTT消息订阅绑定（消费者）\n     */\n    @Bean\n    public MessageProducer inbound() {\n        // 可以同时消费（订阅）多个Topic\n        MqttPahoMessageDrivenChannelAdapter adapter =\n                new MqttPahoMessageDrivenChannelAdapter(clientId, receiverMqttClientFactory(),\n                        new String[]{defaultTopic,\"yuntian\"});\n        adapter.setCompletionTimeout(5000);\n        adapter.setConverter(new DefaultPahoMessageConverter());\n        adapter.setQos(1);\n        // 设置订阅通道\n        adapter.setOutputChannel(mqttInboundChannel());\n        return adapter;\n    }\n\n    /**\n     * MQTT消息处理器（消费者）\n     */\n    @Bean\n    @ServiceActivator(inputChannel = CHANNEL_NAME_IN)\n    public MessageHandler handler() {\n        return new MessageHandler() {\n            @Override\n            public void handleMessage(Message\u003c?\u003e message) throws MessagingException {\n                String topic = message.getHeaders().get(\"mqtt_receivedTopic\").toString();\n                String msg = message.getPayload().toString();\n                log.info(\"\\n--------------------START-------------------\\n\" +\n                        \"接收到订阅消息:\\ntopic:\" + topic + \"\\nmessage:\" + msg +\n                        \"\\n---------------------END--------------------\");\n            }\n        };\n    }\n}\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326155423-mp9313s",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326155423-mp9313s",
+				"updated": "20230326160220"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Kafka 生产者实现",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326160230-wnbsqip",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326160230-wnbsqip",
+				"updated": "20230326161504"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "利用 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "kafka-clients"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​，参考 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://kafka.apache.org/34/javadoc/index.html?org/apache/kafka/clients/producer/KafkaProducer.html",
+					"TextMarkTextContent": "Overview (kafka 3.4.0 API) (apache.org)"
+				}
+			]
+		},
+		{
+			"ID": "20230326160309-2i2gr1m",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "amF2YQ==",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230326160309-2i2gr1m",
+				"updated": "20230326160337"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YQ==",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "package org.study.kafka;\n\nimport org.apache.kafka.clients.producer.KafkaProducer;\nimport org.apache.kafka.clients.producer.Producer;\nimport org.apache.kafka.clients.producer.ProducerRecord;\n\nimport java.util.HashMap;\nimport java.util.Map;\n\npublic class ProducerSample {\n\n    public static void main(String[] args) {\n        Map\u003cString, Object\u003e props = new HashMap\u003cString, Object\u003e();\n        props.put(\"zk.connect\", \"127.0.0.1:2181\");//zookeeper 的地址\n        props.put(\"bootstrap.servers\", \"localhost:9092\");//用于建立与 kafka 集群连接的 host/port 组。\n        props.put(\"key.serializer\", \"org.apache.kafka.common.serialization.StringSerializer\");\n        props.put(\"value.serializer\", \"org.apache.kafka.common.serialization.StringSerializer\");\n        props.put(\"key.deserializer\", \"org.apache.kafka.common.serialization.StringDeserializer\");\n        props.put(\"value.deserializer\", \"org.apache.kafka.common.serialization.StringDeserializer\");\n\n        String topic = \"test-topic\";\n        Producer\u003cString, String\u003e producer = new KafkaProducer\u003cString, String\u003e(props);\n        producer.send(new ProducerRecord\u003cString, String\u003e(topic, \"idea-key2\", \"java-message 1\"));\n        producer.send(new ProducerRecord\u003cString, String\u003e(topic, \"idea-key2\", \"java-message 2\"));\n        producer.send(new ProducerRecord\u003cString, String\u003e(topic, \"idea-key2\", \"java-message 3\"));\n\n        producer.close();\n    }\n\n}\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326160339-o8cv827",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326160339-o8cv827",
+				"updated": "20230326161607"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Flink 消费者实现",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326160909-fdegckt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326160909-fdegckt",
+				"updated": "20230326161306"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "利用 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "flink-connector-kafka"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​，参考 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/datastream/kafka/",
+					"TextMarkTextContent": "Kafka | Apache Flink"
+				}
+			]
+		},
+		{
+			"ID": "20230326161152-7dccm3c",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "amF2YQ==",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230326161152-7dccm3c",
+				"updated": "20230326161224"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YQ==",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "public static FlinkKafkaConsumer011\u003cString\u003e createStringConsumerForTopic(\n  String topic, String kafkaAddress, String kafkaGroup ) {\n \n    Properties props = new Properties();\n    props.setProperty(\"bootstrap.servers\", kafkaAddress);\n    props.setProperty(\"group.id\",kafkaGroup);\n    FlinkKafkaConsumer011\u003cString\u003e consumer = new FlinkKafkaConsumer011\u003c\u003e(\n      topic, new SimpleStringSchema(), props);\n\n    return consumer;\n}\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326161225-f3agmju",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230326161225-f3agmju",
+				"updated": "20230326161611"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Flink 生产者实现",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326161613-136o8fo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326161613-136o8fo",
+				"updated": "20230326161640"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "利用 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "flink-connector-hbase"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​，参考 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/hbase/",
+					"TextMarkTextContent": "HBase | Apache Flink"
+				}
+			]
+		},
+		{
+			"ID": "20230326161641-ud72hmm",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "amF2YQ==",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230326161641-ud72hmm",
+				"updated": "20230326161913"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YQ==",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "package org.apache.flink.addons.hbase.example;\n\nimport java.io.IOException;\n\nimport org.apache.flink.api.common.io.OutputFormat;\nimport org.apache.flink.configuration.Configuration;\nimport org.apache.flink.streaming.api.datastream.DataStream;\nimport org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;\nimport org.apache.flink.streaming.api.functions.source.SourceFunction;\nimport org.apache.flink.util.Collector;\nimport org.apache.hadoop.hbase.HBaseConfiguration;\nimport org.apache.hadoop.hbase.client.HTable;\nimport org.apache.hadoop.hbase.client.Put;\nimport org.apache.hadoop.hbase.util.Bytes;\n\n/**\n * \n * This is an example how to write streams into HBase. In this example the\n * stream will be written into a local Hbase but it is possible to adapt this\n * example for an HBase running in a cloud. You need a running local HBase with a\n * table \"flinkExample\" and a column \"entry\". If your HBase configuration does\n * not fit the hbase-site.xml in the resource folder then you gave to delete temporary this\n * hbase-site.xml to execute the example properly.\n * \n */\npublic class HBaseWriteStreamExample {\n\n\tpublic static void main(String[] args) {\n\t\tfinal StreamExecutionEnvironment env = StreamExecutionEnvironment\n\t\t\t\t.getExecutionEnvironment();\n\n\t\t// data stream with random numbers\n\t\tDataStream\u003cString\u003e dataStream = env.addSource(new SourceFunction\u003cString\u003e() {\n\t\t\tprivate static final long serialVersionUID = 1L;\n\n\t\t\tprivate volatile boolean isRunning = true;\n\n\t\t\t@Override\n\t\t\tpublic void run(Object checkpointLock, Collector\u003cString\u003e out) throws Exception {\n\t\t\t\twhile (isRunning) {\n\t\t\t\t\tout.collect(String.valueOf(Math.floor(Math.random() * 100)));\n\t\t\t\t}\n\n\t\t\t}\n\n\t\t\t@Override\n\t\t\tpublic void cancel() {\n\t\t\t\tisRunning = false;\n\t\t\t}\n\t\t});\n\t\tdataStream.write(new HBaseOutputFormat(), 0L);\n\n\t\ttry {\n\t\t\tenv.execute();\n\t\t} catch (Exception e) {\n\t\t\t// TODO Auto-generated catch block\n\t\t\te.printStackTrace();\n\t\t}\n\t}\n\n\t/**\n\t * \n\t * This class implements an OutputFormat for HBase\n\t *\n\t */\n\tprivate static class HBaseOutputFormat implements OutputFormat\u003cString\u003e {\n\n\t\tprivate org.apache.hadoop.conf.Configuration conf = null;\n\t\tprivate HTable table = null;\n\t\tprivate String taskNumber = null;\n\t\tprivate int rowNumber = 0;\n\n\t\tprivate static final long serialVersionUID = 1L;\n\n\t\t@Override\n\t\tpublic void configure(Configuration parameters) {\n\t\t\tconf = HBaseConfiguration.create();\n\t\t}\n\n\t\t@Override\n\t\tpublic void open(int taskNumber, int numTasks) throws IOException {\n\t\t\ttable = new HTable(conf, \"flinkExample\");\n\t\t\tthis.taskNumber = String.valueOf(taskNumber);\n\t\t}\n\n\t\t@Override\n\t\tpublic void writeRecord(String record) throws IOException {\n\t\t\tPut put = new Put(Bytes.toBytes(taskNumber + rowNumber));\n\t\t\tput.add(Bytes.toBytes(\"entry\"), Bytes.toBytes(\"entry\"),\n\t\t\t\t\tBytes.toBytes(rowNumber));\n\t\t\trowNumber++;\n\t\t\ttable.put(put);\n\t\t}\n\n\t\t@Override\n\t\tpublic void close() throws IOException {\n\t\t\ttable.flushCommits();\n\t\t\ttable.close();\n\t\t}\n\n\t}\n}\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230326161908-c9y1pmc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230326161908-c9y1pmc",
+				"updated": "20230326161908"
+			}
+		}
+	]
+}

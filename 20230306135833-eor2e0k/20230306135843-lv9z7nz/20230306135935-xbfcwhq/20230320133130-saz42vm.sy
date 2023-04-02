@@ -1,0 +1,698 @@
+{
+	"ID": "20230320133130-saz42vm",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "34-20e3",
+		"id": "20230320133130-saz42vm",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20230320133130-h8r0v0m\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230320133302-1fx7q1d\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230320133302-1fx7q1d\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
+		"title": "动态信号处理",
+		"title-img": "background-color: hsl(2, 57%, 40%);background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);",
+		"updated": "20230320142352"
+	},
+	"Children": [
+		{
+			"ID": "20230320133130-h8r0v0m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230320133130-h8r0v0m",
+				"updated": "20230320133248"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "动态信号概述"
+				}
+			]
+		},
+		{
+			"ID": "20230320133644-e7hwf6v",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230320133644-e7hwf6v",
+				"updated": "20230320133651"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "动态信号的特点"
+				}
+			]
+		},
+		{
+			"ID": "20230320133651-8u27h22",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230320133651-8u27h22",
+				"updated": "20230320133652"
+			},
+			"Children": [
+				{
+					"ID": "20230320133652-eduolif",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230320133652-eduolif",
+						"updated": "20230320133652"
+					},
+					"Children": [
+						{
+							"ID": "20230320133652-fdu0jw7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230320133652-fdu0jw7",
+								"updated": "20230320133700"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "随时间快速变化"
+								}
+							]
+						},
+						{
+							"ID": "20230320133711-vkjanh6",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230320133711-vkjanh6"
+							},
+							"Children": [
+								{
+									"ID": "20230320133708-nq3dmu9",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230320133708-nq3dmu9"
+									},
+									"Children": [
+										{
+											"ID": "20230320133708-m15wwcn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230320133708-m15wwcn",
+												"updated": "20230320133800"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "采样频率高，采样周期短，例如加速度信号属于典型的动态信号，而温度属于典型的静态信号"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230320133808-hlw16mr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230320133808-hlw16mr"
+									},
+									"Children": [
+										{
+											"ID": "20230320133808-i5v18nr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230320133808-i5v18nr",
+												"updated": "20230320133818"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "关注采样频率与频谱特征"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230320133903-qk55qdw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230320133903-qk55qdw",
+				"updated": "20230320133911"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "动态信号的采集"
+				}
+			]
+		},
+		{
+			"ID": "20230320133911-oh8mwdt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230320133911-oh8mwdt",
+				"updated": "20230320133913"
+			},
+			"Children": [
+				{
+					"ID": "20230320133913-uwhs92h",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230320133913-uwhs92h",
+						"updated": "20230320133913"
+					},
+					"Children": [
+						{
+							"ID": "20230320133913-wxd79n4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230320133913-wxd79n4",
+								"updated": "20230320133921"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "采集分析软件、采集仪、传感器"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230320134133-h5pjnus",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230320134133-h5pjnus",
+				"updated": "20230320134146"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "动态信号的分类"
+				}
+			]
+		},
+		{
+			"ID": "20230320135220-vptb1ji",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20230320135220-vptb1ji",
+				"updated": "20230320135643"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "graph TB  \nA(动态信号)---B(确定性信号)\nA---C(随机信号)\nB---D(周期信号)\nB---E(非周期信号)\nE---F(准周期信号)\nE---G(瞬态信号)\nC---H(非平稳随机信号)\nC---I(平稳随机信号)\nI---J(各态历经信号)\nI---K(非各态历经信号)"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20230320135714-0thapa3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230320135714-0thapa3",
+				"updated": "20230320135727"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "随机过程"
+				}
+			]
+		},
+		{
+			"ID": "20230320135740-a6a46j6",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230320135740-a6a46j6",
+				"updated": "20230320135741"
+			},
+			"Children": [
+				{
+					"ID": "20230320135741-63b6t3v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230320135741-63b6t3v",
+						"updated": "20230320135741"
+					},
+					"Children": [
+						{
+							"ID": "20230320135741-8c27rq6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230320135741-8c27rq6",
+								"updated": "20230320135754"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "针对某个任务进行测量时，所有样本的集合"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230320140415-ipz961r",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230320140415-ipz961r"
+					},
+					"Children": [
+						{
+							"ID": "20230320140415-r7fml4w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230320140415-r7fml4w",
+								"updated": "20230320140435"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自相关函数（Auto Correlation Function, ACF）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230320140620-xjlesf9",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230320140620-xjlesf9",
+				"updated": "20230320140632"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20230320140629-5f23hij",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230320140629-5f23hij",
+						"updated": "20230320140629"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "Autocorrelation"
+						},
+						{
+							"Type": "NodeText",
+							"Data": ", sometimes known as "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "serial correlation"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " in the "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Discrete_time",
+							"TextMarkATitle": "Discrete time",
+							"TextMarkTextContent": "discrete time"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " case, is the "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Correlation",
+							"TextMarkATitle": "Correlation",
+							"TextMarkTextContent": "correlation"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " of a "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Signal_(information_theory)",
+							"TextMarkTextContent": "signal"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " \"Signal (information theory)\") with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations of a "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Random_variable",
+							"TextMarkATitle": "Random variable",
+							"TextMarkTextContent": "random variable"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Periodic_signal",
+							"TextMarkATitle": "Periodic signal",
+							"TextMarkTextContent": "periodic signal"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " obscured by "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Noise_(signal_processing)",
+							"TextMarkTextContent": "noise"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " \"Noise (signal processing)\"), or identifying the "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Missing_fundamental_frequency",
+							"TextMarkATitle": "Missing fundamental frequency",
+							"TextMarkTextContent": "missing fundamental frequency"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " in a signal implied by its "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Harmonic",
+							"TextMarkATitle": "Harmonic",
+							"TextMarkTextContent": "harmonic"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " frequencies. It is often used in "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Signal_processing",
+							"TextMarkATitle": "Signal processing",
+							"TextMarkTextContent": "signal processing"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " for analyzing functions or series of values, such as "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Time_domain",
+							"TextMarkATitle": "Time domain",
+							"TextMarkTextContent": "time domain"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " signals."
+						}
+					]
+				},
+				{
+					"ID": "20230320140629-xwzlb9b",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230320140629-xwzlb9b",
+						"updated": "20230320140629"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "Different fields of study define autocorrelation differently, and not all of these definitions are equivalent. In some fields, the term is used interchangeably with "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Autocovariance",
+							"TextMarkATitle": "Autocovariance",
+							"TextMarkTextContent": "autocovariance"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "."
+						}
+					]
+				},
+				{
+					"ID": "20230320140629-ysvkz57",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230320140629-ysvkz57",
+						"updated": "20230320140629"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Unit_root",
+							"TextMarkATitle": "Unit root",
+							"TextMarkTextContent": "Unit root"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " processes, "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Trend-stationary_process",
+							"TextMarkATitle": "Trend-stationary process",
+							"TextMarkTextContent": "trend-stationary processes"
+						},
+						{
+							"Type": "NodeText",
+							"Data": ", "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Autoregressive_process",
+							"TextMarkATitle": "Autoregressive process",
+							"TextMarkTextContent": "autoregressive processes"
+						},
+						{
+							"Type": "NodeText",
+							"Data": ", and "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "a",
+							"TextMarkAHref": "https://en.wikipedia.org/wiki/Moving_average_process",
+							"TextMarkATitle": "Moving average process",
+							"TextMarkTextContent": "moving average processes"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " are specific forms of processes with autocorrelation."
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230320140632-kog53fl",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230320140632-kog53fl",
+				"updated": "20230320140939"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "各态历经过程"
+				}
+			]
+		},
+		{
+			"ID": "20230320140940-318r9vt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230320140940-318r9vt",
+				"updated": "20230320141004"
+			},
+			"Children": [
+				{
+					"ID": "20230320140943-gmy8wfb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230320140943-gmy8wfb",
+						"updated": "20230320141004"
+					},
+					"Children": [
+						{
+							"ID": "20230320140943-cywyh6i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230320140943-cywyh6i",
+								"updated": "20230320141004"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "平稳过程下，任意一个样本的时间平均值等于统计平均值"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230320133248-gbh92qg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230320133248-gbh92qg",
+				"updated": "20230320133251"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "数字信号采集"
+				}
+			]
+		},
+		{
+			"ID": "20230320133301-zlya8zs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230320133301-zlya8zs",
+				"updated": "20230320142143"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "信号处理"
+				}
+			]
+		},
+		{
+			"ID": "20230320142346-cx4tfh9",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230320142346-cx4tfh9",
+				"updated": "20230320142352"
+			},
+			"Children": [
+				{
+					"ID": "20230320142347-ntcaq5e",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230320142347-ntcaq5e",
+						"updated": "20230320142352"
+					},
+					"Children": [
+						{
+							"ID": "20230320142347-itf57gw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230320142347-itf57gw",
+								"updated": "20230320142352"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "采样、量化、混叠"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230320133252-rcgfsxz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230320133252-rcgfsxz",
+				"updated": "20230320133257"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "时域频域转化"
+				}
+			]
+		},
+		{
+			"ID": "20230320133302-1fx7q1d",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230320133302-1fx7q1d"
+			}
+		}
+	]
+}
