@@ -7,6 +7,7 @@
 		"id": "20210918095105-fkhorjh",
 		"title": "【2】荷载与荷载组合",
 		"title-img": "background-image:linear-gradient(to top, #fddb92 0%, #d1fdff 100%)",
+		"type": "doc",
 		"updated": "20210924112906"
 	},
 	"Children": [
@@ -1163,8 +1164,7 @@
 													"TextMarkInlineMathContent": "Q_c=\\psi_cQ_k"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}
@@ -1199,8 +1199,7 @@
 													"TextMarkInlineMathContent": "Q_f=\\psi_fQ_k"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}
@@ -2499,8 +2498,7 @@
 													"TextMarkInlineMathContent": "V_b=0.94v_0"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}
@@ -2922,8 +2920,7 @@
 																	"TextMarkInlineMathContent": "S\\leq R/\\gamma_{RE}"
 																},
 																{
-																	"Type": "NodeText",
-																	"Data": "\n"
+																	"Type": "NodeText"
 																}
 															]
 														}
@@ -3023,8 +3020,7 @@
 																	"TextMarkInlineMathContent": "\\gamma_0S\\leq R"
 																},
 																{
-																	"Type": "NodeText",
-																	"Data": "\n"
+																	"Type": "NodeText"
 																}
 															]
 														}

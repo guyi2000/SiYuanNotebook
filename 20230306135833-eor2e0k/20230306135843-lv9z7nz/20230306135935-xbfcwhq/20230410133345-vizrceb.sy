@@ -1,0 +1,23 @@
+{
+	"ID": "20230410133345-vizrceb",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "35-20e3",
+		"id": "20230410133345-vizrceb",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230410133345-vizrceb\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230410133358-y6ty1j3\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230410133358-y6ty1j3\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230410133358-y6ty1j3\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "模型修正与结构评估",
+		"title-img": "background-color: #026873;background-image: linear-gradient(90deg, rgba(255,255,255,.07) 50%, transparent 50%),linear-gradient(90deg, rgba(255,255,255,.13) 50%, transparent 50%),linear-gradient(90deg, transparent 50%, rgba(255,255,255,.17) 50%),linear-gradient(90deg, transparent 50%, rgba(255,255,255,.19) 50%);background-size: 13px, 29px, 37px, 53px;",
+		"updated": "20230410133635"
+	},
+	"Children": [
+		{
+			"ID": "20230410133358-y6ty1j3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230410133358-y6ty1j3",
+				"updated": "20230410133635"
+			}
+		}
+	]
+}

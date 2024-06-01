@@ -8,6 +8,7 @@
 		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20210926152123-wa0y7t1\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20211005161417-iexq6fi\u0026quot;,\u0026quot;scrollTop\u0026quot;:3197,\u0026quot;focusId\u0026quot;:\u0026quot;20210926152332-ou1ppx4\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
 		"title": "【2】平面问题的基本理论",
 		"title-img": "background-image:linear-gradient(to top, #96fbc4 0%, #f9f586 100%)",
+		"type": "doc",
 		"updated": "20211012154804"
 	},
 	"Children": [
@@ -722,8 +723,7 @@
 													"TextMarkInlineMathContent": "\\sigma_x, \\sigma_y, \\tau_{xy}=\\tau_{yx}"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}
@@ -843,8 +843,7 @@
 									"TextMarkInlineMathContent": "\\tau_{zx}=\\tau_{zy}=0"
 								},
 								{
-									"Type": "NodeText",
-									"Data": "\n"
+									"Type": "NodeText"
 								}
 							]
 						}
@@ -1763,8 +1762,7 @@
 					"TextMarkInlineMathContent": "\\sigma_z=0"
 				},
 				{
-					"Type": "NodeText",
-					"Data": "\n"
+					"Type": "NodeText"
 				}
 			]
 		},
@@ -1833,8 +1831,7 @@
 					"TextMarkInlineMathContent": "\\varepsilon_z=0"
 				},
 				{
-					"Type": "NodeText",
-					"Data": "\n"
+					"Type": "NodeText"
 				}
 			]
 		},
@@ -2178,8 +2175,7 @@
 					"TextMarkInlineMathContent": "u_s=\\bar u, v_s=\\bar v"
 				},
 				{
-					"Type": "NodeText",
-					"Data": "\n"
+					"Type": "NodeText"
 				}
 			]
 		},
@@ -2522,8 +2518,7 @@
 													"TextMarkInlineMathContent": "u=0, v=0"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}
@@ -2558,8 +2553,7 @@
 									"TextMarkInlineMathContent": "\\displaystyle y=\\frac{h}{2}"
 								},
 								{
-									"Type": "NodeText",
-									"Data": "\n"
+									"Type": "NodeText"
 								}
 							]
 						},
@@ -2596,8 +2590,7 @@
 													"TextMarkInlineMathContent": "\\sigma_y=0, \\tau_{yx}=0"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}
@@ -2632,8 +2625,7 @@
 									"TextMarkInlineMathContent": "\\displaystyle y=-\\frac{h}{2}"
 								},
 								{
-									"Type": "NodeText",
-									"Data": "\n"
+									"Type": "NodeText"
 								}
 							]
 						},
@@ -2670,8 +2662,7 @@
 													"TextMarkInlineMathContent": "\\sigma_y=-q, \\tau_{yx}=0"
 												},
 												{
-													"Type": "NodeText",
-													"Data": "\n"
+													"Type": "NodeText"
 												}
 											]
 										}

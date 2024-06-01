@@ -1,0 +1,118 @@
+{
+	"ID": "20231114142207-0usfas0",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20231114142207-0usfas0",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20231114142207-0usfas0\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20231114142207-bnma7kl\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20231114142350-5r7dnwo\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20231114142350-5r7dnwo\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "Translation \u0026amp; polish",
+		"updated": "20231213163809"
+	},
+	"Children": [
+		{
+			"ID": "20231114142207-bnma7kl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231114142207-bnma7kl",
+				"updated": "20231114142306"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If you want to translate something, you can use some prompts like"
+				}
+			]
+		},
+		{
+			"ID": "20231114142318-c3x35fm",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20231114142318-c3x35fm",
+				"updated": "20231114142334"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20231114142329-q8g21bw",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20231114142329-q8g21bw",
+						"updated": "20231114142334"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more scientific and academic English words and sentences. Keep the meaning same, but make them more academic. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first paragraph is"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20231114142335-3uevivx",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20231114142335-3uevivx",
+				"updated": "20231114142340"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20231114142337-pr7h3jm",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20231114142337-pr7h3jm",
+						"updated": "20231114142340"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "You are a professional academic paper translator.\nBelow is a section from a Chinese academic paper, translate it into English."
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20231114142340-oup2emh",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20231114142340-oup2emh",
+				"updated": "20231114142436"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20231114142348-vjkp9tr",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20231114142348-vjkp9tr",
+						"updated": "20231114142436"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "You are a professional academic paper writer. I want you to only reply the correction, the improvements and nothing else, do not write explanations.\nBelow is a section from an academic paper, polish this section to meet the academic standard, improve the grammar, clarity and overall readability. Try to avoid using words like \"we\" \"I\", and use passive voice instead."
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20231114142350-5r7dnwo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231114142350-5r7dnwo"
+			}
+		}
+	]
+}

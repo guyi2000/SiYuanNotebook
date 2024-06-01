@@ -1,0 +1,154 @@
+{
+	"ID": "20240421225113-i7ykf8v",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240421225113-i7ykf8v",
+		"title": "复制",
+		"type": "doc",
+		"updated": "20240421225305"
+	},
+	"Children": [
+		{
+			"ID": "20240421225113-8j0ahs5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240421225113-8j0ahs5",
+				"updated": "20240421225201"
+			},
+			"Children": [
+				{
+					"ID": "20240421225201-uu621ie",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240421225201-uu621ie",
+						"updated": "20240421225201"
+					},
+					"Children": [
+						{
+							"ID": "20240421225201-82oi8ox",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240421225201-82oi8ox",
+								"updated": "20240421225201"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用以下命令复制小文件"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240421225136-i9wk78k",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240421225136-i9wk78k",
+				"style": "line-height: 23px;",
+				"updated": "20240421225256"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "tar cf - \u003csrc\u003e | tar xf - -C \u003cdst\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240421225157-mpsfh8m",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240421225157-mpsfh8m",
+				"updated": "20240421225203"
+			},
+			"Children": [
+				{
+					"ID": "20240421225203-kq5hu82",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240421225203-kq5hu82",
+						"updated": "20240421225203"
+					},
+					"Children": [
+						{
+							"ID": "20240421225203-blfj7j7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240421225203-blfj7j7",
+								"updated": "20240421225232"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用以下命令克隆文件目录，并显示整体进度"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240421225232-wvds463",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240421225232-wvds463",
+				"style": "line-height: 23px;",
+				"updated": "20240421225255"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "rsync -az --partial --info=progress2 \u003csrc\u003e \u003cdst\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240421225305-usr9rra",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240421225305-usr9rra"
+			}
+		}
+	]
+}

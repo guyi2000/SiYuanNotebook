@@ -1,0 +1,80 @@
+{
+	"ID": "20240415141309-9w3fic9",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240415141309-9w3fic9",
+		"title": "Install CUDA locally",
+		"type": "doc",
+		"updated": "20240415145608"
+	},
+	"Children": [
+		{
+			"ID": "20240415145533-veiyw53",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415145533-veiyw53",
+				"updated": "20240415145608"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "You can use "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "install_cuda.sh"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ from "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "bitsandbytes"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ package."
+				}
+			]
+		},
+		{
+			"ID": "20240415141309-1jzkgnj",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240415141309-1jzkgnj",
+				"style": "line-height: 23px;",
+				"updated": "20240415145337"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "wget https://raw.githubusercontent.com/TimDettmers/bitsandbytes/main/install_cuda.sh\nbash install_cuda.sh 124 ~/local 0\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240415145500-cmy26f2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415145500-cmy26f2"
+			}
+		}
+	]
+}

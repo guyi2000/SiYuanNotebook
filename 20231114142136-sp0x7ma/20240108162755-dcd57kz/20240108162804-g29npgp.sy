@@ -1,0 +1,42 @@
+{
+	"ID": "20240108162804-g29npgp",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240108162804-g29npgp",
+		"title": "查看文献条目所属分类",
+		"updated": "20240108171131"
+	},
+	"Children": [
+		{
+			"ID": "20240108162804-jz6g4d5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240108162804-jz6g4d5",
+				"updated": "20240108162941"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "长按 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Ctrl"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 即可"
+				}
+			]
+		},
+		{
+			"ID": "20240108171131-zatx9ig",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240108171131-zatx9ig"
+			}
+		}
+	]
+}

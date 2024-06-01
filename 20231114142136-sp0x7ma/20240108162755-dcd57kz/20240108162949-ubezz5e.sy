@@ -1,0 +1,71 @@
+{
+	"ID": "20240108162949-ubezz5e",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240108162949-ubezz5e",
+		"title": "获取属于多个分类的文献条目",
+		"updated": "20240108182958"
+	},
+	"Children": [
+		{
+			"ID": "20240108162949-f9fwlhn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240108162949-f9fwlhn",
+				"updated": "20240108163037"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "利用 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "zotero.sqlite"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 数据库，连接该数据库，输入如下查询命令："
+				}
+			]
+		},
+		{
+			"ID": "20240108163037-ihzlu76",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240108163037-ihzlu76",
+				"style": "line-height: 23px;",
+				"updated": "20240108182958"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "U1FM"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "SELECT valueID, value, itemCount                     -- 获取 valueID 对应的值（标题）及重复次数\nFROM itemDataValues\nJOIN (\n    SELECT valueID AS ID2, itemCount                 -- 获取 item 对应字段 的 valueID\n    FROM itemData\n    JOIN (\n        SELECT itemID AS ID1, COUNT(*) AS itemCount  -- 计算一个条目的 collections 数量\n        FROM collectionItems\n        GROUP BY itemID                              -- 计算一个条目的 collections 数量\n        HAVING itemCount \u003e 1                         -- 大于 1 即属于多个分类\n    )\n    ON itemData.itemID=ID1\n    WHERE fieldID=1                                  -- fieldID=1 为 title 字段\n)\nON itemDataValues.valueID=ID2;\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240108163054-wvfy5s5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240108163054-wvfy5s5",
+				"updated": "20240108170248"
+			}
+		}
+	]
+}

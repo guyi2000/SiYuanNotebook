@@ -1,0 +1,22 @@
+{
+	"ID": "20240329162853-v083hio",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1fa9f",
+		"id": "20240329162853-v083hio",
+		"title": "Windows",
+		"type": "doc",
+		"updated": "20240329162858"
+	},
+	"Children": [
+		{
+			"ID": "20240329162853-dy0zt1c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240329162853-dy0zt1c",
+				"updated": "20240329162853"
+			}
+		}
+	]
+}

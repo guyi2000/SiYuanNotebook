@@ -1,0 +1,61 @@
+{
+	"ID": "20240319140406-1e62to2",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240319140406-1e62to2",
+		"title": "Add Vim line number",
+		"updated": "20240319140616"
+	},
+	"Children": [
+		{
+			"ID": "20240319140406-xh6vyd8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240319140406-xh6vyd8",
+				"updated": "20240319140441"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "In normal state, use the command below"
+				}
+			]
+		},
+		{
+			"ID": "20240319140441-or1mj9l",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240319140441-or1mj9l",
+				"style": "line-height: 23px;",
+				"updated": "20240319140615"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": ":set nu\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240319140616-llra0yf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240319140616-llra0yf"
+			}
+		}
+	]
+}

@@ -1,0 +1,1754 @@
+{
+	"ID": "20240311143359-enp12do",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240311143359-enp12do",
+		"title": "What makes an image realistic?",
+		"updated": "20240311192628"
+	},
+	"Children": [
+		{
+			"ID": "20240311143541-2se12u2",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20240311143541-2se12u2",
+				"updated": "20240311143615"
+			},
+			"Children": [
+				{
+					"ID": "20240311143615-j2vf9eq",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311143615-j2vf9eq",
+						"updated": "20240311143615"
+					},
+					"Children": [
+						{
+							"ID": "20240311143615-3hmvx09",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311143615-3hmvx09",
+								"updated": "20240311143625"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "讨论模型生成图片的结果是否合理",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311143626-2565xwn",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311143626-2565xwn",
+						"updated": "20240311143626"
+					},
+					"Children": [
+						{
+							"ID": "20240311143626-yxt3b1l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311143626-yxt3b1l",
+								"updated": "20240311143651"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "可以用于生成结果的评价、数据集对生成结果影响的讨论",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311143724-peugrxw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20240311143724-peugrxw",
+				"updated": "20240311143731"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "要点",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311143733-8au6410",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20240311143733-8au6410",
+				"updated": "20240311152351"
+			},
+			"Children": [
+				{
+					"ID": "20240311143734-7ubiwpz",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311143734-7ubiwpz",
+						"updated": "20240311152351"
+					},
+					"Children": [
+						{
+							"ID": "20240311143734-6d17ym0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311143734-6d17ym0",
+								"updated": "20240311152351"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "量化逼真度（",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "em strong",
+									"TextMarkTextContent": "quantifying"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " realism）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311143759-00r1wwo",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311143759-00r1wwo",
+						"updated": "20240311143759"
+					},
+					"Children": [
+						{
+							"ID": "20240311143759-678jia7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311143759-678jia7",
+								"updated": "20240311143900"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "算法信息论（algorithmic information theory）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311143957-xc3v5jg",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311143957-xc3v5jg",
+						"updated": "20240311143957"
+					},
+					"Children": [
+						{
+							"ID": "20240311143957-fb9o06b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311143957-fb9o06b",
+								"updated": "20240311144016"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "为什么这个问题具有挑战性，以及为什么仅有好的生成模型不足以解决这个问题",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311143918-4lq2jvj",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311143918-4lq2jvj",
+						"updated": "20240311143918"
+					},
+					"Children": [
+						{
+							"ID": "20240311143918-sunt1yn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311143918-sunt1yn",
+								"updated": "20240311143927"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通用判断（universal critic）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311144020-6i4rzpr",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20240311144020-6i4rzpr",
+				"updated": "20240311144026"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Introduction",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311144026-od03r8z",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20240311144026-od03r8z",
+				"updated": "20240311192146"
+			},
+			"Children": [
+				{
+					"ID": "20240311144147-b894crm",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311144147-b894crm",
+						"updated": "20240311144147"
+					},
+					"Children": [
+						{
+							"ID": "20240311144147-gikdso1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311144147-gikdso1",
+								"updated": "20240311144306"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "人类可以检测出图像或是其他感官数据中的缺陷，但在机器学习的各种任务中，没有一种具有鲁棒性的损失函数可以用以区分不真实的图像，并且目前还没有广为接受的真实度的正式概念",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311144307-fs44xvj",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311144307-fs44xvj",
+						"updated": "20240311144307"
+					},
+					"Children": [
+						{
+							"ID": "20240311144307-c2naj4s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311144307-c2naj4s",
+								"updated": "20240311144556"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "我们想要找一个实值函数 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "U(\\mathbf x)"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "，当数据 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf x"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 是真实的，函数值就较小，反之，函数值较大",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311144449-3txggr8",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311144449-3txggr8",
+						"updated": "20240311144449"
+					},
+					"Children": [
+						{
+							"ID": "20240311144449-5bhta6b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311144449-5bhta6b",
+								"updated": "20240311144612"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "这里的 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf x"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 可以是单张图像、一组图像或是视频。也可以是其他类型的数据，例如任意长度的文本或更加广泛意义上服从某种分布 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "P"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 的数据",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311144553-obuk2m0",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311144553-obuk2m0",
+						"updated": "20240311144553"
+					},
+					"Children": [
+						{
+							"ID": "20240311144553-7kyi4qr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311144553-7kyi4qr",
+								"updated": "20240311144725"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "这个函数可能在多个领域都有应用，但目前在该领域还没有构建这个函数的秘诀",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311144744-ckufo1j",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311144744-ckufo1j",
+						"updated": "20240311192146"
+					},
+					"Children": [
+						{
+							"ID": "20240311144744-fb5ra63",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311144744-fb5ra63",
+								"updated": "20240311192146"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "虽然在检测假的示例方面取得了一些进展，但是在设计对优化（对于涉及生成的任务）中并不那么成功，后一个问题要难得多，因为函数不仅要检测有限的 artefacts，还需要预测优化过程中可能遇到的任何不切实际的例子。函数设计中的弱点往往只有在我们开始优化时才会暴露出来。使问题更加复杂的是，优化取决于 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "U"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 本身。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311145038-l7k5cs2",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311145038-l7k5cs2",
+						"updated": "20240311145559"
+					},
+					"Children": [
+						{
+							"ID": "20240311145038-11nivja",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311145038-11nivja",
+								"updated": "20240311145559"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "举一个更加具体的例子，考虑一个有损压缩任务，如果 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf x=g(\\mathbf z)"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 是一个神经网络的输出，我们可能希望找到 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf z"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "，使得 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "R(\\mathbf z)+\\alpha d(\\mathbf x, \\mathbf x^*) +\\beta U(\\mathbf x)"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 尽可能小。其中，",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "d"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 衡量了与目标照片 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf x^*"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 的距离，",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "R"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 是 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf z"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 编码需要的比特数。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311145621-khnywlo",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311145621-khnywlo",
+						"updated": "20240311145621"
+					},
+					"Children": [
+						{
+							"ID": "20240311145621-xhz5t29",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311145621-xhz5t29",
+								"updated": "20240311145800"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在本文中，我们将认为，如果 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf x"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 看起来是某种特定方式产生的，那么他就是现实的，（或者说 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "\\mathbf x"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 是某种分布 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "inline-math",
+									"TextMarkInlineMathContent": "P"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 的可信样本）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240311145802-cs5wcpy",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311145802-cs5wcpy",
+						"updated": "20240311145802"
+					},
+					"Children": [
+						{
+							"ID": "20240311145802-04uklxe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311145802-04uklxe",
+								"updated": "20240311150026"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "上文讨论的现实常常被称为感知质量（perceptual quality）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311150720-q1wfizo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20240311150720-q1wfizo",
+				"updated": "20240311150731"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "概率与典型性",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311145559-bj6gy2y",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20240311145559-bj6gy2y",
+				"updated": "20240311150807"
+			},
+			"Children": [
+				{
+					"ID": "20240311150807-6uizhwv",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20240311150807-6uizhwv",
+						"updated": "20240311150807"
+					},
+					"Children": [
+						{
+							"ID": "20240311150807-rtp4ria",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240311150807-rtp4ria",
+								"updated": "20240311150847"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在机器学习中讨论真实性的两种最常见的尝试，基于概率及典型性，以及这两者为什么失败",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311150848-x58u3wx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20240311150848-x58u3wx",
+				"updated": "20240311150851"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "概率",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311150852-gl9crdg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311150852-gl9crdg",
+				"updated": "20240311192431"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    如果 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 是离散的，那么很自然的要考虑它在 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 下的概率来确定它是否是 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的现实案例。因为，如果 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的概率很低，那么它似乎就不太可能来自于 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。这种直觉在机器学习中很普遍，例如无监督的异常检测通常将异常定义为在正态分布下具有低概率或密度的数据点，其中概率通常在某些特征空间中测量。概率密度也经常被最大化，拭图让合成图像走向更真实。但是我们可以考虑下面一个问题。"
+				}
+			]
+		},
+		{
+			"ID": "20240311151130-d2xkxg4",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20240311151130-d2xkxg4",
+				"updated": "20240311192443"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20240311151348-trq1p7r",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20240311151348-trq1p7r",
+						"updated": "20240311151816"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "strong u",
+							"TextMarkTextContent": "Example 1"
+						}
+					]
+				},
+				{
+					"ID": "20240311151811-xgu0e9x",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20240311151811-xgu0e9x",
+						"updated": "20240311192443"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "我们编写一个独立且几乎无偏的硬币抛掷程序，"
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "\\mathbf x^N=(x_1, \\dots, x_N)"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 且 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "P(x_n=1)=0.5 + \\varepsilon"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 其中 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "\\varepsilon\u003e0"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 且很小。对于特别大的 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "N"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，我们可以期待这个程序会导致出现 1 的数量趋向于 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "N/2"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，但是我们如果我们抛出一个全是 1 的序列，我们会怀疑编写的程序出现了 bug，但这个序列其实是"
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "最有可能"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的序列（概率最大）"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311151747-5wkfpnk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311151747-5wkfpnk",
+				"updated": "20240311192550"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    示例 1 表明最大化 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P(\\mathbf x)"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 可能会导致不切实际的结果。并且也表明 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P(\\mathbf x)"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 不会监测到程序只输出 1 的错误。如果我们计算 1 的数量，令 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "k=\\sum_{n=1}^N x_n"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，并测量 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "k"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的概率，我们就可以检测到这个错误。这是否意味着我们只需要找到正确的 features？通过忽略数据的某些方面，我们可能无法检测到不切实际的示例。因此，我们可能会得出这样的结论：只要测试足够多的 features 就可以了。但是，这种方法还是会遇到麻烦。比如我们考虑测试 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 是否在偶数位置有 1，在奇数位置有 0，"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x=0101..01"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，该序列的概率约为 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "2^{-N}"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，因此我们如果碰巧观察到它，我们会用很高的置信度咀嚼它。然而，由于所有的序列都具有大致相同的概率，因此如果我们测试这种类型的所有特征，我们将拒绝每一个序列，因为他们都不切实际。"
+				}
+			]
+		},
+		{
+			"ID": "20240311152558-m9jxwc1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311152558-m9jxwc1",
+				"updated": "20240311152627"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    如果使用密度而不是概率还会带来额外的挑战，即我们的答案取决于数据的参数化。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311152629-wlm0tby",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20240311152629-wlm0tby",
+				"updated": "20240311152715"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "弱典型性",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311152230-8sgbaab",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311152230-8sgbaab",
+				"updated": "20240311153323"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    随机序列的渐进均分性（asymptotic equipartitioin property, AEP）说明，如果 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x^N=(x_1, \\dots, x_N)"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 是一个服从 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的独立同分布随机变量序列，那么几乎肯定有",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311153122-h0eflyg",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20240311153122-h0eflyg",
+				"updated": "20240311153311"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\lim_{N\\rightarrow \\infty} -\\frac{1}{N}\\log P(x_1, \\dots, x_N)=H[x_n]",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311153250-g5ndfdd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311153250-g5ndfdd",
+				"updated": "20240311153412"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    其中 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "H[x_n]"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 是 P 的熵。并且其典型集定义为",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311153413-mhyj8hg",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20240311153413-mhyj8hg",
+				"updated": "20240311153725"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "A_\\delta^N=\\left\\{ \\mathbf x:\\left| -\\frac{1}{N} \\log P\\left(\\mathbf x^N\\right) - H\\left[\\mathbf x_n\\right]\\right| \u003c\\delta\\right\\}",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20240311153725-g264kcf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311153725-g264kcf",
+				"updated": "20240311192302"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    该集合中的元素被认为是弱典型的，AEP 意味着，随着 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "N"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的增加，在任意 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\delta \u003e 0"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的情况下，随机抽取的序列包含在典型集合 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "A_\\delta^N"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的概率接近 1"
+				}
+			]
+		},
+		{
+			"ID": "20240311154006-ie8jw4y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311154006-ie8jw4y",
+				"updated": "20240311192607"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    也就是说，一个现实的序列很可能的典型的。上述内容表明，我们不应该期望概率很大，而应该期望现实的 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的负对数概率接近熵，或概率大致为 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "2^{-H[x]}"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，尤其是当 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 是高维时，因此，"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "|-\\log P(\\mathbf x)-H[\\mathbf x]|"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 似乎是衡量现实性的一个很好的指标。但是遗憾的是，其实并不行。"
+				}
+			]
+		},
+		{
+			"ID": "20240311154319-ceyg8fx",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20240311154319-ceyg8fx",
+				"updated": "20240311154703"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20240311154322-1c8bdgu",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20240311154322-1c8bdgu",
+						"updated": "20240311154332"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "strong u",
+							"TextMarkTextContent": "Example 2"
+						}
+					]
+				},
+				{
+					"ID": "20240311154329-5r8ix15",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20240311154329-5r8ix15",
+						"updated": "20240311154703"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "再考虑一连串独立的抛硬币。如果硬币是无偏的，那么任何序列的对数概率就是熵，及 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "-\\log_2P(\\mathbf x^N)=N"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。换句话说，再这种情况下，典型集包含每一个序列。是否意味着每次抛硬币的顺序都是现实的？显然，在某种意义上，序列 0000000000 不如 1100010100 现实。这并没有被弱典型性判断出来。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311153841-ot496ja",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20240311153841-ot496ja",
+				"updated": "20240311192628"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20240311154705-7wqzenn",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20240311154705-7wqzenn",
+						"updated": "20240311154717"
+					},
+					"Children": [
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong u",
+							"TextMarkTextContent": "Example 3"
+						}
+					]
+				},
+				{
+					"ID": "20240311154714-c9dfogn",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20240311154714-c9dfogn",
+						"updated": "20240311192628"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "再比如，考虑一个各向同行的高斯分布，其概率密度 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "p(\\mathbf x) \\propto \\exp(- ||\\mathbf x||^2)"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。随机样本的负对数密度很有可能接近微分熵，这相当于范数 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "||\\mathbf x||"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 取一个特定值。虽然我们希望分布中的实际示例看起来像不相关的噪声，但针对典型性进行优化只会限制范数。如果 "
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "inline-math",
+							"TextMarkInlineMathContent": "\\mathbf x"
+						},
+						{
+							"Type": "NodeText",
+							"Data": " 代表图像，那么我们的优化只会调整其"
+						},
+						{
+							"Type": "NodeTextMark",
+							"TextMarkType": "strong",
+							"TextMarkTextContent": "对比度"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，但不会像人们希望的那样对像素进行去相关。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240311154712-ic9crri",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311154712-ic9crri",
+				"updated": "20240311192342"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    弱典型性可能是现实性的必要条件，但并不充分。换言之，典型集合包含了我们关心的现实序列，但也包含了许多不现实的序列。比如无偏的掷硬币长序列，但所有结果都是正面。概率和典型性都不能作为衡量现实性的标准，因为它们解决的是错误的问题。它们假设 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 具有分布 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "，来推导出一些结果。但是我们不能做出这个假设，因为 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 是否遵循 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 正是我们要回答的问题。也就是说，我们对给定 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的概率（或典型性）不感兴趣，而是对给定 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "\\mathbf x"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的概率感兴趣。"
+				}
+			]
+		},
+		{
+			"ID": "20240311155547-yusyt4x",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20240311155547-yusyt4x",
+				"updated": "20240311155616"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "散度"
+				}
+			]
+		},
+		{
+			"ID": "20240311155618-frtlv3b",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311155618-frtlv3b",
+				"updated": "20240311192221"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    更成功的现实评价概念是基于真实数据分布 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 和要判断的分布 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "Q"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 之间的散度。根据我们对现实性的直观理解，如果散度为 0，则 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的样本和 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "inline-math",
+					"TextMarkInlineMathContent": "Q"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " 的样本无法区分。在弑应用中，使用对抗损失训练的生成对抗网络显著提高了生成图像的感知质量。对于生成图像的评估，FID距离也成为了首选方法。"
+				}
+			]
+		},
+		{
+			"ID": "20240311155923-q6d51xs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311155923-q6d51xs",
+				"updated": "20240311155937"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    对抗损失给出了散度的下界。"
+				}
+			]
+		},
+		{
+			"ID": "20240311161049-qnbe5j8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240311161049-qnbe5j8"
+			}
+		}
+	]
+}

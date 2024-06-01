@@ -1,0 +1,155 @@
+{
+	"ID": "20240329162920-m8dnj4u",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240329162920-m8dnj4u",
+		"title": "xargs in Windows",
+		"type": "doc",
+		"updated": "20240417132902"
+	},
+	"Children": [
+		{
+			"ID": "20240329162920-rfmml1j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240329162920-rfmml1j",
+				"updated": "20240329163049"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "When in Windows Terminal, you can use"
+				}
+			]
+		},
+		{
+			"ID": "20240329163050-bvb6t2b",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240329163050-bvb6t2b",
+				"style": "line-height: 23px;",
+				"updated": "20240329163255"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmF0"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "FOR /F \"usebackq tokens=*\" %a IN (`\u003ccommand1\u003e`) DO \u003ccommand2\u003e %a\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240329163152-rskn3y5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240329163152-rskn3y5",
+				"updated": "20240329163159"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "When in bat file, you can use"
+				}
+			]
+		},
+		{
+			"ID": "20240329163200-cdv4xq5",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240329163200-cdv4xq5",
+				"style": "line-height: 23px;",
+				"updated": "20240329163301"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmF0"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "FOR /F \"usebackq tokens=*\" %%a IN (`\u003ccommand1\u003e`) DO \u003ccommand2\u003e %%a\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240329163212-z3teuxm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240329163212-z3teuxm",
+				"updated": "20240329163242"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "For example, when you wanted to change the config file of "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "cheat"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​, you can use the following command:"
+				}
+			]
+		},
+		{
+			"ID": "20240329163243-xchia25",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240329163243-xchia25",
+				"style": "line-height: 23px;",
+				"updated": "20240329163319"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmF0"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "FOR /F \"usebackq tokens=*\" %a IN (`cheat --conf`) DO vim %a\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240329163321-qjpy6qj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240329163321-qjpy6qj"
+			}
+		}
+	]
+}

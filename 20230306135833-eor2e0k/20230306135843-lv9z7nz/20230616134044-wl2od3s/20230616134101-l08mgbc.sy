@@ -1,0 +1,443 @@
+{
+	"ID": "20230616134101-l08mgbc",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230616134101-l08mgbc",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230616134101-l08mgbc\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230616134116-ra57buk\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230616153839-1roxg84\u0026quot;,\u0026quot;scrollTop\u0026quot;:42,\u0026quot;focusId\u0026quot;:\u0026quot;20230616153839-1roxg84\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "2023-06-16 讨论",
+		"updated": "20230616160040"
+	},
+	"Children": [
+		{
+			"ID": "20230616134116-ra57buk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230616134116-ra57buk",
+				"updated": "20230616160040"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "数据介绍"
+				}
+			]
+		},
+		{
+			"ID": "20230616134122-g2zkni6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230616134122-g2zkni6",
+				"updated": "20230616151557"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "比较好的1000个用户数据"
+				}
+			]
+		},
+		{
+			"ID": "20230616151558-ybhbiuu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230616151558-ybhbiuu",
+				"updated": "20230616151902"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "两个区域的数据、京津冀地区（配合度高，给大家发的两个副本功率，处理这种形式的数据为主、客户名、每15分钟一个点的功率，从10月到现在，项目为新电塔服务，完整的一年15分钟的数据）、浙江地区500户（浙江地区的数据变化比较大，需要下周一的时候和这家公司专门负责对接数据的）（每个月的用电量的数据）"
+				}
+			]
+		},
+		{
+			"ID": "20230616151907-iv0anb2",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230616151907-iv0anb2",
+				"updated": "20230616152048"
+			},
+			"Children": [
+				{
+					"ID": "20230616151908-tszq10w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616151908-tszq10w",
+						"updated": "20230616152048"
+					},
+					"Children": [
+						{
+							"ID": "20230616151908-bbr114q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616151908-bbr114q",
+								"updated": "20230616152048"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "京津冀用户数据的分析（比较有条理、数据质量高）基本是单用户的数据。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616151931-2othjmt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616151931-2othjmt",
+						"updated": "20230616152038"
+					},
+					"Children": [
+						{
+							"ID": "20230616151931-5m6bmju",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616151931-5m6bmju",
+								"updated": "20230616152038"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "下周一和浙江公司交流后（初期的数据预处理与后续分析）将用户作为群体，进行月度用电预测"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230616152053-fkdqh99",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230616152053-fkdqh99",
+				"updated": "20230616152121"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "虚拟电厂"
+				}
+			]
+		},
+		{
+			"ID": "20230616152141-e9civvr",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230616152141-e9civvr",
+				"updated": "20230616152224"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "什么是虚拟电厂"
+				}
+			]
+		},
+		{
+			"ID": "20230616152205-t45q5ux",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230616152205-t45q5ux",
+				"updated": "20230616152232"
+			},
+			"Children": [
+				{
+					"ID": "20230616152232-alfzkey",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616152232-alfzkey",
+						"updated": "20230616152232"
+					},
+					"Children": [
+						{
+							"ID": "20230616152232-t7dfmn1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616152232-t7dfmn1",
+								"updated": "20230616152415"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "虚拟电厂平台--\u003e接入分布式资源，如果电网有需求，如何去优化资源，获得最大的利益"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616152423-cuwaa4i",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616152423-cuwaa4i"
+					},
+					"Children": [
+						{
+							"ID": "20230616152423-nbglij4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616152423-nbglij4",
+								"updated": "20230616152454"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "技术性虚拟电厂、商业型虚拟电厂：需求响应虚拟电厂、供应侧虚拟电厂、混合型虚拟电厂"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616152535-aet5ysh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616152535-aet5ysh"
+					},
+					"Children": [
+						{
+							"ID": "20230616152535-ks2bepw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616152535-ks2bepw",
+								"updated": "20230616152615"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "要想开展虚拟电厂业务、需要控制用户侧的负荷，因此需要预测用户侧负荷。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616152728-bjz6p0e",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616152728-bjz6p0e"
+					},
+					"Children": [
+						{
+							"ID": "20230616152728-70ixsk2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616152728-70ixsk2",
+								"updated": "20230616152914"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "日前邀约（预测第二天的负荷）、日内邀约（实时的响应，超短时的负荷预测）、预测月度整个用户群体的用能量（虚拟电厂买卖的预测）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230616153119-vmja9ce",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230616153119-vmja9ce",
+				"updated": "20230616153128"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "项目考察点"
+				}
+			]
+		},
+		{
+			"ID": "20230616153129-2mwqahb",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230616153129-2mwqahb",
+				"updated": "20230616153836"
+			},
+			"Children": [
+				{
+					"ID": "20230616153130-veryw9d",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616153130-veryw9d",
+						"updated": "20230616153130"
+					},
+					"Children": [
+						{
+							"ID": "20230616153130-5qz7vqa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616153130-5qz7vqa",
+								"updated": "20230616153316"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "分解分析：气候相关负荷的比例与特性（哪一类负荷与气候比较相关，中间可能有20%与气候相关，80%与气候相关）有些家是有太阳能的，光伏和储能。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616153515-76lp2bl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616153515-76lp2bl"
+					},
+					"Children": [
+						{
+							"ID": "20230616153515-5qkak87",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616153515-5qkak87",
+								"updated": "20230616153537"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "算法：论文复现+创新"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616153524-wzklkm1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616153524-wzklkm1"
+					},
+					"Children": [
+						{
+							"ID": "20230616153524-7m15mqt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616153524-7m15mqt",
+								"updated": "20230616153602"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户灵活响应能力分析模块：用能曲线特征分析（哪一类用户更适合参与虚拟电厂，有很大的调节能力）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616153716-1393acz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616153716-1393acz"
+					},
+					"Children": [
+						{
+							"ID": "20230616153716-cmch1o4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616153716-cmch1o4",
+								"updated": "20230616153721"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形成DWF符合分析系统"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230616153724-xdaszci",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230616153724-xdaszci",
+						"updated": "20230616153836"
+					},
+					"Children": [
+						{
+							"ID": "20230616153724-ah2w7qx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230616153724-ah2w7qx",
+								"updated": "20230616153836"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形成研究报告：数据预处理、负荷预测算法，要去把常规算法应用和对比。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230616153839-1roxg84",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230616153839-1roxg84"
+			}
+		}
+	]
+}

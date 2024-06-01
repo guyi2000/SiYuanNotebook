@@ -1,0 +1,186 @@
+{
+	"ID": "20230620162331-2i208co",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230620162331-2i208co",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230620162331-2i208co\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230620162331-zd4mhe0\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230630142146-vd0w8hv\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230630142146-vd0w8hv\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "2023-06-20 讨论",
+		"updated": "20230630142146"
+	},
+	"Children": [
+		{
+			"ID": "20230620162331-zd4mhe0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230620162331-zd4mhe0",
+				"updated": "20230620162351"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "人员分工"
+				}
+			]
+		},
+		{
+			"ID": "20230620162351-m997m1y",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230620162351-m997m1y",
+				"updated": "20230620162434"
+			},
+			"Children": [
+				{
+					"ID": "20230620162355-7nmrw10",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230620162355-7nmrw10",
+						"updated": "20230620162355"
+					},
+					"Children": [
+						{
+							"ID": "20230620162355-h7bksvk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230620162355-h7bksvk",
+								"updated": "20230620162402"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "数据处理：特征分析工具"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230620162402-97tcl5j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230620162402-97tcl5j",
+						"updated": "20230620162434"
+					},
+					"Children": [
+						{
+							"ID": "20230620162402-h41ezdz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230620162402-h41ezdz",
+								"updated": "20230620162434"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "原型系统设计：功能开发+数据库设计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230620162413-0erqz4a",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230620162413-0erqz4a",
+						"updated": "20230620162422"
+					},
+					"Children": [
+						{
+							"ID": "20230620162413-xna6zxd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230620162413-xna6zxd",
+								"updated": "20230620162422"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "算法设计："
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230620162427-6y2kibl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230620162427-6y2kibl",
+				"updated": "20230630141335"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "两大核心诉求：减少月度考核"
+				}
+			]
+		},
+		{
+			"ID": "20230630141336-ezltp6c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230630141336-ezltp6c",
+				"updated": "20230630141431"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "LSTM、RNN、Transformer 序列预测的相关内容，之后和王博对接，把代码发给他，之后承担系统原型设计。"
+				}
+			]
+		},
+		{
+			"ID": "20230630141434-c5vvz18",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230630141434-c5vvz18",
+				"updated": "20230630141505"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "每个月报量、最终用户用100万度点，5%、10%、15%有不同的考核。"
+				}
+			]
+		},
+		{
+			"ID": "20230630141507-7ojvyqg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230630141507-7ojvyqg",
+				"updated": "20230630141550"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "天、小时、15分钟级别的需求响应（做小时级别的可调节能力，小时级别的可调节能力，15min服务现货市场，三个目的）"
+				}
+			]
+		},
+		{
+			"ID": "20230630142146-vd0w8hv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230630142146-vd0w8hv"
+			}
+		}
+	]
+}

@@ -1,0 +1,4542 @@
+{
+	"ID": "20230809202142-c0vgs1n",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f365",
+		"id": "20230809202142-c0vgs1n",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230809202142-c0vgs1n\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230809202142-vxf2tpz\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230809223555-p55ivhc\u0026quot;,\u0026quot;scrollTop\u0026quot;:6466,\u0026quot;focusId\u0026quot;:\u0026quot;20230809222929-rxx96rf\u0026quot;,\u0026quot;focusStart\u0026quot;:498,\u0026quot;focusEnd\u0026quot;:498\u0026#125;",
+		"title": "系统设计相关内容整理",
+		"title-img": "background-image:linear-gradient(to top, #fddb92 0%, #d1fdff 100%)",
+		"updated": "20230810221805"
+	},
+	"Children": [
+		{
+			"ID": "20230809202142-vxf2tpz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230809202142-vxf2tpz",
+				"updated": "20230809202926"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "任务书",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809202926-hmr5itq",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230809202926-hmr5itq",
+				"updated": "20230809203303"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230809202950-wwgc7yc",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230809202950-wwgc7yc",
+						"updated": "20230809203303"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "该项目旨在对工商业用户的能耗相关数据进行",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "数据预处理、特征挖掘"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，并以此为基础展开",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "短时负荷预测研究"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，最终以 ",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "DWF 平台"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "​为基础开发负荷预测软件系统。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809202946-o48gyzx",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230809202946-o48gyzx",
+				"updated": "20230809203251"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230809203003-r8dbql0",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230809203003-r8dbql0",
+						"updated": "20230809203251"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "传统的工商业用电负荷预测通常仅以",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "温度做为主要参数"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，缺乏",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "湿度、阴晴、风速"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "等要素的分析，对",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "分布式风光储"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的分析不到位，针对",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "参与虚拟电厂潜力"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "​的分析较少。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				},
+				{
+					"ID": "20230809203003-sv70ccg",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230809203003-sv70ccg",
+						"updated": "20230809203003"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "该项目将研究负荷数据预处理系统，在对成熟负荷预测算法进行复现的基础上，展开新型混合型负荷预测算法的研究，并以 DWF 平台为基础，将整个数据处理、负荷预测的过程进行可视化、流程化，最终形成具备灵活性、高精度等特性的负荷预测软件系统。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203106-qskfph2",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230809203106-qskfph2",
+				"updated": "20230809203318"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230809203144-dce7yce",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230809203144-dce7yce",
+						"updated": "20230809203318"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "现有解决方案通常为",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "相对割裂"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "​的几个步骤，分别是",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "数据采集、数据预处理、算法训练、负荷预测"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。现有的负荷预测方法主要包括 SVM、LSTM、KNN、RF 等，但是对",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "不同类型、特点"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的工商业负荷，很少有针对性研究。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203149-k95gch2",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230809203149-k95gch2",
+				"updated": "20230809210331"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"ID": "20230809203325-sru78vn",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230809203325-sru78vn",
+						"updated": "20230809210331"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "深入分析",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "多时间尺度"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的用户用能数据（小时、天和月级别），实现",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "批量预处理、可视化"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "；收集相关",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "气象数据、经济数据和用户类型"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "等关键用能相关数据；开展数据间的",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeTextMark",
+							"Properties": {
+								"id": ""
+							},
+							"TextMarkType": "mark",
+							"TextMarkTextContent": "相关性检验、聚类分析、分解分析、特征分析、特征选择"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "等；编写基于传统负荷预测方法的脚本，包括但不局限于 SVM、LSTM、KNN、RF 等；研究基于传统预测方法的混合预测算法，提升算法精度；基于 DWF 平台，开发完成负荷分析与预测系统。",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203423-zjpyzty",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809203423-zjpyzty",
+				"updated": "20230809203431"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "在软件与算法开发方面",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203432-xc5ywpy",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230809203432-xc5ywpy",
+				"updated": "20230810211619"
+			},
+			"Children": [
+				{
+					"ID": "20230809203434-aq0vhvc",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203434-aq0vhvc",
+						"updated": "20230809203434"
+					},
+					"Children": [
+						{
+							"ID": "20230809203434-lulldmm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203434-lulldmm",
+								"updated": "20230809203434"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形成用户侧负荷预处理、可视化分析、分解分析、特征提取模块",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203437-edzc00q",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203437-edzc00q",
+						"updated": "20230809203437"
+					},
+					"Children": [
+						{
+							"ID": "20230809203437-cji8n57",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203437-cji8n57",
+								"updated": "20230809203437"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建立短时负荷预测模型库，并开发至少一种混合预测算法",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203439-wfnpnvw",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203439-wfnpnvw",
+						"updated": "20230809203439"
+					},
+					"Children": [
+						{
+							"ID": "20230809203439-pnsl91l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203439-pnsl91l",
+								"updated": "20230809203439"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建立用户侧灵活响应能力分析模块",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203442-d9aklyw",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203442-d9aklyw",
+						"updated": "20230810211619"
+					},
+					"Children": [
+						{
+							"ID": "20230809203442-dauaxkk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203442-dauaxkk",
+								"updated": "20230810211619"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "最终形成成套基于 DWF 的用户侧负荷分析系统"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203423-2qnhg8k",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809203423-2qnhg8k",
+				"updated": "20230809203451"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "在报告方面",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203451-jpmamgl",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230809203451-jpmamgl",
+				"updated": "20230810211619"
+			},
+			"Children": [
+				{
+					"ID": "20230809203453-5so8sjc",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203453-5so8sjc",
+						"updated": "20230810211619"
+					},
+					"Children": [
+						{
+							"ID": "20230809203453-h6fj8ow",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203453-h6fj8ow",
+								"updated": "20230810211619"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形成数据预处理、负荷预测算法的研究报告"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203455-dmkzfd9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230809203455-dmkzfd9",
+				"updated": "20230809203510"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "需求文档",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-5yqhmwh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809203523-5yqhmwh",
+				"updated": "20230809203638"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "算法需求",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-4h5qzoe",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809203523-4h5qzoe",
+				"updated": "20230809203523"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "预测按照",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "长期"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "和",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "短期"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "分为",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "日前负荷预测"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "和",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "实时负荷预测"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-tk7dei5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-tk7dei5",
+				"updated": "20230809203541"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "必需需求",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-fe3ocni",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230809203523-fe3ocni",
+				"updated": "20230809203557"
+			},
+			"Children": [
+				{
+					"ID": "20230809203542-poqr6gv",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203542-poqr6gv",
+						"updated": "20230809203542"
+					},
+					"Children": [
+						{
+							"ID": "20230809203542-28g7qov",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203542-28g7qov",
+								"updated": "20230809203542"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "项目应完成前一日上报用电曲线（96 点）；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203545-9cecdb4",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203545-9cecdb4",
+						"updated": "20230809203555"
+					},
+					"Children": [
+						{
+							"ID": "20230809203545-lm8shr7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203545-lm8shr7",
+								"updated": "20230809203555"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "项目要求将各类指标可视化展示；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203553-xoao8i8",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203553-xoao8i8",
+						"updated": "20230809203557"
+					},
+					"Children": [
+						{
+							"ID": "20230809203553-m59qu94",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203553-m59qu94",
+								"updated": "20230809203557"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "项目要求计算",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "strong",
+									"TextMarkTextContent": "不同时段"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "的可调节容量。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-nqr1zls",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-nqr1zls",
+				"updated": "20230809203614"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "非必需需求",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-67hdxdq",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230809203523-67hdxdq",
+				"updated": "20230809203617"
+			},
+			"Children": [
+				{
+					"ID": "20230809203617-9ipvkjs",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230809203617-9ipvkjs",
+						"updated": "20230809203617"
+					},
+					"Children": [
+						{
+							"ID": "20230809203617-qi04pb2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203617-qi04pb2",
+								"updated": "20230809203617"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "项目要求分析不同生产企业用电量受不同因素影响。例如，排班、订单、原材料、人员等。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-d164mc5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809203523-d164mc5",
+				"updated": "20230809203635"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "最终交付物说明",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-5ot14rg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809203523-5ot14rg",
+				"updated": "20230809203523"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "项目以 DWF 网站形式交付，网站应包括以下功能：",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-mvmg8lm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-mvmg8lm",
+				"updated": "20230809203648"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "特征分析",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "（必做）"
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-8wbupp5",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809203523-8wbupp5",
+				"updated": "20230809203651"
+			},
+			"Children": [
+				{
+					"ID": "20230809203651-bf9x50o",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809203651-bf9x50o",
+						"updated": "20230809203651"
+					},
+					"Children": [
+						{
+							"ID": "20230809203651-7uisa7h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203651-7uisa7h",
+								"updated": "20230809203651"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方企业可通过该网站上传、下载数据（包括历史负荷输出，负荷数据特征提取结果），上传、下载数据交换格式包括但不限于 Excel；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203653-4d87bn6",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809203653-4d87bn6",
+						"updated": "20230809203653"
+					},
+					"Children": [
+						{
+							"ID": "20230809203653-qft7dkz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203653-qft7dkz",
+								"updated": "20230809203653"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方要求对历史负荷数据按照柱状图、饼状图对历史负荷和负荷预测结果进行简单分析和展示；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203656-vz6uo69",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809203656-vz6uo69",
+						"updated": "20230809203656"
+					},
+					"Children": [
+						{
+							"ID": "20230809203656-9zsmo1p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203656-9zsmo1p",
+								"updated": "20230809203656"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方希望将某些特定行业或场景根据温度或日期等进行回归分析，形成回归曲线；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203657-s1i8yz3",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230809203657-s1i8yz3",
+						"updated": "20230809203657"
+					},
+					"Children": [
+						{
+							"ID": "20230809203657-k526d98",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203657-k526d98",
+								"updated": "20230809203657"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方要求分析不同生产企业用电量受不同因素影响。例如，排班、订单、原材料、人员等，形成图表；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203659-0hv7xpj",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230809203659-0hv7xpj",
+						"updated": "20230809203659"
+					},
+					"Children": [
+						{
+							"ID": "20230809203659-rwvsu8g",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203659-rwvsu8g",
+								"updated": "20230809203659"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方要求负荷特征按照不同行业进行划分，如两家钢铁企业，应当有负荷曲线相同或者趋势一致的部分，希望对比出负荷曲线相似的部分。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-kyopyb2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-kyopyb2",
+				"updated": "20230809203706"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "日前负荷预测",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "（必做）"
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-100zx7b",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809203523-100zx7b",
+				"updated": "20230809203709"
+			},
+			"Children": [
+				{
+					"ID": "20230809203709-dbxg0mr",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809203709-dbxg0mr",
+						"updated": "20230809203709"
+					},
+					"Children": [
+						{
+							"ID": "20230809203709-3t12b3o",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203709-3t12b3o",
+								"updated": "20230809203709"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方企业可通过该网站上传、下载数据（包括历史负荷输出，负荷数据预测结果），上传、下载数据交换格式包括但不限于 Excel；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203711-ehary91",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809203711-ehary91",
+						"updated": "20230809203711"
+					},
+					"Children": [
+						{
+							"ID": "20230809203711-hfen7k8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203711-hfen7k8",
+								"updated": "20230809203711"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "负荷预测应使用多种模型（包括但不限于传统回归模型、机器学习模型及深度学习模型），并在图表中可视化地比较各模型的预测结果；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203713-4lcuihs",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809203713-4lcuihs",
+						"updated": "20230809203713"
+					},
+					"Children": [
+						{
+							"ID": "20230809203713-roipi9y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203713-roipi9y",
+								"updated": "20230809203713"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "负荷预测还应包含各个预测尺度；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203714-tvzfon0",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230809203714-tvzfon0",
+						"updated": "20230809203714"
+					},
+					"Children": [
+						{
+							"ID": "20230809203714-yz2qeu0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203714-yz2qeu0",
+								"updated": "20230809203714"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "负荷预测结果应为第二日全天 96 点数据；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203716-3ykvz4w",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230809203716-3ykvz4w",
+						"updated": "20230809203716"
+					},
+					"Children": [
+						{
+							"ID": "20230809203716-7abhyyn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203716-7abhyyn",
+								"updated": "20230809203716"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "负荷预测结果还应包括预测结果的上下限，及历史负荷数据平均值、中位数、四分位数的参考线；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-dec3pyf",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-dec3pyf",
+				"updated": "20230809203722"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "可调节容量预测",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "（必做）"
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-a2x3iui",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809203523-a2x3iui",
+				"updated": "20230809203724"
+			},
+			"Children": [
+				{
+					"ID": "20230809203724-uh790uu",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809203724-uh790uu",
+						"updated": "20230809203724"
+					},
+					"Children": [
+						{
+							"ID": "20230809203724-jk86332",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203724-jk86332",
+								"updated": "20230809203724"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方要求预测第二天某时段某企业的可调节容量；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203743-y9zlzlw",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809203743-y9zlzlw",
+						"updated": "20230809203743"
+					},
+					"Children": [
+						{
+							"ID": "20230809203743-kw9g5os",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203743-kw9g5os",
+								"updated": "20230809203743"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方要求在基线负荷上直接显示可调节容量。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203909-9nll9lv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203909-9nll9lv",
+				"updated": "20230809203923"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "需求响应（未讨论）",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203923-m5ngw9c",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809203923-m5ngw9c",
+				"updated": "20230809204100"
+			},
+			"Children": [
+				{
+					"ID": "20230809203925-wd8ej61",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809203925-wd8ej61",
+						"updated": "20230809203925"
+					},
+					"Children": [
+						{
+							"ID": "20230809203925-55m9tyd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203925-55m9tyd",
+								"updated": "20230809203955"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "需求响应部分实际上是电力调峰辅助服务市场",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203958-towg9dj",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809203958-towg9dj",
+						"updated": "20230809203958"
+					},
+					"Children": [
+						{
+							"ID": "20230809203958-lygup9b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203958-lygup9b",
+								"updated": "20230809204006"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基线负荷的计算",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809204009-lvm6a3d",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809204009-lvm6a3d",
+						"updated": "20230809204009"
+					},
+					"Children": [
+						{
+							"ID": "20230809204009-o9g7vtz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809204009-o9g7vtz",
+								"updated": "20230809204018"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户响应能力调节计算",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809204020-eempddo",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230809204020-eempddo",
+						"updated": "20230809204020"
+					},
+					"Children": [
+						{
+							"ID": "20230809204020-vboaacy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809204020-vboaacy",
+								"updated": "20230809204023"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "参与需求响应的流程",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809204026-r9fbt11",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230809204026-r9fbt11",
+						"updated": "20230809204026"
+					},
+					"Children": [
+						{
+							"ID": "20230809204026-nn6nasx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809204026-nn6nasx",
+								"updated": "20230809204050"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "需求响应参与次数、参与时长、参与度和参与结果",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809204051-ordjln9",
+					"Type": "NodeListItem",
+					"Data": "6",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 6,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Ng==",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20230809204051-ordjln9",
+						"updated": "20230809204100"
+					},
+					"Children": [
+						{
+							"ID": "20230809204051-rm87ti5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809204051-rm87ti5",
+								"updated": "20230809204100"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新能源和储能的相关企业情况",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-hurn551",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-hurn551",
+				"updated": "20230809203752"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "数据上报",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-rgqctkj",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809203523-rgqctkj",
+				"updated": "20230809203806"
+			},
+			"Children": [
+				{
+					"ID": "20230809203756-g6yrok1",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809203756-g6yrok1",
+						"updated": "20230809203756"
+					},
+					"Children": [
+						{
+							"ID": "20230809203756-qo9cmin",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203756-qo9cmin",
+								"updated": "20230809203756"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方要求上报第二天 96 点数据（下载后）",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203759-89na16i",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809203759-89na16i",
+						"updated": "20230809203806"
+					},
+					"Children": [
+						{
+							"ID": "20230809203759-q9gs71p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203759-q9gs71p",
+								"updated": "20230809203806"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "甲方说明电网对于负荷的提前申报有 16 项指标。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-7es3tn4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809203523-7es3tn4",
+				"updated": "20230809203755"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "交互页面",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-b5xag6g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809203523-b5xag6g",
+				"updated": "20230809203523"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "除上述交互需求外，甲方希望将历史负荷数据库做好筛选功能，筛选条件是行业、场景、日期、曲线图等。行业细分如有蓄热设备的电采暖行业、没有蓄热设备的电采暖设备、以冷轧为主的钢材加工行业、以冶炼为主的钢材加工行业。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-1bgnpbz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809203523-1bgnpbz",
+				"updated": "20230809203824"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "接口需求"
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-klb01m3",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809203523-klb01m3",
+				"updated": "20230809203831"
+			},
+			"Children": [
+				{
+					"ID": "20230809203826-glyer2z",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809203826-glyer2z",
+						"updated": "20230809203826"
+					},
+					"Children": [
+						{
+							"ID": "20230809203826-fz73gh7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203826-fz73gh7",
+								"updated": "20230809203826"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "上传下载功能；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203828-9d860d7",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809203828-9d860d7",
+						"updated": "20230809203828"
+					},
+					"Children": [
+						{
+							"ID": "20230809203828-nuuijcz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203828-nuuijcz",
+								"updated": "20230809203829"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "对接甲方数据系统（）；",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809203830-1uaabyk",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809203830-1uaabyk",
+						"updated": "20230809203831"
+					},
+					"Children": [
+						{
+							"ID": "20230809203830-azj42rf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809203830-azj42rf",
+								"updated": "20230809203831"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自动获取某地区温度、湿度等气候数据或其他政治经济数据。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-ewbge82",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809203523-ewbge82",
+				"updated": "20230809203834"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "部署环境"
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-s1ent3n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809203523-s1ent3n",
+				"updated": "20230809203523"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "独立部署（单机），建议配置表如下：",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809203523-2s472va",
+			"Type": "NodeTable",
+			"Data": "|CPU|RAM|硬盘|数据盘|系统|\n| -----| ----| ----| ------| ------------|\n|4vCPU|16GB|50GB|500GB|Ubuntu 18.04|",
+			"TableAligns": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"Properties": {
+				"colgroup": "||||",
+				"id": "20230809203523-2s472va",
+				"updated": "20230809204254"
+			},
+			"Children": [
+				{
+					"Type": "NodeTableHead",
+					"Properties": {
+						"id": ""
+					},
+					"Children": [
+						{
+							"Type": "NodeTableRow",
+							"Properties": {
+								"id": ""
+							},
+							"Children": [
+								{
+									"Type": "NodeTableCell",
+									"Properties": {
+										"id": ""
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "CPU",
+											"Properties": {
+												"id": ""
+											}
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Properties": {
+										"id": ""
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "RAM",
+											"Properties": {
+												"id": ""
+											}
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Properties": {
+										"id": ""
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "硬盘",
+											"Properties": {
+												"id": ""
+											}
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Properties": {
+										"id": ""
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "数据盘",
+											"Properties": {
+												"id": ""
+											}
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Properties": {
+										"id": ""
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "系统",
+											"Properties": {
+												"id": ""
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"Properties": {
+						"id": ""
+					},
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Properties": {
+								"id": ""
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "4vCPU",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Properties": {
+								"id": ""
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "16GB",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Properties": {
+								"id": ""
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "50GB",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Properties": {
+								"id": ""
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "500GB",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Properties": {
+								"id": ""
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Ubuntu 18.04",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809203525-hg9j9nk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230809203525-hg9j9nk",
+				"updated": "20230809205246"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "系统设计（DWF）",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809204144-ych77lu",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809204144-ych77lu",
+				"updated": "20230809205855"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "用户上传模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809204205-d15ewx5",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809204205-d15ewx5",
+				"updated": "20230810221805"
+			},
+			"Children": [
+				{
+					"ID": "20230809205009-g912vxy",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809205009-g912vxy",
+						"updated": "20230810221805"
+					},
+					"Children": [
+						{
+							"ID": "20230809205009-u0778gs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809205009-u0778gs",
+								"updated": "20230810221805"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户上传先注册企业信息，输入企业名称、"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "strong u mark",
+									"TextMarkTextContent": "区县"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "信息、企业类型等，获得企业编号。"
+								}
+							]
+						},
+						{
+							"ID": "20230809205050-rxjkfbc",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20230809205050-rxjkfbc",
+								"updated": "20230809210449"
+							},
+							"Children": [
+								{
+									"ID": "20230809205050-ml0k5lj",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230809205050-ml0k5lj",
+										"updated": "20230809205050"
+									},
+									"Children": [
+										{
+											"ID": "20230809205050-zgjmmyu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809205050-zgjmmyu",
+												"updated": "20230809205238"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "经纬度输入方式可以使用直接输入或利用百度地图控件选点",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809210413-do5mutz",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230809210413-do5mutz",
+										"updated": "20230809210449"
+									},
+									"Children": [
+										{
+											"ID": "20230809210413-7oa64ny",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809210413-7oa64ny",
+												"updated": "20230809210449"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "企业类型的输入使用下拉列表框选择，如果企业不在列表中，则需要添加新的下拉选项（tag 表）",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809205112-hkqn2uo",
+									"Type": "NodeListItem",
+									"Data": "3",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 3,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mw==",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20230809205112-hkqn2uo",
+										"updated": "20230809205112"
+									},
+									"Children": [
+										{
+											"ID": "20230809205112-xpg2czd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809205112-xpg2czd",
+												"updated": "20230809205150"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "输入后存入数据库中，企业编号是一个自增序列",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809205029-mtxi66o",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809205029-mtxi66o",
+						"updated": "20230809212403"
+					},
+					"Children": [
+						{
+							"ID": "20230809205029-s1bcveq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809205029-s1bcveq",
+								"updated": "20230809205042"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户利用企业编号上传企业历史负荷数据。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"ID": "20230809205311-s2ly9ak",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20230809205311-s2ly9ak",
+								"updated": "20230809212403"
+							},
+							"Children": [
+								{
+									"ID": "20230809205504-fzgur6j",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230809205504-fzgur6j",
+										"updated": "20230809205504"
+									},
+									"Children": [
+										{
+											"ID": "20230809205504-k6pk0kk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809205504-k6pk0kk",
+												"updated": "20230809205728"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "用户选择本地的历史负荷文件后，系统会在前端界面绘制历史负荷的曲线图展示出来，同时计算历史负荷数据的起始时间、结束时间、分辨率",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809205730-mo7228s",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230809205730-mo7228s",
+										"updated": "20230809212403"
+									},
+									"Children": [
+										{
+											"ID": "20230809205730-ebsxyjy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809205730-ebsxyjy",
+												"updated": "20230809212403"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"Properties": {
+														"id": ""
+													},
+													"TextMarkType": "strong u",
+													"TextMarkTextContent": "约定，历史负荷数据由 csv 文件存储，第一列为 10 位时间戳，第二列为负荷（单位 MW）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809210011-0ktd27t",
+									"Type": "NodeListItem",
+									"Data": "3",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 3,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mw==",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20230809210011-0ktd27t",
+										"updated": "20230809210011"
+									},
+									"Children": [
+										{
+											"ID": "20230809210011-oj15hu8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809210011-oj15hu8",
+												"updated": "20230809210051"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "用户查看绘制的曲线图及计算得到的起始时间、结束时间、分辨率无误后，点击提交，数据存储到 IoTDB 时序数据库中。",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809210052-7i3g1i8",
+									"Type": "NodeListItem",
+									"Data": "4",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 4,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "NA==",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20230809210052-7i3g1i8",
+										"updated": "20230809210052"
+									},
+									"Children": [
+										{
+											"ID": "20230809210052-1o2pjde",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809210052-1o2pjde",
+												"updated": "20230809210205"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "启动后端脚本（Python），获取该历史负荷数据对应的天气数据（温度、湿度）及节假日信息（Python 包），将获得的这些数据存储到 IoTDB 时序数据库中。",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809210219-n5we59v",
+									"Type": "NodeListItem",
+									"Data": "5",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 5,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "NQ==",
+										"Num": 5
+									},
+									"Properties": {
+										"id": "20230809210219-n5we59v",
+										"updated": "20230809210249"
+									},
+									"Children": [
+										{
+											"ID": "20230809210219-1e7kwnz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809210219-1e7kwnz",
+												"updated": "20230809210249"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "系统在前端界面同时展示用户上传的历史负荷数据、天气数据、节假日数据的曲线图。",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809210256-asktjcg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809210256-asktjcg",
+				"updated": "20230809210307"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "特征分析模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809210547-7zq6ymw",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809210547-7zq6ymw",
+				"updated": "20230809213258"
+			},
+			"Children": [
+				{
+					"ID": "20230809211121-44mu8ez",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809211121-44mu8ez",
+						"updated": "20230809211121"
+					},
+					"Children": [
+						{
+							"ID": "20230809211121-9iksucc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809211121-9iksucc",
+								"updated": "20230809211147"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户上传历史负荷数据后，立即触发特征分析功能",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809211149-tewmlhd",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809211149-tewmlhd",
+						"updated": "20230809211149"
+					},
+					"Children": [
+						{
+							"ID": "20230809211149-16xpyhi",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809211149-16xpyhi",
+								"updated": "20230809212223"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特征分析模块首先对数据进行预处理，预处理的主要内容为数据清洗（具体参考姚博处理方式），预处理完成后，存储 IoTDB 时序数据库中",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809212115-42665v2",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809212115-42665v2",
+						"updated": "20230809212115"
+					},
+					"Children": [
+						{
+							"ID": "20230809212115-fovbwhx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809212115-fovbwhx",
+								"updated": "20230809212759"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "此后对预处理后的时序数据计算其平均数、四分位数，存入 PG 中",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809212250-g8z0jh8",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230809212250-g8z0jh8",
+						"updated": "20230809213231"
+					},
+					"Children": [
+						{
+							"ID": "20230809212250-pe1gxid",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809212250-pe1gxid",
+								"updated": "20230809213231"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "strong u",
+									"TextMarkTextContent": "此处需要姚博添加回归分析、相关性检验、聚类分析、分解分析的内容（我这里不太清楚），同时此处需要明确数据库设计方式（补充需要存储哪些数据至数据库中，这些数据是关系数据还是时序数据）"
+								}
+							]
+						},
+						{
+							"ID": "20230809213005-sfm29ak",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20230809213005-sfm29ak",
+								"updated": "20230809213005"
+							},
+							"Children": [
+								{
+									"ID": "20230809213005-uj00ukg",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230809213005-uj00ukg",
+										"updated": "20230809213005"
+									},
+									"Children": [
+										{
+											"ID": "20230809213005-au950sj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809213005-au950sj",
+												"updated": "20230809213005"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"Properties": {
+														"id": ""
+													},
+													"TextMarkType": "strong u",
+													"TextMarkTextContent": "例如聚类分析结果，如果是一个树状表达，那么可以利用 JSON 转为 String 存储至 PG"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809213009-448styo",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230809213009-448styo",
+										"updated": "20230809213009"
+									},
+									"Children": [
+										{
+											"ID": "20230809213009-bn5b6l7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809213009-bn5b6l7",
+												"updated": "20230809213042"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"Properties": {
+														"id": ""
+													},
+													"TextMarkType": "strong u",
+													"TextMarkTextContent": "又如对数据进行分解分析后，得到与气象相关的分量和与气象无关的分量，是一个时序数据，可以存储至 IoTDB 中"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809212446-b7g1krf",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230809212446-b7g1krf",
+						"updated": "20230809212446"
+					},
+					"Children": [
+						{
+							"ID": "20230809212446-4k4p6yn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809212446-4k4p6yn",
+								"updated": "20230809212815"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "根据不同的时间分辨率，下采样相关数据，并将下采样结果进行上述负荷分析",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809212415-b51kyzq",
+					"Type": "NodeListItem",
+					"Data": "6",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 6,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Ng==",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20230809212415-b51kyzq",
+						"updated": "20230809213258"
+					},
+					"Children": [
+						{
+							"ID": "20230809212415-zopmlfe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809212415-zopmlfe",
+								"updated": "20230809212444"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特征分析后，读取存储在数据库中的分析结果，并在前端界面展示",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"ID": "20230809213045-xifjgrm",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20230809213045-xifjgrm",
+								"updated": "20230809213258"
+							},
+							"Children": [
+								{
+									"ID": "20230809213045-5y3gwjw",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230809213045-5y3gwjw",
+										"updated": "20230809213045"
+									},
+									"Children": [
+										{
+											"ID": "20230809213045-mpns5k6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809213045-mpns5k6",
+												"updated": "20230809213104"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "此处需要在前端界面利用 Echarts 展示绘图",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230809213104-q1vq02e",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230809213104-q1vq02e",
+										"updated": "20230809213258"
+									},
+									"Children": [
+										{
+											"ID": "20230809213104-pk07nvl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230809213104-pk07nvl",
+												"updated": "20230809213258"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "必须的图是将历史负荷数据、平均值、四分位值绘制在一张图上，",
+													"Properties": {
+														"id": ""
+													}
+												},
+												{
+													"Type": "NodeTextMark",
+													"Properties": {
+														"id": ""
+													},
+													"TextMarkType": "strong u",
+													"TextMarkTextContent": "其余的图像需要与姚博确定"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809210308-1h2tagm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809210308-1h2tagm",
+				"updated": "20230809210317"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "负荷预测模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809210548-funo7rc",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809210548-funo7rc",
+				"updated": "20230809215755"
+			},
+			"Children": [
+				{
+					"ID": "20230809213307-pqkx5xf",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809213307-pqkx5xf",
+						"updated": "20230809213307"
+					},
+					"Children": [
+						{
+							"ID": "20230809213307-bqbnk79",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213307-bqbnk79",
+								"updated": "20230809213838"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "待特征分析完成后，用户可以点击菜单进入负荷预测模块。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809213336-ro8abr8",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809213336-ro8abr8",
+						"updated": "20230809215755"
+					},
+					"Children": [
+						{
+							"ID": "20230809213336-k2q12lf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213336-k2q12lf",
+								"updated": "20230809215755"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "进入负荷预测模块后，针对深度学习模型，可以填写超参数表进行训练，点击训练按钮，后台调用 Python 程序进行深度学习训练，训练完成后，会记录下权重路径，便于后续调用。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809213445-p65jh1i",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809213445-p65jh1i",
+						"updated": "20230809213445"
+					},
+					"Children": [
+						{
+							"ID": "20230809213445-53mwx4k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213445-53mwx4k",
+								"updated": "20230809213837"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户选择对应企业，系统在前端展示该企业的历史负荷数据，及其部分特征分析结果。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809214110-yyzrj9u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809214110-yyzrj9u",
+				"updated": "20230809214124"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "日前负荷预测模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809214110-1uig3he",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809214110-1uig3he",
+				"updated": "20230809214110"
+			},
+			"Children": [
+				{
+					"ID": "20230809213618-2udz1ym",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809213618-2udz1ym",
+						"updated": "20230809213618"
+					},
+					"Children": [
+						{
+							"ID": "20230809213618-s2au8n9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213618-s2au8n9",
+								"updated": "20230809213837"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户可以点击预测按钮，预测后 96 个点数据（15min 分辨率），系统调用后端 Python 程序进行计算，同时返回多个机器学习模型的预测结果。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809213703-urmb6i4",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809213703-urmb6i4",
+						"updated": "20230809213703"
+					},
+					"Children": [
+						{
+							"ID": "20230809213703-3xxpk5y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213703-3xxpk5y",
+								"updated": "20230809213753"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "前端接收上述预测结果，并绘图（目前有 8 个机器学习模型结果）。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809213756-h6m6xgn",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809213756-h6m6xgn",
+						"updated": "20230809213756"
+					},
+					"Children": [
+						{
+							"ID": "20230809213756-aksre16",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213756-aksre16",
+								"updated": "20230809213819"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "如果深度学习模型权重不为空，系统调用后端 Python 程序进行计算，返回深度学习模型的预测结果。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809213842-g0wsn5k",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230809213842-g0wsn5k",
+						"updated": "20230809213842"
+					},
+					"Children": [
+						{
+							"ID": "20230809213842-q42bgqg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809213842-q42bgqg",
+								"updated": "20230809214016"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "另外，返回机器学习模型预测结果时，同时会记录下对应的历史负荷编号、机器学习或深度学习模型名称，存储到 IoTDB 中。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809214126-ucj478r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809214126-ucj478r",
+				"updated": "20230809214132"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "实时负荷预测模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809214133-lcfr214",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809214133-lcfr214",
+				"updated": "20230809214133"
+			},
+			"Children": [
+				{
+					"ID": "20230809214133-ysqa543",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809214133-ysqa543",
+						"updated": "20230809214133"
+					},
+					"Children": [
+						{
+							"ID": "20230809214133-2707yvp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809214133-2707yvp",
+								"updated": "20230809214243"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户点击菜单的实时负荷预测，可以拖动滑块，预测以后无穷多点的数据，具体调用流程与日前负荷预测模块类似。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809214325-ynik6th",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20230809214325-ynik6th",
+				"updated": "20230809215910"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "时/日/月负荷预测模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809214338-2dqo9fo",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809214338-2dqo9fo",
+				"updated": "20230809220015"
+			},
+			"Children": [
+				{
+					"ID": "20230809214340-afihyy2",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809214340-afihyy2",
+						"updated": "20230809215932"
+					},
+					"Children": [
+						{
+							"ID": "20230809214340-632jlqm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809214340-632jlqm",
+								"updated": "20230809215932"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户点击菜单的时/日/月负荷预测模块，可以预测 24 小时 / 30 日 / 12 个月的变长负荷，具体调用流程与日前负荷预测模块类似。",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215837-6pqgbjv",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809215837-6pqgbjv",
+						"updated": "20230809220015"
+					},
+					"Children": [
+						{
+							"ID": "20230809215837-lnloi25",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215837-lnloi25",
+								"updated": "20230809220015"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "strong u",
+									"TextMarkTextContent": "需要注意，时/日/月负荷预测模块使用的是分辨率为 1h，1day 及 1month 的数据，与日前负荷预测、实时负荷预测模块的数据并不相同，需要额外上传，或利用之前的降采样结果。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809210317-sgppomb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809210317-sgppomb",
+				"updated": "20230809220202"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "需求响应模块（未对接）",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809210548-gckaean",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809210548-gckaean",
+				"updated": "20230809220235"
+			},
+			"Children": [
+				{
+					"ID": "20230809215212-s1lqusk",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809215212-s1lqusk",
+						"updated": "20230809215212"
+					},
+					"Children": [
+						{
+							"ID": "20230809215212-j4kdsok",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215212-j4kdsok",
+								"updated": "20230809215247"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "待特征分析完成后，用户可以点击菜单进入需求响应分析模块",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215248-7vro6cy",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809215248-7vro6cy",
+						"updated": "20230809215248"
+					},
+					"Children": [
+						{
+							"ID": "20230809215248-q893xqs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215248-q893xqs",
+								"updated": "20230809215320"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "首先该模块会进行基线负荷计算，并存入数据库中",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215326-fmp7v85",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809215326-fmp7v85",
+						"updated": "20230809220235"
+					},
+					"Children": [
+						{
+							"ID": "20230809215326-gstjz5j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215326-gstjz5j",
+								"updated": "20230809220235"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "strong u",
+									"TextMarkTextContent": "此后剩余内容还需要和邵总对接，这里面可能涉及 16 项指标的计算，以及最终输出，工作量不小"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809210534-asi2i57",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230809210534-asi2i57",
+				"updated": "20230809210543"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "上报模块/下载模块",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809210549-ahj3sof",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230809210549-ahj3sof",
+				"updated": "20230809215657"
+			},
+			"Children": [
+				{
+					"ID": "20230809215410-ao8ww2q",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230809215410-ao8ww2q",
+						"updated": "20230809215410"
+					},
+					"Children": [
+						{
+							"ID": "20230809215410-ugybw86",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215410-ugybw86",
+								"updated": "20230809215439"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户点击下载计算结果菜单后，进入结果查看界面",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215427-t7ukipg",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230809215427-t7ukipg",
+						"updated": "20230809215427"
+					},
+					"Children": [
+						{
+							"ID": "20230809215427-gaonenm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215427-gaonenm",
+								"updated": "20230809215513"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在结果查看界面中，可以根据企业类型、场景对企业进行筛选，并同时展示这些企业的历史负荷数据",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215513-s4w4rmw",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230809215513-s4w4rmw",
+						"updated": "20230809215513"
+					},
+					"Children": [
+						{
+							"ID": "20230809215513-brmdgfj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215513-brmdgfj",
+								"updated": "20230809215555"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "strong u",
+									"TextMarkTextContent": "约定，在使用下载模块前，用户已经使用负荷预测模块预测了企业负荷"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215623-wtz4lts",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230809215623-wtz4lts",
+						"updated": "20230809215644"
+					},
+					"Children": [
+						{
+							"ID": "20230809215623-byt5y5m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215623-byt5y5m",
+								"updated": "20230809215644"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "同时，用户可以选择日期、时间，进一步确定需要导出的区间",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230809215548-s9hdlmf",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230809215548-s9hdlmf",
+						"updated": "20230809215657"
+					},
+					"Children": [
+						{
+							"ID": "20230809215548-e2wm9qc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230809215548-e2wm9qc",
+								"updated": "20230809215657"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户可以将已选（筛选得到）的数据进行下载，该系统的功能全部结束",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230809210308-juj8vme",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230809210308-juj8vme",
+				"updated": "20230809215405"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "数据库设计（不含需求响应模块、聚类分析、分解分析）",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809223000-smhb691",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809223000-smhb691",
+				"updated": "20230809223520"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​​",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeImage",
+					"Properties": {
+						"id": ""
+					},
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "[",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Diagram 1",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "(",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/Diagram 1-20230809223520-hbb9t2b.svg",
+							"Properties": {
+								"id": ""
+							}
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")",
+							"Properties": {
+								"id": ""
+							}
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​​",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809222929-rxx96rf",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c3Fs",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230809222929-rxx96rf",
+				"updated": "20230809222937"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c3Fs",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "CREATE TABLE \"company\" (\n  \"cpid\" int4 NOT NULL,\n  \"cpname\" varchar(255) NOT NULL,\n  \"lon\" numeric NOT NULL,\n  \"lat\" numeric NOT NULL,\n  PRIMARY KEY (\"cpid\")\n);\n\nCREATE TABLE \"ctrelation\" (\n  \"ctrid\" int8 NOT NULL,\n  \"tgid\" int4,\n  \"cpid\" int4,\n  PRIMARY KEY (\"ctrid\")\n);\n\nCREATE TABLE \"historyload\" (\n  \"hlid\" int8 NOT NULL,\n  \"cpid\" int4 NOT NULL,\n  \"raw\" int8 NOT NULL,\n  \"resolution\" int8 NOT NULL,\n  \"start_date\" date NOT NULL,\n  \"end_date\" date NOT NULL,\n  \"preprocess\" int8,\n  \"tmp\" int8,\n  \"rh\" int8,\n  \"holiday\" int8,\n  \"mean\" decimal,\n  \"up\" decimal,\n  \"down\" decimal,\n  PRIMARY KEY (\"hlid\")\n);\n\nCREATE TABLE \"predictload\" (\n  \"plid\" int8 NOT NULL,\n  \"type\" int2 NOT NULL,\n  \"resolution\" decimal NOT NULL,\n  \"hlid\" int8 NOT NULL,\n  \"predict\" int8 NOT NULL,\n  PRIMARY KEY (\"plid\")\n);\n\nCREATE TABLE \"tag\" (\n  \"tgid\" int4 NOT NULL,\n  \"tgname\" varchar(255) NOT NULL,\n  PRIMARY KEY (\"tgid\")\n);\n\nCREATE TABLE \"timeseries\" (\n  \"tsid\" int8 NOT NULL,\n  \"tsparent\" varchar(255) NOT NULL,\n  \"tsname\" varchar(255) NOT NULL,\n  PRIMARY KEY (\"tsid\")\n);\n\nCREATE TABLE \"traindl\" (\n  \"tdid\" int4 NOT NULL,\n  \"hlid\" int8 NOT NULL,\n  \"path\" varchar(255),\n  PRIMARY KEY (\"tdid\")\n);\n\nALTER TABLE \"ctrelation\" ADD FOREIGN KEY (\"tgid\") REFERENCES \"tag\" (\"tgid\");\nALTER TABLE \"ctrelation\" ADD FOREIGN KEY (\"cpid\") REFERENCES \"company\" (\"cpid\");\nALTER TABLE \"historyload\" ADD FOREIGN KEY (\"cpid\") REFERENCES \"company\" (\"cpid\");\nALTER TABLE \"historyload\" ADD FOREIGN KEY (\"raw\") REFERENCES \"timeseries\" (\"tsid\");\nALTER TABLE \"historyload\" ADD FOREIGN KEY (\"preprocess\") REFERENCES \"timeseries\" (\"tsid\");\nALTER TABLE \"historyload\" ADD FOREIGN KEY (\"tmp\") REFERENCES \"timeseries\" (\"tsid\");\nALTER TABLE \"historyload\" ADD FOREIGN KEY (\"rh\") REFERENCES \"timeseries\" (\"tsid\");\nALTER TABLE \"historyload\" ADD FOREIGN KEY (\"holiday\") REFERENCES \"timeseries\" (\"tsid\");\nALTER TABLE \"predictload\" ADD FOREIGN KEY (\"hlid\") REFERENCES \"historyload\" (\"hlid\");\nALTER TABLE \"predictload\" ADD FOREIGN KEY (\"predict\") REFERENCES \"timeseries\" (\"tsid\");\nALTER TABLE \"traindl\" ADD FOREIGN KEY (\"hlid\") REFERENCES \"historyload\" (\"hlid\");\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809222937-sr6nt28",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809222937-sr6nt28",
+				"updated": "20230809223554"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "外键设计 SQL 代码所示，具体功能参见系统设计部分。",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230809223555-p55ivhc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230809223555-p55ivhc",
+				"updated": "20230809223555"
+			}
+		}
+	]
+}

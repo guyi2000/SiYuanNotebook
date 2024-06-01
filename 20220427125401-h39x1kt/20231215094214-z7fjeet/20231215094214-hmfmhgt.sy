@@ -1,0 +1,20 @@
+{
+	"ID": "20231215094214-hmfmhgt",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20231215094214-hmfmhgt",
+		"title": "2023",
+		"updated": "20231215094214"
+	},
+	"Children": [
+		{
+			"ID": "20231215094214-ra8it7z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094214-ra8it7z",
+				"updated": "20231215094214"
+			}
+		}
+	]
+}

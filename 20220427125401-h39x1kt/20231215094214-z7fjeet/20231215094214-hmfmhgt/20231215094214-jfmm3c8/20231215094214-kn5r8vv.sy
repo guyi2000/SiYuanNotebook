@@ -1,0 +1,97 @@
+{
+	"ID": "20231215094214-kn5r8vv",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"custom-dailynote-20231215": "20231215",
+		"id": "20231215094214-kn5r8vv",
+		"title": "2023-12-15",
+		"updated": "20231215111123"
+	},
+	"Children": [
+		{
+			"ID": "20231215094218-5se7y0q",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094218-5se7y0q",
+				"updated": "20231215094223"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Dear guests,"
+				}
+			]
+		},
+		{
+			"ID": "20231215094218-cahez6v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094218-cahez6v",
+				"updated": "20231215094352"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Thank you all for joining us at this special lecture today. We are honored to have invited a distinguished professor who will share valuable knowledge and unique insights with us. First, please let me introduce today's guest speaker."
+				}
+			]
+		},
+		{
+			"ID": "20231215094355-as9ctlv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094355-as9ctlv",
+				"updated": "20231215094403"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Timo Hartmann"
+				}
+			]
+		},
+		{
+			"ID": "20231215094218-ohd3t79",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094218-ohd3t79",
+				"updated": "20231215094526"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "During the lecture, please stay focused and actively participate in the Q\u0026A session. We believe that this event will not only broaden our academic horizons but also ignite our passion for our field of study. Now, let's welcome our guest professor to start lecture."
+				}
+			]
+		},
+		{
+			"ID": "20231215094454-3b3pu18",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094454-3b3pu18"
+			}
+		},
+		{
+			"ID": "20231215110818-s1nk6v6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215110818-s1nk6v6",
+				"updated": "20231215111123"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Thank you, Professor Timo Hartmann, for the insightful presentation. The lecture covered post-disaster decision-making, objective selection, among others, which I found highly enriching. Once again, I express my gratitude."
+				}
+			]
+		},
+		{
+			"ID": "20231215110832-e8zlr60",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215110832-e8zlr60"
+			}
+		}
+	]
+}

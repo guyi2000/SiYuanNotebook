@@ -1,0 +1,122 @@
+{
+	"ID": "20240415145751-2gbzz4t",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240415145751-2gbzz4t",
+		"title": "Find large file in directory",
+		"type": "doc",
+		"updated": "20240415150829"
+	},
+	"Children": [
+		{
+			"ID": "20240415145751-myp8n3z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415145751-myp8n3z",
+				"updated": "20240415145812"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "use "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "find"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ command:"
+				}
+			]
+		},
+		{
+			"ID": "20240415145813-gtyjnkr",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240415145813-gtyjnkr",
+				"style": "line-height: 23px;",
+				"updated": "20240415145843"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "find . -type f -size +100M -print0 | xargs -0 du -sh\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240415145845-t9e7qfr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415145845-t9e7qfr",
+				"updated": "20240415150341"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "use "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "fd"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ command:"
+				}
+			]
+		},
+		{
+			"ID": "20240415150342-re6sh8j",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240415150342-re6sh8j",
+				"style": "line-height: 23px;",
+				"updated": "20240415150829"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "find . . -tf -S +100M -l\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240415150407-qfvfi5j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415150407-qfvfi5j"
+			}
+		}
+	]
+}

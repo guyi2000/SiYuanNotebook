@@ -1,0 +1,188 @@
+{
+	"ID": "20240317122657-x6xef3r",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240317122657-x6xef3r",
+		"title": "Delete UFW rule",
+		"type": "doc",
+		"updated": "20240417134027"
+	},
+	"Children": [
+		{
+			"ID": "20240317122723-unuihtk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317122723-unuihtk",
+				"updated": "20240317122730"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "First list the rules with numbers."
+				}
+			]
+		},
+		{
+			"ID": "20240317122657-rn1h0ts",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240317122657-rn1h0ts",
+				"style": "line-height: 23px;",
+				"updated": "20240317122721"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo ufw status numbered\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240317122732-0m0wwqa",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317122732-0m0wwqa",
+				"updated": "20240317122748"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Then delete the rule using its number."
+				}
+			]
+		},
+		{
+			"ID": "20240317122742-pdp4mew",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240317122742-pdp4mew",
+				"style": "line-height: 23px;",
+				"updated": "20240417133946"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo ufw delete \u003cid\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133952-i6hjhv6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240417133952-i6hjhv6",
+				"updated": "20240417134027"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Or, delete the rule just use its rule, e.g., "
+				}
+			]
+		},
+		{
+			"ID": "20240417134005-kei8qnz",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417134005-kei8qnz",
+				"style": "line-height: 23px;",
+				"updated": "20240417134019"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo ufw delete allow 22/tcp\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240317122803-b4uilkn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317122803-b4uilkn",
+				"updated": "20240317122823"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Lastly, reload the firewall."
+				}
+			]
+		},
+		{
+			"ID": "20240317122824-acv26bd",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240317122824-acv26bd",
+				"style": "line-height: 23px;",
+				"updated": "20240317122828"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo ufw reload\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133939-erogtgd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240417133939-erogtgd"
+			}
+		}
+	]
+}

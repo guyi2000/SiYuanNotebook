@@ -1,0 +1,21 @@
+{
+	"ID": "20240108162755-dcd57kz",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f4da",
+		"id": "20240108162755-dcd57kz",
+		"title": "Zotero",
+		"updated": "20240108162758"
+	},
+	"Children": [
+		{
+			"ID": "20240108162755-nw50f95",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240108162755-nw50f95",
+				"updated": "20240108162755"
+			}
+		}
+	]
+}

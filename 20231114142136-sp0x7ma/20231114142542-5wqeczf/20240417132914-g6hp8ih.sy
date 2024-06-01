@@ -1,0 +1,598 @@
+{
+	"ID": "20240417132914-g6hp8ih",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240417132914-g6hp8ih",
+		"title": "Security",
+		"type": "doc",
+		"updated": "20240417133924"
+	},
+	"Children": [
+		{
+			"ID": "20240417132914-dekkc0z",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417132914-dekkc0z",
+				"updated": "20240417132929"
+			},
+			"Children": [
+				{
+					"ID": "20240417133758-71vo0o8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133758-71vo0o8"
+					},
+					"Children": [
+						{
+							"ID": "20240417133758-ktv3kh0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133758-ktv3kh0",
+								"updated": "20240417133821"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户附加到 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "sudo"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 组，允许其使用 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "sudo"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 命令"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133821-ewppgeh",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417133821-ewppgeh",
+				"style": "line-height: 23px;",
+				"updated": "20240417133858"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "usermod \u003cuser_name\u003e -aG sudo\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133903-uw9ur18",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417133903-uw9ur18",
+				"updated": "20240417133924"
+			},
+			"Children": [
+				{
+					"ID": "20240417133905-8nfrhpt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133905-8nfrhpt",
+						"updated": "20240417133924"
+					},
+					"Children": [
+						{
+							"ID": "20240417133905-51yaez9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133905-51yaez9",
+								"updated": "20240417133924"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "编辑 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "/etc/sudoers"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 文件，请使用 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "sudo visudo"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 命令"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133822-sp4lt4r",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417133822-sp4lt4r",
+				"updated": "20240417133822"
+			},
+			"Children": [
+				{
+					"ID": "20240417132929-qr3wbiy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417132929-qr3wbiy",
+						"updated": "20240417132929"
+					},
+					"Children": [
+						{
+							"ID": "20240417132929-1z82udq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417132929-1z82udq",
+								"updated": "20240417133419"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户使用强密码，"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "sudo"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 设置为无密码（强密码不方便输入）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133255-dx9df2f",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417133255-dx9df2f",
+				"style": "line-height: 23px;",
+				"updated": "20240417133429"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "\u003cuser_name\u003e ALL=(ALL:ALL) NOPASSWD: ALL\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417132934-dnfvq9w",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417132934-dnfvq9w",
+				"updated": "20240417133456"
+			},
+			"Children": [
+				{
+					"ID": "20240417133441-flj6kox",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133441-flj6kox",
+						"updated": "20240417133456"
+					},
+					"Children": [
+						{
+							"ID": "20240417133441-jbf2aus",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133441-jbf2aus",
+								"updated": "20240417133456"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "禁止用户使用密码登录，只允许接受密钥文件，"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "/etc/ssh/sshd_config"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417132946-5ysqq23",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417132946-5ysqq23",
+				"style": "line-height: 23px;",
+				"updated": "20240417133212"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "Match User \u003cuser_name\u003e\n    PasswordAuthentication no\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133554-6iofi1e",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417133554-6iofi1e",
+				"updated": "20240417133625"
+			},
+			"Children": [
+				{
+					"ID": "20240417133556-tnjyveg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133556-tnjyveg",
+						"updated": "20240417133625"
+					},
+					"Children": [
+						{
+							"ID": "20240417133556-711p4pq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133556-711p4pq",
+								"updated": "20240417133625"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "更改 SSH 端口，"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "/etc/ssh/sshd_config"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133606-n20u7bh",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417133606-n20u7bh",
+				"style": "line-height: 23px;",
+				"updated": "20240417133632"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "Port \u003crandom_port\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133638-sowtlyp",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417133638-sowtlyp",
+				"updated": "20240417133641"
+			},
+			"Children": [
+				{
+					"ID": "20240417133641-vshm2pg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133641-vshm2pg",
+						"updated": "20240417133641"
+					},
+					"Children": [
+						{
+							"ID": "20240417133641-tvfbd4x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133641-tvfbd4x",
+								"updated": "20240417133650"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "重启 SSH 服务"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133650-x064iha",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417133650-x064iha",
+				"style": "line-height: 23px;",
+				"updated": "20240417133701"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo systemctl restart sshd\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133213-d1kzf54",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417133213-d1kzf54",
+				"updated": "20240417133504"
+			},
+			"Children": [
+				{
+					"ID": "20240417133215-uni7dr6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133215-uni7dr6",
+						"updated": "20240417133504"
+					},
+					"Children": [
+						{
+							"ID": "20240417133215-cmmvgw7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133215-cmmvgw7",
+								"updated": "20240417133504"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "删除 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "root"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 用户密码，禁止 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "root"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 登录"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133229-ee7ded0",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417133229-ee7ded0",
+				"style": "line-height: 23px;",
+				"updated": "20240417133239"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo passwd -dl root\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417133243-den9es5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240417133243-den9es5",
+				"updated": "20240417133526"
+			},
+			"Children": [
+				{
+					"ID": "20240417133507-9hfp8d9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240417133507-9hfp8d9",
+						"updated": "20240417133526"
+					},
+					"Children": [
+						{
+							"ID": "20240417133507-5wy488i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240417133507-5wy488i",
+								"updated": "20240417133526"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "若要使用 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "root"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 命令行，可使用 "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "sudo -i"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ 进入"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240417133529-wg93sph",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240417133529-wg93sph"
+			}
+		}
+	]
+}

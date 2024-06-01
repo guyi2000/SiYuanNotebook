@@ -1,0 +1,1338 @@
+{
+	"ID": "20230409183643-w84izub",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f446",
+		"id": "20230409183643-w84izub",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230409183643-w84izub\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230409183652-ufaoprw\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230409184941-n4dw1j4\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230409183652-ufaoprw\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "2023-04-09 讨论",
+		"title-img": "background-color:white;background-image: linear-gradient(90deg, rgba(200,0,0,.5) 50%, transparent 50%),linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%);background-size:50px 50px;",
+		"updated": "20230409184941"
+	},
+	"Children": [
+		{
+			"ID": "20230409183652-ufaoprw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230409183652-ufaoprw",
+				"updated": "20230409183705"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "环境配置",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409183705-iryb1nt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230409183705-iryb1nt",
+				"updated": "20230409183804"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "配置 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "ecs-1d89"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409183806-n1elmmd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230409183806-n1elmmd",
+				"updated": "20230409183812"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "基本信息",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409183812-79vsz8x",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230409183812-79vsz8x",
+				"updated": "20230409184808"
+			},
+			"Children": [
+				{
+					"ID": "20230409183815-2ruvwx5",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230409183815-2ruvwx5",
+						"updated": "20230409183815"
+					},
+					"Children": [
+						{
+							"ID": "20230409183815-sx6elfq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409183815-sx6elfq",
+								"updated": "20230409183826"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "IP：139.9.228.125",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230409183827-pjc6izt",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230409183827-pjc6izt",
+						"updated": "20230409183827"
+					},
+					"Children": [
+						{
+							"ID": "20230409183827-7154e59",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409183827-7154e59",
+								"updated": "20230409183832"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用户名：opdev",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230409183832-exzulcw",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230409183832-exzulcw",
+						"updated": "20230409184808"
+					},
+					"Children": [
+						{
+							"ID": "20230409183832-rmfhpt5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409183832-rmfhpt5",
+								"updated": "20230409184808"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "密码：****************",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230409183837-c5kd4eo",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230409183837-c5kd4eo",
+						"updated": "20230409183848"
+					},
+					"Children": [
+						{
+							"ID": "20230409183837-ov3w040",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409183837-ov3w040",
+								"updated": "20230409183848"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "系统：CentOS 7.9",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409183850-qwcupvt",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230409183850-qwcupvt",
+				"updated": "20230409183853"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "配置方法",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409183900-t14x6u4",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20230409183900-t14x6u4",
+				"updated": "20230409184204"
+			},
+			"Children": [
+				{
+					"ID": "20230409183902-upxtvku",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230409183902-upxtvku",
+						"updated": "20230409183902"
+					},
+					"Children": [
+						{
+							"ID": "20230409183902-xx5i1ub",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409183902-xx5i1ub",
+								"updated": "20230409183912"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "修改 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "yum"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​ ​软件源",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184411-ckxjgfe",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184411-ckxjgfe",
+				"updated": "20230409184418"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.bk\ncurl -s -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo\ncurl -s -o /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-7.repo\nyum update -y\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409183920-9l9qbwr",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 2,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mg==",
+				"Num": 2
+			},
+			"Properties": {
+				"id": "20230409183920-9l9qbwr",
+				"updated": "20230409184427"
+			},
+			"Children": [
+				{
+					"ID": "20230409184427-49bng0h",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230409184427-49bng0h",
+						"updated": "20230409184427"
+					},
+					"Children": [
+						{
+							"ID": "20230409184427-ssnschp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184427-ssnschp",
+								"updated": "20230409184427"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "安装必备软件包",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184436-31imvn6",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184436-31imvn6",
+				"updated": "20230409184556"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "yum install -y wget vim\nyum install -y net-tools htop\nyum install -y gcc gcc-c++\nwget http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-release-7-2.noarch.rpm \u0026\u0026 sudo rpm -ivh wandisco-git-release-7-2.noarch.rpm\nyum install -y curl-devel expat-devel gettext-devel openssl-devel zlib-devel gcc perl-ExtUtils-MakeMaker\nyum install -y git\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184433-xpheakz",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 3,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mw==",
+				"Num": 3
+			},
+			"Properties": {
+				"id": "20230409184433-xpheakz",
+				"updated": "20230409184457"
+			},
+			"Children": [
+				{
+					"ID": "20230409184457-js26suv",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230409184457-js26suv",
+						"updated": "20230409184457"
+					},
+					"Children": [
+						{
+							"ID": "20230409184457-c3u78lp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184457-c3u78lp",
+								"updated": "20230409184457"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "关闭 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "selinux"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184500-revh1mh",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184500-revh1mh",
+				"updated": "20230409184505"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "setenforce 0\nsed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409183935-45f5rmm",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 4,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "NA==",
+				"Num": 4
+			},
+			"Properties": {
+				"id": "20230409183935-45f5rmm",
+				"updated": "20230409184510"
+			},
+			"Children": [
+				{
+					"ID": "20230409184510-gzvr9wq",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20230409184510-gzvr9wq",
+						"updated": "20230409184510"
+					},
+					"Children": [
+						{
+							"ID": "20230409184510-liy2oj4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184510-liy2oj4",
+								"updated": "20230409184510"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "修改防火墙 ",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "ufw"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184307-h53hh9i",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184307-h53hh9i",
+				"updated": "20230409184314"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "systemctl stop firewalld \u0026\u0026 systemctl disable firewalld \u0026\u0026 systemctl mask firewalld\nsystemctl daemon-reload\nyum install -y epel-release \u0026\u0026 yum install -y ufw\nufw disable \u0026\u0026 ufw allow ssh \u0026\u0026 ufw enable\nsystemctl daemon-reload\nsystemctl enable ufw --now\nufw allow http \u0026\u0026 ufw allow https\nufw reload\nreboot\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184211-p1k2k9u",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 5,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "NQ==",
+				"Num": 5
+			},
+			"Properties": {
+				"id": "20230409184211-p1k2k9u",
+				"updated": "20230409184524"
+			},
+			"Children": [
+				{
+					"ID": "20230409184524-zfler6o",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20230409184524-zfler6o",
+						"updated": "20230409184524"
+					},
+					"Children": [
+						{
+							"ID": "20230409184524-xw0oboe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184524-xw0oboe",
+								"updated": "20230409184524"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "ntp"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " ​配置",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						},
+						{
+							"ID": "20230409184529-yx0n6mr",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20230409184529-yx0n6mr",
+								"updated": "20230409184529"
+							},
+							"Children": [
+								{
+									"ID": "20230409184528-fdg5zof",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230409184528-fdg5zof",
+										"updated": "20230409184528"
+									},
+									"Children": [
+										{
+											"ID": "20230409184528-uf2uajv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230409184528-uf2uajv",
+												"updated": "20230409184528"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "使用 ",
+													"Properties": {
+														"id": ""
+													}
+												},
+												{
+													"Type": "NodeTextMark",
+													"Properties": {
+														"id": ""
+													},
+													"TextMarkType": "code",
+													"TextMarkTextContent": "timedatectl"
+												},
+												{
+													"Type": "NodeText",
+													"Data": "​",
+													"Properties": {
+														"id": ""
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184353-1poqb97",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184353-1poqb97",
+				"updated": "20230409184358"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "yum -y install ntpdate\ntimedatectl set-timezone Asia/Shanghai\ntimedatectl set-ntp true\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184234-96t29xa",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 6,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Ng==",
+				"Num": 6
+			},
+			"Properties": {
+				"id": "20230409184234-96t29xa",
+				"updated": "20230409184620"
+			},
+			"Children": [
+				{
+					"ID": "20230409184620-nezuma5",
+					"Type": "NodeListItem",
+					"Data": "6",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 6,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Ng==",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20230409184620-nezuma5",
+						"updated": "20230409184620"
+					},
+					"Children": [
+						{
+							"ID": "20230409184620-hxeo98e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184620-hxeo98e",
+								"updated": "20230409184625"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "​",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "docker"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " ​安装",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184626-m2lfruw",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184626-m2lfruw",
+				"updated": "20230409184635"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "yum remove docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine\nyum install -y yum-utils\nyum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo\nyum install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin\nsystemctl daemon-reload\nsystemctl enable docker --now\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184643-p31pxo5",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 7,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Nw==",
+				"Num": 7
+			},
+			"Properties": {
+				"id": "20230409184643-p31pxo5",
+				"updated": "20230409184701"
+			},
+			"Children": [
+				{
+					"ID": "20230409184701-y60ir10",
+					"Type": "NodeListItem",
+					"Data": "7",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 7,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Nw==",
+						"Num": 7
+					},
+					"Properties": {
+						"id": "20230409184701-y60ir10",
+						"updated": "20230409184701"
+					},
+					"Children": [
+						{
+							"ID": "20230409184701-bp8inm3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184701-bp8inm3",
+								"updated": "20230409184705"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "​",
+									"Properties": {
+										"id": ""
+									}
+								},
+								{
+									"Type": "NodeTextMark",
+									"Properties": {
+										"id": ""
+									},
+									"TextMarkType": "code",
+									"TextMarkTextContent": "swapfile"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "​",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184706-u8k7c7q",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184706-u8k7c7q",
+				"updated": "20230409184723"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "dd if=/dev/zero of=/swapfile bs=1M count=2048\nmkswap /swapfile\nchmod 600 /swapfile\nswapon /swapfile\nfree -m\n# 注：如果在 /etc/rc.local 中有 swapoff -a 需要修改为 swapon -a\necho \"/swapfile swap swap defaults 0 0\" \u003e\u003e /etc/fstab\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184827-retosra",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230409184827-retosra",
+				"updated": "20230409184845"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "部署",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184845-zjyge6u",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230409184845-zjyge6u",
+				"updated": "20230409184919"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "参考官网 document，尽量使用 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "yum"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ​软件源管理，方便使用 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "systemctl"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ​管理 ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeTextMark",
+					"Properties": {
+						"id": ""
+					},
+					"TextMarkType": "code",
+					"TextMarkTextContent": "daemon"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184920-u5vuimb",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230409184920-u5vuimb",
+				"updated": "20230409184923"
+			},
+			"Children": [
+				{
+					"ID": "20230409184923-yflqk4z",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230409184923-yflqk4z",
+						"updated": "20230409184923"
+					},
+					"Children": [
+						{
+							"ID": "20230409184923-85qbssq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230409184923-85qbssq",
+								"updated": "20230409184927"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "端口转发",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230409184928-k8v7ev3",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"CodeBlockFenceChar": 96,
+			"CodeBlockFenceLen": 3,
+			"CodeBlockOpenFence": "YGBg",
+			"CodeBlockInfo": "c2hlbGw=",
+			"CodeBlockCloseFence": "YGBg",
+			"Properties": {
+				"id": "20230409184928-k8v7ev3",
+				"updated": "20230409184940"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw=",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "ssh -L 8848:localhost:8848 opdev@139.9.228.125 -N\n",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```",
+					"CodeBlockFenceLen": 3,
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230409184941-n4dw1j4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230409184941-n4dw1j4",
+				"updated": "20230409184941"
+			}
+		}
+	]
+}

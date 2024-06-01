@@ -1,0 +1,144 @@
+{
+	"ID": "20240317122646-r8kzaz2",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240317122646-r8kzaz2",
+		"title": "UFW and Docker",
+		"updated": "20240317123230"
+	},
+	"Children": [
+		{
+			"ID": "20240317122646-p0kwi1n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317122646-p0kwi1n",
+				"updated": "20240317122902"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用 Docker 会越过 UFW 防火墙，可以在 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "/etc/ufw/after.rules"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 文件中添加以下内容："
+				}
+			]
+		},
+		{
+			"ID": "20240317122902-758zddz",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240317122902-758zddz",
+				"style": "line-height: 23px;",
+				"updated": "20240317122918"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "# BEGIN UFW AND DOCKER\n*filter\n:ufw-user-forward - [0:0]\n:ufw-docker-logging-deny - [0:0]\n:DOCKER-USER - [0:0]\n-A DOCKER-USER -j ufw-user-forward\n\n-A DOCKER-USER -j RETURN -s 10.0.0.0/8\n-A DOCKER-USER -j RETURN -s 172.16.0.0/12\n-A DOCKER-USER -j RETURN -s 192.168.0.0/16\n\n-A DOCKER-USER -p udp -m udp --sport 53 --dport 1024:65535 -j RETURN\n\n-A DOCKER-USER -j ufw-docker-logging-deny -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK SYN -d 192.168.0.0/16\n-A DOCKER-USER -j ufw-docker-logging-deny -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK SYN -d 10.0.0.0/8\n-A DOCKER-USER -j ufw-docker-logging-deny -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK SYN -d 172.16.0.0/12\n-A DOCKER-USER -j ufw-docker-logging-deny -p udp -m udp --dport 0:32767 -d 192.168.0.0/16\n-A DOCKER-USER -j ufw-docker-logging-deny -p udp -m udp --dport 0:32767 -d 10.0.0.0/8\n-A DOCKER-USER -j ufw-docker-logging-deny -p udp -m udp --dport 0:32767 -d 172.16.0.0/12\n\n-A DOCKER-USER -j RETURN\n\n-A ufw-docker-logging-deny -m limit --limit 3/min --limit-burst 10 -j LOG --log-prefix \"[UFW DOCKER BLOCK] \"\n-A ufw-docker-logging-deny -j DROP\n\nCOMMIT\n# END UFW AND DOCKER\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240317122938-7r45zl8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317122938-7r45zl8",
+				"updated": "20240317123035"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "此后使用命令 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "sudo systemctl restart ufw"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 或 "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "sudo ufw reload"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 来重启 UFW 即可。如果不行，可以直接重启服务器"
+				}
+			]
+		},
+		{
+			"ID": "20240317123035-x0d7gw7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317123035-x0d7gw7",
+				"updated": "20240317123042"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "或者，使用如下的管理工具："
+				}
+			]
+		},
+		{
+			"ID": "20240317123043-lelm5gx",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240317123043-lelm5gx",
+				"style": "line-height: 23px; background-color: var(--b3-card-error-color); color: var(--b3-card-error-background);",
+				"updated": "20240317123212"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo wget -O /usr/local/bin/ufw-docker \\\n  https://github.com/chaifeng/ufw-docker/raw/master/ufw-docker\nsudo chmod +x /usr/local/bin/ufw-docker\nufw-docker install\nufw-docker check\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240317123230-tc0hi2j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240317123230-tc0hi2j"
+			}
+		}
+	]
+}

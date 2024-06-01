@@ -1,0 +1,161 @@
+{
+	"ID": "20230619201254-hn12ibq",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230619201254-hn12ibq",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230619201254-hn12ibq\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230619201254-x3041b2\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230619202519-2asjhxy\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230619202519-2asjhxy\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "2023-06-19",
+		"updated": "20230619204905"
+	},
+	"Children": [
+		{
+			"ID": "20230619201254-x3041b2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619201254-x3041b2",
+				"updated": "20230619201540"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "党支部"
+				}
+			]
+		},
+		{
+			"ID": "20230619201541-fo7uf8e",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619201541-fo7uf8e",
+				"updated": "20230619201552"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "联系、组织生活、迟到"
+				}
+			]
+		},
+		{
+			"ID": "20230619203330-jmf4pu3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619203330-jmf4pu3",
+				"updated": "20230619203336"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "迟到与科研时间分配"
+				}
+			]
+		},
+		{
+			"ID": "20230619203120-759vlnz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619203120-759vlnz",
+				"updated": "20230619203321"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "组织生活筹备，，，"
+				}
+			]
+		},
+		{
+			"ID": "20230619203323-ykw9nqn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619203323-ykw9nqn",
+				"updated": "20230619203326"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "联系积极分子"
+				}
+			]
+		},
+		{
+			"ID": "20230619203327-9r1glfu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619203327-9r1glfu",
+				"updated": "20230619203329"
+			}
+		},
+		{
+			"ID": "20230619204553-aemz2k6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619204553-aemz2k6",
+				"updated": "20230619204607"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "支委工作：组织委员：宣传问题"
+				}
+			]
+		},
+		{
+			"ID": "20230619204851-w8nyl1y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619204851-w8nyl1y",
+				"updated": "20230619204905"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "结组编辑、推送制作。"
+				}
+			]
+		},
+		{
+			"ID": "20230619204553-gvko171",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619204553-gvko171"
+			}
+		},
+		{
+			"ID": "20230619201553-9xxf0mx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619201553-9xxf0mx",
+				"updated": "20230619201615"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "科研、学习"
+				}
+			]
+		},
+		{
+			"ID": "20230619202446-jju4udg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619202446-jju4udg",
+				"updated": "20230619202519"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "吃一个、夹一个、看一个"
+				}
+			]
+		},
+		{
+			"ID": "20230619202519-2asjhxy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230619202519-2asjhxy"
+			}
+		}
+	]
+}

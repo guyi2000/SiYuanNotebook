@@ -1,0 +1,147 @@
+{
+	"ID": "20240421225307-rg9ht6d",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240421225307-rg9ht6d",
+		"title": "备份与还原",
+		"type": "doc",
+		"updated": "20240421230041"
+	},
+	"Children": [
+		{
+			"ID": "20240421225307-b3jhfzy",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240421225307-b3jhfzy",
+				"updated": "20240421225723"
+			},
+			"Children": [
+				{
+					"ID": "20240421225723-6lo0nmb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240421225723-6lo0nmb",
+						"updated": "20240421225723"
+					},
+					"Children": [
+						{
+							"ID": "20240421225723-a25af3s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240421225723-a25af3s",
+								"updated": "20240421225724"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "备份"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240421225724-2hprj23",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240421225724-2hprj23",
+				"style": "line-height: 23px;",
+				"updated": "20240421230041"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "tar -cvpzf \u003cbackup_file_path\u003e \\\n--exclude=/media \\\n--exclude=\u003cbackup_file_path\u003e \\\n--exclude=/proc \\\n--exclude=/tmp \\\n--exclude=/mnt \\\n--exclude=/dev \\\n--exclude=/sys \\\n--exclude=/run \\\n--exclude=/var/cache/apt/archives \\\n--one-file-system /\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240421225730-88czgbz",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240421225730-88czgbz",
+				"updated": "20240421225740"
+			},
+			"Children": [
+				{
+					"ID": "20240421225740-4auz25h",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240421225740-4auz25h",
+						"updated": "20240421225740"
+					},
+					"Children": [
+						{
+							"ID": "20240421225740-rbynfgs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240421225740-rbynfgs",
+								"updated": "20240421225741"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "还原"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240421225741-1hdusx0",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240421225741-1hdusx0",
+				"style": "line-height: 23px;",
+				"updated": "20240421225852"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "tar -xvpzf \u003cbackup_file_path\u003e -C \u003croot_mount_point\u003e --numeric-owner\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"ID": "20230813130515-exutk8c",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f9fb",
+		"id": "20230813130515-exutk8c",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230813130515-exutk8c\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230813130515-7g8bpn2\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230813130515-7g8bpn2\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230813130515-7g8bpn2\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "论文",
+		"title-img": "background:radial-gradient(circle at 100% 50%, transparent 20%, rgba(255,255,255,.3) 21%, rgba(255,255,255,.3) 34%, transparent 35%, transparent),radial-gradient(circle at 0% 50%, transparent 20%, rgba(255,255,255,.3) 21%, rgba(255,255,255,.3) 34%, transparent 35%, transparent) 0 -50px;background-color: slategray;background-size:75px 100px;",
+		"updated": "20230813130520"
+	},
+	"Children": [
+		{
+			"ID": "20230813130515-7g8bpn2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230813130515-7g8bpn2",
+				"updated": "20230813130515"
+			}
+		}
+	]
+}

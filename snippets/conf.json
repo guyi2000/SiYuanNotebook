@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20231213164835-yss6cnt",
+    "name": "plugin-custom-fonts-style",
+    "type": "css",
+    "enabled": true,
+    "content": "/* Twemoji Mozilla: https://github.com/mozilla/twemoji-colr */\n@font-face {\n    font-family: \"Twemoji Mozilla\";\n    font-style: normal;\n    src: url(\"plugins/custom-fonts/static/fonts/Twemoji.Mozilla/Twemoji.Mozilla-0.7.0.ttf\");\n}\n\n\n:root {\n    --b3-font-family: \"等距更纱黑体 SC Nerd Font\", \"Helvetica Neue\", \"Luxi Sans\", \"DejaVu Sans\", \"Hiragino Sans GB\", \"Microsoft Yahei\", \"sans-serif\", \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Noto Color Emoji\", \"Segoe UI Symbol\", \"Android Emoji\", \"EmojiSymbols\";\n    --b3-font-family-protyle: \"等距更纱黑体 SC Nerd Font\";\n    --b3-font-family-code: \"等距更纱黑体 SC Nerd Font\", \"JetBrainsMono-Regular\", \"mononoki\", \"Consolas\", \"Liberation Mono\", \"Menlo\", \"Courier\", \"monospace\", \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Noto Color Emoji\", \"Segoe UI Symbol\", \"Android Emoji\", \"EmojiSymbols\";\n    --b3-font-family-graph: \"等距更纱黑体 SC Nerd Font\", \"mononoki\";\n    --b3-font-family-emoji: \"Twemoji Mozilla\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Segoe UI\", \"Apple Color Emoji\", \"Noto Color Emoji\", \"Android Emoji\";\n}"
+  },
+  {
+    "id": "20240105153520-lsz6dor",
+    "name": "plugin-undefined-style",
+    "type": "css",
+    "enabled": true,
+    "content": "/* Twemoji Mozilla: https://github.com/mozilla/twemoji-colr */\n@font-face {\n    font-family: \"Twemoji Mozilla\";\n    font-style: normal;\n    src: url(\"plugins/custom-fonts/static/fonts/Twemoji.Mozilla/Twemoji.Mozilla-0.7.0.ttf\");\n}\n\n\n:root {\n    --b3-font-family: \"等距更纱黑体 SC Nerd Font\", \"Helvetica Neue\", \"Luxi Sans\", \"DejaVu Sans\", \"Hiragino Sans GB\", \"Microsoft Yahei\", \"sans-serif\", \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Noto Color Emoji\", \"Segoe UI Symbol\", \"Android Emoji\", \"EmojiSymbols\";\n    --b3-font-family-protyle: \"等距更纱黑体 SC Nerd Font\";\n    --b3-font-family-code: \"等距更纱黑体 SC Nerd Font\", \"JetBrainsMono-Regular\", \"mononoki\", \"Consolas\", \"Liberation Mono\", \"Menlo\", \"Courier\", \"monospace\", \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Noto Color Emoji\", \"Segoe UI Symbol\", \"Android Emoji\", \"EmojiSymbols\";\n    --b3-font-family-graph: \"等距更纱黑体 SC Nerd Font\", \"mononoki\";\n    --b3-font-family-emoji: \"Twemoji Mozilla\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Segoe UI\", \"Apple Color Emoji\", \"Noto Color Emoji\", \"Android Emoji\";\n}"
+  }
+]

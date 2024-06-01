@@ -1,0 +1,563 @@
+{
+	"ID": "20240426195532-78tizeo",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240426195532-78tizeo",
+		"title": "Git utils",
+		"type": "doc",
+		"updated": "20240426201106"
+	},
+	"Children": [
+		{
+			"ID": "20240426195532-0s7q1vc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195532-0s7q1vc",
+				"updated": "20240426195549"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "创建并切换分支"
+				}
+			]
+		},
+		{
+			"ID": "20240426195549-zg2ilia",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195549-zg2ilia",
+				"style": "line-height: 23px;",
+				"updated": "20240426195600"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git checkout -b \u003cbranch_name\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195601-4mck2cx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195601-4mck2cx",
+				"updated": "20240426195610"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "合并某个分支到某个分支"
+				}
+			]
+		},
+		{
+			"ID": "20240426195611-l3fgw7h",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195611-l3fgw7h",
+				"style": "line-height: 23px;",
+				"updated": "20240426195631"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git checkout \u003cmain\u003e\ngit merge \u003csome_branch\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195905-3atnzg1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195905-3atnzg1",
+				"updated": "20240426195909"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "删除分支"
+				}
+			]
+		},
+		{
+			"ID": "20240426195909-btb9c3r",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195909-btb9c3r",
+				"style": "line-height: 23px;",
+				"updated": "20240426195919"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git branch -d \u003cbranch_name\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195928-6bky2me",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195928-6bky2me",
+				"updated": "20240426195928"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "删除远程分支"
+				}
+			]
+		},
+		{
+			"ID": "20240426195928-bw9qm6z",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195928-bw9qm6z",
+				"style": "line-height: 23px;",
+				"updated": "20240426195928"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git push origin --delete \u003cbranch_name\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195943-qjylkax",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195943-qjylkax",
+				"updated": "20240426195952"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "同步远程仓库的分支删除"
+				}
+			]
+		},
+		{
+			"ID": "20240426195952-3i9k1oi",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195952-3i9k1oi",
+				"style": "line-height: 23px;",
+				"updated": "20240426200000"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git remote prune origin\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195632-w9fmwl7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195632-w9fmwl7",
+				"updated": "20240426195646"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "添加 tag"
+				}
+			]
+		},
+		{
+			"ID": "20240426195646-wjis54p",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195646-wjis54p",
+				"style": "line-height: 23px;",
+				"updated": "20240426195701"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git tag -a \u003ctag_name\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195701-c1ldy2q",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195701-c1ldy2q",
+				"updated": "20240426195705"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "删除 tag"
+				}
+			]
+		},
+		{
+			"ID": "20240426195705-ai82d6p",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195705-ai82d6p",
+				"style": "line-height: 23px;",
+				"updated": "20240426195713"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git tag -d \u003ctag_name\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426195854-pd4qalp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426195854-pd4qalp",
+				"updated": "20240426200231"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "删除远程仓库 tag"
+				}
+			]
+		},
+		{
+			"ID": "20240426195930-9hyq7us",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426195930-9hyq7us",
+				"style": "line-height: 23px;",
+				"updated": "20240426200302"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git push origin -d tag \u003ctag_name\u003e\n# Or\ngit push origin :refs/tags/\u003ctag_name\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426200303-t2j2r3k",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426200303-t2j2r3k",
+				"updated": "20240426200408"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "查看远程仓库 tag"
+				}
+			]
+		},
+		{
+			"ID": "20240426200408-4p3im51",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426200408-4p3im51",
+				"style": "line-height: 23px;",
+				"updated": "20240426200730"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git ls-remote --tags origin\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426200731-p652re0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426200731-p652re0",
+				"updated": "20240426200742"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "合并某个分支上的单个 commit 到其他分支"
+				}
+			]
+		},
+		{
+			"ID": "20240426200742-voczm4u",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426200742-voczm4u",
+				"style": "line-height: 23px;",
+				"updated": "20240426200833"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git checkout \u003cbranch_name\u003e\ngit cherry-pick \u003ccommit_id\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426200831-muwf31z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426200831-muwf31z",
+				"updated": "20240426200904"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "合并某个分支上的一系列 commit 到其他分支"
+				}
+			]
+		},
+		{
+			"ID": "20240426200905-37lwn0f",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426200905-37lwn0f",
+				"style": "line-height: 23px;",
+				"updated": "20240426200941"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git checkout -b \u003cnew_branch_name\u003e \u003cto_commit_id\u003e\ngit rebase --onto \u003cbranch_name\u003e \u003cfrom_commit_id\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426200948-fu6cl25",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240426200948-fu6cl25",
+				"updated": "20240426200952"
+			},
+			"Children": [
+				{
+					"ID": "20240426200952-eqfzud5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240426200952-eqfzud5",
+						"updated": "20240426200952"
+					},
+					"Children": [
+						{
+							"ID": "20240426200952-cyca6du",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240426200952-cyca6du",
+								"updated": "20240426201029"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "例如，如果想合并 feature 分支的 commit 76cada"
+								},
+								{
+									"Type": "NodeBackslash",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "~"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "62ecb3 到 main 分支，可以"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240426201031-jskrkzk",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240426201031-jskrkzk",
+				"style": "line-height: 23px;",
+				"updated": "20240426201105"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git checkout feature\ngit checkout -b temp 62ecb3\ngit rebase --onto main 76cada^\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240426201106-b6zr4rv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240426201106-b6zr4rv"
+			}
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"ID": "20240111143643-lb9q21v",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240111143643-lb9q21v",
+		"title": "A respose-compatible ground motion simulation method using physics-guided neural networks",
+		"updated": "20240111144905"
+	},
+	"Children": [
+		{
+			"ID": "20240111143643-reiqqv9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20240111143643-reiqqv9",
+				"updated": "20240111143751"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Introduction"
+				}
+			]
+		},
+		{
+			"ID": "20240111143758-fhnuzjw",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20240111143758-fhnuzjw",
+				"updated": "20240111144905"
+			},
+			"Children": [
+				{
+					"ID": "20240111144905-56b9iws",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240111144905-56b9iws",
+						"updated": "20240111144905"
+					},
+					"Children": [
+						{
+							"ID": "20240111144905-hfxf39h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240111144905-hfxf39h",
+								"updated": "20240111144905"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "GM 的选择影响非线性时程分析的可靠性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240111144928-klegjk9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240111144928-klegjk9"
+					},
+					"Children": [
+						{
+							"ID": "20240111144928-rzlr6ak",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240111144928-rzlr6ak"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20240111144927-srkoa06",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240111144927-srkoa06"
+			}
+		}
+	]
+}

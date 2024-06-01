@@ -1,0 +1,20 @@
+{
+	"ID": "20231215094214-z7fjeet",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20231215094214-z7fjeet",
+		"title": "daily note",
+		"updated": "20231215094214"
+	},
+	"Children": [
+		{
+			"ID": "20231215094214-2uvqiiw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231215094214-2uvqiiw",
+				"updated": "20231215094214"
+			}
+		}
+	]
+}

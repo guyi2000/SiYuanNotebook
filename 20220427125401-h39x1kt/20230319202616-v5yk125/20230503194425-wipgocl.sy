@@ -1,0 +1,761 @@
+{
+	"ID": "20230503194425-wipgocl",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f33d",
+		"id": "20230503194425-wipgocl",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230503194425-wipgocl\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230503194500-zs2181d\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230503204011-65ya2ni\u0026quot;,\u0026quot;scrollTop\u0026quot;:1264,\u0026quot;focusId\u0026quot;:\u0026quot;20230504155535-eyocyc9\u0026quot;,\u0026quot;focusStart\u0026quot;:11,\u0026quot;focusEnd\u0026quot;:12\u0026#125;",
+		"title": "2023-05-03 会议",
+		"updated": "20230504160016"
+	},
+	"Children": [
+		{
+			"ID": "20230503194500-zs2181d",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230503194500-zs2181d",
+				"updated": "20230504155714"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## ",
+					"Properties": {
+						"id": ""
+					}
+				},
+				{
+					"Type": "NodeText",
+					"Data": "PPT 总体问题",
+					"Properties": {
+						"id": ""
+					}
+				}
+			]
+		},
+		{
+			"ID": "20230503194506-z8pa2vq",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20230503194506-z8pa2vq",
+				"updated": "20230504155257"
+			},
+			"Children": [
+				{
+					"ID": "20230503194507-7uaa8gi",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230503194507-7uaa8gi",
+						"updated": "20230504155251"
+					},
+					"Children": [
+						{
+							"ID": "20230503194507-2nxv3gb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503194507-2nxv3gb",
+								"updated": "20230504155251"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "这个 PPT 不够振奋",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230503194521-p0nax2f",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230503194521-p0nax2f",
+						"updated": "20230504155257"
+					},
+					"Children": [
+						{
+							"ID": "20230503194521-xvsfny1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503194521-xvsfny1",
+								"updated": "20230504155257"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "PPT 总体上不够精致",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230503194535-hcumrvo",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20230503194535-hcumrvo",
+						"updated": "20230503194538"
+					},
+					"Children": [
+						{
+							"ID": "20230503194535-pdwt7ft",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503194535-pdwt7ft",
+								"updated": "20230503194538"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "逻辑需要理顺",
+									"Properties": {
+										"id": ""
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230503194510-ja2j7r2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230503194510-ja2j7r2",
+				"updated": "20230504160415"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "背景部分分页修改意见"
+				}
+			]
+		},
+		{
+			"ID": "20230503194425-6313rof",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230503194425-6313rof",
+				"updated": "20230504160016"
+			},
+			"Children": [
+				{
+					"ID": "20230503194436-11jwoc5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230503194436-11jwoc5",
+						"updated": "20230504155324"
+					},
+					"Children": [
+						{
+							"ID": "20230503194436-8uajnax",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503194436-8uajnax",
+								"updated": "20230504155324"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第 1 页封面：中规院 --\u003e 中规院（北京）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230503200655-mg5kky5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230503200655-mg5kky5",
+						"updated": "20230504155740"
+					},
+					"Children": [
+						{
+							"ID": "20230503200655-66onkuv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503200655-66onkuv",
+								"updated": "20230503200802"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第 4 页："
+								}
+							]
+						},
+						{
+							"ID": "20230503200823-a7w6t35",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230503200823-a7w6t35",
+								"updated": "20230504155740"
+							},
+							"Children": [
+								{
+									"ID": "20230503200823-wj5fp6a",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230503200823-wj5fp6a",
+										"updated": "20230504155609"
+									},
+									"Children": [
+										{
+											"ID": "20230503200823-pn4tiw8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230503200823-pn4tiw8",
+												"updated": "20230504155535"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "任务重大部分"
+												}
+											]
+										},
+										{
+											"ID": "20230504155535-6wmt0pa",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230504155535-6wmt0pa",
+												"updated": "20230504155609"
+											},
+											"Children": [
+												{
+													"ID": "20230504155535-2z5flus",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230504155535-2z5flus",
+														"updated": "20230504155609"
+													},
+													"Children": [
+														{
+															"ID": "20230504155535-eyocyc9",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230504155535-eyocyc9",
+																"updated": "20230504155609"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "中间部分，将 90 条内跟地震有关的东西标红，不要提减隔震的东西，然后把右侧部分（提升防震减灾能力）删掉"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230503200827-pi86und",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230503200827-pi86und",
+										"updated": "20230504155740"
+									},
+									"Children": [
+										{
+											"ID": "20230503200827-fw94ism",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230503200827-fw94ism",
+												"updated": "20230504155753"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "（不重要）解老师：北京的高地震风险突出不够，最好加上北京基本上 8 度设防"
+												}
+											]
+										},
+										{
+											"ID": "20230504155720-gb52rc5",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230504155720-gb52rc5",
+												"updated": "20230504155740"
+											},
+											"Children": [
+												{
+													"ID": "20230504155720-lwwswo7",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230504155720-lwwswo7",
+														"updated": "20230504155740"
+													},
+													"Children": [
+														{
+															"ID": "20230504155720-jcdvtjz",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230504155720-jcdvtjz",
+																"updated": "20230504155740"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "可以把任务重大部分的左边放上 8 度设防的内容"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230503201201-8frovth",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230503201201-8frovth",
+						"updated": "20230504160016"
+					},
+					"Children": [
+						{
+							"ID": "20230503201201-kp1vh1f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503201201-kp1vh1f",
+								"updated": "20230503201205"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第 5 页："
+								}
+							]
+						},
+						{
+							"ID": "20230503201206-f7fdnvx",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230503201206-f7fdnvx",
+								"updated": "20230504160016"
+							},
+							"Children": [
+								{
+									"ID": "20230504155849-1ysyhqw",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230504155849-1ysyhqw",
+										"updated": "20230504160016"
+									},
+									"Children": [
+										{
+											"ID": "20230504155849-dw4qr7l",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230504155849-dw4qr7l",
+												"updated": "20230504155916"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可以不用把文字这么呆板的写，腾出来的地方放一放动画"
+												}
+											]
+										},
+										{
+											"ID": "20230504160021-vmpdeib",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230504160021-vmpdeib",
+												"updated": "20230504160016"
+											},
+											"Children": [
+												{
+													"ID": "20230503201206-109u5o6",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230503201206-109u5o6",
+														"updated": "20230503201206"
+													},
+													"Children": [
+														{
+															"ID": "20230503201206-de48pfd",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230503201206-de48pfd",
+																"updated": "20230504155945"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "三个尺度需要放点图示意一下"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20230504155949-1oi4g5d",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230504155949-1oi4g5d",
+														"updated": "20230504160016"
+													},
+													"Children": [
+														{
+															"ID": "20230504155949-9smtkeo",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230504155949-9smtkeo",
+																"updated": "20230504160016"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "目前涉及防灾规划、抗震设计、抗震加固等内容，可以留着文字再点一下"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230503194450-g6vfl5p",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230503194450-g6vfl5p",
+						"updated": "20230503194450"
+					},
+					"Children": [
+						{
+							"ID": "20230503194450-4ftnffm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503194450-4ftnffm",
+								"updated": "20230504160049"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第 6 页：需要动画支持，目前不够精致"
+								}
+							]
+						},
+						{
+							"ID": "20230503201547-d54tfql",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230503201547-d54tfql",
+								"updated": "20230503201547"
+							},
+							"Children": [
+								{
+									"ID": "20230503201546-ouabu1m",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230503201546-ouabu1m",
+										"updated": "20230503201546"
+									},
+									"Children": [
+										{
+											"ID": "20230503201546-lqgwsma",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230503201546-lqgwsma",
+												"updated": "20230503201552"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "做个类似小视频的动画放在这里"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230503202447-ofz286a",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230503202447-ofz286a",
+						"updated": "20230503202506"
+					},
+					"Children": [
+						{
+							"ID": "20230503202447-apw2jlj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230503202447-apw2jlj",
+								"updated": "20230504160654"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第 7 页：明显是两句话，可以参考如下版式排版"
+								}
+							]
+						},
+						{
+							"ID": "20230504160330-tnh47z7",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230504160330-tnh47z7"
+							},
+							"Children": [
+								{
+									"ID": "20230504160330-2ak6d30",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230504160330-2ak6d30"
+									},
+									"Children": [
+										{
+											"ID": "20230504160331-b5gdrp7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230504160331-b5gdrp7",
+												"updated": "20230504160331"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "​"
+												},
+												{
+													"Type": "NodeImage",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeBang"
+														},
+														{
+															"Type": "NodeOpenBracket"
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "27f4bc47db0ee580acb155a363f29ec"
+														},
+														{
+															"Type": "NodeCloseBracket"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "assets/27f4bc47db0ee580acb155a363f29ec-20230504160331-i152ile.png"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "​"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230504160109-04xg4s1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230504160109-04xg4s1",
+						"updated": "20230504160827"
+					},
+					"Children": [
+						{
+							"ID": "20230504160109-mcc4vdj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230504160109-mcc4vdj"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "第 11 页：不是太美，把创新点一二三点一下"
+								}
+							]
+						},
+						{
+							"ID": "20230504160733-f2dqpga",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230504160733-f2dqpga",
+								"updated": "20230504160827"
+							},
+							"Children": [
+								{
+									"ID": "20230504160733-owd3g05",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230504160733-owd3g05",
+										"updated": "20230504160827"
+									},
+									"Children": [
+										{
+											"ID": "20230504160733-1n314t9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230504160733-1n314t9",
+												"updated": "20230504160827"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "目前先将创新点一、二、三几个字写上，美观方面可以请外援统一一下"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230503204011-65ya2ni",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230503204011-65ya2ni",
+				"updated": "20230503204012"
+			}
+		}
+	]
+}

@@ -1,0 +1,2361 @@
+{
+	"ID": "20230419214745-o3ox54p",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f4bb",
+		"id": "20230419214745-o3ox54p",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230419214745-o3ox54p\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230419214745-taju7pj\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230420223218-g0e1yfi\u0026quot;,\u0026quot;scrollTop\u0026quot;:1400,\u0026quot;focusId\u0026quot;:\u0026quot;20230420122627-6qoy1e8\u0026quot;,\u0026quot;focusStart\u0026quot;:10,\u0026quot;focusEnd\u0026quot;:10\u0026#125;",
+		"title": "多灾害部分撰写",
+		"updated": "20230421165124"
+	},
+	"Children": [
+		{
+			"ID": "20230419214745-taju7pj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230419214745-taju7pj",
+				"updated": "20230419214847"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "本领域面临的问题挑战"
+				}
+			]
+		},
+		{
+			"ID": "20230419214856-rxx1csi",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419214856-rxx1csi",
+				"updated": "20230419214910"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "A"
+				}
+			]
+		},
+		{
+			"ID": "20230419215758-whcal1i",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230419215758-whcal1i",
+				"updated": "20230419215811"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "与"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20230419214953-dtd5cik",
+					"TextMarkBlockRefSubtype": "d",
+					"TextMarkTextContent": "A"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "对应"
+				}
+			]
+		},
+		{
+			"ID": "20230419214910-yuslhco",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419214910-yuslhco",
+				"updated": "20230419214912"
+			},
+			"Children": [
+				{
+					"ID": "20230419214912-x2i6rbs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419214912-x2i6rbs",
+						"updated": "20230419214912"
+					},
+					"Children": [
+						{
+							"ID": "20230419214912-f2ujb1n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419214912-f2ujb1n",
+								"updated": "20230419214919"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多灾害下安全目标难以达到性能要求"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419214919-sm4q4bs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419214919-sm4q4bs"
+					},
+					"Children": [
+						{
+							"ID": "20230419214919-pzeh0ki",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419214919-pzeh0ki",
+								"updated": "20230419214932"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多灾害使得灾害影响范围扩大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419214928-22i8wju",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419214928-22i8wju"
+					},
+					"Children": [
+						{
+							"ID": "20230419214928-yiontyu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419214928-yiontyu",
+								"updated": "20230419214952"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "灾害难模拟，需要提升防灾效率"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215022-w65arzg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419215022-w65arzg",
+				"updated": "20230419215025"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "B"
+				}
+			]
+		},
+		{
+			"ID": "20230419215025-h2j10g7",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419215025-h2j10g7",
+				"updated": "20230419215037"
+			},
+			"Children": [
+				{
+					"ID": "20230419215037-w5gfav0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215037-w5gfav0",
+						"updated": "20230419215037"
+					},
+					"Children": [
+						{
+							"ID": "20230419215037-isitsvn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215037-isitsvn",
+								"updated": "20230419215042"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多灾害之间关系不明晰、风险难识别、荷载模型和致灾机理不完善"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215043-tw4g70s",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215043-tw4g70s"
+					},
+					"Children": [
+						{
+							"ID": "20230419215047-mq7d5vt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215047-mq7d5vt",
+								"updated": "20230419215052"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多灾害性态目标不明确，设计与评估方法待完善"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215057-nivnuo5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215057-nivnuo5"
+					},
+					"Children": [
+						{
+							"ID": "20230419215057-bosfsfw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215057-bosfsfw"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多场、多相、多时空尺度灾变机理不清晰"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215056-ijjx8m1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215056-ijjx8m1"
+					},
+					"Children": [
+						{
+							"ID": "20230419215056-s9z4wct",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215056-s9z4wct"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "现有结构体系和减灾装置不智能"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215059-l7ayvxw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419215059-l7ayvxw",
+				"updated": "20230419220041"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "C（需求角度）"
+				}
+			]
+		},
+		{
+			"ID": "20230419215103-v6mk27q",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419215103-v6mk27q",
+				"updated": "20230419220032"
+			},
+			"Children": [
+				{
+					"ID": "20230419215111-555x8az",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215111-555x8az",
+						"updated": "20230419215111"
+					},
+					"Children": [
+						{
+							"ID": "20230419215111-xg1y340",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215111-xg1y340",
+								"updated": "20230419215114"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特大城市"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215114-sbkc36u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215114-sbkc36u",
+						"updated": "20230419220032"
+					},
+					"Children": [
+						{
+							"ID": "20230419215114-oac3ng9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215114-oac3ng9",
+								"updated": "20230419215117"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特殊工程"
+								}
+							]
+						},
+						{
+							"ID": "20230419215648-sb1v2l8",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215648-sb1v2l8",
+								"updated": "20230419220032"
+							},
+							"Children": [
+								{
+									"ID": "20230419215648-f3xngd8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215648-f3xngd8",
+										"updated": "20230419220032"
+									},
+									"Children": [
+										{
+											"ID": "20230419215648-8lxnxo8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215648-8lxnxo8",
+												"updated": "20230419220032"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "服役年限增加--\u003e遇到多灾害概率增大，需要考虑多灾害影响"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215122-a5949pd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419215122-a5949pd",
+				"updated": "20230419220049"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "D（现有研究不足角度）"
+				}
+			]
+		},
+		{
+			"ID": "20230419215144-6uk0ydw",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230419215144-6uk0ydw",
+				"updated": "20230419215505"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20230419215145-isknd5h",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230419215145-isknd5h",
+						"updated": "20230419215208"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "参考李宏男老师的综述"
+						}
+					]
+				},
+				{
+					"ID": "20230419215458-zkrwyhk",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230419215458-zkrwyhk",
+						"updated": "20230419215458"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "[1]李钢,张倪飞,董志骞,李宏男.多灾害作用下工程结构分析与设计方法研究进展[J/OL].土木工程学报:1-19[2023-04-19].DOI:10.15951/j.tmgcxb.22030247."
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215505-z6ks2zn",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419215505-z6ks2zn",
+				"updated": "20230419220146"
+			},
+			"Children": [
+				{
+					"ID": "20230419215513-73j603z",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215513-73j603z",
+						"updated": "20230419215513"
+					},
+					"Children": [
+						{
+							"ID": "20230419215513-96l3g4s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215513-96l3g4s",
+								"updated": "20230419220112"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "统一的多灾害定量损失评价体系亟待建立"
+								}
+							]
+						},
+						{
+							"ID": "20230419220114-h1tynm5",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419220114-h1tynm5"
+							},
+							"Children": [
+								{
+									"ID": "20230419220113-5xlt7it",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419220113-5xlt7it"
+									},
+									"Children": [
+										{
+											"ID": "20230419220113-338gxnd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419220113-338gxnd",
+												"updated": "20230419220120"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "评估内容：诱发次生灾害的风险评估，多灾害下的损失评估"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230419220121-ghos4io",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419220121-ghos4io"
+									},
+									"Children": [
+										{
+											"ID": "20230419220121-ejcrecr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419220121-ejcrecr",
+												"updated": "20230419220126"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "评估方法：基于易损性，基于性能指标"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419220127-xgzdbdy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419220127-xgzdbdy"
+					},
+					"Children": [
+						{
+							"ID": "20230419220127-hvhrrzk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419220127-hvhrrzk",
+								"updated": "20230419220133"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抗多灾设计理论方法仍需完善"
+								}
+							]
+						},
+						{
+							"ID": "20230419220135-zfu5oub",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419220135-zfu5oub"
+							},
+							"Children": [
+								{
+									"ID": "20230419220134-du0evgd",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419220134-du0evgd"
+									},
+									"Children": [
+										{
+											"ID": "20230419220134-j398dk4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419220134-j398dk4",
+												"updated": "20230419220139"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "多灾害作用水准、结构性能等级水准、结果损失水准仍需进行大量研究"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419220143-vvt5zq5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419220143-vvt5zq5",
+						"updated": "20230419220146"
+					},
+					"Children": [
+						{
+							"ID": "20230419220143-bhpyksc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419220143-bhpyksc",
+								"updated": "20230419220146"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "……"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419214834-32o8kdh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230419214834-32o8kdh",
+				"updated": "20230419214854"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "本领域发展的应对策略"
+				}
+			]
+		},
+		{
+			"ID": "20230419214953-dtd5cik",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419214953-dtd5cik",
+				"updated": "20230419214958"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "A"
+				}
+			]
+		},
+		{
+			"ID": "20230419215728-dmyti1n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230419215728-dmyti1n",
+				"updated": "20230419215749"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "与"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20230419214856-rxx1csi",
+					"TextMarkBlockRefSubtype": "d",
+					"TextMarkTextContent": "A"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "对应"
+				}
+			]
+		},
+		{
+			"ID": "20230419214958-o698a6q",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419214958-o698a6q",
+				"updated": "20230419214959"
+			},
+			"Children": [
+				{
+					"ID": "20230419214959-auw37ry",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419214959-auw37ry",
+						"updated": "20230419214959"
+					},
+					"Children": [
+						{
+							"ID": "20230419215007-9fvmbfk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215007-9fvmbfk",
+								"updated": "20230419215009"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "从安全到韧性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215018-rxvtsj9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215018-rxvtsj9"
+					},
+					"Children": [
+						{
+							"ID": "20230419215018-k5dcgix",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215018-k5dcgix"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "单体到区域和城市"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215016-dgm4ea4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215016-dgm4ea4"
+					},
+					"Children": [
+						{
+							"ID": "20230419215016-q0cs7hv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215016-q0cs7hv"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "传统手段到大数据到智能化"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215019-vtdksej",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419215019-vtdksej",
+				"updated": "20230419215249"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "B"
+				}
+			]
+		},
+		{
+			"ID": "20230419215249-vlqjp2j",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419215249-vlqjp2j",
+				"updated": "20230419215421"
+			},
+			"Children": [
+				{
+					"ID": "20230419215259-7kqi80w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215259-7kqi80w",
+						"updated": "20230419215421"
+					},
+					"Children": [
+						{
+							"ID": "20230419215259-5g7oix0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215259-5g7oix0",
+								"updated": "20230419215259"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "模拟"
+								}
+							]
+						},
+						{
+							"ID": "20230419215322-kbi5t4p",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215322-kbi5t4p",
+								"updated": "20230419215421"
+							},
+							"Children": [
+								{
+									"ID": "20230419215322-g3ilsgo",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215322-g3ilsgo"
+									},
+									"Children": [
+										{
+											"ID": "20230419215322-5qs71o7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215322-5qs71o7",
+												"updated": "20230419215328"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "单体到区域到城市——多尺度"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230419215328-cvlgtm4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215328-cvlgtm4",
+										"updated": "20230419215421"
+									},
+									"Children": [
+										{
+											"ID": "20230419215328-6axx3eo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215328-6axx3eo",
+												"updated": "20230419215410"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "单灾害到多灾害"
+												}
+											]
+										},
+										{
+											"ID": "20230419215410-v0hdja4",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20230419215410-v0hdja4",
+												"updated": "20230419215421"
+											},
+											"Children": [
+												{
+													"ID": "20230419215410-a445mnj",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20230419215410-a445mnj",
+														"updated": "20230419215421"
+													},
+													"Children": [
+														{
+															"ID": "20230419215410-jw92vde",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20230419215410-jw92vde",
+																"updated": "20230419215421"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "单物理场到多物理场"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215302-npqj4xh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215302-npqj4xh"
+					},
+					"Children": [
+						{
+							"ID": "20230419215302-84jp3mm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215302-84jp3mm",
+								"updated": "20230419215303"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "设计"
+								}
+							]
+						},
+						{
+							"ID": "20230419215311-ga0hq9u",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215311-ga0hq9u"
+							},
+							"Children": [
+								{
+									"ID": "20230419215309-v55zykm",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215309-v55zykm"
+									},
+									"Children": [
+										{
+											"ID": "20230419215309-ar4ixi0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215309-ar4ixi0",
+												"updated": "20230419215315"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "新建建筑"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215304-n3332z8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215304-n3332z8"
+					},
+					"Children": [
+						{
+							"ID": "20230419215304-xpsblih",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215304-xpsblih",
+								"updated": "20230419215305"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "评估"
+								}
+							]
+						},
+						{
+							"ID": "20230419215306-n2r82vv",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215306-n2r82vv"
+							},
+							"Children": [
+								{
+									"ID": "20230419215316-mrz7amr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215316-mrz7amr"
+									},
+									"Children": [
+										{
+											"ID": "20230419215316-z1u4p7b",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215316-z1u4p7b",
+												"updated": "20230419215319"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "现有建筑"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230419215306-a5793ql",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215306-a5793ql"
+									},
+									"Children": [
+										{
+											"ID": "20230419215306-4n3fql2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215306-4n3fql2",
+												"updated": "20230419215308"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "易损性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215425-pxk4s52",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230419215425-pxk4s52",
+				"updated": "20230419215535"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "C"
+				}
+			]
+		},
+		{
+			"ID": "20230419215536-qoep8o0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230419215536-qoep8o0",
+				"updated": "20230419222349"
+			},
+			"Children": [
+				{
+					"ID": "20230419215543-wzj0e0b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215543-wzj0e0b",
+						"updated": "20230419215543"
+					},
+					"Children": [
+						{
+							"ID": "20230419215543-b10qzi8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215543-b10qzi8",
+								"updated": "20230419215546"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新试验"
+								}
+							]
+						},
+						{
+							"ID": "20230419215550-tlvnvhd",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215550-tlvnvhd"
+							},
+							"Children": [
+								{
+									"ID": "20230419215550-so46bin",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215550-so46bin"
+									},
+									"Children": [
+										{
+											"ID": "20230419215550-qegrbfb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215550-qegrbfb"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "研究多灾害耦合试验方案"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215547-9yc0top",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215547-9yc0top"
+					},
+					"Children": [
+						{
+							"ID": "20230419215547-r3u13ee",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215547-r3u13ee"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新模拟"
+								}
+							]
+						},
+						{
+							"ID": "20230419215552-nt5v6sf",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215552-nt5v6sf"
+							},
+							"Children": [
+								{
+									"ID": "20230419215552-umtzx0a",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215552-umtzx0a"
+									},
+									"Children": [
+										{
+											"ID": "20230419215552-nrc5eva",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215552-nrc5eva",
+												"updated": "20230419215554"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "开发多灾害，多尺度，多时空耦合的全过程模拟方法"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419215554-f3lvvg5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419215554-f3lvvg5",
+						"updated": "20230419215601"
+					},
+					"Children": [
+						{
+							"ID": "20230419215554-dd6gdlz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419215554-dd6gdlz"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新理论"
+								}
+							]
+						},
+						{
+							"ID": "20230419215557-z0hzi06",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419215557-z0hzi06",
+								"updated": "20230419215601"
+							},
+							"Children": [
+								{
+									"ID": "20230419215557-j3bdpi6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419215557-j3bdpi6",
+										"updated": "20230419215601"
+									},
+									"Children": [
+										{
+											"ID": "20230419215557-pfsdqgd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419215557-pfsdqgd",
+												"updated": "20230419221911"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾害源理论"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230419221911-cteit96",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419221911-cteit96"
+									},
+									"Children": [
+										{
+											"ID": "20230419221911-3667gxb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419221911-3667gxb",
+												"updated": "20230419221958"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾变理论"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230419221959-iii5dxf",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419221959-iii5dxf"
+									},
+									"Children": [
+										{
+											"ID": "20230419221959-mco1bvl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419221959-mco1bvl",
+												"updated": "20230419222014"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾损或响应控制理论"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419222019-upsgmzr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419222019-upsgmzr"
+					},
+					"Children": [
+						{
+							"ID": "20230419222019-2s915yq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419222019-2s915yq",
+								"updated": "20230419222035"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新监测/测量手段"
+								}
+							]
+						},
+						{
+							"ID": "20230419222042-twsl3w2",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230419222042-twsl3w2"
+							},
+							"Children": [
+								{
+									"ID": "20230419222042-3wo6w9j",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230419222042-3wo6w9j"
+									},
+									"Children": [
+										{
+											"ID": "20230419222042-8tcbkas",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230419222042-8tcbkas",
+												"updated": "20230419222047"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "准确获取灾害信息"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230419222300-38p9xq8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230419222300-38p9xq8",
+						"updated": "20230419222349"
+					},
+					"Children": [
+						{
+							"ID": "20230419222300-iu5f149",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230419222300-iu5f149",
+								"updated": "20230419222349"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "国内相关领域（多灾害）专家梳理，研究基础"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230419215536-wwfwra7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230419215536-wwfwra7",
+				"updated": "20230420122323"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "确定版本"
+				}
+			]
+		},
+		{
+			"ID": "20230420122323-ahd17f4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230420122323-ahd17f4",
+				"updated": "20230420122331"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "问题挑战"
+				}
+			]
+		},
+		{
+			"ID": "20230420122419-90ye06w",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20230420122419-90ye06w",
+				"updated": "20230420123509"
+			},
+			"Children": [
+				{
+					"ID": "20230420122555-g3qx1si",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230420122555-g3qx1si",
+						"updated": "20230420123509"
+					},
+					"Children": [
+						{
+							"ID": "20230420122555-4tohvym",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122555-4tohvym",
+								"updated": "20230420122555"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多灾害的定义"
+								}
+							]
+						},
+						{
+							"ID": "20230420122557-7yry7eo",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230420122557-7yry7eo",
+								"updated": "20230420123509"
+							},
+							"Children": [
+								{
+									"ID": "20230420122557-kgpnmxs",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230420122557-kgpnmxs",
+										"updated": "20230420123509"
+									},
+									"Children": [
+										{
+											"ID": "20230420122557-9fgtu81",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122557-9fgtu81",
+												"updated": "20230420123509"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "什么是多灾害，有哪些灾种"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230420122600-qmvb6e1",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"custom-riff-decks": "20230218211946-2kw8jgx",
+										"id": "20230420122600-qmvb6e1"
+									},
+									"Children": [
+										{
+											"ID": "20230420122600-fpcyj4p",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122600-fpcyj4p",
+												"updated": "20230420122623"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾种之间的关系——链式关系与耦合关系"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230420122627-3furd2r",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"fold": "0",
+						"id": "20230420122627-3furd2r"
+					},
+					"Children": [
+						{
+							"ID": "20230420122627-6qoy1e8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122627-6qoy1e8",
+								"updated": "20230420122635"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "为什么需要考虑多灾害"
+								}
+							]
+						},
+						{
+							"ID": "20230420122637-q662nvq",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230420122637-q662nvq"
+							},
+							"Children": [
+								{
+									"ID": "20230420122636-ncm9pd4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230420122636-ncm9pd4"
+									},
+									"Children": [
+										{
+											"ID": "20230420122636-rh266bh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122636-rh266bh"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "需求提升，承灾体复杂，灾害同时出现"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230420122640-2xvxf4f",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230420122640-2xvxf4f"
+									},
+									"Children": [
+										{
+											"ID": "20230420122640-627spwb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122640-627spwb",
+												"updated": "20230420122651"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "人民对安全的需求日益上升"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230420122653-fmh3kzx",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "My4=",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20230420122653-fmh3kzx"
+									},
+									"Children": [
+										{
+											"ID": "20230420122653-mfsz9lr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122653-mfsz9lr",
+												"updated": "20230420122712"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "技术手段进步，有相应研究基础"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230420122717-7p3g3nn",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230420122717-7p3g3nn"
+					},
+					"Children": [
+						{
+							"ID": "20230420122717-8n781ai",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122717-8n781ai",
+								"updated": "20230420122721"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "案例分析"
+								}
+							]
+						},
+						{
+							"ID": "20230420122722-2oli39o",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20230420122722-2oli39o"
+							},
+							"Children": [
+								{
+									"ID": "20230420122722-m5vlwm8",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20230420122722-m5vlwm8"
+									},
+									"Children": [
+										{
+											"ID": "20230420122722-8wr5u81",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122722-8wr5u81",
+												"updated": "20230420122738"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "链式、耦合例子"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230420122734-xthqdng",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20230420122734-xthqdng"
+									},
+									"Children": [
+										{
+											"ID": "20230420122734-8o3mpx3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122734-8o3mpx3",
+												"updated": "20230420122747"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "单体、城市区域例子"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230420122804-anroi0c",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20230420122804-anroi0c",
+				"updated": "20230420123525"
+			},
+			"Children": [
+				{
+					"ID": "20230420123525-mtcu8pe",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20230420123525-mtcu8pe",
+						"updated": "20230420123525"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "例如讲地震的问题挑战时，可以如下组织：\n什么是地震、地震的后果，面临了什么地震形势，最后举两个例子说说。"
+						}
+					]
+				},
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				}
+			]
+		},
+		{
+			"ID": "20230420122331-uplw4xd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20230420122331-uplw4xd",
+				"updated": "20230420122336"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "应对策略"
+				}
+			]
+		},
+		{
+			"ID": "20230420122753-cm0a2vx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230420122753-cm0a2vx",
+				"updated": "20230420122930"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "参考欧进萍院士的说法，从以下四个方面来讲："
+				}
+			]
+		},
+		{
+			"ID": "20230420122935-ybyc5as",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230420122935-ybyc5as",
+				"updated": "20230420122935"
+			},
+			"Children": [
+				{
+					"ID": "20230420122935-keztc55",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230420122935-keztc55",
+						"updated": "20230420122935"
+					},
+					"Children": [
+						{
+							"ID": "20230420122935-zvbwcg2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122935-zvbwcg2",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新试验"
+								}
+							]
+						},
+						{
+							"ID": "20230420122935-6xhbnuk",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230420122935-6xhbnuk",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"ID": "20230420122935-fm9nmwa",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230420122935-fm9nmwa",
+										"updated": "20230420122935"
+									},
+									"Children": [
+										{
+											"ID": "20230420122935-z7m4p71",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122935-z7m4p71",
+												"updated": "20230420122935"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "研究多灾害耦合试验方案"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230420122935-hyg4lib",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230420122935-hyg4lib",
+						"updated": "20230420122935"
+					},
+					"Children": [
+						{
+							"ID": "20230420122935-7pbj4x4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122935-7pbj4x4",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新模拟"
+								}
+							]
+						},
+						{
+							"ID": "20230420122935-09444t1",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230420122935-09444t1",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"ID": "20230420122935-7haf9si",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230420122935-7haf9si",
+										"updated": "20230420122935"
+									},
+									"Children": [
+										{
+											"ID": "20230420122935-fcg8gf1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122935-fcg8gf1",
+												"updated": "20230420122935"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "开发多灾害，多尺度，多时空耦合的全过程模拟方法"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230420122935-tamwqte",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230420122935-tamwqte",
+						"updated": "20230420122935"
+					},
+					"Children": [
+						{
+							"ID": "20230420122935-3hdq26v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122935-3hdq26v",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新理论"
+								}
+							]
+						},
+						{
+							"ID": "20230420122935-320b2ck",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230420122935-320b2ck",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"ID": "20230420122935-ih9fij3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230420122935-ih9fij3",
+										"updated": "20230420122935"
+									},
+									"Children": [
+										{
+											"ID": "20230420122935-k5cculn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122935-k5cculn",
+												"updated": "20230420122935"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾害源理论"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230420122935-89q50oy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230420122935-89q50oy",
+										"updated": "20230420122935"
+									},
+									"Children": [
+										{
+											"ID": "20230420122935-pwa4okd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122935-pwa4okd",
+												"updated": "20230420122935"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾变理论"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20230420122935-tzjmagi",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230420122935-tzjmagi",
+										"updated": "20230420122935"
+									},
+									"Children": [
+										{
+											"ID": "20230420122935-xoief9f",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122935-xoief9f",
+												"updated": "20230420122935"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "灾损或响应控制理论"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230420122935-knw7ziw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230420122935-knw7ziw",
+						"updated": "20230420122935"
+					},
+					"Children": [
+						{
+							"ID": "20230420122935-a3or9a4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420122935-a3or9a4",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新监测/测量手段"
+								}
+							]
+						},
+						{
+							"ID": "20230420122935-rntgp8d",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20230420122935-rntgp8d",
+								"updated": "20230420122935"
+							},
+							"Children": [
+								{
+									"ID": "20230420122935-yvpqjyl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20230420122935-yvpqjyl",
+										"updated": "20230420122935"
+									},
+									"Children": [
+										{
+											"ID": "20230420122935-048n8nw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20230420122935-048n8nw",
+												"updated": "20230420122935"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "准确获取灾害信息"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230420122959-1kgpxh0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230420122959-1kgpxh0",
+				"updated": "20230420123034"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "注意在查找资料的过程需要对国内相关领域（多灾害）专家梳理，理清目前研究基础，然后再PPT中体现各专家的工作。"
+				}
+			]
+		},
+		{
+			"ID": "20230420123420-42o2gai",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230420123420-42o2gai",
+				"updated": "20230420222034"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "最后版本"
+				}
+			]
+		},
+		{
+			"ID": "20230420222034-1cgagn5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20230420222034-1cgagn5",
+				"updated": "20230421165124"
+			},
+			"Children": [
+				{
+					"ID": "20230420222038-h8ulr36",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230420222038-h8ulr36",
+						"updated": "20230420222038"
+					},
+					"Children": [
+						{
+							"ID": "20230420222038-yoa6xsd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230420222038-yoa6xsd",
+								"updated": "20230420222038"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "三种情况，川藏铁路，西部山区的内容，地震灾害、地质灾害高度聚集，大城市大的化工厂客观存在；东南沿海地区、辽东半岛和胶东半岛，城市的例子大工程、大城市、多灾害的后果"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230421165123-e4vhjpv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20230421165123-e4vhjpv",
+						"updated": "20230421165124"
+					},
+					"Children": [
+						{
+							"ID": "20230421165123-d7w33at",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230421165123-d7w33at",
+								"updated": "20230421165124"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "单体——大工程——做桥，大风大浪大流，土木工程的，耦合；911，链生的；\n城市——大城市——城市区域的耦合灾害，风，阪神地震，链生作用；"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230420223218-g0e1yfi",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230420223218-g0e1yfi"
+			}
+		}
+	]
+}

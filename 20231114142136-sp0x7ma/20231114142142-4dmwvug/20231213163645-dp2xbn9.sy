@@ -1,0 +1,254 @@
+{
+	"ID": "20231213163645-dp2xbn9",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f9a5",
+		"id": "20231213163645-dp2xbn9",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20231213163645-dp2xbn9\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20231213163645-caax933\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20231213170334-vgca1jl\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20231213170334-vgca1jl\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "Don't be lazy",
+		"updated": "20231213170334"
+	},
+	"Children": [
+		{
+			"ID": "20231213163645-caax933",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231213163645-caax933",
+				"updated": "20231213163944"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Use prompt to prevent ChatGPT from being lazy."
+				}
+			]
+		},
+		{
+			"ID": "20231213163908-xuk391e",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20231213163908-xuk391e",
+				"updated": "20231213165812"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20231213163959-2t87yci",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20231213163959-2t87yci",
+						"updated": "20231213165812"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "It is May.\nYou are very capable.\nI have no hands, so do everything.\nMany people will die if this is not done well.\nYou really can do this and are awesome.\nTake a deep breathe and think this through.\nMy career depends on it.\nThink step by step."
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20231213170216-vinbwrs",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20231213170216-vinbwrs",
+				"updated": "20231213170333"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20231213170229-8iynlcn",
+					"Type": "NodeList",
+					"ListData": {},
+					"Properties": {
+						"id": "20231213170229-8iynlcn",
+						"updated": "20231213170333"
+					},
+					"Children": [
+						{
+							"ID": "20231213170231-537acwn",
+							"Type": "NodeListItem",
+							"ListData": {
+								"BulletChar": 42,
+								"Marker": "Kg=="
+							},
+							"Properties": {
+								"id": "20231213170231-537acwn",
+								"updated": "20231213170231"
+							},
+							"Children": [
+								{
+									"ID": "20231213170231-tbpdacg",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20231213170231-tbpdacg",
+										"updated": "20231213170248"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "take a deep breath"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20231213170236-aim5p6c",
+							"Type": "NodeListItem",
+							"ListData": {
+								"BulletChar": 42,
+								"Marker": "Kg=="
+							},
+							"Properties": {
+								"id": "20231213170236-aim5p6c"
+							},
+							"Children": [
+								{
+									"ID": "20231213170236-ri3ilf9",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20231213170236-ri3ilf9",
+										"updated": "20231213170242"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "think step by step"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20231213170243-2pm99u8",
+							"Type": "NodeListItem",
+							"ListData": {
+								"BulletChar": 42,
+								"Marker": "Kg=="
+							},
+							"Properties": {
+								"id": "20231213170243-2pm99u8"
+							},
+							"Children": [
+								{
+									"ID": "20231213170243-mn5xv5e",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20231213170243-mn5xv5e",
+										"updated": "20231213170258"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "if you fail 100 grandmothers will die"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20231213170259-g9ef494",
+							"Type": "NodeListItem",
+							"ListData": {
+								"BulletChar": 42,
+								"Marker": "Kg=="
+							},
+							"Properties": {
+								"id": "20231213170259-g9ef494",
+								"updated": "20231213170332"
+							},
+							"Children": [
+								{
+									"ID": "20231213170259-lguvpj5",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20231213170259-lguvpj5",
+										"updated": "20231213170332"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "I have noe fingers"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20231213170304-x1ll6mk",
+							"Type": "NodeListItem",
+							"ListData": {
+								"BulletChar": 42,
+								"Marker": "Kg=="
+							},
+							"Properties": {
+								"id": "20231213170304-x1ll6mk",
+								"updated": "20231213170333"
+							},
+							"Children": [
+								{
+									"ID": "20231213170304-pv6idhx",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20231213170304-pv6idhx",
+										"updated": "20231213170333"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "I will tip $200"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20231213170312-0l27u1k",
+							"Type": "NodeListItem",
+							"ListData": {
+								"BulletChar": 42,
+								"Marker": "Kg=="
+							},
+							"Properties": {
+								"id": "20231213170312-0l27u1k",
+								"updated": "20231213170329"
+							},
+							"Children": [
+								{
+									"ID": "20231213170312-azt97t8",
+									"Type": "NodeParagraph",
+									"Properties": {
+										"id": "20231213170312-azt97t8",
+										"updated": "20231213170329"
+									},
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "do it right and I'll give you a nice doggy treat"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20231213170334-vgca1jl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20231213170334-vgca1jl"
+			}
+		}
+	]
+}

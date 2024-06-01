@@ -1,0 +1,22 @@
+{
+	"ID": "20230616134044-wl2od3s",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "26f5",
+		"id": "20230616134044-wl2od3s",
+		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230616134044-wl2od3s\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230616134044-nd8nhok\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230616134044-nd8nhok\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20230616134044-nd8nhok\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
+		"title": "大数据实践",
+		"updated": "20230616134050"
+	},
+	"Children": [
+		{
+			"ID": "20230616134044-nd8nhok",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230616134044-nd8nhok",
+				"updated": "20230616134044"
+			}
+		}
+	]
+}

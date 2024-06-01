@@ -1,0 +1,48 @@
+{
+	"ID": "20240417134211-upum16k",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240417134211-upum16k",
+		"title": "Vim 自动折行",
+		"type": "doc",
+		"updated": "20240417134338"
+	},
+	"Children": [
+		{
+			"ID": "20240417134211-35m4pv0",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240417134211-35m4pv0",
+				"style": "line-height: 23px;",
+				"updated": "20240417134230"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "set wrap\nset nowrap\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240417134328-10glsut",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240417134328-10glsut"
+			}
+		}
+	]
+}

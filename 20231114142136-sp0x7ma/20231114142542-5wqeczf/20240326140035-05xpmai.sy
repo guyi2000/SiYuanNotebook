@@ -1,0 +1,62 @@
+{
+	"ID": "20240326140035-05xpmai",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240326140035-05xpmai",
+		"title": "Clean git repo",
+		"type": "doc",
+		"updated": "20240326140200"
+	},
+	"Children": [
+		{
+			"ID": "20240326140035-pyxwjd9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240326140035-pyxwjd9",
+				"updated": "20240326140115"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Sometimes, we want to clean the repo. Use the following command:"
+				}
+			]
+		},
+		{
+			"ID": "20240326140115-0m3adrq",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240326140115-0m3adrq",
+				"style": "line-height: 23px;",
+				"updated": "20240326140200"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "git clean -nxdf\ngit checkout . \u0026\u0026 git clean -xdf\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240326140139-y88svpb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240326140139-y88svpb"
+			}
+		}
+	]
+}

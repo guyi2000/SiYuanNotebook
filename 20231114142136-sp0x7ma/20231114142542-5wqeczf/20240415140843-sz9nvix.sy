@@ -1,0 +1,104 @@
+{
+	"ID": "20240415140843-sz9nvix",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240415140843-sz9nvix",
+		"title": "NVIDIA 多卡",
+		"type": "doc",
+		"updated": "20240415141041"
+	},
+	"Children": [
+		{
+			"ID": "20240415140843-svdc9c2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415140843-svdc9c2",
+				"updated": "20240415140941"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Check all cards:"
+				}
+			]
+		},
+		{
+			"ID": "20240415140942-2x9iili",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240415140942-2x9iili",
+				"style": "line-height: 23px;",
+				"updated": "20240415140952"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "nvidia-smi -L\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240415140952-lyjn9a7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415140952-lyjn9a7",
+				"updated": "20240415140956"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Check topo matrix:"
+				}
+			]
+		},
+		{
+			"ID": "20240415140957-dlsaep7",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240415140957-dlsaep7",
+				"style": "line-height: 23px;",
+				"updated": "20240415141006"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2hlbGw="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "nvidia-smi topo --matrix\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240415141041-pk2ha5z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240415141041-pk2ha5z"
+			}
+		}
+	]
+}
