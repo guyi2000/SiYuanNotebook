@@ -1,0 +1,62 @@
+{
+	"ID": "20240801165301-hqb7tym",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20240801165301-hqb7tym",
+		"title": "查找 so 动态链接库",
+		"type": "doc",
+		"updated": "20240801165359"
+	},
+	"Children": [
+		{
+			"ID": "20240801165301-kwmkt8z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240801165301-kwmkt8z",
+				"updated": "20240801165321"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "使用以下命令："
+				}
+			]
+		},
+		{
+			"ID": "20240801165321-4h0e18x",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20240801165321-4h0e18x",
+				"style": "line-height: 23px;",
+				"updated": "20240801165357"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "ldconfig -p | rg \u003cname\u003e\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20240801165359-jvyzzmz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20240801165359-jvyzzmz"
+			}
+		}
+	]
+}

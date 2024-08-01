@@ -1,5 +1,5 @@
 {
-  "local-codelang": "shell",
+  "local-codelang": "bash",
   "local-dailynoteid": "20220427125401-h39x1kt",
   "local-docinfo": {
     "action": [
@@ -463,10 +463,10 @@
     "20240421194525-d7044jp": {
       "endId": "20240421203533-vtb6zf8",
       "focusEnd": 0,
-      "focusId": "20240421203533-vtb6zf8",
+      "focusId": "20240421194537-4syl3az",
       "focusStart": 0,
       "rootId": "20240421194525-d7044jp",
-      "scrollTop": 2182,
+      "scrollTop": 700,
       "startId": "20240421194525-tgpz8tc"
     },
     "20240421225113-i7ykf8v": {
@@ -495,6 +495,15 @@
       "rootId": "20240426195532-78tizeo",
       "scrollTop": 0,
       "startId": "20240426195532-0s7q1vc"
+    },
+    "20240801165301-hqb7tym": {
+      "endId": "20240801165359-jvyzzmz",
+      "focusEnd": 0,
+      "focusId": "20240801165359-jvyzzmz",
+      "focusStart": 0,
+      "rootId": "20240801165301-hqb7tym",
+      "scrollTop": 0,
+      "startId": "20240801165301-kwmkt8z"
     }
   },
   "local-historynoteid": "20220427125401-h39x1kt",
