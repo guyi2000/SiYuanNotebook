@@ -6,7 +6,7 @@
 		"id": "20240415145751-2gbzz4t",
 		"title": "Find large file in directory",
 		"type": "doc",
-		"updated": "20240415150829"
+		"updated": "20240725084203"
 	},
 	"Children": [
 		{
@@ -90,7 +90,7 @@
 			"Properties": {
 				"id": "20240415150342-re6sh8j",
 				"style": "line-height: 23px;",
-				"updated": "20240415150829"
+				"updated": "20240725084203"
 			},
 			"Children": [
 				{
@@ -103,7 +103,7 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "find . . -tf -S +100M -l\n"
+					"Data": "fd . . -tf -S +100M -l\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",

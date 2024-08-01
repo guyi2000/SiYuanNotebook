@@ -6,7 +6,7 @@
 		"id": "20240421194525-d7044jp",
 		"title": "Install new server",
 		"type": "doc",
-		"updated": "20240422231244"
+		"updated": "20240725093805"
 	},
 	"Children": [
 		{
@@ -416,7 +416,7 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20240421202346-v2gsdvb",
-				"updated": "20240421203059"
+				"updated": "20240725093805"
 			},
 			"Children": [
 				{
@@ -919,7 +919,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20240422200410-mn0pxyy",
-				"updated": "20240422231244"
+				"updated": "20240725093805"
 			},
 			"Children": [
 				{
@@ -1265,6 +1265,10 @@
 											},
 											"Children": [
 												{
+													"Type": "NodeText",
+													"Data": "​"
+												},
+												{
 													"Type": "NodeTextMark",
 													"TextMarkType": "code",
 													"TextMarkTextContent": "lazygit"
@@ -1469,12 +1473,40 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20240422231242-n6oau92",
-								"updated": "20240422231244"
+								"updated": "20240725093547"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "neofetch"
+									"Data": "fastfetch"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20240725093804-x7pe9xj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20240725093804-x7pe9xj",
+						"updated": "20240725093805"
+					},
+					"Children": [
+						{
+							"ID": "20240725093804-064984y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20240725093804-064984y",
+								"updated": "20240725093805"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "fzf"
 								}
 							]
 						}

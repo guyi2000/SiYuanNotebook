@@ -1,5 +1,5 @@
 {
-  "local-codelang": "bash",
+  "local-codelang": "shell",
   "local-dailynoteid": "20220427125401-h39x1kt",
   "local-docinfo": {
     "action": [
@@ -118,6 +118,15 @@
       "scrollTop": 0,
       "startId": "20210808180320-vk0kg8n"
     },
+    "20220427125408-zf3k3vn": {
+      "endId": "20220427142500-hjcp741",
+      "focusEnd": 0,
+      "focusId": "20220427125408-yhg47p4",
+      "focusStart": 0,
+      "rootId": "20220427125408-zf3k3vn",
+      "scrollTop": 0,
+      "startId": "20220427125408-yhg47p4"
+    },
     "20220628204444-9n0y9h2": {
       "endId": "20220628210345-fsoqtka",
       "focusEnd": 0,
@@ -172,6 +181,15 @@
       "scrollTop": 0,
       "startId": "20230316145519-l1cdpaw"
     },
+    "20230419214745-o3ox54p": {
+      "endId": "20230420223218-g0e1yfi",
+      "focusEnd": 0,
+      "focusId": "20230419214745-taju7pj",
+      "focusStart": 0,
+      "rootId": "20230419214745-o3ox54p",
+      "scrollTop": 3429,
+      "startId": "20230419214745-taju7pj"
+    },
     "20230503194425-wipgocl": {
       "endId": "20230503204011-65ya2ni",
       "focusEnd": 0,
@@ -192,6 +210,15 @@
       "rootId": "20230616134044-wl2od3s",
       "scrollTop": 0,
       "startId": "20230616134044-nd8nhok"
+    },
+    "20230619201253-ngip554": {
+      "endId": "20230619201253-3tqwli3",
+      "focusEnd": 0,
+      "focusId": "20230619201253-3tqwli3",
+      "focusStart": 0,
+      "rootId": "20230619201253-ngip554",
+      "scrollTop": 0,
+      "startId": "20230619201253-3tqwli3"
     },
     "20230619201254-hn12ibq": {
       "endId": "20230619202519-2asjhxy",
@@ -249,6 +276,9 @@
     },
     "20231114142557-t7taax5": {
       "endId": "20231226131900-wzo28w4",
+      "focusEnd": 0,
+      "focusId": "20231114142557-j0skrzu",
+      "focusStart": 0,
       "rootId": "20231114142557-t7taax5",
       "scrollTop": 0,
       "startId": "20231114142557-j0skrzu"
@@ -301,7 +331,7 @@
     "20240108162949-ubezz5e": {
       "endId": "20240108163054-wvfy5s5",
       "focusEnd": 0,
-      "focusId": "20240108162949-f9fwlhn",
+      "focusId": "20240108163054-wvfy5s5",
       "focusStart": 0,
       "rootId": "20240108162949-ubezz5e",
       "scrollTop": 0,
@@ -324,9 +354,9 @@
     },
     "20240317122646-r8kzaz2": {
       "endId": "20240317123230-tc0hi2j",
-      "focusEnd": 0,
-      "focusId": "20240317123230-tc0hi2j",
-      "focusStart": 0,
+      "focusEnd": 5,
+      "focusId": "20240317123043-lelm5gx",
+      "focusStart": 5,
       "rootId": "20240317122646-r8kzaz2",
       "scrollTop": 0,
       "startId": "20240317122646-p0kwi1n"
@@ -386,9 +416,9 @@
       "startId": "20240329162920-rfmml1j"
     },
     "20240415140843-sz9nvix": {
-      "endId": "20240415141041-pk2ha5z",
+      "endId": "20240717145918-258doqg",
       "focusEnd": 0,
-      "focusId": "20240415141041-pk2ha5z",
+      "focusId": "20240415140843-svdc9c2",
       "focusStart": 0,
       "rootId": "20240415140843-sz9nvix",
       "scrollTop": 0,
@@ -406,7 +436,7 @@
     "20240415145751-2gbzz4t": {
       "endId": "20240415150407-qfvfi5j",
       "focusEnd": 0,
-      "focusId": "20240415150407-qfvfi5j",
+      "focusId": "20240415145751-myp8n3z",
       "focusStart": 0,
       "rootId": "20240415145751-2gbzz4t",
       "scrollTop": 0,
@@ -418,7 +448,7 @@
       "focusId": "20240417133529-wg93sph",
       "focusStart": 0,
       "rootId": "20240417132914-g6hp8ih",
-      "scrollTop": 400,
+      "scrollTop": 100,
       "startId": "20240417132914-dekkc0z"
     },
     "20240417134211-upum16k": {
@@ -432,11 +462,11 @@
     },
     "20240421194525-d7044jp": {
       "endId": "20240421203533-vtb6zf8",
-      "focusEnd": 12,
-      "focusId": "20240422121532-70g7r0z",
-      "focusStart": 12,
+      "focusEnd": 0,
+      "focusId": "20240421203533-vtb6zf8",
+      "focusStart": 0,
       "rootId": "20240421194525-d7044jp",
-      "scrollTop": 0,
+      "scrollTop": 2182,
       "startId": "20240421194525-tgpz8tc"
     },
     "20240421225113-i7ykf8v": {
@@ -449,18 +479,21 @@
       "startId": "20240421225113-8j0ahs5"
     },
     "20240421225307-rg9ht6d": {
-      "endId": "20240421225741-1hdusx0",
-      "focusEnd": 5,
-      "focusId": "20240421225724-2hprj23",
-      "focusStart": 5,
+      "endId": "20240801090305-6bv8zdt",
+      "focusEnd": 0,
+      "focusId": "20240801090305-6bv8zdt",
+      "focusStart": 0,
       "rootId": "20240421225307-rg9ht6d",
       "scrollTop": 0,
       "startId": "20240421225307-b3jhfzy"
     },
     "20240426195532-78tizeo": {
       "endId": "20240426201106-b6zr4rv",
+      "focusEnd": 4,
+      "focusId": "20240426200742-voczm4u",
+      "focusStart": 4,
       "rootId": "20240426195532-78tizeo",
-      "scrollTop": 161,
+      "scrollTop": 0,
       "startId": "20240426195532-0s7q1vc"
     }
   },
