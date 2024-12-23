@@ -6,7 +6,7 @@
 		"id": "20240421194525-d7044jp",
 		"title": "Install new server",
 		"type": "doc",
-		"updated": "20240725093805"
+		"updated": "20240725093547"
 	},
 	"Children": [
 		{
@@ -416,7 +416,7 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20240421202346-v2gsdvb",
-				"updated": "20240725093805"
+				"updated": "20240725093547"
 			},
 			"Children": [
 				{
@@ -431,7 +431,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20240421203059-hqkeenm",
-				"updated": "20240422225644"
+				"updated": "20241114145902"
 			},
 			"Children": [
 				{
@@ -443,7 +443,7 @@
 					},
 					"Properties": {
 						"id": "20240421203100-7u543vn",
-						"updated": "20240421203100"
+						"updated": "20241114145902"
 					},
 					"Children": [
 						{
@@ -465,7 +465,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20240422120853-i4e7fuc"
+								"id": "20240422120853-i4e7fuc",
+								"updated": "20241114145902"
 							},
 							"Children": [
 								{
@@ -476,7 +477,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422120853-i50gfph"
+										"id": "20240422120853-i50gfph",
+										"updated": "20240422120853"
 									},
 									"Children": [
 										{
@@ -503,7 +505,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422121404-g2a8x78"
+										"id": "20240422121404-g2a8x78",
+										"updated": "20240422121404"
 									},
 									"Children": [
 										{
@@ -517,6 +520,43 @@
 												{
 													"Type": "NodeText",
 													"Data": "状态栏配置"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20241114145856-65f15tb",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20241114145856-65f15tb",
+										"updated": "20241114145902"
+									},
+									"Children": [
+										{
+											"ID": "20241114145856-dnqyqcv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20241114145856-dnqyqcv",
+												"updated": "20241114145902"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "​"
+												},
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "code",
+													"TextMarkTextContent": "tmux_conf_theme_status_right=\u0026quot; #{prefix}#{mouse}#{pairing}#{synchronized}#{?battery_status,#{battery_status},}#{?battery_bar, #{battery_bar},}#{?battery_percentage, #{battery_percentage},}, CPU: #{cpu_icon} #{cpu_percentage} , CPU Temp: #{cpu_temp_icon} #{cpu_temp} , RAM: #{ram_icon} #{ram_percentage} , GPU: #{gpu_icon} #{gpu_percentage} , GPU Temp: #{gpu_temp_icon} #{gpu_temp} , GPU RAM: #{gram_icon} #{gram_percentage} , %R , %d %b | #{username}#{root} | #{hostname} \u0026quot;"
+												},
+												{
+													"Type": "NodeText",
+													"Data": "​"
 												}
 											]
 										}
@@ -919,7 +959,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20240422200410-mn0pxyy",
-				"updated": "20240725093805"
+				"updated": "20240725093547"
 			},
 			"Children": [
 				{
@@ -1465,7 +1505,7 @@
 					},
 					"Properties": {
 						"id": "20240422231242-bup0b0p",
-						"updated": "20240422231244"
+						"updated": "20240725093547"
 					},
 					"Children": [
 						{

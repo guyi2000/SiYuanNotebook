@@ -8,7 +8,8 @@
 		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20230813130538-x33luot\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20230813131723-f0dwe27\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20230813134508-lsq3p9n\u0026quot;,\u0026quot;scrollTop\u0026quot;:2848,\u0026quot;focusId\u0026quot;:\u0026quot;20230813134508-lsq3p9n\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
 		"title": "Diffusion Model",
 		"title-img": "background-color: gray;background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);",
-		"updated": "20230813131737"
+		"type": "doc",
+		"updated": "20230813131451"
 	},
 	"Children": [
 		{
@@ -1168,7 +1169,7 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20230813131732-y4ysskf",
-				"updated": "20230813131736"
+				"updated": "20230813131451"
 			},
 			"Children": [
 				{
@@ -3994,7 +3995,6 @@
 		{
 			"ID": "20230813131451-zx9bku9",
 			"Type": "NodeTable",
-			"Data": "|ID|Epoch|Training\u003cbr /\u003eHours|Valid Loss\u003cbr /\u003e(×10\u003cspan data-type=\"sup\"\u003e-3\u003c/span\u003e)|Max IoU|Min IoU|Mean IoU|Std IoU|Median IoU|\n|1|7299|64.85|4.018|0.99|0.48|0.80|0.16|0.83|\n|2|10399|94.13|2.85|1.00|0.51|0.85|0.18|0.94|\n|3|10399|94.45|2.967|1.00|0.36|0.81|0.19|0.86|\n|4|13799|126.24|3.1|1.00|0.47|0.86|0.18|\u003cspan data-type=\"strong\"\u003e0.97*\u003c/span\u003e|\n|5|11199|101.72|3.917|1.00|0.50|0.80|0.16|0.79|\n|6|17799|142.18|\u003cspan data-type=\"strong\"\u003e2.536*\u003c/span\u003e|1.00|0.53|0.86|0.15|0.89|\n|7|15199|105.09|3.757|1.00|0.26|0.77|0.22|0.83|\n|8|3840|89.27|4.216|-|-|-|-|-|\n|9|202|43.95|12.75|-|-|-|-|-|\n|10|22599|160.86|2.903|1.00|0.19|0.81|0.21|0.88|\n|11|13799|65.13|2.964|1.00|0.19|0.80|0.22|0.90|\n|12|18199|126.67|3.06|1.00|0.35|0.80|0.19|0.87|\n|13|12799|119.81|2.908|1.00|0.26|0.80|0.21|0.90|\n|14|23199|106.94|8.534|1.00|0.22|0.81|0.20|0.89|\n|15|15599|72.04|8.681|1.00|\u003cspan data-type=\"strong\"\u003e0.60*\u003c/span\u003e|\u003cspan data-type=\"strong\"\u003e0.87*\u003c/span\u003e|\u003cspan data-type=\"strong\"\u003e0.15*\u003c/span\u003e|0.96|\n| --| -----| -------------| ----------------| -------| -------| --------| -------| ----------|",
 			"TableAligns": [
 				0,
 				0,
@@ -4007,196 +4007,131 @@
 				0
 			],
 			"Properties": {
-				"colgroup": "||||||||",
+				"colgroup": "|||width: 92px;|||||",
 				"id": "20230813131451-zx9bku9",
 				"updated": "20230813131451"
 			},
 			"Children": [
 				{
 					"Type": "NodeTableHead",
-					"Properties": {
-						"id": ""
-					},
+					"Data": "thead",
 					"Children": [
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "ID",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "ID"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Epoch",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Epoch"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Training",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Training"
 										},
 										{
 											"Type": "NodeBr",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "br"
 										},
 										{
 											"Type": "NodeText",
-											"Data": "Hours",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Hours"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Valid Loss",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Valid Loss"
 										},
 										{
 											"Type": "NodeBr",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "br"
 										},
 										{
 											"Type": "NodeText",
-											"Data": "(×10",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "(×10"
 										},
 										{
 											"Type": "NodeTextMark",
-											"Properties": {
-												"id": ""
-											},
 											"TextMarkType": "sup",
 											"TextMarkTextContent": "-3"
 										},
 										{
 											"Type": "NodeText",
-											"Data": ")",
-											"Properties": {
-												"id": ""
-											}
+											"Data": ")"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Max IoU",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Max IoU"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Min IoU",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Min IoU"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Mean IoU",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Mean IoU"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Std IoU",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Std IoU"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "Median IoU",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "Median IoU"
 										}
 									]
 								}
@@ -4204,142 +4139,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "7299",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "7299"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "64.85",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "64.85"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "4.018",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "4.018"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.99",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.99"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.48",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.48"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.80",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.80"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.16",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.16"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.83",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.83"
 										}
 									]
 								}
@@ -4347,142 +4235,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "2",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "2"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "10399",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "10399"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "94.13",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "94.13"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "2.85",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "2.85"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.51",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.51"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.85",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.85"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.18",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.18"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.94",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.94"
 										}
 									]
 								}
@@ -4490,142 +4331,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "3",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "3"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "10399",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "10399"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "94.45",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "94.45"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "2.967",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "2.967"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.36",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.36"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.81",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.81"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.19",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.19"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.86",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.86"
 										}
 									]
 								}
@@ -4633,141 +4427,94 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "4",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "4"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "13799",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "13799"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "126.24",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "126.24"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "3.1",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "3.1"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.47",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.47"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.86",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.86"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.18",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.18"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeTextMark",
-											"Properties": {
-												"id": ""
-											},
 											"TextMarkType": "strong",
 											"TextMarkTextContent": "0.97*"
 										}
@@ -4777,142 +4524,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "5",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "5"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "11199",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "11199"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "101.72",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "101.72"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "3.917",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "3.917"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.50",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.50"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.80",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.80"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.16",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.16"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.79",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.79"
 										}
 									]
 								}
@@ -4920,66 +4620,44 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "6",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "6"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "17799",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "17799"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "142.18",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "142.18"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeTextMark",
-											"Properties": {
-												"id": ""
-											},
 											"TextMarkType": "strong",
 											"TextMarkTextContent": "2.536*"
 										}
@@ -4987,76 +4665,51 @@
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.53",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.53"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.86",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.86"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.15",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.15"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.89",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.89"
 										}
 									]
 								}
@@ -5064,142 +4717,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "7",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "7"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "15199",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "15199"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "105.09",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "105.09"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "3.757",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "3.757"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.26",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.26"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.77",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.77"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.22",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.22"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.83",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.83"
 										}
 									]
 								}
@@ -5207,142 +4813,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "8",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "8"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "3840",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "3840"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "89.27",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "89.27"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "4.216",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "4.216"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								}
@@ -5350,142 +4909,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "9",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "9"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "202",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "202"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "43.95",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "43.95"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "12.75",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "12.75"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "-",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "-"
 										}
 									]
 								}
@@ -5493,142 +5005,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "10",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "10"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "22599",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "22599"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "160.86",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "160.86"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "2.903",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "2.903"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.19",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.19"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.81",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.81"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.21",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.21"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.88",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.88"
 										}
 									]
 								}
@@ -5636,142 +5101,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "11",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "11"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "13799",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "13799"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "65.13",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "65.13"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "2.964",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "2.964"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.19",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.19"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.80",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.80"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.22",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.22"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.90",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.90"
 										}
 									]
 								}
@@ -5779,142 +5197,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "12",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "12"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "18199",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "18199"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "126.67",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "126.67"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "3.06",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "3.06"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.35",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.35"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.80",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.80"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.19",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.19"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.87",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.87"
 										}
 									]
 								}
@@ -5922,142 +5293,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "13",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "13"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "12799",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "12799"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "119.81",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "119.81"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "2.908",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "2.908"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.26",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.26"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.80",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.80"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.21",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.21"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.90",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.90"
 										}
 									]
 								}
@@ -6065,142 +5389,95 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "14",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "14"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "23199",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "23199"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "106.94",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "106.94"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "8.534",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "8.534"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.22",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.22"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.81",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.81"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.20",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.20"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.89",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.89"
 										}
 									]
 								}
@@ -6208,96 +5485,64 @@
 						},
 						{
 							"Type": "NodeTableRow",
-							"Properties": {
-								"id": ""
-							},
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "15",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "15"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "15599",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "15599"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "72.04",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "72.04"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "8.681",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "8.681"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "1.00",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "1.00"
 										}
 									]
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeTextMark",
-											"Properties": {
-												"id": ""
-											},
 											"TextMarkType": "strong",
 											"TextMarkTextContent": "0.60*"
 										}
@@ -6305,15 +5550,10 @@
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeTextMark",
-											"Properties": {
-												"id": ""
-											},
 											"TextMarkType": "strong",
 											"TextMarkTextContent": "0.87*"
 										}
@@ -6321,15 +5561,10 @@
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeTextMark",
-											"Properties": {
-												"id": ""
-											},
 											"TextMarkType": "strong",
 											"TextMarkTextContent": "0.15*"
 										}
@@ -6337,16 +5572,11 @@
 								},
 								{
 									"Type": "NodeTableCell",
-									"Properties": {
-										"id": ""
-									},
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
-											"Data": "0.96",
-											"Properties": {
-												"id": ""
-											}
+											"Data": "0.96"
 										}
 									]
 								}

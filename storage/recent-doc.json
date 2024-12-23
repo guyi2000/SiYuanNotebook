@@ -1,23 +1,13 @@
 [
   {
-    "rootID": "20240421194525-d7044jp",
+    "rootID": "20241114170636-58kuvh4",
     "icon": "",
-    "title": "Install new server"
+    "title": "去除 Ubuntu Pro 提示"
   },
   {
-    "rootID": "20240801165301-hqb7tym",
-    "icon": "",
-    "title": "查找 so 动态链接库"
-  },
-  {
-    "rootID": "20240417132914-g6hp8ih",
-    "icon": "",
-    "title": "Security"
-  },
-  {
-    "rootID": "20240417134211-upum16k",
-    "icon": "",
-    "title": "Vim 自动折行"
+    "rootID": "20231114142542-5wqeczf",
+    "icon": "1f427",
+    "title": "Linux"
   },
   {
     "rootID": "20240415140843-sz9nvix",
@@ -25,64 +15,19 @@
     "title": "NVIDIA"
   },
   {
-    "rootID": "20240426195532-78tizeo",
-    "icon": "",
-    "title": "Git utils"
-  },
-  {
     "rootID": "20240421225307-rg9ht6d",
     "icon": "",
     "title": "备份与还原"
   },
   {
-    "rootID": "20240421225113-i7ykf8v",
+    "rootID": "20240426195532-78tizeo",
     "icon": "",
-    "title": "复制"
+    "title": "Git utils"
   },
   {
-    "rootID": "20240415145751-2gbzz4t",
+    "rootID": "20240801165301-hqb7tym",
     "icon": "",
-    "title": "Find large file in directory"
-  },
-  {
-    "rootID": "20240415141309-9w3fic9",
-    "icon": "",
-    "title": "Install CUDA locally"
-  },
-  {
-    "rootID": "20240326140035-05xpmai",
-    "icon": "",
-    "title": "Clean git repo"
-  },
-  {
-    "rootID": "20240319140406-1e62to2",
-    "icon": "",
-    "title": "Add Vim line number"
-  },
-  {
-    "rootID": "20240319140358-6d5a150",
-    "icon": "",
-    "title": "Clean docker"
-  },
-  {
-    "rootID": "20240317122657-x6xef3r",
-    "icon": "",
-    "title": "Delete UFW rule"
-  },
-  {
-    "rootID": "20240317122646-r8kzaz2",
-    "icon": "",
-    "title": "UFW and Docker"
-  },
-  {
-    "rootID": "20231114142557-t7taax5",
-    "icon": "",
-    "title": "Create a user with home directory"
-  },
-  {
-    "rootID": "20240329162920-m8dnj4u",
-    "icon": "",
-    "title": "xargs in Windows"
+    "title": "查找 so 动态链接库"
   },
   {
     "rootID": "20240108162804-g29npgp",
@@ -95,34 +40,14 @@
     "title": "获取属于多个分类的文献条目"
   },
   {
-    "rootID": "20231213163645-dp2xbn9",
-    "icon": "1f9a5",
-    "title": "Don't be lazy"
-  },
-  {
-    "rootID": "20231114142207-0usfas0",
-    "icon": "",
-    "title": "Translation \u0026 polish"
-  },
-  {
     "rootID": "20230419214745-o3ox54p",
     "icon": "1f4bb",
     "title": "多灾害部分撰写"
   },
   {
-    "rootID": "20220427125408-zf3k3vn",
-    "icon": "1f531",
-    "title": "CIRCLE论坛"
-  },
-  {
-    "rootID": "20231114142542-5wqeczf",
-    "icon": "1f427",
-    "title": "Linux"
-  },
-  {
-    "rootID": "20240329162853-v083hio",
+    "rootID": "20240415141309-9w3fic9",
     "icon": "",
-    "title": "Windows"
+    "title": "Install CUDA locally"
   },
   {
     "rootID": "20240311143359-enp12do",
@@ -130,8 +55,103 @@
     "title": "What makes an image realistic?"
   },
   {
+    "rootID": "20231128195557-e053r67",
+    "icon": "1f50d",
+    "title": "GraphCast"
+  },
+  {
+    "rootID": "20240111143643-lb9q21v",
+    "icon": "",
+    "title": "A respose-compatible ground motion simulation method using physics-guided neural networks"
+  },
+  {
+    "rootID": "20220427125408-zf3k3vn",
+    "icon": "1f531",
+    "title": "CIRCLE论坛"
+  },
+  {
+    "rootID": "20230319202616-v5yk125",
+    "icon": "1f3c6",
+    "title": "BJJBJ"
+  },
+  {
     "rootID": "20231114142142-4dmwvug",
     "icon": "1f5e8",
     "title": "ChatGPT"
+  },
+  {
+    "rootID": "20240329162920-m8dnj4u",
+    "icon": "",
+    "title": "xargs in Windows"
+  },
+  {
+    "rootID": "20230319202721-j2ui81t",
+    "icon": "2600",
+    "title": "2023-03-19 会议"
+  },
+  {
+    "rootID": "20230321154839-9lk49i5",
+    "icon": "1f949",
+    "title": "2023-03-21 会议"
+  },
+  {
+    "rootID": "20230503194425-wipgocl",
+    "icon": "1f33d",
+    "title": "2023-05-03 会议"
+  },
+  {
+    "rootID": "20240329162853-v083hio",
+    "icon": "1fa9f",
+    "title": "Windows"
+  },
+  {
+    "rootID": "20240108162755-dcd57kz",
+    "icon": "1f4da",
+    "title": "Zotero"
+  },
+  {
+    "rootID": "20230813130538-x33luot",
+    "icon": "1f5bc",
+    "title": "Diffusion Model"
+  },
+  {
+    "rootID": "20231215094214-kn5r8vv",
+    "icon": "",
+    "title": "2023-12-15"
+  },
+  {
+    "rootID": "20231215094214-jfmm3c8",
+    "icon": "",
+    "title": "12"
+  },
+  {
+    "rootID": "20231215094214-z7fjeet",
+    "icon": "",
+    "title": "daily note"
+  },
+  {
+    "rootID": "20230813130515-exutk8c",
+    "icon": "1f9fb",
+    "title": "论文"
+  },
+  {
+    "rootID": "20231114142207-0usfas0",
+    "icon": "",
+    "title": "Translation \u0026 polish"
+  },
+  {
+    "rootID": "20231213163645-dp2xbn9",
+    "icon": "1f9a5",
+    "title": "Don't be lazy"
+  },
+  {
+    "rootID": "20231114142557-t7taax5",
+    "icon": "",
+    "title": "Create a user with home directory"
+  },
+  {
+    "rootID": "20240417132914-g6hp8ih",
+    "icon": "",
+    "title": "Security"
   }
 ]

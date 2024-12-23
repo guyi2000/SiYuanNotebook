@@ -1,0 +1,49 @@
+{
+	"ID": "20241114170636-58kuvh4",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20241114170636-58kuvh4",
+		"title": "去除 Ubuntu Pro 提示",
+		"type": "doc",
+		"updated": "20241125183003"
+	},
+	"Children": [
+		{
+			"ID": "20241114170636-zgl86bn",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20241114170636-zgl86bn",
+				"style": "line-height: 23px;",
+				"updated": "20241114170649"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo mv /etc/apt/apt.conf.d/20apt-esm-hook.conf /etc/apt/apt.conf.d/20apt-esm-hook.conf.bak\nsudo touch /etc/apt/apt.conf.d/20apt-esm-hook.conf\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20241125183003-hw8m36x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20241125183003-hw8m36x",
+				"updated": "20241125183003"
+			}
+		}
+	]
+}
