@@ -1,0 +1,41 @@
+{
+	"ID": "20250619024909-6hdq8uv",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20250619024909-6hdq8uv",
+		"title": "批量修改文献标题大小写",
+		"type": "doc",
+		"updated": "20250619025544"
+	},
+	"Children": [
+		{
+			"ID": "20250619024909-p4z3na7",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250619024909-p4z3na7",
+				"style": "line-height: 23px;",
+				"updated": "20250619025544"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YXNjcmlwdA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "zoteroPane = Zotero.getActiveZoteroPane();\nitems = zoteroPane.getSelectedItems();    // 获取所选文献\nvar cnt = 0;\nfor (item of items) {\n    var title = item.getField(\"title\");\n    var new_title = title.replace(/\\b([A-Z]+)\\b/g, (x) =\u003e x.toLowerCase()); // 匹配全大写单词并转为小写\n    new_title = new_title.replace(/(^|[!\\.\\?]\\s*)[a-z]/g, (x) =\u003e x.toUpperCase()); // 匹配句首单词并转为大写\n    if (title != new_title) {\n        cnt += 1;\n        item.setField('title', new_title);\n        await item.saveTx();\n    }\n}\nreturn cnt + \" 个条目标题被替换\";\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		}
+	]
+}

@@ -1,37 +1,36 @@
 {
-	"ID": "20231114142557-t7taax5",
+	"ID": "20250217133836-xz6u80s",
 	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
-		"id": "20231114142557-t7taax5",
-		"scroll": "\u0026#123;\u0026quot;rootId\u0026quot;:\u0026quot;20231114142557-t7taax5\u0026quot;,\u0026quot;startId\u0026quot;:\u0026quot;20231114142557-j0skrzu\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20231114142557-j0skrzu\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20231114142557-j0skrzu\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0\u0026#125;",
-		"title": "Create a user with home directory",
+		"id": "20250217133836-xz6u80s",
+		"title": "远程代理",
 		"type": "doc",
-		"updated": "20231218193529"
+		"updated": "20250925123507"
 	},
 	"Children": [
 		{
-			"ID": "20231114142557-j0skrzu",
+			"ID": "20250217133903-9p7ab1d",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20231114142557-j0skrzu",
-				"updated": "20231218192844"
+				"id": "20250217133903-9p7ab1d",
+				"updated": "20250217133959"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "To create a user with home directory, use the following command"
+					"Data": "转发本地代理端口"
 				}
 			]
 		},
 		{
-			"ID": "20231218192845-6ux3djp",
+			"ID": "20250217133836-cc6ps6e",
 			"Type": "NodeCodeBlock",
 			"IsFencedCodeBlock": true,
 			"Properties": {
-				"id": "20231218192845-6ux3djp",
+				"id": "20250217133836-cc6ps6e",
 				"style": "line-height: 23px;",
-				"updated": "20231218193615"
+				"updated": "20250217133937"
 			},
 			"Children": [
 				{
@@ -40,11 +39,11 @@
 				},
 				{
 					"Type": "NodeCodeBlockFenceInfoMarker",
-					"CodeBlockInfo": "c2hlbGw="
+					"CodeBlockInfo": "YmF0"
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "useradd -d \u003chome_path\u003e -m \u003cuser_name\u003e -s \u003clogin_shell\u003e\n"
+					"Data": "ssh -N -R 10809:127.0.0.1:10809 Work\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
@@ -53,27 +52,27 @@
 			]
 		},
 		{
-			"ID": "20231218193459-6ew5x9d",
+			"ID": "20250217133938-buvjf91",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20231218193459-6ew5x9d",
-				"updated": "20231218193517"
+				"id": "20250217133938-buvjf91",
+				"updated": "20250217134006"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "To set the password"
+					"Data": "终端代理命令"
 				}
 			]
 		},
 		{
-			"ID": "20231218193518-76ofanm",
+			"ID": "20250217134006-n6zsrwi",
 			"Type": "NodeCodeBlock",
 			"IsFencedCodeBlock": true,
 			"Properties": {
-				"id": "20231218193518-76ofanm",
+				"id": "20250217134006-n6zsrwi",
 				"style": "line-height: 23px;",
-				"updated": "20231218193529"
+				"updated": "20250925123453"
 			},
 			"Children": [
 				{
@@ -82,11 +81,11 @@
 				},
 				{
 					"Type": "NodeCodeBlockFenceInfoMarker",
-					"CodeBlockInfo": "c2hlbGw="
+					"CodeBlockInfo": "YmFzaA=="
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "passwd \u003cuser_name\u003e\n"
+					"Data": "export http_proxy=\"http://127.0.0.1:10809\" \u0026\u0026 export https_proxy=\"http://127.0.0.1:10809\" \u0026\u0026 export all_proxy=\"http://127.0.0.1:10809\"\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
@@ -95,27 +94,27 @@
 			]
 		},
 		{
-			"ID": "20231218193531-jsf6tnl",
+			"ID": "20250217135432-fnkyogm",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20231218193531-jsf6tnl",
-				"updated": "20231218193551"
+				"id": "20250217135432-fnkyogm",
+				"updated": "20250217154809"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Login using new user"
+					"Data": "取消终端代理"
 				}
 			]
 		},
 		{
-			"ID": "20231218193554-kyy0yi1",
+			"ID": "20250217154810-gxg9mjq",
 			"Type": "NodeCodeBlock",
 			"IsFencedCodeBlock": true,
 			"Properties": {
-				"id": "20231218193554-kyy0yi1",
+				"id": "20250217154810-gxg9mjq",
 				"style": "line-height: 23px;",
-				"updated": "20231218193622"
+				"updated": "20250925123507"
 			},
 			"Children": [
 				{
@@ -124,11 +123,11 @@
 				},
 				{
 					"Type": "NodeCodeBlockFenceInfoMarker",
-					"CodeBlockInfo": "c2hlbGw="
+					"CodeBlockInfo": "YmFzaA=="
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "su \u003cuser_name\u003e\n"
+					"Data": "unset http_proxy \u0026\u0026 unset https_proxy \u0026\u0026 unset all_proxy\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
@@ -137,10 +136,11 @@
 			]
 		},
 		{
-			"ID": "20231226131900-wzo28w4",
+			"ID": "20250217154839-mrhiee5",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20231226131900-wzo28w4"
+				"id": "20250217154839-mrhiee5",
+				"updated": "20250217154839"
 			}
 		}
 	]

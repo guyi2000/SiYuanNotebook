@@ -5,7 +5,8 @@
 	"Properties": {
 		"id": "20240317122646-r8kzaz2",
 		"title": "UFW and Docker",
-		"updated": "20240317123230"
+		"type": "doc",
+		"updated": "20250213164143"
 	},
 	"Children": [
 		{
@@ -106,13 +107,13 @@
 			]
 		},
 		{
-			"ID": "20240317123043-lelm5gx",
+			"ID": "20250213164139-9ffndr1",
 			"Type": "NodeCodeBlock",
 			"IsFencedCodeBlock": true,
 			"Properties": {
-				"id": "20240317123043-lelm5gx",
-				"style": "line-height: 23px; background-color: var(--b3-card-error-color); color: var(--b3-card-error-background);",
-				"updated": "20240317123212"
+				"id": "20250213164139-9ffndr1",
+				"style": "line-height: 23px;",
+				"updated": "20250213164143"
 			},
 			"Children": [
 				{
@@ -134,10 +135,11 @@
 			]
 		},
 		{
-			"ID": "20240317123230-tc0hi2j",
+			"ID": "20250213164145-gzd56zi",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20240317123230-tc0hi2j"
+				"id": "20250213164145-gzd56zi",
+				"updated": "20250213164145"
 			}
 		}
 	]

@@ -1,0 +1,41 @@
+{
+	"ID": "20250619022625-6degv72",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20250619022625-6degv72",
+		"title": "批量修改文献语言为英文",
+		"type": "doc",
+		"updated": "20250619031513"
+	},
+	"Children": [
+		{
+			"ID": "20250619022625-c4sfguo",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250619022625-c4sfguo",
+				"style": "line-height: 23px;",
+				"updated": "20250619031513"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YXNjcmlwdA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "zoteroPane = Zotero.getActiveZoteroPane();\nitems = zoteroPane.getSelectedItems();    // 获取所选文献\nvar cnt = 0;\nfor (item of items) {\n    var language = item.getField(\"language\");\n    if (language == \"\" || language == \"En\") {\n        cnt += 1;\n        item.setField(\"language\", \"en\");\n        await item.saveTx();\n    }\n}\nreturn cnt + \" 个条目语言被替换为 en\";\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		}
+	]
+}

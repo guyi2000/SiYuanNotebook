@@ -1,0 +1,21 @@
+{
+	"ID": "20250305134402-jcezhko",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20250305134402-jcezhko",
+		"title": "2025",
+		"type": "doc",
+		"updated": "20250305134402"
+	},
+	"Children": [
+		{
+			"ID": "20250305134402-t6ydj7c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250305134402-t6ydj7c",
+				"updated": "20250305134402"
+			}
+		}
+	]
+}

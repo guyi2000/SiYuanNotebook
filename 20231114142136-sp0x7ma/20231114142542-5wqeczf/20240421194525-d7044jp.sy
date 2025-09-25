@@ -6,7 +6,7 @@
 		"id": "20240421194525-d7044jp",
 		"title": "Install new server",
 		"type": "doc",
-		"updated": "20240725093547"
+		"updated": "20250925124135"
 	},
 	"Children": [
 		{
@@ -416,7 +416,7 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20240421202346-v2gsdvb",
-				"updated": "20240725093547"
+				"updated": "20250925123754"
 			},
 			"Children": [
 				{
@@ -932,7 +932,7 @@
 			"Properties": {
 				"id": "20240422120145-f5kpf1e",
 				"style": "line-height: 23px;",
-				"updated": "20240422200428"
+				"updated": "20250919205312"
 			},
 			"Children": [
 				{
@@ -945,7 +945,7 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting\n# Activate in .zshrc\nplugins=([plugins...] zsh-syntax-highlighting)\n"
+					"Data": "git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting\ngit clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\n# Activate in .zshrc\nplugins=([plugins...] zsh-syntax-highlighting)\nexport ZSH_AUTOSUGGEST_STRATEGY=(history completion)\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
@@ -959,7 +959,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20240422200410-mn0pxyy",
-				"updated": "20240725093547"
+				"updated": "20250925123754"
 			},
 			"Children": [
 				{
@@ -970,7 +970,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422121756-2s0sis1"
+						"id": "20240422121756-2s0sis1",
+						"updated": "20240422121756"
 					},
 					"Children": [
 						{
@@ -1025,7 +1026,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422195113-gi0mdvf"
+						"id": "20240422195113-gi0mdvf",
+						"updated": "20240422195113"
 					},
 					"Children": [
 						{
@@ -1047,7 +1049,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20240422195115-01nrp08"
+								"id": "20240422195115-01nrp08",
+								"updated": "20240422195115"
 							},
 							"Children": [
 								{
@@ -1058,7 +1061,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422195115-3yc7lhz"
+										"id": "20240422195115-3yc7lhz",
+										"updated": "20240422195115"
 									},
 									"Children": [
 										{
@@ -1085,7 +1089,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422195119-ik275q3"
+										"id": "20240422195119-ik275q3",
+										"updated": "20240422195119"
 									},
 									"Children": [
 										{
@@ -1103,7 +1108,7 @@
 												{
 													"Type": "NodeTextMark",
 													"TextMarkType": "code",
-													"TextMarkTextContent": "git config --global url.\u0026quot;https://ghproxy.org/https://github.com/\u0026quot;.insteadOf https://github.com/"
+													"TextMarkTextContent": "git config --global url.\"https://ghproxy.org/https://github.com/\".insteadOf https://github.com/"
 												},
 												{
 													"Type": "NodeText",
@@ -1125,7 +1130,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422195159-0yw7d3j"
+						"id": "20240422195159-0yw7d3j",
+						"updated": "20240422195159"
 					},
 					"Children": [
 						{
@@ -1152,7 +1158,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422195803-38p7yzj"
+						"id": "20240422195803-38p7yzj",
+						"updated": "20240422195803"
 					},
 					"Children": [
 						{
@@ -1174,7 +1181,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20240422195808-kojetv4"
+								"id": "20240422195808-kojetv4",
+								"updated": "20240422195808"
 							},
 							"Children": [
 								{
@@ -1185,7 +1193,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422195808-h9xph6z"
+										"id": "20240422195808-h9xph6z",
+										"updated": "20240422195808"
 									},
 									"Children": [
 										{
@@ -1234,7 +1243,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422195819-xgfxk6e"
+						"id": "20240422195819-xgfxk6e",
+						"updated": "20240422195819"
 					},
 					"Children": [
 						{
@@ -1256,7 +1266,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20240422200359-vie76d8"
+								"id": "20240422200359-vie76d8",
+								"updated": "20240422200359"
 							},
 							"Children": [
 								{
@@ -1267,7 +1278,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422200359-2aj3fff"
+										"id": "20240422200359-2aj3fff",
+										"updated": "20240422200359"
 									},
 									"Children": [
 										{
@@ -1294,14 +1306,16 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422200441-esfu40o"
+										"id": "20240422200441-esfu40o",
+										"updated": "20240422200441"
 									},
 									"Children": [
 										{
 											"ID": "20240422200441-bd1ad7h",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20240422200441-bd1ad7h"
+												"id": "20240422200441-bd1ad7h",
+												"updated": "20240422200441"
 											},
 											"Children": [
 												{
@@ -1329,7 +1343,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20240422223728-csqb768"
+										"id": "20240422223728-csqb768",
+										"updated": "20240422223728"
 									},
 									"Children": [
 										{
@@ -1369,7 +1384,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422200751-0r1wh3o"
+						"id": "20240422200751-0r1wh3o",
+						"updated": "20240422200751"
 					},
 					"Children": [
 						{
@@ -1396,7 +1412,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422200756-drkc40n"
+						"id": "20240422200756-drkc40n",
+						"updated": "20240422200756"
 					},
 					"Children": [
 						{
@@ -1423,7 +1440,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422200804-4tq376p"
+						"id": "20240422200804-4tq376p",
+						"updated": "20240422200804"
 					},
 					"Children": [
 						{
@@ -1450,7 +1468,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422225637-kjfxush"
+						"id": "20240422225637-kjfxush",
+						"updated": "20240422225637"
 					},
 					"Children": [
 						{
@@ -1477,7 +1496,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422231000-w8zyth3"
+						"id": "20240422231000-w8zyth3",
+						"updated": "20240422231000"
 					},
 					"Children": [
 						{
@@ -1551,6 +1571,212 @@
 							]
 						}
 					]
+				},
+				{
+					"ID": "20250402152535-wlksfig",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250402152535-wlksfig",
+						"updated": "20250925123754"
+					},
+					"Children": [
+						{
+							"ID": "20250402152535-b81943o",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250402152535-b81943o",
+								"updated": "20250925123754"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "x-cmd，参考"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20250219162220-06b6hlt",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "x-cmd"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20250920171517-pdnr2y9",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250920171517-pdnr2y9",
+						"updated": "20250925123709"
+					},
+					"Children": [
+						{
+							"ID": "20250920171517-v4q2k8x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250920171517-v4q2k8x",
+								"updated": "20250925123709"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "zram，参考"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20250402153449-302rjc4",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "zram"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20250920172911-fi2ric5",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20250920172911-fi2ric5",
+				"updated": "20250920172913"
+			},
+			"Children": [
+				{
+					"ID": "20250920172913-ht78is2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250920172913-ht78is2",
+						"updated": "20250920172913"
+					},
+					"Children": [
+						{
+							"ID": "20250920172913-oh1fusd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250920172913-oh1fusd",
+								"updated": "20250920172916"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "nfs"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20250920172919-khnvrgj",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250920172919-khnvrgj",
+				"style": "line-height: 23px;",
+				"updated": "20250920172950"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "# Master node\nsudo apt-get update\nsudo apt-get install nfs-kernel-server\nsudo mkdir /storage -p\nsudo chown master_node:master_node /storage/\nsudo vim /etc/exports\n/storage 222.xx.222.xx(rw,sync,no_root_squash,no_subtree_check)\nsudo systemctl restart nfs-kernel-server\nsudo ufw allow from 222.xx.222.xx to any port nfs\n\n# Worker node\nsudo apt-get update\nsudo apt-get install nfs-common\nsudo mkdir -p /storage\nsudo mount 111.xx.111.xx:/storage /storage\necho 111.xx.111.xx:/storage /storage nfs auto,timeo=14,intr 0 0 | sudo tee -a /etc/fstab\nsudo chown worker_node:worker_node /storage/\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250920183026-mj96oci",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20250920183026-mj96oci",
+				"updated": "20250920183027"
+			},
+			"Children": [
+				{
+					"ID": "20250920183027-fq9ffi8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250920183027-fq9ffi8",
+						"updated": "20250920183027"
+					},
+					"Children": [
+						{
+							"ID": "20250920183027-h416d6s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250920183027-h416d6s",
+								"updated": "20250920183028"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://www.slurmdash.com/docs/advanced-features/prometheus",
+									"TextMarkTextContent": "Adding Exporters to Prometheus"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20250920183504-moi1jvr",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250920183504-moi1jvr",
+				"style": "line-height: 23px;",
+				"updated": "20250920183511"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "c2VydmljZQ=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "[Unit]\nDescription=IPMI Exporter\nAfter=network.target\n\n[Service]\nType=simple\nExecStart=/usr/local/bin/ipmi_exporter --config.file=/etc/ipmi_exporter/ipmi_config.yml\n\n[Install]\nWantedBy=multi-user.target\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
 				}
 			]
 		},
@@ -1560,7 +1786,7 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20240421203515-gcx5boz",
-				"updated": "20240421204830"
+				"updated": "20250925123816"
 			},
 			"Children": [
 				{
@@ -1575,7 +1801,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20240421203337-1436wpc",
-				"updated": "20240421204830"
+				"updated": "20250925123816"
 			},
 			"Children": [
 				{
@@ -1614,7 +1840,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422114602-adg0vog"
+						"id": "20240422114602-adg0vog",
+						"updated": "20240422114602"
 					},
 					"Children": [
 						{
@@ -1659,7 +1886,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20240422114641-1cufo3j"
+						"id": "20240422114641-1cufo3j",
+						"updated": "20240422114641"
 					},
 					"Children": [
 						{
@@ -1682,6 +1910,41 @@
 								{
 									"Type": "NodeText",
 									"Data": "​"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20250925123808-4tnhoh1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250925123808-4tnhoh1",
+						"updated": "20250925123816"
+					},
+					"Children": [
+						{
+							"ID": "20250925123808-sagjz7v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250925123808-sagjz7v",
+								"updated": "20250925123816"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "还需参考"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "block-ref",
+									"TextMarkBlockRefID": "20240415140843-sz9nvix",
+									"TextMarkBlockRefSubtype": "d",
+									"TextMarkTextContent": "NVIDIA"
 								}
 							]
 						}
@@ -1829,10 +2092,229 @@
 		},
 		{
 			"ID": "20240421203533-vtb6zf8",
-			"Type": "NodeParagraph",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20240421203533-vtb6zf8",
-				"updated": "20240422121459"
+				"updated": "20250925124135"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "样例文件"
+				}
+			]
+		},
+		{
+			"ID": "20250925124026-8iua0sz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250925124026-8iua0sz",
+				"updated": "20250925124037"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": ".zshrc"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 示例"
+				}
+			]
+		},
+		{
+			"ID": "20250920162424-bz91uj5",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250920162424-bz91uj5",
+				"style": "line-height: 23px;",
+				"updated": "20250925123933"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.\n# Initialization code that may require console input (password prompts, [y/n]\n# confirmations, etc.) must go above this block; everything else may go below.\nif [[ -r \"${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh\" ]]; then\n  source \"${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh\"\nfi\n\n# If you come from bash you might have to change your $PATH.\n# export PATH=$HOME/bin:/usr/local/bin:$PATH\n\n# Path to your oh-my-zsh installation.\nexport ZSH=\"$HOME/.oh-my-zsh\"\n\n# Set name of the theme to load --- if set to \"random\", it will\n# load a random theme each time oh-my-zsh is loaded, in which case,\n# to know which specific one was loaded, run: echo $RANDOM_THEME\n# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes\nZSH_THEME=\"powerlevel10k/powerlevel10k\"\n\n# Set list of themes to pick from when loading at random\n# Setting this variable when ZSH_THEME=random will cause zsh to load\n# a theme from this variable instead of looking in $ZSH/themes/\n# If set to an empty array, this variable will have no effect.\n# ZSH_THEME_RANDOM_CANDIDATES=( \"robbyrussell\" \"agnoster\" )\n\n# Uncomment the following line to use case-sensitive completion.\n# CASE_SENSITIVE=\"true\"\n\n# Uncomment the following line to use hyphen-insensitive completion.\n# Case-sensitive completion must be off. _ and - will be interchangeable.\n# HYPHEN_INSENSITIVE=\"true\"\n\n# Uncomment one of the following lines to change the auto-update behavior\n# zstyle ':omz:update' mode disabled  # disable automatic updates\nzstyle ':omz:update' mode auto      # update automatically without asking\n# zstyle ':omz:update' mode reminder  # just remind me to update when it's time\n\n# Uncomment the following line to change how often to auto-update (in days).\nzstyle ':omz:update' frequency 13\n\n# Uncomment the following line if pasting URLs and other text is messed up.\n# DISABLE_MAGIC_FUNCTIONS=\"true\"\n\n# Uncomment the following line to disable colors in ls.\n# DISABLE_LS_COLORS=\"true\"\n\n# Uncomment the following line to disable auto-setting terminal title.\n# DISABLE_AUTO_TITLE=\"true\"\n\n# Uncomment the following line to enable command auto-correction.\n# ENABLE_CORRECTION=\"true\"\n\n# Uncomment the following line to display red dots whilst waiting for completion.\n# You can also set it to another string to have that shown instead of the default red dots.\n# e.g. COMPLETION_WAITING_DOTS=\"%F{yellow}waiting...%f\"\n# Caution: this setting can cause issues with multiline prompts in zsh \u003c 5.7.1 (see #5765)\n# COMPLETION_WAITING_DOTS=\"true\"\n\n# Uncomment the following line if you want to disable marking untracked files\n# under VCS as dirty. This makes repository status check for large repositories\n# much, much faster.\n# DISABLE_UNTRACKED_FILES_DIRTY=\"true\"\n\n# Uncomment the following line if you want to change the command execution time\n# stamp shown in the history command output.\n# You can set one of the optional three formats:\n# \"mm/dd/yyyy\"|\"dd.mm.yyyy\"|\"yyyy-mm-dd\"\n# or set a custom format using the strftime function format specifications,\n# see 'man strftime' for details.\n# HIST_STAMPS=\"mm/dd/yyyy\"\n\n# Would you like to use another custom folder than $ZSH/custom?\n# ZSH_CUSTOM=/path/to/new-custom-folder\n\n# Which plugins would you like to load?\n# Standard plugins can be found in $ZSH/plugins/\n# Custom plugins may be added to $ZSH_CUSTOM/plugins/\n# Example format: plugins=(rails git textmate ruby lighthouse)\n# Add wisely, as too many plugins slow down shell startup.\nplugins=(git zsh-autosuggestions zsh-syntax-highlighting shrink-path)\n\nsource $ZSH/oh-my-zsh.sh\n\n# User configuration\n\n# export MANPATH=\"/usr/local/man:$MANPATH\"\n\n# You may need to manually set your language environment\n# export LANG=en_US.UTF-8\n\n# Preferred editor for local and remote sessions\n# if [[ -n $SSH_CONNECTION ]]; then\n#   export EDITOR='vim'\n# else\n#   export EDITOR='mvim'\n# fi\n\n# Compilation flags\n# export ARCHFLAGS=\"-arch x86_64\"\n\n# Set personal aliases, overriding those provided by oh-my-zsh libs,\n# plugins, and themes. Aliases can be placed here, though oh-my-zsh\n# users are encouraged to define aliases within the ZSH_CUSTOM folder.\n# For a full list of active aliases, run `alias`.\n#\n# Example aliases\n# alias zshconfig=\"mate ~/.zshrc\"\n# alias ohmyzsh=\"mate ~/.oh-my-zsh\"\n\nexport ZSH_AUTOSUGGEST_STRATEGY=(history completion)\n\n# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.\n[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh\n\n# rm\nalias rm='rm -i'\n\n# Proxy\nexport http_proxy=\"http://127.0.0.1:10809\"\nexport https_proxy=\"http://127.0.0.1:10809\"\nexport all_proxy=\"http://127.0.0.1:10809\"\n\n# \u003e\u003e\u003e conda initialize \u003e\u003e\u003e\n# !! Contents within this block are managed by 'conda init' !!\n__conda_setup=\"$('/home/guyi/miniconda3/bin/conda' 'shell.zsh' 'hook' 2\u003e /dev/null)\"\nif [ $? -eq 0 ]; then\n    eval \"$__conda_setup\"\nelse\n    if [ -f \"/home/guyi/miniconda3/etc/profile.d/conda.sh\" ]; then\n        . \"/home/guyi/miniconda3/etc/profile.d/conda.sh\"\n    else\n        export PATH=\"/home/guyi/miniconda3/bin:$PATH\"\n    fi\nfi\nunset __conda_setup\n# \u003c\u003c\u003c conda initialize \u003c\u003c\u003c\n\n# Cuda environment\nexport CUDA_HOME=\"/usr/local/cuda-12.6\"\nexport PATH=\"/usr/local/cuda-12.6/bin${PATH:+:${PATH}}\"\nexport LD_LIBRARY_PATH=\"/usr/local/cuda-12.6/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}\"\n\n# Go environment\nexport PATH=\"$PATH:/usr/local/go/bin:/home/guyi/go/bin\"\n\n# Nodejs environment (nvm package manager)\nexport NVM_DIR=\"$HOME/.nvm\"\n[ -s \"$NVM_DIR/nvm.sh\" ] \u0026\u0026 \\. \"$NVM_DIR/nvm.sh\"  # This loads nvm\n[ -s \"$NVM_DIR/bash_completion\" ] \u0026\u0026 \\. \"$NVM_DIR/bash_completion\"  # This loads nvm bash_completion\n\n# Manual pager\nexport MANPAGER=\"sh -c 'col -bx | bat -l man -p'\"\nexport MANROFFOPT=\"-c\"\n\n# User programs\nexport PATH=\"$PATH:/home/guyi/.local/bin\"\n\n# The fuck tool\neval $(thefuck --alias)\n\n# LunarVim environment\nexport PATH=\"$PATH:/opt/nvim-linux64/bin\"\nexport EDITOR=lvim\nalias nvim='lvim'\nalias vim='nvim'\n\n# Moonshot API key\nexport MOONSHOT_API_KEY=\"sk-vGC550PPfhlXneHSYWGvgAbsyeZLZHAXPDPo4fRzwcj8onlC\"\n\n# fzf support\n[ -f ~/.fzf.zsh ] \u0026\u0026 source ~/.fzf.zsh\nexport FZF_DEFAULT_OPTS='--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4'\n\n# HuggingFace Endpoint\nexport HF_ENDPOINT=https://hf-mirror.com\n\n# GPG sign\nexport GPG_TTY=$TTY\n\n# x-cmd\n[ ! -f \"$HOME/.x-cmd.root/X\" ] || . \"$HOME/.x-cmd.root/X\" # boot up x-cmd.\n\n# uv\neval \"$(uv generate-shell-completion zsh)\"\neval \"$(uvx --generate-shell-completion zsh)\"\n\n. \"$HOME/.local/bin/env\"\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250925124008-ysd5f7v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250925124008-ysd5f7v",
+				"updated": "20250925124108"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "cheat"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 配置示例"
+				}
+			]
+		},
+		{
+			"ID": "20250920162435-hqmfllb",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250920162435-hqmfllb",
+				"style": "line-height: 23px;",
+				"updated": "20250920164500"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "eW1s"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "---\n# The editor to use with 'cheat -e \u003csheet\u003e'. Defaults to $EDITOR or $VISUAL.\neditor: lvim\n\n# Should 'cheat' always colorize output?\ncolorize: true\n\n# Which 'chroma' colorscheme should be applied to the output?\n# Options are available here:\n#   https://github.com/alecthomas/chroma/tree/master/styles\nstyle: dracula\n\n# Which 'chroma' \"formatter\" should be applied?\n# One of: \"terminal\", \"terminal256\", \"terminal16m\"\nformatter: terminal256\n\n# Through which pager should output be piped?\n# 'less -FRX' is recommended on Unix systems\n# 'more' is recommended on Windows\npager: bat -l man -p\n\n# Cheatpaths are paths at which cheatsheets are available on your local\n# filesystem.\n#\n# It is useful to sort cheatsheets into different cheatpaths for organizational\n# purposes. For example, you might want one cheatpath for community\n# cheatsheets, one for personal cheatsheets, one for cheatsheets pertaining to\n# your day job, one for code snippets, etc.\n#\n# Cheatpaths are scoped, such that more \"local\" cheatpaths take priority over\n# more \"global\" cheatpaths. (The most global cheatpath is listed first in this\n# file; the most local is listed last.) For example, if there is a 'tar'\n# cheatsheet on both global and local paths, you'll be presented with the local\n# one by default. ('cheat -p' can be used to view cheatsheets from alternative\n# cheatpaths.)\n#\n# Cheatpaths can also be tagged as \"read only\". This instructs cheat not to\n# automatically create cheatsheets on a read-only cheatpath. Instead, when you\n# would like to edit a read-only cheatsheet using 'cheat -e', cheat will\n# perform a copy-on-write of that cheatsheet from a read-only cheatpath to a\n# writeable cheatpath.\n#\n# This is very useful when you would like to maintain, for example, a\n# \"pristine\" repository of community cheatsheets on one cheatpath, and an\n# editable personal reponsity of cheatsheets on another cheatpath.\n#\n# Cheatpaths can be also configured to automatically apply tags to cheatsheets\n# on certain paths, which can be useful for querying purposes.\n# Example: 'cheat -t work jenkins'.\n#\n# Community cheatsheets must be installed separately, though you may have\n# downloaded them automatically when installing 'cheat'. If not, you may\n# download them here:\n#\n# https://github.com/cheat/cheatsheets\ncheatpaths:\n  # Cheatpath properties mean the following:\n  #   'name': the name of the cheatpath (view with 'cheat -d', filter with 'cheat -p')\n  #   'path': the filesystem path of the cheatsheet directory (view with 'cheat -d')\n  #   'tags': tags that should be automatically applied to sheets on this path\n  #   'readonly': shall user-created ('cheat -e') cheatsheets be saved here?\n  - name: community\n    path: /home/guyi/.config/cheat/cheatsheets/community\n    tags: [ community ]\n    readonly: true\n\n  # If you have personalized cheatsheets, list them last. They will take\n  # precedence over the more global cheatsheets.\n  - name: personal\n    path: /home/guyi/.config/cheat/cheatsheets/personal\n    tags: [ personal ]\n    readonly: false\n\n  # While it requires no configuration here, it's also worth noting that\n  # cheat will automatically append directories named '.cheat' within the\n  # current working directory to the 'cheatpath'. This can be very useful if\n  # you'd like to closely associate cheatsheets with, for example, a directory\n  # containing source code.\n  #\n  # Such \"directory-scoped\" cheatsheets will be treated as the most \"local\"\n  # cheatsheets, and will override less \"local\" cheatsheets. Similarly,\n  # directory-scoped cheatsheets will always be editable ('readonly: false').\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250925124128-8d1gmbe",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250925124128-8d1gmbe",
+				"updated": "20250925124135"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "lunarvim"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 配置示例"
+				}
+			]
+		},
+		{
+			"ID": "20250920164502-gtjj56l",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250920164502-gtjj56l",
+				"style": "line-height: 23px;",
+				"updated": "20250920165648"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bHVh"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "-- Read the docs: https://www.lunarvim.org/docs/configuration\n-- Video Tutorials: https://www.youtube.com/watch?v=sFA9kX-Ud_c\u0026list=PLhoH5vyxr6QqGu0i7tt_XoVK9v-KvZ3m6\n-- Forum: https://www.reddit.com/r/lunarvim/\n-- Discord: https://discord.com/invite/Xb9B4Ny\n\nvim.opt.shiftwidth = 4\nvim.opt.tabstop = 4\n\n\nlvim.plugins = {\n    \"Mofiqul/dracula.nvim\",\n}\nlvim.colorscheme = \"dracula\"\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250925124051-d7wwpsn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250925124051-d7wwpsn",
+				"updated": "20250925124103"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "zram"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​ 配置示例"
+				}
+			]
+		},
+		{
+			"ID": "20250920171058-se10g1s",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250920171058-se10g1s",
+				"style": "line-height: 23px;",
+				"updated": "20250920171621"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "Y29uZmln"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "# Compression algorithm selection\n# speed: lz4 \u003e zstd \u003e lzo\n# compression: zstd \u003e lzo \u003e lz4\n# This is not inclusive of all that is available in latest kernels\n# See /sys/block/zram0/comp_algorithm (when zram module is loaded) to see\n# what is currently set and available for your kernel[1]\n# [1]  https://github.com/torvalds/linux/blob/master/Documentation/blockdev/zram.txt#L86\nALGO=zstd\n\n# Specifies the amount of RAM that should be used for zram\n# based on a percentage the total amount of available memory\n# This takes precedence and overrides SIZE below\nPERCENT=50\n\n# Specifies a static amount of RAM that should be used for\n# the ZRAM devices, this is in MiB\n#SIZE=256\n\n# Specifies the priority for the swap devices, see swapon(2)\n# for more details. Higher number = higher priority\n# This should probably be higher than hdd/ssd swaps.\nPRIORITY=100\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250925124111-k2wqpr0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250925124111-k2wqpr0",
+				"updated": "20250925124111"
 			}
 		}
 	]

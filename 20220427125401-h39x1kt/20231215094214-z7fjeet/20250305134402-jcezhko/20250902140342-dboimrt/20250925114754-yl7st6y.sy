@@ -1,0 +1,52 @@
+{
+	"ID": "20250925114754-yl7st6y",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"custom-dailynote-20250925": "20250925",
+		"id": "20250925114754-yl7st6y",
+		"title": "2025-09-24",
+		"type": "doc",
+		"updated": "20250925114939"
+	},
+	"Children": [
+		{
+			"ID": "20250925114754-ilsy2q2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20250925114754-ilsy2q2",
+				"updated": "20250925114929"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "庄玟骏 数据处理"
+				}
+			]
+		},
+		{
+			"ID": "20250925114828-vl48rwi",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20250925114828-vl48rwi",
+				"updated": "20250925114939"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "李本浩 "
+				}
+			]
+		},
+		{
+			"ID": "20250925114939-wt2osk0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250925114939-wt2osk0",
+				"updated": "20250925114939"
+			}
+		}
+	]
+}

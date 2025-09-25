@@ -1,0 +1,41 @@
+{
+	"ID": "20250619023523-9pxi4av",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20250619023523-9pxi4av",
+		"title": "批量修改期刊名称大小写",
+		"type": "doc",
+		"updated": "20250619031347"
+	},
+	"Children": [
+		{
+			"ID": "20250619023523-7yxrzsw",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250619023523-7yxrzsw",
+				"style": "line-height: 23px;",
+				"updated": "20250619031347"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "amF2YXNjcmlwdA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "zoteroPane = Zotero.getActiveZoteroPane();\nitems = zoteroPane.getSelectedItems();    // 获取所选文献\nvar cnt = 0;\nfor (item of items) {\n    var publicationTitle = item.getField(\"publicationTitle\");\n    var new_publicationTitle = publicationTitle.replace(/\\b([A-Z]+)\\b/g, (x) =\u003e x.toLowerCase()); // 匹配全大写单词并转为小写\n    new_publicationTitle = publicationTitle.replace(\n        /\\b([a-z])([a-z]+)\\b/g,\n        (match, group1, group2) =\u003e {\n            const excludedWords = [\"and\", \"or\", \"to\", \"of\", \"in\", \"the\"];\n            return excludedWords.includes(match) ? match : group1.toUpperCase() + group2\n        }\n    ); // 匹配全小写单词并将首字母大写，跳过一些特殊单词\n    if (publicationTitle != new_publicationTitle) {\n        cnt += 1;\n        item.setField('publicationTitle', new_publicationTitle);\n        await item.saveTx();\n    }\n}\nreturn cnt + \" 个条目期刊名称被替换\";\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		}
+	]
+}

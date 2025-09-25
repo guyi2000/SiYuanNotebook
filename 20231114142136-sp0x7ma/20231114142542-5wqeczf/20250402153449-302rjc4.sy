@@ -1,0 +1,188 @@
+{
+	"ID": "20250402153449-302rjc4",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20250402153449-302rjc4",
+		"title": "zram",
+		"type": "doc",
+		"updated": "20250402153954"
+	},
+	"Children": [
+		{
+			"ID": "20250402153449-raredx0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250402153449-raredx0",
+				"updated": "20250402153500"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "安装"
+				}
+			]
+		},
+		{
+			"ID": "20250402153500-rfmfc1t",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250402153500-rfmfc1t",
+				"style": "line-height: 23px;",
+				"updated": "20250402153537"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo apt-get install zram-tools\nvim /etc/default/zramswap\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250402153538-dqm6b4f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250402153538-dqm6b4f",
+				"updated": "20250402153616"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "注意修改其中的压缩算法"
+				}
+			]
+		},
+		{
+			"ID": "20250402153616-hoi8ce0",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250402153616-hoi8ce0",
+				"style": "line-height: 23px;",
+				"updated": "20250402153701"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "ALGO=zstd\nPERCENT=50\nPRIORITY=100\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250402153703-df2spda",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250402153703-df2spda",
+				"updated": "20250402153746"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "然后使用systemd启动zramswap"
+				}
+			]
+		},
+		{
+			"ID": "20250402153746-zl9imwd",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250402153746-zl9imwd",
+				"style": "line-height: 23px;",
+				"updated": "20250402153811"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "sudo systemctl restart zramswap.service\nsudo systemctl enable zramswap.service\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250402153813-f4mxtcm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250402153813-f4mxtcm",
+				"updated": "20250402153832"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "可以使用如下命令查看zram运行情况"
+				}
+			]
+		},
+		{
+			"ID": "20250402153832-rtd0zj9",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20250402153832-rtd0zj9",
+				"style": "line-height: 23px;",
+				"updated": "20250402153854"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "YmFzaA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "free -mh  # 查看交换空间\nsudo zramctl --output-all  # 查看zram空间\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20250402153954-fu0mnz5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250402153954-fu0mnz5",
+				"updated": "20250402153954"
+			}
+		}
+	]
+}

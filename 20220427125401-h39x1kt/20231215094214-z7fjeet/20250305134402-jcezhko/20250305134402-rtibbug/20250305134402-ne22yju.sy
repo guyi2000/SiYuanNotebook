@@ -1,0 +1,615 @@
+{
+	"ID": "20250305134402-ne22yju",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"custom-dailynote-20250305": "20250305",
+		"id": "20250305134402-ne22yju",
+		"title": "2025-03-05",
+		"type": "doc",
+		"updated": "20250305154404"
+	},
+	"Children": [
+		{
+			"ID": "20250305134402-hlciatc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20250305134402-hlciatc",
+				"updated": "20250305154404"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "航天计算软件的可靠度计算"
+				}
+			]
+		},
+		{
+			"ID": "20250305134439-hhgud1x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250305134439-hhgud1x",
+				"updated": "20250305134444"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "AI"
+				}
+			]
+		},
+		{
+			"ID": "20250305134446-np0812k",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20250305134446-np0812k",
+				"updated": "20250305134912"
+			},
+			"Children": [
+				{
+					"ID": "20250305134448-zkyd7e6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250305134448-zkyd7e6",
+						"updated": "20250305134448"
+					},
+					"Children": [
+						{
+							"ID": "20250305134448-yarrbmd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250305134448-yarrbmd",
+								"updated": "20250305134539"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "概率结构数据相关"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20250305134547-c9ydyjt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250305134547-c9ydyjt",
+						"updated": "20250305134547"
+					},
+					"Children": [
+						{
+							"ID": "20250305134547-codn4pc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250305134547-codn4pc",
+								"updated": "20250305134653"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "概率结构设计——可靠性、航天梁结构设计"
+								}
+							]
+						},
+						{
+							"ID": "20250305134613-n7a4l8u",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20250305134613-n7a4l8u",
+								"updated": "20250305134613"
+							},
+							"Children": [
+								{
+									"ID": "20250305134612-lnhiu4i",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20250305134612-lnhiu4i",
+										"updated": "20250305134612"
+									},
+									"Children": [
+										{
+											"ID": "20250305134612-sfiekfc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20250305134612-sfiekfc",
+												"updated": "20250305134647"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "安全系数--\u003e可靠性安全结构设计--\u003e加入智能的方法--\u003e软件完善"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20250305134721-dkzqyti",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250305134721-dkzqyti",
+						"updated": "20250305135739"
+					},
+					"Children": [
+						{
+							"ID": "20250305134721-djpmi2p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250305134721-djpmi2p",
+								"updated": "20250305134941"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基础的软件程序完成确定性下的计算，可靠度计算方面的程序"
+								}
+							]
+						},
+						{
+							"ID": "20250305134916-uuzwvep",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20250305134916-uuzwvep",
+								"updated": "20250305135739"
+							},
+							"Children": [
+								{
+									"ID": "20250305134916-nezvrjy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20250305134916-nezvrjy",
+										"updated": "20250305135739"
+									},
+									"Children": [
+										{
+											"ID": "20250305134916-6foosnp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20250305134916-6foosnp",
+												"updated": "20250305134945"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "计算软件的准备"
+												}
+											]
+										},
+										{
+											"ID": "20250305134946-fqn7eft",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20250305134946-fqn7eft",
+												"updated": "20250305135739"
+											},
+											"Children": [
+												{
+													"ID": "20250305134946-p6497lc",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305134946-p6497lc",
+														"updated": "20250305134946"
+													},
+													"Children": [
+														{
+															"ID": "20250305134946-lmg45ig",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305134946-lmg45ig",
+																"updated": "20250305135119"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "Matlab 程序的封装，ABAQUS 的分析"
+																}
+															]
+														},
+														{
+															"ID": "20250305135415-dbhqbkd",
+															"Type": "NodeList",
+															"ListData": {},
+															"Properties": {
+																"id": "20250305135415-dbhqbkd",
+																"updated": "20250305135415"
+															},
+															"Children": [
+																{
+																	"ID": "20250305135415-xu0h6h4",
+																	"Type": "NodeListItem",
+																	"ListData": {
+																		"BulletChar": 42,
+																		"Marker": "Kg=="
+																	},
+																	"Properties": {
+																		"id": "20250305135415-xu0h6h4",
+																		"updated": "20250305135415"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20250305135415-4zo7wjl",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20250305135415-4zo7wjl",
+																				"updated": "20250305135446"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "利用AI方法构建代理模型，不用每次最调用 ABAQUS 进行计算提升效率"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20250305135004-wu4er0j",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305135004-wu4er0j",
+														"updated": "20250305135739"
+													},
+													"Children": [
+														{
+															"ID": "20250305135004-0b30ym6",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305135004-0b30ym6",
+																"updated": "20250305135013"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "可靠性参数优化和可靠性拓扑优化的条件"
+																}
+															]
+														},
+														{
+															"ID": "20250305135620-kypxlx4",
+															"Type": "NodeList",
+															"ListData": {},
+															"Properties": {
+																"id": "20250305135620-kypxlx4",
+																"updated": "20250305135739"
+															},
+															"Children": [
+																{
+																	"ID": "20250305135619-5xozfv5",
+																	"Type": "NodeListItem",
+																	"ListData": {
+																		"BulletChar": 42,
+																		"Marker": "Kg=="
+																	},
+																	"Properties": {
+																		"id": "20250305135619-5xozfv5",
+																		"updated": "20250305135739"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20250305135619-uhvqymr",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20250305135619-uhvqymr",
+																				"updated": "20250305135739"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "从无到有，从有到优，后期优化"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20250305135015-blfgebp",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305135015-blfgebp",
+														"updated": "20250305135015"
+													},
+													"Children": [
+														{
+															"ID": "20250305135015-ad0tneq",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305135015-ad0tneq",
+																"updated": "20250305135026"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "人用的时候需要特型修改代码程序"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20250305134756-e6up12c",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250305134756-e6up12c",
+						"updated": "20250305140236"
+					},
+					"Children": [
+						{
+							"ID": "20250305134756-sapweue",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250305134756-sapweue",
+								"updated": "20250305134808"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "人工智能计算有什么贡献，计算加速"
+								}
+							]
+						},
+						{
+							"ID": "20250305134929-pzmjxpu",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20250305134929-pzmjxpu",
+								"updated": "20250305140236"
+							},
+							"Children": [
+								{
+									"ID": "20250305134929-0g03pcj",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20250305134929-0g03pcj",
+										"updated": "20250305140236"
+									},
+									"Children": [
+										{
+											"ID": "20250305134929-m8ve0ik",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20250305134929-m8ve0ik",
+												"updated": "20250305135031"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "加在哪个环节"
+												}
+											]
+										},
+										{
+											"ID": "20250305135033-lpvm3um",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20250305135033-lpvm3um",
+												"updated": "20250305140236"
+											},
+											"Children": [
+												{
+													"ID": "20250305135033-2r4sdt7",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305135033-2r4sdt7",
+														"updated": "20250305135033"
+													},
+													"Children": [
+														{
+															"ID": "20250305135033-n65f9q1",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305135033-n65f9q1",
+																"updated": "20250305135038"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "还没有完全考虑好"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20250305135121-8ba308j",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305135121-8ba308j",
+														"updated": "20250305135121"
+													},
+													"Children": [
+														{
+															"ID": "20250305135121-pswxzoy",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305135121-pswxzoy",
+																"updated": "20250305135735"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "具体指标还需要确定"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20250305135735-lczole1",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305135735-lczole1",
+														"updated": "20250305135735"
+													},
+													"Children": [
+														{
+															"ID": "20250305135735-4cloq1s",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305135735-4cloq1s",
+																"updated": "20250305135735"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "生成式设计方法，作为一个单独的模块放进去"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20250305140157-1dbhs18",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20250305140157-1dbhs18",
+														"updated": "20250305140236"
+													},
+													"Children": [
+														{
+															"ID": "20250305140157-0sjpfrb",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20250305140157-0sjpfrb",
+																"updated": "20250305140236"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "壳状结构，调参作为输入，形式不大"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20250305134814-gz97ttc",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20250305134814-gz97ttc",
+						"updated": "20250305134912"
+					},
+					"Children": [
+						{
+							"ID": "20250305134814-2l04jru",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20250305134814-2l04jru",
+								"updated": "20250305134912"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "随机性的计算方面，提供计算支持，约束指标"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20250305154404-bterfkw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20250305154404-bterfkw",
+				"updated": "20250305154404"
+			}
+		}
+	]
+}
